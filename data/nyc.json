@@ -1,0 +1,3326 @@
+{
+  "city": "nyc",
+  "total_bars": 118,
+  "sports": [
+    "MLB",
+    "NBA",
+    "NFL",
+    "NHL"
+  ],
+  "bars": [
+    {
+      "name": "Kelley's Sports Bar",
+      "address": "12 Avenue A, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Arizona Cardinals"
+      ],
+      "notes": "Official Cardinals bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Mustang Harry's",
+      "address": "352 7th Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Baltimore Ravens"
+      ],
+      "notes": "\"We're ready to rumble, Ravens flock!\"",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Pennsylvania 6",
+      "address": "132 West 31st Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Home of New York City Buffalo Bills Backers",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "All Stars Sports Bar & Grill",
+      "address": "327 West 57th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Bills fan bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Gaf West",
+      "address": "401 W 48th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Bills bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "East End Bar & Grill",
+      "address": "1672 3rd Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "UES staple for Bills fans, also hosts Giants fans",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Redd's Tavern",
+      "address": "511 Grand St, Brooklyn, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Brooklyn Bills bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Fulton Ale House",
+      "address": "1446 Fulton Street, Brooklyn, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Lowkey Buffalo Bills bar with serious spirit, blanket + beer package during colder games",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Burkes Restaurant and Bar",
+      "address": "645 Bronx River Road, Yonkers, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Bills bar in Yonkers",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Shannon",
+      "address": "106 1st Street, Hoboken, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Bills bar in Hoboken",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Stone & Rail",
+      "address": "175 Rock Road, Glen Rock, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Bills bar in New Jersey",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Dan and Johns Wings",
+      "address": "TBD (East Side)",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "notes": "Bills bar mentioned on Reddit",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Amity Hall",
+      "address": "80 West 3rd Street, Greenwich Village, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Carolina Panthers"
+      ],
+      "notes": "The Official Home of the Carolina Panthers",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Overlook NYC",
+      "address": "225 East 44th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "notes": "NYC's Home of the Chicago Bears",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Canal Bar",
+      "address": "270 3rd Ave #A, Brooklyn, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "notes": "Bears bar in Brooklyn",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Phebe's Tavern",
+      "address": "359 Bowery, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Cincinnati Bengals"
+      ],
+      "notes": "NYC's Home of the Cincinnati Bengals - ultimate Bengals fan haven",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Park Slope Ale House",
+      "address": "356 6th Avenue, Brooklyn, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "notes": "Browns bar in Brooklyn",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Liberty",
+      "address": "29 West 35th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "notes": "Browns bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "O'Keefe's Bar and Grill",
+      "address": "62 Court Street, Brooklyn, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "notes": "Browns bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Exchange",
+      "address": "160 East Main Street, Rockaway, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "notes": "Browns Backers of North Jersey",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Playwright Irish Pub",
+      "address": "27 West 35th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Dallas Cowboys"
+      ],
+      "notes": "Proud to host NYC's newest Dallas Cowboys Supporters Club",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Hill Country BBQ",
+      "address": "30 West 26th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Dallas Cowboys"
+      ],
+      "notes": "Cowboys bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Blaggard's Pub",
+      "address": "8 West 38th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Dallas Cowboys"
+      ],
+      "notes": "Cowboys bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Allure Lounge",
+      "address": "417 Halsey Street, Newark, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Dallas Cowboys"
+      ],
+      "notes": "The Official Cowboys Headquarters",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Stout NYC",
+      "address": "133 West 33rd Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Denver Broncos"
+      ],
+      "notes": "Broncos bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Bailey's Corner Pub",
+      "address": "1607 York Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Detroit Lions"
+      ],
+      "notes": "After years of no home bar in NYC, fans established a base here",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Kettle of Fish",
+      "address": "59 Christopher Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "notes": "\"With the exception of Lambeau Field, the Kettle of Fish is the best place to watch a Packers game.\" Cheese, crackers, summer sausage, and Usinger Brats on gamedays",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Waylon",
+      "address": "736 10th Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "notes": "Packers games on 60-inch TVs with full audio, buckets of Point Special, Original Wisco cheese curds, and Green Machine Shot-ski",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Tom and Jerry's",
+      "address": "288 Elizabeth St, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "notes": "Packers bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Stout (Grand Central)",
+      "address": "60 East 41st St, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "notes": "Packers bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Dillingers Pub & Grill",
+      "address": "4619 30th Avenue, Astoria, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "notes": "Painted Packers green and yellow",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Dram Shop",
+      "address": "339 9th St, Brooklyn, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "notes": "HD TVs plus projector screen with sound for big games",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Blue 42",
+      "address": "158 Market St, Elmwood Park, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "notes": "Official Green Bay Packers Bar, cheap gameday deals ($2 Miller drafts, $7 wings, $2 hot dogs, $14 beer towers)",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Hill Country BBQ",
+      "address": "30 West 26th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Houston Texans"
+      ],
+      "notes": "Texans bar (also hosts Cowboys)",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Keats Bar",
+      "address": "842 Second Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Indianapolis Colts"
+      ],
+      "notes": "\"KeatsBarNYC is your place to catch all the Indianapolis Colts games with the sound on always\"",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Legends",
+      "address": "6 West 33rd Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Indianapolis Colts"
+      ],
+      "notes": "Colts bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "St. Pat's Bar & Grill NYC",
+      "address": "22 West 46th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Jacksonville Jaguars"
+      ],
+      "notes": "Home to the Jacksonville Jaguars",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "John Brown BBQ",
+      "address": "27-20 40th Avenue, Queens, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Kansas City Chiefs"
+      ],
+      "notes": "Official Kansas City Chiefs hangout in NYC",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "John Brown Smokehouse",
+      "address": "10-43 44th Drive, Long Island City, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Kansas City Chiefs"
+      ],
+      "notes": "Chiefs bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Peter Dillon's",
+      "address": "130 East 40th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Las Vegas Raiders"
+      ],
+      "notes": "Home of the NFL Raiders fans",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "American Whiskey",
+      "address": "247 West 30th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Los Angeles Rams"
+      ],
+      "notes": "Rams bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Slattery's Midtown Pub",
+      "address": "8 East 36th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Miami Dolphins"
+      ],
+      "notes": "Dolphins fans have a great place to gather on game day",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Slattery's Midtown Pub",
+      "address": "8 East 36th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Minnesota Vikings"
+      ],
+      "notes": "Vikings bar (also hosts Dolphins)",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Bar None",
+      "address": "98 Third Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Minnesota Vikings"
+      ],
+      "notes": "Vikings bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Three Monkeys",
+      "address": "236 West 54th St, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New England Patriots"
+      ],
+      "notes": "Patriots bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Halyards",
+      "address": "406 3rd Avenue, Brooklyn, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New England Patriots"
+      ],
+      "notes": "Patriots fans have a dependable Brooklyn home with friendly service, strong drinks, and full game audio",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Joyce Public House",
+      "address": "315 West 39th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New England Patriots"
+      ],
+      "notes": "Patriots bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Parkside Lounge",
+      "address": "317 East Houston Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New Orleans Saints"
+      ],
+      "notes": "\"Who dat?! New Orleans Saints: every game is aired on multiple TVs. For 1 pm games, bar opens at 12:30 with killer bloody Marys and coffee cocktails\"",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Handcraft Kitchen and Cocktails",
+      "address": "367 3rd Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New Orleans Saints"
+      ],
+      "notes": "Saints bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Blue Haven East",
+      "address": "493 3rd Ave, New York, NY 10016",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Electric Manhattan sports bar with bumping gameday atmosphere and plenty of Giants faithful. Phone: (646) 678-4200",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Blue Haven South",
+      "address": "121 Fulton St, New York, NY 10038",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Buzzing FiDi sports bar with long bar, lots of TVs and high-energy crowds for Giants Sundays. Phone: (646) 666-0492",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "East End Bar & Grill",
+      "address": "1672 3rd Ave, New York, NY 10128",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Upper East Side staple—home base for the Big Blue NYC Crew. Also hosts Bills fans. Phone: (212) 348-3783",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Keg and Lantern",
+      "address": "97 Nassau Ave, Brooklyn, NY 11222",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Cozy neighborhood bar with flatscreens and solid game-day menu. Phone: (718) 389-5050",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Standings",
+      "address": "43 E 7th St, New York, NY 10003",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "East Village classic: \"We play GAME SOUND, not MUSIC.\" Phone: (212) 420-0671",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Canz Westbury",
+      "address": "1610 Old Country Rd, Westbury, NY 11590",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Long Island option with casual sports-bar vibe catering to both Giants and Jets fans. Phone: (516) 227-2269",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Break Bar",
+      "address": "32-04 Broadway, Queens, NY 11106",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Queens mainstay with Giants emphasis—visited by former star Ahmad Bradshaw. Pool tables, pop-a-shot and wall-to-wall TVs. Phone: (718) 777-5400",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Sean Og's",
+      "address": "60-02 Woodside Ave, Queens, NY 11377",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Roomy Irish pub with old-world, gothic-style interior and classic bar bites. Phone: (718) 899-3499",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Eastpoint",
+      "address": "25 Avenue B, New York, NY 10009",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Lower East Side bar that often runs full game sound for Giants (and Jets). Phone: (646) 882-0593",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "District",
+      "address": "2 Sneden Ave, Staten Island, NY 10312",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "For playoff runs, District hosts Giants watch parties with DJ and giveaways. Phone: (718) 984-3700",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Sweet Spot Astoria",
+      "address": "2272 31st St, Queens, NY 11105",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Sports bar with 40+ TVs. Phone: (718) 777-7475",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Brian Dempsey's",
+      "address": "3931 Bell Blvd, Queens, NY 11361",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Queens sports bar with burgers, steaks, quesadillas, pasta. Phone: (718) 631-3024",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Bourbon Street",
+      "address": "40-10 Bell Blvd, Queens, NY 11361",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Giants"
+      ],
+      "notes": "Cajun American vibes in Bayside with ample screens. Phone: (718) 224-2200",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Blue Haven East",
+      "address": "493 3rd Ave, New York, NY 10016",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Jets"
+      ],
+      "notes": "Electric Manhattan sports bar with bumping gameday atmosphere. Phone: (646) 678-4200",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Blue Haven South",
+      "address": "121 Fulton St, New York, NY 10038",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Jets"
+      ],
+      "notes": "Buzzing FiDi sports bar with long bar, plenty of TVs, and energetic atmosphere. Phone: (646) 666-0492",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Shades of Green",
+      "address": "125 E 15th St, New York, NY 10003",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Jets"
+      ],
+      "notes": "Meet up with the New York New York Jets Meetup Group. Irish pub near Union Square. Phone: (212) 674-1394",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Redd's Restaurant & Bar",
+      "address": "317 Washington Ave, Carlstadt, NJ 07072",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Jets"
+      ],
+      "notes": "Less than a mile from MetLife Stadium, offers shuttle service to the stadium. Phone: (201) 933-0015",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Mustang Harry's",
+      "address": "352 7th Ave, New York, NY 10001",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Jets"
+      ],
+      "notes": "Jets bar. Phone: (212) 268-8930",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Horseshoe Tavern",
+      "address": "36 Speedwell Avenue, Morristown, NJ 07960",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Jets"
+      ],
+      "notes": "Football Sunday parties draw over 400 people with DJ and MC, giveaways, raffles (TVs, jerseys, golf bags). Phone: (973) 998-8447",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Bourbon Street",
+      "address": "40-10 Bell Blvd, Queens, NY 11361",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Jets"
+      ],
+      "notes": "Cajun American bar in Queens. Phone: (718) 224-2200",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Merrion Square",
+      "address": "1840 Second Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "Eagles bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "One And One",
+      "address": "76 East 1st Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "Eagles bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Wogie's",
+      "address": "39 Greenwich Avenue and 44 Trinity Place, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "Eagles bar (multiple locations)",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Olde City Cheesesteaks & Brew",
+      "address": "576 9th Avenue, 66 Madison Avenue, and 201 8th Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "\"We do NOT take reservations for Eagles games. Arrive early with your FULL party in order to be seated\" (multiple locations)",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Old Man Hustle Bar",
+      "address": "308 Bedford Avenue Rear, Brooklyn, NY 11249",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "Eagles bar in Brooklyn",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Mulligan's Pub",
+      "address": "159 1st Street, Hoboken, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "\"The back room at Mulligan's is the top choice for fans who want to cheer on the Philadelphia Eagles\"",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Grasshopper off the Green",
+      "address": "41-43 Morris Street, Morristown, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "Eagles bar in New Jersey",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Hibernia Bar",
+      "address": "401 West 50th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "notes": "\"The perfect Steelers bar in NYC has four main staples: Steelers football, cold beer, great food, and lots of fun\"",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Printers Alley",
+      "address": "215 West 40th Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "notes": "Adorned with Terrible Towels and Steelers décor, official meeting spot of the Steelers Nation NYC fan group",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Redd's Biergarten",
+      "address": "220 Market Street, 37 Edison Place, Newark, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "notes": "Steelers bar in Newark",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Allendale Bar & Grill",
+      "address": "67 West Allendale Avenue, Allendale, NJ",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "notes": "Steelers bar in New Jersey",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Kent Ale House",
+      "address": "51 Kent Avenue, Brooklyn, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "notes": "\"The Best San Francisco 49ers Bar in Brooklyn!\" Shows every game with full Sunday Ticket",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Mustang Harry's",
+      "address": "352 7th Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "notes": "49ers bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Plug Uglies (UES)",
+      "address": "295 3rd Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "notes": "Go-to San Francisco 49ers bar in NYC",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Feile",
+      "address": "131 West 33rd Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "notes": "\"You'll be part of NYC's 12th man here at Féile every time the Seahawks take the field. All of Seattle's games are shown live with sound on every screen\"",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Wicked Willy's",
+      "address": "149 Bleecker Street, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Tampa Bay Buccaneers"
+      ],
+      "notes": "Buccaneers bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Dorrian's Red Hand",
+      "address": "1616 Second Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Washington Commanders"
+      ],
+      "notes": "Commanders bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Redemption Bar",
+      "address": "1003 Second Avenue, New York, NY",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Washington Commanders"
+      ],
+      "notes": "Commanders bar",
+      "sports": [
+        "NFL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Standings",
+      "address": "43 E 7th St, New York, NY 10003",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Boston Red Sox"
+      ],
+      "notes": "East Village bar with bartenders from Boston passionate about Sox. Show all available Red Sox games with sound on NESN/MLB Package. Free pizza every Friday at 8 PM during baseball season",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Riviera Cafe & Sports Bar",
+      "address": "225 West 4th Street at 7th Avenue, West Village",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Boston Red Sox"
+      ],
+      "notes": "Red Sox bar in West Village",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "AWOL",
+      "address": "25th and 3rd Ave",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Boston Red Sox"
+      ],
+      "notes": "Primarily a Pats bar but gets NESN/MLB package, shows Sox games",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Kelly's Sports Bar",
+      "address": "12 Avenue A, Manhattan (East Village)",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "notes": "\"The only Cubs bar in New York\" - filled with Cubs fans, Cubs décor. Major destination for Cubs fans in NYC",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Windy City Ale House",
+      "address": "7915 3rd Ave, Brooklyn, NY 11209",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "notes": "Cubs bar in Brooklyn. Gets crowded during big games - arrive early",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Canal Bar",
+      "address": "270 3rd Ave, Brooklyn",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Chicago White Sox"
+      ],
+      "notes": "Bartenders are White Sox fans, will show games",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Multiple citywide",
+      "address": "Throughout NYC",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Mets"
+      ],
+      "notes": "As a home team, Mets games are shown at most sports bars citywide. Citi Field area bars (Queens) are major Mets hubs",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Multiple citywide",
+      "address": "Throughout NYC",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Yankees"
+      ],
+      "notes": "As a home team, Yankees games are shown at most sports bars citywide. Bars near Yankee Stadium (Billy's, Stan's, The Dugout) are major Yankees destinations",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Foley's NY (CLOSED)",
+      "address": "18 W 33rd St (CLOSED 2020)",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Pittsburgh Pirates"
+      ],
+      "notes": "Famous baseball bar \"An Irish Bar with a Baseball Attitude\" - was home to Cardinals and Pirates fans. Over 2000 signed baseballs. Did not reopen after COVID",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Foley's NY (CLOSED)",
+      "address": "18 W 33rd St (CLOSED 2020)",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "St. Louis Cardinals"
+      ],
+      "notes": "Famous baseball bar that was the Cardinals bar in NYC. Did not reopen after COVID",
+      "sports": [
+        "MLB"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Canuck",
+      "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Montreal Canadiens"
+      ],
+      "notes": "NYC's premier Canadian hockey and sports bar. Canadian-themed, shows all hockey games. Opened 2022. Owner Denis Ladouceur (former Cornell hockey player). Serves poutine and Bloody Caesars. Friendly to Canadiens, Maple Leafs, and all Canadian team fans",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Multiple citywide",
+      "address": "Throughout NYC/NJ area",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New Jersey Devils"
+      ],
+      "notes": "As a nearby home team (Prudential Center in Newark), Devils games shown at many bars. The Canuck shows Devils games",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Multiple citywide",
+      "address": "Throughout NYC/Long Island",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Islanders"
+      ],
+      "notes": "As a home team (UBS Arena in Belmont Park), Islanders games shown at many bars. The Canuck shows Islanders games",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Standings",
+      "address": "43 E 7th St, New York, NY 10003",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Rangers"
+      ],
+      "notes": "East Village Rangers bar. Shows Rangers games with sound",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Flying Puck",
+      "address": "TBD",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Rangers"
+      ],
+      "notes": "\"Purely a hockey bar\" and Rangers bar mentioned on Reddit",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Canuck",
+      "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Rangers"
+      ],
+      "notes": "Shows all NHL games including Rangers",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Multiple MSG-area bars",
+      "address": "Around Madison Square Garden",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Rangers"
+      ],
+      "notes": "As the home team at MSG, Rangers games shown at bars citywide, especially near the arena",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Canuck",
+      "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Toronto Maple Leafs"
+      ],
+      "notes": "Canadian sports bar that's friendly to Maple Leafs fans. Shows all Canadian teams",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Canuck",
+      "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Vancouver Canucks"
+      ],
+      "notes": "Named \"The Canuck\" - premier Canadian sports bar, shows all Canadian teams including Canucks",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Canuck",
+      "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Winnipeg Jets"
+      ],
+      "notes": "Canadian sports bar shows all Canadian teams including Jets",
+      "sports": [
+        "NHL"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Professor Thom's (Status Uncertain)",
+      "address": "Lower East Side",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Boston Celtics"
+      ],
+      "notes": "Previously mentioned as Boston sports bar on Reddit (2016), current status unclear",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Haswell Green's",
+      "address": "TBD",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Boston Celtics"
+      ],
+      "notes": "Mentioned on Reddit as good for Celtics games, crowded during Finals",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Kent Ale House",
+      "address": "Williamsburg, Brooklyn",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Boston Celtics"
+      ],
+      "notes": "Shows Celtics games, had some Celtics fans during 2024 playoffs",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Three Monkies",
+      "address": "236 West 54th St",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Boston Celtics"
+      ],
+      "notes": "New England Patriots bar (NFL), also shows Celtics. Mixed reviews",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Multiple citywide",
+      "address": "Throughout Brooklyn/NYC",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Brooklyn Nets"
+      ],
+      "notes": "As a home team (Barclays Center in Brooklyn), Nets games shown at bars citywide, especially in Brooklyn",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Finnerty's (CLOSED)",
+      "address": "Manhattan (CLOSED)",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Golden State Warriors"
+      ],
+      "notes": "Was the Warriors bar in NYC, but closed. Reddit threads from 2022-2024 show fans asking for replacement",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "TBD (Seeking Replacement)",
+      "address": "TBD",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Golden State Warriors"
+      ],
+      "notes": "Multiple Reddit posts asking for Warriors bars after Finnerty's closed. No confirmed replacement as of 2024-2025",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Red Lion",
+      "address": "TBD",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Los Angeles Lakers"
+      ],
+      "notes": "Mentioned on Yelp search for Lakers bars",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "TBD (Actively Sought)",
+      "address": "TBD",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Los Angeles Lakers"
+      ],
+      "notes": "Multiple Reddit threads (2023-2024) show Lakers fans seeking dedicated bars. No strong consensus on a Lakers bar in NYC",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "Multiple citywide",
+      "address": "Throughout NYC, especially near Madison Square Garden",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "New York Knicks"
+      ],
+      "notes": "As the home team at MSG, Knicks games shown at bars citywide. Tripadvisor notes \"just about any bar will do\" for Knicks games",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    },
+    {
+      "name": "The Canuck",
+      "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+      "phone": "",
+      "website": "",
+      "teams": [
+        "Toronto Raptors"
+      ],
+      "notes": "Canadian sports bar shows all Canadian sports including Raptors games. Basketball listed alongside hockey, baseball, soccer",
+      "sports": [
+        "NBA"
+      ],
+      "city": "nyc"
+    }
+  ],
+  "by_sport": {
+    "NFL": [
+      {
+        "name": "Kelley's Sports Bar",
+        "address": "12 Avenue A, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Arizona Cardinals"
+        ],
+        "notes": "Official Cardinals bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Mustang Harry's",
+        "address": "352 7th Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Baltimore Ravens"
+        ],
+        "notes": "\"We're ready to rumble, Ravens flock!\"",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Pennsylvania 6",
+        "address": "132 West 31st Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Home of New York City Buffalo Bills Backers",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "All Stars Sports Bar & Grill",
+        "address": "327 West 57th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Bills fan bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Gaf West",
+        "address": "401 W 48th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Bills bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "East End Bar & Grill",
+        "address": "1672 3rd Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "UES staple for Bills fans, also hosts Giants fans",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Redd's Tavern",
+        "address": "511 Grand St, Brooklyn, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Brooklyn Bills bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Fulton Ale House",
+        "address": "1446 Fulton Street, Brooklyn, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Lowkey Buffalo Bills bar with serious spirit, blanket + beer package during colder games",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Burkes Restaurant and Bar",
+        "address": "645 Bronx River Road, Yonkers, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Bills bar in Yonkers",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Shannon",
+        "address": "106 1st Street, Hoboken, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Bills bar in Hoboken",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Stone & Rail",
+        "address": "175 Rock Road, Glen Rock, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Bills bar in New Jersey",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Dan and Johns Wings",
+        "address": "TBD (East Side)",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "notes": "Bills bar mentioned on Reddit",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Amity Hall",
+        "address": "80 West 3rd Street, Greenwich Village, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Carolina Panthers"
+        ],
+        "notes": "The Official Home of the Carolina Panthers",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Overlook NYC",
+        "address": "225 East 44th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Chicago Bears"
+        ],
+        "notes": "NYC's Home of the Chicago Bears",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Canal Bar",
+        "address": "270 3rd Ave #A, Brooklyn, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Chicago Bears"
+        ],
+        "notes": "Bears bar in Brooklyn",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Phebe's Tavern",
+        "address": "359 Bowery, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Cincinnati Bengals"
+        ],
+        "notes": "NYC's Home of the Cincinnati Bengals - ultimate Bengals fan haven",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Park Slope Ale House",
+        "address": "356 6th Avenue, Brooklyn, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "notes": "Browns bar in Brooklyn",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Liberty",
+        "address": "29 West 35th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "notes": "Browns bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "O'Keefe's Bar and Grill",
+        "address": "62 Court Street, Brooklyn, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "notes": "Browns bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Exchange",
+        "address": "160 East Main Street, Rockaway, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "notes": "Browns Backers of North Jersey",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Playwright Irish Pub",
+        "address": "27 West 35th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Dallas Cowboys"
+        ],
+        "notes": "Proud to host NYC's newest Dallas Cowboys Supporters Club",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Hill Country BBQ",
+        "address": "30 West 26th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Dallas Cowboys"
+        ],
+        "notes": "Cowboys bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Blaggard's Pub",
+        "address": "8 West 38th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Dallas Cowboys"
+        ],
+        "notes": "Cowboys bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Allure Lounge",
+        "address": "417 Halsey Street, Newark, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Dallas Cowboys"
+        ],
+        "notes": "The Official Cowboys Headquarters",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Stout NYC",
+        "address": "133 West 33rd Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Denver Broncos"
+        ],
+        "notes": "Broncos bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Bailey's Corner Pub",
+        "address": "1607 York Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Detroit Lions"
+        ],
+        "notes": "After years of no home bar in NYC, fans established a base here",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Kettle of Fish",
+        "address": "59 Christopher Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "notes": "\"With the exception of Lambeau Field, the Kettle of Fish is the best place to watch a Packers game.\" Cheese, crackers, summer sausage, and Usinger Brats on gamedays",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Waylon",
+        "address": "736 10th Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "notes": "Packers games on 60-inch TVs with full audio, buckets of Point Special, Original Wisco cheese curds, and Green Machine Shot-ski",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Tom and Jerry's",
+        "address": "288 Elizabeth St, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "notes": "Packers bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Stout (Grand Central)",
+        "address": "60 East 41st St, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "notes": "Packers bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Dillingers Pub & Grill",
+        "address": "4619 30th Avenue, Astoria, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "notes": "Painted Packers green and yellow",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Dram Shop",
+        "address": "339 9th St, Brooklyn, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "notes": "HD TVs plus projector screen with sound for big games",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Blue 42",
+        "address": "158 Market St, Elmwood Park, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "notes": "Official Green Bay Packers Bar, cheap gameday deals ($2 Miller drafts, $7 wings, $2 hot dogs, $14 beer towers)",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Hill Country BBQ",
+        "address": "30 West 26th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Houston Texans"
+        ],
+        "notes": "Texans bar (also hosts Cowboys)",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Keats Bar",
+        "address": "842 Second Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Indianapolis Colts"
+        ],
+        "notes": "\"KeatsBarNYC is your place to catch all the Indianapolis Colts games with the sound on always\"",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Legends",
+        "address": "6 West 33rd Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Indianapolis Colts"
+        ],
+        "notes": "Colts bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "St. Pat's Bar & Grill NYC",
+        "address": "22 West 46th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Jacksonville Jaguars"
+        ],
+        "notes": "Home to the Jacksonville Jaguars",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "John Brown BBQ",
+        "address": "27-20 40th Avenue, Queens, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Kansas City Chiefs"
+        ],
+        "notes": "Official Kansas City Chiefs hangout in NYC",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "John Brown Smokehouse",
+        "address": "10-43 44th Drive, Long Island City, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Kansas City Chiefs"
+        ],
+        "notes": "Chiefs bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Peter Dillon's",
+        "address": "130 East 40th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Las Vegas Raiders"
+        ],
+        "notes": "Home of the NFL Raiders fans",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "American Whiskey",
+        "address": "247 West 30th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Los Angeles Rams"
+        ],
+        "notes": "Rams bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Slattery's Midtown Pub",
+        "address": "8 East 36th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Miami Dolphins"
+        ],
+        "notes": "Dolphins fans have a great place to gather on game day",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Slattery's Midtown Pub",
+        "address": "8 East 36th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Minnesota Vikings"
+        ],
+        "notes": "Vikings bar (also hosts Dolphins)",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Bar None",
+        "address": "98 Third Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Minnesota Vikings"
+        ],
+        "notes": "Vikings bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Three Monkeys",
+        "address": "236 West 54th St, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New England Patriots"
+        ],
+        "notes": "Patriots bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Halyards",
+        "address": "406 3rd Avenue, Brooklyn, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New England Patriots"
+        ],
+        "notes": "Patriots fans have a dependable Brooklyn home with friendly service, strong drinks, and full game audio",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Joyce Public House",
+        "address": "315 West 39th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New England Patriots"
+        ],
+        "notes": "Patriots bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Parkside Lounge",
+        "address": "317 East Houston Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New Orleans Saints"
+        ],
+        "notes": "\"Who dat?! New Orleans Saints: every game is aired on multiple TVs. For 1 pm games, bar opens at 12:30 with killer bloody Marys and coffee cocktails\"",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Handcraft Kitchen and Cocktails",
+        "address": "367 3rd Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New Orleans Saints"
+        ],
+        "notes": "Saints bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Blue Haven East",
+        "address": "493 3rd Ave, New York, NY 10016",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Electric Manhattan sports bar with bumping gameday atmosphere and plenty of Giants faithful. Phone: (646) 678-4200",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Blue Haven South",
+        "address": "121 Fulton St, New York, NY 10038",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Buzzing FiDi sports bar with long bar, lots of TVs and high-energy crowds for Giants Sundays. Phone: (646) 666-0492",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "East End Bar & Grill",
+        "address": "1672 3rd Ave, New York, NY 10128",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Upper East Side staple—home base for the Big Blue NYC Crew. Also hosts Bills fans. Phone: (212) 348-3783",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Keg and Lantern",
+        "address": "97 Nassau Ave, Brooklyn, NY 11222",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Cozy neighborhood bar with flatscreens and solid game-day menu. Phone: (718) 389-5050",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Standings",
+        "address": "43 E 7th St, New York, NY 10003",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "East Village classic: \"We play GAME SOUND, not MUSIC.\" Phone: (212) 420-0671",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Canz Westbury",
+        "address": "1610 Old Country Rd, Westbury, NY 11590",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Long Island option with casual sports-bar vibe catering to both Giants and Jets fans. Phone: (516) 227-2269",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Break Bar",
+        "address": "32-04 Broadway, Queens, NY 11106",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Queens mainstay with Giants emphasis—visited by former star Ahmad Bradshaw. Pool tables, pop-a-shot and wall-to-wall TVs. Phone: (718) 777-5400",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Sean Og's",
+        "address": "60-02 Woodside Ave, Queens, NY 11377",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Roomy Irish pub with old-world, gothic-style interior and classic bar bites. Phone: (718) 899-3499",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Eastpoint",
+        "address": "25 Avenue B, New York, NY 10009",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Lower East Side bar that often runs full game sound for Giants (and Jets). Phone: (646) 882-0593",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "District",
+        "address": "2 Sneden Ave, Staten Island, NY 10312",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "For playoff runs, District hosts Giants watch parties with DJ and giveaways. Phone: (718) 984-3700",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Sweet Spot Astoria",
+        "address": "2272 31st St, Queens, NY 11105",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Sports bar with 40+ TVs. Phone: (718) 777-7475",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Brian Dempsey's",
+        "address": "3931 Bell Blvd, Queens, NY 11361",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Queens sports bar with burgers, steaks, quesadillas, pasta. Phone: (718) 631-3024",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Bourbon Street",
+        "address": "40-10 Bell Blvd, Queens, NY 11361",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Giants"
+        ],
+        "notes": "Cajun American vibes in Bayside with ample screens. Phone: (718) 224-2200",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Blue Haven East",
+        "address": "493 3rd Ave, New York, NY 10016",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Jets"
+        ],
+        "notes": "Electric Manhattan sports bar with bumping gameday atmosphere. Phone: (646) 678-4200",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Blue Haven South",
+        "address": "121 Fulton St, New York, NY 10038",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Jets"
+        ],
+        "notes": "Buzzing FiDi sports bar with long bar, plenty of TVs, and energetic atmosphere. Phone: (646) 666-0492",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Shades of Green",
+        "address": "125 E 15th St, New York, NY 10003",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Jets"
+        ],
+        "notes": "Meet up with the New York New York Jets Meetup Group. Irish pub near Union Square. Phone: (212) 674-1394",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Redd's Restaurant & Bar",
+        "address": "317 Washington Ave, Carlstadt, NJ 07072",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Jets"
+        ],
+        "notes": "Less than a mile from MetLife Stadium, offers shuttle service to the stadium. Phone: (201) 933-0015",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Mustang Harry's",
+        "address": "352 7th Ave, New York, NY 10001",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Jets"
+        ],
+        "notes": "Jets bar. Phone: (212) 268-8930",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Horseshoe Tavern",
+        "address": "36 Speedwell Avenue, Morristown, NJ 07960",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Jets"
+        ],
+        "notes": "Football Sunday parties draw over 400 people with DJ and MC, giveaways, raffles (TVs, jerseys, golf bags). Phone: (973) 998-8447",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Bourbon Street",
+        "address": "40-10 Bell Blvd, Queens, NY 11361",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Jets"
+        ],
+        "notes": "Cajun American bar in Queens. Phone: (718) 224-2200",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Merrion Square",
+        "address": "1840 Second Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "notes": "Eagles bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "One And One",
+        "address": "76 East 1st Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "notes": "Eagles bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Wogie's",
+        "address": "39 Greenwich Avenue and 44 Trinity Place, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "notes": "Eagles bar (multiple locations)",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Olde City Cheesesteaks & Brew",
+        "address": "576 9th Avenue, 66 Madison Avenue, and 201 8th Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "notes": "\"We do NOT take reservations for Eagles games. Arrive early with your FULL party in order to be seated\" (multiple locations)",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Old Man Hustle Bar",
+        "address": "308 Bedford Avenue Rear, Brooklyn, NY 11249",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "notes": "Eagles bar in Brooklyn",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Mulligan's Pub",
+        "address": "159 1st Street, Hoboken, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "notes": "\"The back room at Mulligan's is the top choice for fans who want to cheer on the Philadelphia Eagles\"",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Grasshopper off the Green",
+        "address": "41-43 Morris Street, Morristown, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "notes": "Eagles bar in New Jersey",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Hibernia Bar",
+        "address": "401 West 50th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Pittsburgh Steelers"
+        ],
+        "notes": "\"The perfect Steelers bar in NYC has four main staples: Steelers football, cold beer, great food, and lots of fun\"",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Printers Alley",
+        "address": "215 West 40th Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Pittsburgh Steelers"
+        ],
+        "notes": "Adorned with Terrible Towels and Steelers décor, official meeting spot of the Steelers Nation NYC fan group",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Redd's Biergarten",
+        "address": "220 Market Street, 37 Edison Place, Newark, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Pittsburgh Steelers"
+        ],
+        "notes": "Steelers bar in Newark",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Allendale Bar & Grill",
+        "address": "67 West Allendale Avenue, Allendale, NJ",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Pittsburgh Steelers"
+        ],
+        "notes": "Steelers bar in New Jersey",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Kent Ale House",
+        "address": "51 Kent Avenue, Brooklyn, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "San Francisco 49ers"
+        ],
+        "notes": "\"The Best San Francisco 49ers Bar in Brooklyn!\" Shows every game with full Sunday Ticket",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Mustang Harry's",
+        "address": "352 7th Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "San Francisco 49ers"
+        ],
+        "notes": "49ers bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Plug Uglies (UES)",
+        "address": "295 3rd Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "San Francisco 49ers"
+        ],
+        "notes": "Go-to San Francisco 49ers bar in NYC",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Feile",
+        "address": "131 West 33rd Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Seattle Seahawks"
+        ],
+        "notes": "\"You'll be part of NYC's 12th man here at Féile every time the Seahawks take the field. All of Seattle's games are shown live with sound on every screen\"",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Wicked Willy's",
+        "address": "149 Bleecker Street, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Tampa Bay Buccaneers"
+        ],
+        "notes": "Buccaneers bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Dorrian's Red Hand",
+        "address": "1616 Second Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Washington Commanders"
+        ],
+        "notes": "Commanders bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Redemption Bar",
+        "address": "1003 Second Avenue, New York, NY",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Washington Commanders"
+        ],
+        "notes": "Commanders bar",
+        "sports": [
+          "NFL"
+        ],
+        "city": "nyc"
+      }
+    ],
+    "MLB": [
+      {
+        "name": "Standings",
+        "address": "43 E 7th St, New York, NY 10003",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Boston Red Sox"
+        ],
+        "notes": "East Village bar with bartenders from Boston passionate about Sox. Show all available Red Sox games with sound on NESN/MLB Package. Free pizza every Friday at 8 PM during baseball season",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Riviera Cafe & Sports Bar",
+        "address": "225 West 4th Street at 7th Avenue, West Village",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Boston Red Sox"
+        ],
+        "notes": "Red Sox bar in West Village",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "AWOL",
+        "address": "25th and 3rd Ave",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Boston Red Sox"
+        ],
+        "notes": "Primarily a Pats bar but gets NESN/MLB package, shows Sox games",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Kelly's Sports Bar",
+        "address": "12 Avenue A, Manhattan (East Village)",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Chicago Cubs"
+        ],
+        "notes": "\"The only Cubs bar in New York\" - filled with Cubs fans, Cubs décor. Major destination for Cubs fans in NYC",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Windy City Ale House",
+        "address": "7915 3rd Ave, Brooklyn, NY 11209",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Chicago Cubs"
+        ],
+        "notes": "Cubs bar in Brooklyn. Gets crowded during big games - arrive early",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Canal Bar",
+        "address": "270 3rd Ave, Brooklyn",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Chicago White Sox"
+        ],
+        "notes": "Bartenders are White Sox fans, will show games",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Multiple citywide",
+        "address": "Throughout NYC",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Mets"
+        ],
+        "notes": "As a home team, Mets games are shown at most sports bars citywide. Citi Field area bars (Queens) are major Mets hubs",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Multiple citywide",
+        "address": "Throughout NYC",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Yankees"
+        ],
+        "notes": "As a home team, Yankees games are shown at most sports bars citywide. Bars near Yankee Stadium (Billy's, Stan's, The Dugout) are major Yankees destinations",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Foley's NY (CLOSED)",
+        "address": "18 W 33rd St (CLOSED 2020)",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Pittsburgh Pirates"
+        ],
+        "notes": "Famous baseball bar \"An Irish Bar with a Baseball Attitude\" - was home to Cardinals and Pirates fans. Over 2000 signed baseballs. Did not reopen after COVID",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Foley's NY (CLOSED)",
+        "address": "18 W 33rd St (CLOSED 2020)",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "St. Louis Cardinals"
+        ],
+        "notes": "Famous baseball bar that was the Cardinals bar in NYC. Did not reopen after COVID",
+        "sports": [
+          "MLB"
+        ],
+        "city": "nyc"
+      }
+    ],
+    "NHL": [
+      {
+        "name": "The Canuck",
+        "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Montreal Canadiens"
+        ],
+        "notes": "NYC's premier Canadian hockey and sports bar. Canadian-themed, shows all hockey games. Opened 2022. Owner Denis Ladouceur (former Cornell hockey player). Serves poutine and Bloody Caesars. Friendly to Canadiens, Maple Leafs, and all Canadian team fans",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Multiple citywide",
+        "address": "Throughout NYC/NJ area",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New Jersey Devils"
+        ],
+        "notes": "As a nearby home team (Prudential Center in Newark), Devils games shown at many bars. The Canuck shows Devils games",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Multiple citywide",
+        "address": "Throughout NYC/Long Island",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Islanders"
+        ],
+        "notes": "As a home team (UBS Arena in Belmont Park), Islanders games shown at many bars. The Canuck shows Islanders games",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Standings",
+        "address": "43 E 7th St, New York, NY 10003",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Rangers"
+        ],
+        "notes": "East Village Rangers bar. Shows Rangers games with sound",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Flying Puck",
+        "address": "TBD",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Rangers"
+        ],
+        "notes": "\"Purely a hockey bar\" and Rangers bar mentioned on Reddit",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Canuck",
+        "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Rangers"
+        ],
+        "notes": "Shows all NHL games including Rangers",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Multiple MSG-area bars",
+        "address": "Around Madison Square Garden",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Rangers"
+        ],
+        "notes": "As the home team at MSG, Rangers games shown at bars citywide, especially near the arena",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Canuck",
+        "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Toronto Maple Leafs"
+        ],
+        "notes": "Canadian sports bar that's friendly to Maple Leafs fans. Shows all Canadian teams",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Canuck",
+        "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Vancouver Canucks"
+        ],
+        "notes": "Named \"The Canuck\" - premier Canadian sports bar, shows all Canadian teams including Canucks",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Canuck",
+        "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Winnipeg Jets"
+        ],
+        "notes": "Canadian sports bar shows all Canadian teams including Jets",
+        "sports": [
+          "NHL"
+        ],
+        "city": "nyc"
+      }
+    ],
+    "NBA": [
+      {
+        "name": "Professor Thom's (Status Uncertain)",
+        "address": "Lower East Side",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Boston Celtics"
+        ],
+        "notes": "Previously mentioned as Boston sports bar on Reddit (2016), current status unclear",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Haswell Green's",
+        "address": "TBD",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Boston Celtics"
+        ],
+        "notes": "Mentioned on Reddit as good for Celtics games, crowded during Finals",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Kent Ale House",
+        "address": "Williamsburg, Brooklyn",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Boston Celtics"
+        ],
+        "notes": "Shows Celtics games, had some Celtics fans during 2024 playoffs",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Three Monkies",
+        "address": "236 West 54th St",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Boston Celtics"
+        ],
+        "notes": "New England Patriots bar (NFL), also shows Celtics. Mixed reviews",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Multiple citywide",
+        "address": "Throughout Brooklyn/NYC",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Brooklyn Nets"
+        ],
+        "notes": "As a home team (Barclays Center in Brooklyn), Nets games shown at bars citywide, especially in Brooklyn",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Finnerty's (CLOSED)",
+        "address": "Manhattan (CLOSED)",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Golden State Warriors"
+        ],
+        "notes": "Was the Warriors bar in NYC, but closed. Reddit threads from 2022-2024 show fans asking for replacement",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "TBD (Seeking Replacement)",
+        "address": "TBD",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Golden State Warriors"
+        ],
+        "notes": "Multiple Reddit posts asking for Warriors bars after Finnerty's closed. No confirmed replacement as of 2024-2025",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Red Lion",
+        "address": "TBD",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Los Angeles Lakers"
+        ],
+        "notes": "Mentioned on Yelp search for Lakers bars",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "TBD (Actively Sought)",
+        "address": "TBD",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Los Angeles Lakers"
+        ],
+        "notes": "Multiple Reddit threads (2023-2024) show Lakers fans seeking dedicated bars. No strong consensus on a Lakers bar in NYC",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "Multiple citywide",
+        "address": "Throughout NYC, especially near Madison Square Garden",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "New York Knicks"
+        ],
+        "notes": "As the home team at MSG, Knicks games shown at bars citywide. Tripadvisor notes \"just about any bar will do\" for Knicks games",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      },
+      {
+        "name": "The Canuck",
+        "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+        "phone": "",
+        "website": "",
+        "teams": [
+          "Toronto Raptors"
+        ],
+        "notes": "Canadian sports bar shows all Canadian sports including Raptors games. Basketball listed alongside hockey, baseball, soccer",
+        "sports": [
+          "NBA"
+        ],
+        "city": "nyc"
+      }
+    ]
+  }
+}

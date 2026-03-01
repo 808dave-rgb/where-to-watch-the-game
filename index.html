@@ -11,7 +11,7 @@
         <!-- Header -->
         <div class="text-center mb-8">
             <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-2">Where to Watch the Game</h1>
-            <p class="text-gray-600">Find your team's bar in 4 easy steps</p>
+            <p class="text-gray-600">Find your team's bar in 4 easy steps • Now in 7 cities!</p>
         </div>
 
         <!-- Main Content Container -->
@@ -19,7 +19,7 @@
             <!-- Step 1: Pick City -->
             <div id="step-city" class="step-container">
                 <h2 class="text-2xl font-bold text-gray-800 mb-6 text-center">Pick Your City</h2>
-                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
                     <button onclick="selectCity('denver')" class="city-card p-6 bg-gradient-to-br from-orange-400 to-blue-600 hover:from-orange-500 hover:to-blue-700 text-white rounded-lg shadow-md transition-all transform hover:scale-105">
                         <div class="text-3xl mb-2">🏔️</div>
                         <div class="text-xl font-bold">Denver</div>
@@ -34,6 +34,26 @@
                         <div class="text-3xl mb-2">🌴</div>
                         <div class="text-xl font-bold">Orange County</div>
                         <div class="text-sm opacity-90 mt-1">80 bars</div>
+                    </button>
+                    <button onclick="selectCity('phoenix')" class="city-card p-6 bg-gradient-to-br from-yellow-500 to-orange-600 hover:from-yellow-600 hover:to-orange-700 text-white rounded-lg shadow-md transition-all transform hover:scale-105">
+                        <div class="text-3xl mb-2">🌵</div>
+                        <div class="text-xl font-bold">Phoenix</div>
+                        <div class="text-sm opacity-90 mt-1">93 bars</div>
+                    </button>
+                    <button onclick="selectCity('austin')" class="city-card p-6 bg-gradient-to-br from-purple-400 to-blue-500 hover:from-purple-500 hover:to-blue-600 text-white rounded-lg shadow-md transition-all transform hover:scale-105">
+                        <div class="text-3xl mb-2">🤠</div>
+                        <div class="text-xl font-bold">Austin</div>
+                        <div class="text-sm opacity-90 mt-1">67 bars</div>
+                    </button>
+                    <button onclick="selectCity('nyc')" class="city-card p-6 bg-gradient-to-br from-gray-700 to-blue-600 hover:from-gray-800 hover:to-blue-700 text-white rounded-lg shadow-md transition-all transform hover:scale-105">
+                        <div class="text-3xl mb-2">🗽</div>
+                        <div class="text-xl font-bold">New York City</div>
+                        <div class="text-sm opacity-90 mt-1">118 bars</div>
+                    </button>
+                    <button onclick="selectCity('chicago')" class="city-card p-6 bg-gradient-to-br from-blue-500 to-red-600 hover:from-blue-600 hover:to-red-700 text-white rounded-lg shadow-md transition-all transform hover:scale-105">
+                        <div class="text-3xl mb-2">🌆</div>
+                        <div class="text-xl font-bold">Chicago</div>
+                        <div class="text-sm opacity-90 mt-1">83 bars</div>
                     </button>
                 </div>
             </div>
@@ -104,7 +124,7 @@
         // Load data
         async function loadData() {
             try {
-                const cities = ['denver', 'las-vegas', 'orange-county'];
+                const cities = ['denver', 'las-vegas', 'orange-county', 'phoenix', 'austin', 'nyc', 'chicago'];
                 for (const city of cities) {
                     const response = await fetch(`./data/${city}.json`);
                     state.data[city] = await response.json();
