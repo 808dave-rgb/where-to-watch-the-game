@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Where to Watch the Game - Find Your Sports Bar</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <style>
+        #map { height: 400px; width: 100%; }
+        .city-card { transition: transform 0.2s, box-shadow 0.2s; }
+        .city-card:hover { transform: translateY(-4px); box-shadow: 0 8px 16px rgba(0,0,0,0.2); }
+        .sport-btn, .team-card { transition: all 0.2s; }
+        .sport-btn:hover, .team-card:hover { transform: scale(1.02); }
+        .sport-btn.selected, .team-card.selected { 
+            background-color: #3b82f6; 
+            color: white;
+            border-color: #2563eb;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <!-- Breadcrumb Navigation -->
+    <nav id="breadcrumb" class="bg-white shadow-sm py-3 px-4 hidden">
+        <div class="max-w-6xl mx-auto">
+            <div class="flex items-center text-sm space-x-2">
+                <button id="breadcrumb-home" class="text-blue-600 hover:text-blue-800">🏠 Home</button>
+                <span id="breadcrumb-trail" class="text-gray-600"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Container -->
+    <div class="max-w-6xl mx-auto px-4 py-8">
+        
+        <!-- Step 1: City Selection -->
+        <div id="step1" class="step">
+            <div class="text-center mb-8">
+                <h1 class="text-4xl font-bold text-gray-900 mb-2">Where to Watch the Game</h1>
+                <p class="text-xl text-gray-600">Find the perfect sports bar for your team</p>
+            </div>
+            
+            <h2 class="text-2xl font-semibold text-gray-800 mb-6 text-center">Choose Your City</h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <button onclick="selectCity('denver')" class="city-card bg-white rounded-lg shadow-lg p-8 text-center cursor-pointer hover:shadow-xl">
+                    <div class="text-6xl mb-4">🏔️</div>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-2">Denver</h3>
+                    <p class="text-gray-600" id="denver-count">Loading...</p>
+                </button>
+                
+                <button onclick="selectCity('las-vegas')" class="city-card bg-white rounded-lg shadow-lg p-8 text-center cursor-pointer hover:shadow-xl">
+                    <div class="text-6xl mb-4">🎰</div>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-2">Las Vegas</h3>
+                    <p class="text-gray-600" id="las-vegas-count">Loading...</p>
+                </button>
+                
+                <button onclick="selectCity('orange-county')" class="city-card bg-white rounded-lg shadow-lg p-8 text-center cursor-pointer hover:shadow-xl">
+                    <div class="text-6xl mb-4">🏖️</div>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-2">Orange County</h3>
+                    <p class="text-gray-600" id="orange-county-count">Loading...</p>
+                </button>
+            </div>
+        </div>
+
+        <!-- Step 2: Sport Selection -->
+        <div id="step2" class="step hidden">
+            <button onclick="goBack()" class="mb-6 text-blue-600 hover:text-blue-800 flex items-center">
+                <span class="text-xl mr-2">←</span> Back
+            </button>
+            
+            <h2 class="text-2xl font-semibold text-gray-800 mb-6 text-center">Choose Your Sport</h2>
+            
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4" id="sport-buttons">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+
+        <!-- Step 3: Team Selection -->
+        <div id="step3" class="step hidden">
+            <button onclick="goBack()" class="mb-6 text-blue-600 hover:text-blue-800 flex items-center">
+                <span class="text-xl mr-2">←</span> Back
+            </button>
+            
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4 text-center">Choose Your Team(s)</h2>
+            <p class="text-center text-gray-600 mb-6">Select one or multiple teams</p>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-6" id="team-cards">
+                <!-- Populated by JavaScript -->
+            </div>
+            
+            <div class="text-center">
+                <button onclick="showResults()" class="bg-blue-600 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-blue-700 shadow-lg">
+                    Show Results
+                </button>
+            </div>
+        </div>
+
+        <!-- Step 4: Results -->
+        <div id="step4" class="step hidden">
+            <button onclick="goBack()" class="mb-6 text-blue-600 hover:text-blue-800 flex items-center">
+                <span class="text-xl mr-2">←</span> Back
+            </button>
+            
+            <h2 class="text-2xl font-semibold text-gray-800 mb-6 text-center">Your Sports Bars</h2>
+            
+            <div id="results-count" class="text-center text-gray-600 mb-6"></div>
+            
+            <!-- Map -->
+            <div class="mb-6 rounded-lg overflow-hidden shadow-lg">
+                <div id="map"></div>
+            </div>
+            
+            <!-- Bar Cards -->
+            <div id="results-list" class="space-y-4">
+                <!-- Populated by JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <script>
+        // State management
+        const state = {
+            currentStep: 1,
+            city: null,
+            sport: null,
+            teams: [],
+            cityData: {},
+            map: null,
+            markers: []
+        };
+
+        // Load data on page load
+        async function loadData() {
+            const cities = ['denver', 'las-vegas', 'orange-county'];
+            
+            for (const city of cities) {
+                try {
+                    const response = await fetch(`./data/${city}.json`);
+                    const data = await response.json();
+                    state.cityData[city] = data;
+                    
+                    // Update city card count
+                    const countEl = document.getElementById(`${city}-count`);
+                    if (countEl) {
+                        countEl.textContent = `${data.total_bars} bars`;
+                    }
+                } catch (error) {
+                    console.error(`Error loading ${city} data:`, error);
+                }
+            }
+        }
+
+        // Step navigation
+        function showStep(step) {
+            document.querySelectorAll('.step').forEach(el => el.classList.add('hidden'));
+            document.getElementById(`step${step}`).classList.remove('hidden');
+            state.currentStep = step;
+            updateBreadcrumb();
+        }
+
+        function goBack() {
+            if (state.currentStep === 2) {
+                state.city = null;
+                showStep(1);
+            } else if (state.currentStep === 3) {
+                state.sport = null;
+                showStep(2);
+                populateSports();
+            } else if (state.currentStep === 4) {
+                state.teams = [];
+                showStep(3);
+                populateTeams();
+            }
+        }
+
+        // Update breadcrumb
+        function updateBreadcrumb() {
+            const breadcrumb = document.getElementById('breadcrumb');
+            const trail = document.getElementById('breadcrumb-trail');
+            
+            if (state.currentStep === 1) {
+                breadcrumb.classList.add('hidden');
+                return;
+            }
+            
+            breadcrumb.classList.remove('hidden');
+            let path = [];
+            
+            if (state.city) {
+                const cityName = state.city.replace('-', ' ').split(' ')
+                    .map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+                path.push(cityName);
+            }
+            if (state.sport) path.push(state.sport);
+            if (state.teams.length > 0) {
+                path.push(state.teams.length === 1 ? state.teams[0] : `${state.teams.length} teams`);
+            }
+            
+            trail.textContent = path.length > 0 ? ' > ' + path.join(' > ') : '';
+        }
+
+        // Home button
+        document.getElementById('breadcrumb-home').addEventListener('click', () => {
+            state.city = null;
+            state.sport = null;
+            state.teams = [];
+            showStep(1);
+        });
+
+        // Step 1: Select City
+        function selectCity(city) {
+            state.city = city;
+            showStep(2);
+            populateSports();
+        }
+
+        // Step 2: Populate and select sport
+        function populateSports() {
+            const data = state.cityData[state.city];
+            const container = document.getElementById('sport-buttons');
+            container.innerHTML = '';
+            
+            // Count bars per sport
+            const sportCounts = {};
+            data.sports.forEach(sport => {
+                sportCounts[sport] = data.bars.filter(bar => 
+                    bar.sports && bar.sports.includes(sport)
+                ).length;
+            });
+            
+            // Create sport buttons
+            const sportEmojis = {
+                'NFL': '🏈',
+                'MLB': '⚾',
+                'NHL': '🏒',
+                'NBA': '🏀'
+            };
+            
+            data.sports.forEach(sport => {
+                const btn = document.createElement('button');
+                btn.className = 'sport-btn bg-white rounded-lg shadow-lg p-6 text-center cursor-pointer hover:shadow-xl border-2 border-transparent';
+                btn.onclick = () => selectSport(sport);
+                btn.innerHTML = `
+                    <div class="text-4xl mb-2">${sportEmojis[sport] || '🏆'}</div>
+                    <div class="text-xl font-bold text-gray-900">${sport}</div>
+                    <div class="text-gray-600">${sportCounts[sport] || 0} bars</div>
+                `;
+                container.appendChild(btn);
+            });
+        }
+
+        function selectSport(sport) {
+            state.sport = sport;
+            showStep(3);
+            populateTeams();
+        }
+
+        // Step 3: Populate and select teams
+        function populateTeams() {
+            const data = state.cityData[state.city];
+            const container = document.getElementById('team-cards');
+            container.innerHTML = '';
+            
+            // Get unique teams for this sport
+            const teamCounts = {};
+            data.bars.forEach(bar => {
+                if (bar.sports && bar.sports.includes(state.sport)) {
+                    bar.teams.forEach(team => {
+                        teamCounts[team] = (teamCounts[team] || 0) + 1;
+                    });
+                }
+            });
+            
+            // Sort teams by count
+            const sortedTeams = Object.entries(teamCounts)
+                .sort((a, b) => b[1] - a[1]);
+            
+            // Create team cards
+            sortedTeams.forEach(([team, count]) => {
+                const card = document.createElement('button');
+                card.className = 'team-card bg-white rounded-lg shadow-md p-4 text-left cursor-pointer hover:shadow-lg border-2 border-transparent';
+                card.onclick = () => toggleTeam(team, card);
+                card.innerHTML = `
+                    <div class="font-bold text-gray-900 mb-1">${team}</div>
+                    <div class="text-sm text-gray-600">${count} bar${count !== 1 ? 's' : ''}</div>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function toggleTeam(team, card) {
+            const index = state.teams.indexOf(team);
+            if (index === -1) {
+                state.teams.push(team);
+                card.classList.add('selected');
+            } else {
+                state.teams.splice(index, 1);
+                card.classList.remove('selected');
+            }
+        }
+
+        // Step 4: Show results
+        function showResults() {
+            if (state.teams.length === 0) {
+                alert('Please select at least one team');
+                return;
+            }
+            
+            showStep(4);
+            displayResults();
+        }
+
+        function displayResults() {
+            const data = state.cityData[state.city];
+            
+            // Filter bars
+            const filteredBars = data.bars.filter(bar => {
+                if (!bar.sports || !bar.sports.includes(state.sport)) return false;
+                return bar.teams.some(team => state.teams.includes(team));
+            });
+            
+            // Update count
+            document.getElementById('results-count').textContent = 
+                `Found ${filteredBars.length} bar${filteredBars.length !== 1 ? 's' : ''}`;
+            
+            // Display bar cards
+            const listContainer = document.getElementById('results-list');
+            listContainer.innerHTML = '';
+            
+            filteredBars.forEach(bar => {
+                const card = document.createElement('div');
+                card.className = 'bg-white rounded-lg shadow-md p-6';
+                
+                const matchingTeams = bar.teams.filter(team => state.teams.includes(team));
+                
+                card.innerHTML = `
+                    <h3 class="text-xl font-bold text-gray-900 mb-2">${bar.name}</h3>
+                    <div class="text-sm text-blue-600 mb-3">${matchingTeams.join(', ')}</div>
+                    ${bar.address ? `<p class="text-gray-700 mb-1">📍 ${bar.address}</p>` : ''}
+                    ${bar.phone ? `<p class="text-gray-700 mb-1">📞 ${bar.phone}</p>` : ''}
+                    ${bar.website && bar.website !== 'N/A' ? 
+                        `<p class="text-gray-700 mb-1">🌐 <a href="${bar.website}" target="_blank" class="text-blue-600 hover:underline">${bar.website}</a></p>` : 
+                        ''}
+                    ${bar.notes ? `<p class="text-gray-600 text-sm mt-2 italic">${bar.notes}</p>` : ''}
+                `;
+                listContainer.appendChild(card);
+            });
+            
+            // Initialize map
+            initMap(filteredBars);
+        }
+
+        // Initialize Leaflet map
+        function initMap(bars) {
+            // Clear existing map
+            if (state.map) {
+                state.map.remove();
+            }
+            
+            // Create new map
+            state.map = L.map('map').setView([39.7392, -104.9903], 11);
+            
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors',
+                maxZoom: 18
+            }).addTo(state.map);
+            
+            // City center coordinates
+            const cityCenters = {
+                'denver': [39.7392, -104.9903],
+                'las-vegas': [36.1699, -115.1398],
+                'orange-county': [33.7175, -117.8311]
+            };
+            
+            // Set map center
+            if (cityCenters[state.city]) {
+                state.map.setView(cityCenters[state.city], 11);
+            }
+            
+            // Add markers for bars with coordinates
+            bars.forEach(bar => {
+                // Note: The JSON doesn't include lat/lng coordinates
+                // In a production app, you'd geocode the addresses
+                // For now, we'll just show the map centered on the city
+            });
+            
+            // If no coordinates available, show message
+            if (bars.length > 0) {
+                const popup = L.popup()
+                    .setLatLng(cityCenters[state.city])
+                    .setContent(`<b>${bars.length} bars found in this area</b><br>Map markers coming soon!`)
+                    .openOn(state.map);
+            }
+        }
+
+        // Initialize app
+        loadData();
+    </script>
+</body>
+</html>
