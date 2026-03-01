@@ -94,7 +94,7 @@
                     <span class="mr-2">←</span> Back
                 </button>
                 <h2 class="text-2xl font-bold text-gray-800 mb-6 text-center">Pick Your Team</h2>
-                <div id="teams-container" class="grid grid-cols-2 md:grid-cols-3 gap-4">
+                <div id="teams-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                     <!-- Teams will be populated here -->
                 </div>
             </div>
@@ -113,6 +113,151 @@
     </div>
 
     <script>
+        // Team abbreviation mapping for ESPN logos
+        const teamAbbreviations = {
+            // NFL Teams
+            "Arizona Cardinals": { league: "nfl", abbr: "ari" },
+            "Atlanta Falcons": { league: "nfl", abbr: "atl" },
+            "Baltimore Ravens": { league: "nfl", abbr: "bal" },
+            "Buffalo Bills": { league: "nfl", abbr: "buf" },
+            "Carolina Panthers": { league: "nfl", abbr: "car" },
+            "Chicago Bears": { league: "nfl", abbr: "chi" },
+            "Cincinnati Bengals": { league: "nfl", abbr: "cin" },
+            "Cleveland Browns": { league: "nfl", abbr: "cle" },
+            "Dallas Cowboys": { league: "nfl", abbr: "dal" },
+            "Denver Broncos": { league: "nfl", abbr: "den" },
+            "Detroit Lions": { league: "nfl", abbr: "det" },
+            "Green Bay Packers": { league: "nfl", abbr: "gb" },
+            "Houston Texans": { league: "nfl", abbr: "hou" },
+            "Indianapolis Colts": { league: "nfl", abbr: "ind" },
+            "Jacksonville Jaguars": { league: "nfl", abbr: "jax" },
+            "Kansas City Chiefs": { league: "nfl", abbr: "kc" },
+            "Las Vegas Raiders": { league: "nfl", abbr: "lv" },
+            "Los Angeles Chargers": { league: "nfl", abbr: "lac" },
+            "Los Angeles Rams": { league: "nfl", abbr: "lar" },
+            "Miami Dolphins": { league: "nfl", abbr: "mia" },
+            "Minnesota Vikings": { league: "nfl", abbr: "min" },
+            "New England Patriots": { league: "nfl", abbr: "ne" },
+            "New Orleans Saints": { league: "nfl", abbr: "no" },
+            "New York Giants": { league: "nfl", abbr: "nyg" },
+            "New York Jets": { league: "nfl", abbr: "nyj" },
+            "Philadelphia Eagles": { league: "nfl", abbr: "phi" },
+            "Pittsburgh Steelers": { league: "nfl", abbr: "pit" },
+            "San Francisco 49ers": { league: "nfl", abbr: "sf" },
+            "Seattle Seahawks": { league: "nfl", abbr: "sea" },
+            "Tampa Bay Buccaneers": { league: "nfl", abbr: "tb" },
+            "Tennessee Titans": { league: "nfl", abbr: "ten" },
+            "Washington Commanders": { league: "nfl", abbr: "wsh" },
+            
+            // MLB Teams
+            "Arizona Diamondbacks": { league: "mlb", abbr: "ari" },
+            "Atlanta Braves": { league: "mlb", abbr: "atl" },
+            "Baltimore Orioles": { league: "mlb", abbr: "bal" },
+            "Boston Red Sox": { league: "mlb", abbr: "bos" },
+            "Chicago Cubs": { league: "mlb", abbr: "chc" },
+            "Chicago White Sox": { league: "mlb", abbr: "chw" },
+            "Cincinnati Reds": { league: "mlb", abbr: "cin" },
+            "Cleveland Guardians": { league: "mlb", abbr: "cle" },
+            "Colorado Rockies": { league: "mlb", abbr: "col" },
+            "Detroit Tigers": { league: "mlb", abbr: "det" },
+            "Houston Astros": { league: "mlb", abbr: "hou" },
+            "Kansas City Royals": { league: "mlb", abbr: "kc" },
+            "Los Angeles Angels": { league: "mlb", abbr: "laa" },
+            "Los Angeles Dodgers": { league: "mlb", abbr: "lad" },
+            "Miami Marlins": { league: "mlb", abbr: "mia" },
+            "Milwaukee Brewers": { league: "mlb", abbr: "mil" },
+            "Minnesota Twins": { league: "mlb", abbr: "min" },
+            "New York Mets": { league: "mlb", abbr: "nym" },
+            "New York Yankees": { league: "mlb", abbr: "nyy" },
+            "Oakland Athletics": { league: "mlb", abbr: "oak" },
+            "Philadelphia Phillies": { league: "mlb", abbr: "phi" },
+            "Pittsburgh Pirates": { league: "mlb", abbr: "pit" },
+            "San Diego Padres": { league: "mlb", abbr: "sd" },
+            "San Francisco Giants": { league: "mlb", abbr: "sf" },
+            "Seattle Mariners": { league: "mlb", abbr: "sea" },
+            "St. Louis Cardinals": { league: "mlb", abbr: "stl" },
+            "Tampa Bay Rays": { league: "mlb", abbr: "tb" },
+            "Texas Rangers": { league: "mlb", abbr: "tex" },
+            "Toronto Blue Jays": { league: "mlb", abbr: "tor" },
+            "Washington Nationals": { league: "mlb", abbr: "wsh" },
+            
+            // NHL Teams
+            "Anaheim Ducks": { league: "nhl", abbr: "ana" },
+            "Arizona Coyotes": { league: "nhl", abbr: "ari" },
+            "Boston Bruins": { league: "nhl", abbr: "bos" },
+            "Buffalo Sabres": { league: "nhl", abbr: "buf" },
+            "Calgary Flames": { league: "nhl", abbr: "cgy" },
+            "Carolina Hurricanes": { league: "nhl", abbr: "car" },
+            "Chicago Blackhawks": { league: "nhl", abbr: "chi" },
+            "Colorado Avalanche": { league: "nhl", abbr: "col" },
+            "Columbus Blue Jackets": { league: "nhl", abbr: "cbj" },
+            "Dallas Stars": { league: "nhl", abbr: "dal" },
+            "Detroit Red Wings": { league: "nhl", abbr: "det" },
+            "Edmonton Oilers": { league: "nhl", abbr: "edm" },
+            "Florida Panthers": { league: "nhl", abbr: "fla" },
+            "Los Angeles Kings": { league: "nhl", abbr: "la" },
+            "Minnesota Wild": { league: "nhl", abbr: "min" },
+            "Montreal Canadiens": { league: "nhl", abbr: "mtl" },
+            "Nashville Predators": { league: "nhl", abbr: "nsh" },
+            "New Jersey Devils": { league: "nhl", abbr: "njd" },
+            "New York Islanders": { league: "nhl", abbr: "nyi" },
+            "New York Rangers": { league: "nhl", abbr: "nyr" },
+            "Ottawa Senators": { league: "nhl", abbr: "ott" },
+            "Philadelphia Flyers": { league: "nhl", abbr: "phi" },
+            "Pittsburgh Penguins": { league: "nhl", abbr: "pit" },
+            "San Jose Sharks": { league: "nhl", abbr: "sjs" },
+            "Seattle Kraken": { league: "nhl", abbr: "sea" },
+            "St. Louis Blues": { league: "nhl", abbr: "stl" },
+            "Tampa Bay Lightning": { league: "nhl", abbr: "tbl" },
+            "Toronto Maple Leafs": { league: "nhl", abbr: "tor" },
+            "Vancouver Canucks": { league: "nhl", abbr: "van" },
+            "Vegas Golden Knights": { league: "nhl", abbr: "vgk" },
+            "Washington Capitals": { league: "nhl", abbr: "wsh" },
+            "Winnipeg Jets": { league: "nhl", abbr: "wpg" },
+            
+            // NBA Teams
+            "Atlanta Hawks": { league: "nba", abbr: "atl" },
+            "Boston Celtics": { league: "nba", abbr: "bos" },
+            "Brooklyn Nets": { league: "nba", abbr: "bkn" },
+            "Charlotte Hornets": { league: "nba", abbr: "cha" },
+            "Chicago Bulls": { league: "nba", abbr: "chi" },
+            "Cleveland Cavaliers": { league: "nba", abbr: "cle" },
+            "Dallas Mavericks": { league: "nba", abbr: "dal" },
+            "Denver Nuggets": { league: "nba", abbr: "den" },
+            "Detroit Pistons": { league: "nba", abbr: "det" },
+            "Golden State Warriors": { league: "nba", abbr: "gs" },
+            "Houston Rockets": { league: "nba", abbr: "hou" },
+            "Indiana Pacers": { league: "nba", abbr: "ind" },
+            "LA Clippers": { league: "nba", abbr: "lac" },
+            "Los Angeles Clippers": { league: "nba", abbr: "lac" },
+            "Los Angeles Lakers": { league: "nba", abbr: "lal" },
+            "Memphis Grizzlies": { league: "nba", abbr: "mem" },
+            "Miami Heat": { league: "nba", abbr: "mia" },
+            "Milwaukee Bucks": { league: "nba", abbr: "mil" },
+            "Minnesota Timberwolves": { league: "nba", abbr: "min" },
+            "New Orleans Pelicans": { league: "nba", abbr: "no" },
+            "New York Knicks": { league: "nba", abbr: "ny" },
+            "Oklahoma City Thunder": { league: "nba", abbr: "okc" },
+            "Orlando Magic": { league: "nba", abbr: "orl" },
+            "Philadelphia 76ers": { league: "nba", abbr: "phi" },
+            "Phoenix Suns": { league: "nba", abbr: "phx" },
+            "Portland Trail Blazers": { league: "nba", abbr: "por" },
+            "Sacramento Kings": { league: "nba", abbr: "sac" },
+            "San Antonio Spurs": { league: "nba", abbr: "sa" },
+            "Toronto Raptors": { league: "nba", abbr: "tor" },
+            "Utah Jazz": { league: "nba", abbr: "utah" },
+            "Washington Wizards": { league: "nba", abbr: "wsh" }
+        };
+
+        // Get team logo URL from ESPN CDN
+        function getTeamLogoUrl(teamName, league) {
+            const teamInfo = teamAbbreviations[teamName];
+            if (teamInfo) {
+                return `https://a.espncdn.com/i/teamlogos/${teamInfo.league}/500/${teamInfo.abbr}.png`;
+            }
+            return null;
+        }
+
         // State
         let state = {
             city: null,
@@ -205,11 +350,31 @@
             sortedTeams.forEach(([teamName, bars]) => {
                 const button = document.createElement('button');
                 button.onclick = () => selectTeam(teamName, bars);
-                button.className = 'p-4 bg-gray-50 hover:bg-gray-100 border border-gray-200 rounded-lg text-left transition-all transform hover:scale-105';
-                button.innerHTML = `
-                    <div class="font-bold text-gray-800">${teamName}</div>
-                    <div class="text-sm text-gray-600 mt-1">${bars.length} bar${bars.length !== 1 ? 's' : ''}</div>
-                `;
+                button.className = 'p-4 bg-gray-50 hover:bg-gray-100 border border-gray-200 rounded-lg text-left transition-all transform hover:scale-105 hover:shadow-lg';
+                
+                const logoUrl = getTeamLogoUrl(teamName, state.league);
+                
+                if (logoUrl) {
+                    button.innerHTML = `
+                        <div class="flex items-center space-x-3">
+                            <img src="${logoUrl}" 
+                                 alt="${teamName}" 
+                                 class="w-16 h-16 object-contain flex-shrink-0"
+                                 onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+                            <div class="hidden text-3xl">🏆</div>
+                            <div class="flex-1 min-w-0">
+                                <div class="font-bold text-gray-800">${teamName}</div>
+                                <div class="text-sm text-gray-600 mt-1">${bars.length} bar${bars.length !== 1 ? 's' : ''}</div>
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    button.innerHTML = `
+                        <div class="font-bold text-gray-800">${teamName}</div>
+                        <div class="text-sm text-gray-600 mt-1">${bars.length} bar${bars.length !== 1 ? 's' : ''}</div>
+                    `;
+                }
+                
                 container.appendChild(button);
             });
 
