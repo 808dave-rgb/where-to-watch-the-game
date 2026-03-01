@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Where to Watch the Game - Sports Bar Directory</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .header {
+            background: rgba(255, 255, 255, 0.95);
+            padding: 1.5rem 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header h1 {
+            font-size: 2rem;
+            color: #2d3748;
+            margin-bottom: 0.5rem;
+        }
+        
+        .header .tagline {
+            color: #718096;
+            font-size: 1.1rem;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        .cities-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .city-card {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            cursor: pointer;
+        }
+        
+        .city-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+        }
+        
+        .city-card h2 {
+            font-size: 1.75rem;
+            color: #2d3748;
+            margin-bottom: 1rem;
+        }
+        
+        .city-stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .stat {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: #f7fafc;
+            border-radius: 8px;
+            font-size: 0.9rem;
+        }
+        
+        .stat .emoji {
+            font-size: 1.2rem;
+        }
+        
+        .stat .number {
+            font-weight: 700;
+            color: #5a67d8;
+        }
+        
+        .explore-btn {
+            display: inline-block;
+            margin-top: 1.5rem;
+            padding: 0.75rem 1.5rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: transform 0.2s;
+        }
+        
+        .explore-btn:hover {
+            transform: scale(1.05);
+        }
+        
+        #map {
+            width: 100%;
+            height: 500px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+        
+        .map-section {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+        
+        .map-section h2 {
+            margin-bottom: 1rem;
+            color: #2d3748;
+        }
+        
+        .leaflet-popup-content {
+            font-size: 14px;
+        }
+        
+        .popup-city {
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: #2d3748;
+            margin-bottom: 0.5rem;
+        }
+        
+        .popup-stats {
+            color: #718096;
+            margin-bottom: 0.5rem;
+        }
+        
+        .popup-link {
+            display: inline-block;
+            margin-top: 0.5rem;
+            color: #5a67d8;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .popup-link:hover {
+            text-decoration: underline;
+        }
+        
+        .sports-legend {
+            display: flex;
+            gap: 1.5rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .legend-emoji {
+            font-size: 1.5rem;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 2rem;
+            color: white;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.5rem;
+            }
+            
+            .header .tagline {
+                font-size: 0.95rem;
+            }
+            
+            .cities-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+            
+            #map {
+                height: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏈⚾🏒🏀 Where to Watch the Game</h1>
+        <p class="tagline">Find your team's bar in Denver, Las Vegas, and Orange County</p>
+    </div>
+    
+    <div class="container">
+        <div class="cities-grid">
+            <div class="city-card" onclick="location.href='cities/denver.html'">
+                <h2>🏔️ Denver</h2>
+                <p>Mile High sports culture with dedicated team bars</p>
+                <div class="city-stats">
+                    <div class="stat">
+                        <span class="emoji">🍻</span>
+                        <span><span class="number">138</span> bars</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">🏈</span>
+                        <span><span class="number">77</span> NFL</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">🏀</span>
+                        <span><span class="number">29</span> NBA</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">🏒</span>
+                        <span><span class="number">27</span> NHL</span>
+                    </div>
+                </div>
+                <a href="cities/denver.html" class="explore-btn">Explore Denver Bars →</a>
+            </div>
+            
+            <div class="city-card" onclick="location.href='cities/las-vegas.html'">
+                <h2>🎰 Las Vegas</h2>
+                <p>Entertainment capital with sports bars for every team</p>
+                <div class="city-stats">
+                    <div class="stat">
+                        <span class="emoji">🍻</span>
+                        <span><span class="number">61</span> bars</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">🏈</span>
+                        <span><span class="number">40</span> NFL</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">🏒</span>
+                        <span><span class="number">9</span> NHL</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">⚾</span>
+                        <span><span class="number">6</span> MLB</span>
+                    </div>
+                </div>
+                <a href="cities/las-vegas.html" class="explore-btn">Explore Vegas Bars →</a>
+            </div>
+            
+            <div class="city-card" onclick="location.href='cities/orange-county.html'">
+                <h2>🌊 Orange County</h2>
+                <p>Southern California sports scene with beach vibes</p>
+                <div class="city-stats">
+                    <div class="stat">
+                        <span class="emoji">🍻</span>
+                        <span><span class="number">80</span> bars</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">⚾</span>
+                        <span><span class="number">39</span> MLB</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">🏈</span>
+                        <span><span class="number">30</span> NFL</span>
+                    </div>
+                    <div class="stat">
+                        <span class="emoji">🏀</span>
+                        <span><span class="number">6</span> NBA</span>
+                    </div>
+                </div>
+                <a href="cities/orange-county.html" class="explore-btn">Explore OC Bars →</a>
+            </div>
+        </div>
+        
+        <div class="map-section">
+            <h2>🗺️ Explore Our Cities</h2>
+            <div class="sports-legend">
+                <div class="legend-item">
+                    <span class="legend-emoji">🏈</span>
+                    <span>NFL</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-emoji">⚾</span>
+                    <span>MLB</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-emoji">🏒</span>
+                    <span>NHL</span>
+                </div>
+                <div class="legend-item">
+                    <span class="legend-emoji">🏀</span>
+                    <span>NBA</span>
+                </div>
+            </div>
+            <div id="map"></div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Made with 🏈⚾🏒🏀 for sports fans everywhere</p>
+        <p>Data compiled from fan clubs, Reddit, and local sports communities</p>
+    </footer>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // Initialize map centered on US
+        const map = L.map('map').setView([38.5, -110], 4);
+        
+        // Add tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        }).addTo(map);
+        
+        // City locations and data
+        const cities = [
+            {
+                name: 'Denver',
+                coords: [39.7392, -104.9903],
+                bars: 138,
+                url: 'cities/denver.html',
+                stats: 'NFL: 77 | NBA: 29 | NHL: 27 | MLB: 5'
+            },
+            {
+                name: 'Las Vegas',
+                coords: [36.1699, -115.1398],
+                bars: 61,
+                url: 'cities/las-vegas.html',
+                stats: 'NFL: 40 | NHL: 9 | MLB: 6 | NBA: 6'
+            },
+            {
+                name: 'Orange County',
+                coords: [33.7175, -117.8311],
+                bars: 80,
+                url: 'cities/orange-county.html',
+                stats: 'MLB: 39 | NFL: 30 | NBA: 6 | NHL: 5'
+            }
+        ];
+        
+        // Custom icon for cities
+        const cityIcon = L.divIcon({
+            className: 'custom-marker',
+            html: '<div style="background: #5a67d8; color: white; padding: 10px 15px; border-radius: 20px; font-weight: bold; box-shadow: 0 2px 10px rgba(0,0,0,0.2);">🍻</div>',
+            iconSize: [50, 40]
+        });
+        
+        // Add markers for each city
+        cities.forEach(city => {
+            const marker = L.marker(city.coords, { icon: cityIcon }).addTo(map);
+            
+            marker.bindPopup(`
+                <div class="popup-city">${city.name}</div>
+                <div class="popup-stats">${city.bars} sports bars</div>
+                <div class="popup-stats">${city.stats}</div>
+                <a href="${city.url}" class="popup-link">View Directory →</a>
+            `);
+            
+            marker.on('click', () => {
+                map.flyTo(city.coords, 11);
+            });
+        });
+        
+        // Fit map to show all cities
+        const bounds = cities.map(c => c.coords);
+        map.fitBounds(bounds, { padding: [50, 50] });
+    </script>
+</body>
+</html>
