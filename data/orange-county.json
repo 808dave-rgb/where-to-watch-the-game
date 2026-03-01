@@ -1,0 +1,2398 @@
+{
+  "city": "orange-county",
+  "total_bars": 80,
+  "sports": [
+    "MLB",
+    "NFL",
+    "NBA",
+    "NHL"
+  ],
+  "bars": [
+    {
+      "name": "A Slice of New York Pizza",
+      "teams": [
+        "Yankees"
+      ],
+      "address": "Huntington Beach, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Can draw Yankees crowds for big games like World Series. | https://www.reddit.com/r/orangecounty/comments/1g72ws8/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Aces Bar & Grill",
+      "teams": [
+        "Angels"
+      ],
+      "address": "3538 E Chapman Ave, Orange, CA 92869",
+      "phone": "(714) 628-9404",
+      "website": "https://www.acesbarandgrilloc.com/",
+      "notes": "Craft food, beer, cocktails, daily specials, weekend brunch, across from Fred Kelly Stadium. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Anaheim Packing House",
+      "teams": [
+        "Dodgers"
+      ],
+      "address": "Anaheim, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Has shown Dodgers games on big projector screen during playoffs/World Series. | https://www.reddit.com/r/orangecounty/comments/1gcr745/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Avenue Restaurant and Music Lounge",
+      "teams": [
+        "Dallas Cowboys"
+      ],
+      "address": "1750 W Lincoln Ave, Anaheim, CA 92801",
+      "phone": "(714) 833-5707",
+      "website": "http://avenueorangecounty.com",
+      "notes": "No confirmed Commanders bars in Orange County or nearby. Consider general sports bars.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "BIG's Grill",
+      "teams": [
+        "Angels"
+      ],
+      "address": "323 N State College Blvd, Fullerton, CA 92831",
+      "phone": "(714) 526-4950",
+      "website": "https://www.bigsfullerton.com/",
+      "notes": "Wings in 13 flavors, multiple HD TVs, Angels viewing spot. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "BJ's Restaurant & Brewhouse (Multiple Locations)",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "Multiple OC locations",
+      "phone": "Varies by location",
+      "website": "https://www.bjsrestaurants.com/",
+      "notes": "Brewhouse chain with sports viewing, reliable for MLB games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "BJ's Restaurant and Brewhouse",
+      "teams": [
+        "Additional Orange County Sports Bars (All Teams)"
+      ],
+      "address": "13130 Jamboree Rd, Irvine, CA 92602",
+      "phone": "(714) 665-8595",
+      "website": "https://www.bjsrestaurants.com/locations/ca/irvine",
+      "notes": "Chain brewhouse with multiple locations, shows NBA games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "NBA"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "BWW (Buffalo Wild Wings)",
+      "teams": [
+        "GENERAL SPORTS BARS (All NFL Games)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Bowlero Orange County",
+      "teams": [
+        "New England Patriots"
+      ],
+      "address": "2405 Park Ave, Tustin, CA 92782",
+      "phone": "(714) 258-2695",
+      "website": "https://www.bowlero.com/location/bowlero-orange-county",
+      "notes": "Bengals West fan club meets in Eagle Rock (LA). Consider general sports bars.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Brewery X",
+      "teams": [
+        "Anaheim Ducks",
+        "Dodgers"
+      ],
+      "address": "Anaheim, CA",
+      "phone": "(760) 530-6040",
+      "website": "https://www.brewery-x.com",
+      "notes": "Has broadcasted Dodgers World Series games on outdoor patio with good fan turnout. | https://www.reddit.com/r/orangecounty/comments/1gcr745/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Buffalo Wild Wings (Multiple Locations)",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "Multiple OC locations",
+      "phone": "Varies by location",
+      "website": "https://www.buffalowildwings.com/",
+      "notes": "Chain sports bar with extensive screen coverage, will show any MLB game. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Campus Craft Beer - Billiards & Sports Bar",
+      "teams": [
+        "Dodgers"
+      ],
+      "address": "Cypress, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Official LA & OC Dodgers Fan Club meeting spot, large sports bar. | https://www.meetup.com/dodgers-fans-la-oc/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Capri Bar & Grill",
+      "teams": [
+        "Angels"
+      ],
+      "address": "Orange, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Elevated sports bar with HD TVs, outdoor patio, Angels games. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Classic Q",
+      "teams": [
+        "76ers",
+        "Celtics",
+        "Clippers",
+        "GENERAL SPORTS BARS (All NFL Games)",
+        "Hawks",
+        "Hornets",
+        "Jazz",
+        "Kings",
+        "Knicks",
+        "Lakers",
+        "Magic",
+        "Nets",
+        "Nuggets",
+        "Pacers",
+        "Pelicans",
+        "Pistons",
+        "Raptors",
+        "Rockets",
+        "Suns",
+        "Thunder",
+        "Warriors",
+        "Wizards"
+      ],
+      "address": "4251 MacArthur Blvd, Newport Beach, CA 92660",
+      "phone": "(949) 261-9458",
+      "website": "https://www.classicq.com",
+      "notes": "Upscale sports bar, hosts multiple fan groups",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Costa Mesa 55 Tavern+Bowl",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "address": "1875 Newport Blvd, Costa Mesa, CA 92627",
+      "phone": "(949) 438-2320",
+      "website": "http://tavernbowl.com/newport-blvd-costa-mesa",
+      "notes": "Triangle Square location is heart of OC Seahawks fandom. Instagram: @ocseattleseahawkfans",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Cruisers Pizza Bar & Grill",
+      "teams": [
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "address": "Huntington Beach, CA (specific address needed)",
+      "phone": "",
+      "website": "",
+      "notes": "Popular sports bar with NHL coverage | https://www.opentable.com/cuisine/best-sports-bar-restaurants-orange-county-ca-costa-mesa",
+      "sports": [
+        "NHL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Cruisers Pizza Bar Grill (Huntington Beach)",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "address": "210 5th St, Huntington Beach, CA 92648",
+      "phone": "(657) 301-2200",
+      "website": "https://www.cruiserspizzabargrill.com",
+      "notes": "Detroit Lions Fan Club LA meets in El Segundo. Consider general sports bars or LA locations.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Cruisers Pizza Bar Grill (Newport Beach)",
+      "teams": [
+        "Buffalo Bills",
+        "Chicago Bears",
+        "Green Bay Packers"
+      ],
+      "address": "801 E Balboa Blvd, Newport Beach, CA 92661",
+      "phone": "(949) 220-9414",
+      "website": "https://www.cruiserspizzabargrill.com",
+      "notes": "One owner is diehard Bills fan; Chicago-style deep dish pizza, 30+ HDTVs, 4K projector. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Cruisers Pizza Bar and Grill",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "210 5th St, Huntington Beach, CA 92648",
+      "phone": "(657) 301-2200",
+      "website": "https://www.cruiserspizzabargrill.com/",
+      "notes": "Downtown Huntington Beach sports viewing spot. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Daily's Sports Grill",
+      "teams": [
+        "Additional Orange County Sports Bars (All Teams)"
+      ],
+      "address": "29881 Aventura, Rancho Santa Margarita, CA 92688",
+      "phone": "(949) 858-5788",
+      "website": "https://www.dailyssportsgrill.org",
+      "notes": "Shows all NBA games, multiple screens. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "NBA"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Danny K's Billards and Sports Bar",
+      "teams": [
+        "Additional Orange County Sports Bars (All Teams)"
+      ],
+      "address": "1096 N Main St, Orange, CA 92868",
+      "phone": "(714) 771-9706",
+      "website": "http://dannyks.com",
+      "notes": "Multiple screens, pool tables, shows all NBA games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "NBA"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Danny K's Billiards & Sports Bar",
+      "teams": [
+        "Anaheim Ducks",
+        "Angels",
+        "GENERAL SPORTS BARS (All NFL Games)",
+        "Los Angeles Kings"
+      ],
+      "address": "Orange (specific address via search)",
+      "phone": "(714) 771-9706",
+      "website": "https://www.dannyks.com/",
+      "notes": "Large venue with many big screens",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Dave & Buster's",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "20 City Blvd W, Orange, CA 92868",
+      "phone": "(714) 769-1515",
+      "website": "https://www.daveandbusters.com/",
+      "notes": "Entertainment complex with extensive sports viewing. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Dave & Buster's Orange",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "address": "20 City Blvd W, Orange, CA 92868",
+      "phone": "(714) 769-1515",
+      "website": "https://www.daveandbusters.com",
+      "notes": "Home of DHBC Orange County fan club; family-friendly with arcade games. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Garf's Sports Lounge",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "3046 Bristol St, Costa Mesa, CA 92626",
+      "phone": "(714) 435-4070",
+      "website": "https://www.garfsbar.com/",
+      "notes": "Popular Costa Mesa sports bar with extensive TV coverage. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "General OC Sports Bars",
+      "teams": [
+        "Dodgers"
+      ],
+      "address": "Various locations throughout Orange County",
+      "phone": "",
+      "website": "",
+      "notes": "Most OC sports bars show Dodgers games due to large fan base in region. | https://www.reddit.com/r/orangecounty/comments/1fz6d3f/dodgers_bar_in_oc/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "General Sports Bars",
+      "teams": [
+        "Astros",
+        "Athletics",
+        "Blue Jays",
+        "Braves",
+        "Brewers",
+        "Cardinals",
+        "Cubs",
+        "Diamondbacks",
+        "Giants (San Francisco)",
+        "Guardians",
+        "Mariners",
+        "Marlins",
+        "Mets",
+        "Nationals",
+        "Orioles",
+        "Padres",
+        "Phillies",
+        "Pirates",
+        "Rangers",
+        "Rays",
+        "Red Sox",
+        "Reds",
+        "Rockies",
+        "Royals",
+        "Tigers",
+        "Twins",
+        "White Sox",
+        "Yankees"
+      ],
+      "address": "Throughout Orange County, especially south OC",
+      "phone": "",
+      "website": "",
+      "notes": "Southern OC residents can catch Padres games at most sports bars; dedicated bars in San Diego. | https://www.sandiegouniontribune.com/2024/10/03/padres-limit-scarce-postseason-ticket-sales-to-san-diego-area-fans/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Golden Road Brewing Anaheim",
+      "teams": [
+        "Anaheim Ducks"
+      ],
+      "address": "2210 E Orangewood Ave, Anaheim, CA 92806",
+      "phone": "(714) 363-3537",
+      "website": "https://www.goldenroad.la/anaheim",
+      "notes": "Official Ducks watch party venue near Honda Center | https://gamewatch.info/teams/anaheim-ducks",
+      "sports": [
+        "NHL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "HQ Gastropub",
+      "teams": [
+        "Angels"
+      ],
+      "address": "155 5th Street, Huntington Beach, CA 92648",
+      "phone": "(714) 369-2155",
+      "website": "https://www.hqgastropub.com/",
+      "notes": "Upscale gastropub with multiple TVs, craft cocktails, and gourmet menu options. | https://localemagazine.com/best-baseball-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Harvey's Sports Bar",
+      "teams": [
+        "Angels"
+      ],
+      "address": "1728 S Euclid St, Anaheim, CA 92802",
+      "phone": "(714) 635-0462",
+      "website": "https://www.facebook.com/harveyssportsbar/",
+      "notes": "General sports bar in Anaheim showing Angels games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Helmsman Ale House",
+      "teams": [
+        "Cubs"
+      ],
+      "address": "2920 Newport Blvd, Newport Beach, CA 92663",
+      "phone": "(949) 220-9977",
+      "website": "https://helmsmanalehouse.com/",
+      "notes": "Bartender confirmed Cubs games shown when requested, Cubs fan-friendly. | https://www.reddit.com/r/orangecounty/comments/1nia5s4/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Heroes Bar & Grill",
+      "teams": [
+        "Angels"
+      ],
+      "address": "Fullerton, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Family-friendly comfort food spot, popular for Angels games. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Hollingshead's Delicatessen",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "address": "368 S Main St, Orange, CA 92868",
+      "phone": "",
+      "website": "https://www.hollingsheadsdeli.com",
+      "notes": "Decorated wall-to-wall with Wisconsin Packers memorabilia; legendary OC deli and beer haven. | https://www.reddit.com/r/orangecounty/comments/161cejn/green_bay_packers_bar/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "InCahoots",
+      "teams": [
+        "Dallas Cowboys"
+      ],
+      "address": "1401 S Lemon St, Fullerton, CA 92832",
+      "phone": "(714) 441-1666",
+      "website": "https://ocincahoots.com",
+      "notes": "Home of Orange County chapter of So Cal Dallas Cowboys Fan Club; country western bar. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "JT Schmid's Restaurant & Brewery",
+      "teams": [
+        "Anaheim Ducks",
+        "Angels"
+      ],
+      "address": "2610 E Katella Avenue, Anaheim, CA 92806",
+      "phone": "(714) 634-9200",
+      "website": "http://jtschmidsrestaurants.com",
+      "notes": "Near Angel Stadium, brewery with food and multiple screens. | https://accidentaltravelwriter.com/los-angeles-angels-bars/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Keno's Sports Bar",
+      "teams": [
+        "Angels"
+      ],
+      "address": "2661 W La Palma Ave, Anaheim, CA 92801",
+      "phone": "(714) 761-5366",
+      "website": "https://kenossportsbarca.com/",
+      "notes": "Anaheim sports bar popular for Angels games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Killarney's Irish Pub",
+      "teams": [
+        "Las Vegas Raiders"
+      ],
+      "address": "209 Main St, Huntington Beach, CA 92648",
+      "phone": "(714) 536-7887",
+      "website": "https://killarneysirishpubhb.com",
+      "notes": "Called \"#1 Raiders bar in the nation\"; former Raiders players sign autographs nearly every week. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "La Barca",
+      "teams": [
+        "Dodgers"
+      ],
+      "address": "Whittier Blvd, La Habra, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Popular with OC/East LA Dodgers fans. | https://dodgersbeat.com/where-to-watch-dodger-games/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Lazy Dog Restaurant and Bar (Multiple Locations)",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "Multiple OC locations",
+      "phone": "Varies by location",
+      "website": "https://www.lazydogrestaurants.com/",
+      "notes": "Family-friendly chain with sports viewing capabilities. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Lopez & Lefty's",
+      "teams": [
+        "Angels"
+      ],
+      "address": "2050 S State College Blvd, Anaheim, CA 92806",
+      "phone": "",
+      "website": "https://www.lopezandleftys.com/",
+      "notes": "Sports bar minutes from Angel Stadium, 25+ draft beers, Mexican-inspired menu. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Magdalena Kitchen & Bar",
+      "teams": [
+        "Angels"
+      ],
+      "address": "Near Angel Stadium, Anaheim, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Upscale bar/restaurant steps from Angel Stadium, margaritas and upscale menu. | https://localemagazine.com/best-baseball-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Marlin Bar & Grill",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "address": "5874 Edinger Ave, Huntington Beach, CA 92649",
+      "phone": "(714) 861-1465",
+      "website": "http://marlinbar.com",
+      "notes": "Green Bay Packers fans gather here; 7 HD projection screens, 16 flat-screen TVs, Sunday brunch. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Michael's Sports Pub and Grill",
+      "teams": [
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "address": "15192 Goldenwest St, Westminster, CA 92683",
+      "phone": "(714) 373-5665",
+      "website": "http://www.michaelssportspubandgrill.com",
+      "notes": "37 TVs, shows all major sports including NHL | https://www.cbsnews.com/losangeles/news/best-bars-to-watch-hockey-in-oc/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Mulleady's Sports Pub",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "27695 Santa Margarita Pkwy #B, Mission Viejo, CA 92691",
+      "phone": "(949) 380-3752",
+      "website": "http://mymulleadys.com/",
+      "notes": "Mission Viejo sports pub with good screen coverage. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Mulleady's Sports Pub and Grill",
+      "teams": [
+        "Lakers"
+      ],
+      "address": "27695 Santa Margarita Pkwy Ste B, Mission Viejo, CA 92691",
+      "phone": "(949) 380-3752",
+      "website": "http://mymulleadys.com",
+      "notes": "Family-owned since 2001, multiple flat screens, shows Lakers and all NBA games. | https://www.cbsnews.com/losangeles/news/best-bars-to-watch-basketball-in-oc/",
+      "sports": [
+        "NBA"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Mutt Lynch's",
+      "teams": [
+        "Angels",
+        "GENERAL SPORTS BARS (All NFL Games)"
+      ],
+      "address": "2300 W Oceanfront, Newport Beach, CA",
+      "phone": "(949) 675-1556",
+      "website": "https://www.muttlynchs.com/",
+      "notes": "Rowdy beach institution",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "My Place Sports Bar & Grill",
+      "teams": [
+        "Kansas City Chiefs"
+      ],
+      "address": "5452 Commercial Drive, Huntington Beach, CA 92649",
+      "phone": "(714) 892-8706",
+      "website": "https://myplacesportsbar.com",
+      "notes": "Home of Chiefs LA Huntington Beach Chapter; family-friendly with pool tables and many TVs. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "New York Mets Fans in Los Angeles Meetup",
+      "teams": [
+        "Mets"
+      ],
+      "address": "Venues vary, members travel from Orange County",
+      "phone": "",
+      "website": "https://www.meetup.com/metsfansinla/",
+      "notes": "Meetup group for Mets fans in LA/OC/Ventura counties, no permanent bar. | https://www.meetup.com/metsfansinla/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Newport Rib Company",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "address": "2196 Harbor Blvd, Costa Mesa, CA 92627",
+      "phone": "(949) 631-2110",
+      "website": "http://ribcompany.com",
+      "notes": "Fans wearing Chargers gear receive happy hour prices during games. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Next Round Bar & Grill",
+      "teams": [
+        "Las Vegas Raiders"
+      ],
+      "address": "200 N Broadway, Santa Ana, CA 92701",
+      "phone": "(714) 392-7572",
+      "website": "https://nextroundbar.com/food-menu",
+      "notes": "Popular Raiders bar in downtown Santa Ana. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "O'Connell's Sports Pub & Grille",
+      "teams": [
+        "GENERAL ORANGE COUNTY SPORTS BARS",
+        "Red Sox"
+      ],
+      "address": "19047 Bushard St, Huntington Beach, CA 92646",
+      "phone": "(714) 964-6741",
+      "website": "https://www.hboconnells.com/",
+      "notes": "Top Yelp result for Red Sox bar in Orange County, Irish pub atmosphere. | https://www.yelp.com/search?find_desc=red+sox+bar&find_loc=Orange+County,+CA",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "O'Connell's Sports Pub and Grille",
+      "teams": [
+        "Bucks",
+        "Bulls",
+        "Cavaliers",
+        "Clippers",
+        "Grizzlies",
+        "Heat",
+        "Lakers",
+        "Mavericks",
+        "Spurs",
+        "Timberwolves",
+        "Trail Blazers",
+        "Warriors"
+      ],
+      "address": "19047 Bushard St, Huntington Beach, CA 92646",
+      "phone": "(714) 964-6741",
+      "website": "http://www.hboconnells.com",
+      "notes": "26 HD TVs with NBA packages, Irish pub atmosphere, shows all Lakers games. | https://allthingsorangecounty.com/7-best-bars-in-orange-county-to-watch-the-big-game/",
+      "sports": [
+        "NBA"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "OC Local Tap Room",
+      "teams": [
+        "GENERAL SPORTS BARS (All NFL Games)"
+      ],
+      "address": "Laguna Niguel",
+      "phone": "",
+      "website": "",
+      "notes": "Many TVs, great vibe for Sunday football and UFC",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Oggi's Sports Brewhouse Pizza",
+      "teams": [
+        "Denver Broncos"
+      ],
+      "address": "24042 Alicia Pkwy, Mission Viejo, CA 92691",
+      "phone": "(949) 215-8570",
+      "website": "https://www.oggis.com/location/oggis-sports-brewhouse-pizza-mission-viejo/",
+      "notes": "Home of OC Orange Crush fan group. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Old Crow Smokehouse",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "address": "21022 Pacific Coast Highway, Huntington Beach, CA 92648",
+      "phone": "(714) 536-0381",
+      "website": "http://oldcrowsmokehouse.com/huntingtonbeach",
+      "notes": "Strong 49ers presence in OC given proximity to Bay Area. Old Crow main location; Reddit mentions other spots.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Palapa Grill",
+      "teams": [
+        "Los Angeles Rams"
+      ],
+      "address": "104 N Harbor Blvd, Fullerton, CA 92832",
+      "phone": "(714) 879-7571",
+      "website": "http://palapafishbowl.com",
+      "notes": "Rams play at SoFi Stadium in Inglewood (nearby). Multiple LA-area Rams bars exist but limited OC presence.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Patrick's Pub",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "address": "2645 Harbor Blvd, Costa Mesa, CA 92626",
+      "phone": "(714) 966-2721",
+      "website": "https://www.patrickspubcm.com",
+      "notes": "Official Southern California Browns Backers watch site; 5-7 dedicated TVs with surround sound for Browns. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Patsy's Irish Pub",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "address": "25571 Jeronimo Road, Mission Viejo, CA 92691",
+      "phone": "(949) 587-0253",
+      "website": "https://www.facebook.com/irishmissionviejo",
+      "notes": "Top Dawgs of OC fan club meets here; corned beef tacos recommended. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Paul's Cocktails",
+      "teams": [
+        "Angels"
+      ],
+      "address": "Orange, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Dive bar serving community since 1942, popular with Angels fans, strong drinks. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Penalties Sports Bar & Grill",
+      "teams": [
+        "Dodgers"
+      ],
+      "address": "Orange County, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Popular Dodgers viewing spot in Orange County. | https://www.yelp.com/search?find_desc=dodgers+bar&find_loc=Orange+County,+CA",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Players Sports Grill",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "address": "24401 Ridge Route Drive, Laguna Hills, CA 92653",
+      "phone": "(949) 588-5973",
+      "website": "http://psgrill.com",
+      "notes": "Home of the Orange County Steelers fan club. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Rock & Brews",
+      "teams": [
+        "Angels"
+      ],
+      "address": "7777 Beach Blvd, Buena Park, CA 90620",
+      "phone": "(714) 266-0314",
+      "website": "https://www.rockandbrews.com/",
+      "notes": "Co-founded by KISS legends, 50+ beers on tap, rock-themed sports bar. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Stadium Brewery",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "26731 Aliso Creek Rd, Aliso Viejo, CA 92656",
+      "phone": "(949) 448-9611",
+      "website": "https://stadiumbrewco.com/",
+      "notes": "Brewery with sports viewing in Aliso Viejo. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Stag Bar + Kitchen",
+      "teams": [
+        "GENERAL SPORTS BARS (All NFL Games)"
+      ],
+      "address": "Newport Beach (Fashion Island area)",
+      "phone": "",
+      "website": "",
+      "notes": "Wings, personal pizzas, drink specials, Sunday raffle",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Black Marlin",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "address": "560 El Camino Real, Tustin, CA 92780",
+      "phone": "(714) 929-7427",
+      "website": "http://blackmarlinrestaurant.com",
+      "notes": "Official Southern California Browns Backers watch site; Sunday brunch starts 8am. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Catch",
+      "teams": [
+        "Angels"
+      ],
+      "address": "Near Angel Stadium, Anaheim, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Close proximity to Angel Stadium, popular pre/post-game spot. | https://www.ocregister.com/2012/04/06/best-bars-to-watch-angels-games/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Cave Sports Bar",
+      "teams": [
+        "Angels"
+      ],
+      "address": "628 W Orangewood Ave, Anaheim, CA 92802",
+      "phone": "(714) 740-0490",
+      "website": "",
+      "notes": "Anaheim sports bar near stadium area. | https://www.yelp.com/biz/the-cave-sports-bar-anaheim",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Classic Q",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "address": "4251 MacArthur Blvd, Newport Beach, CA 92660",
+      "phone": "(949) 261-9458",
+      "website": "https://www.classicq.com",
+      "notes": "No confirmed Cardinals bars in Orange County or nearby LA area. Consider general sports bars.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Harp Inn",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "130 E 17th St, Costa Mesa, CA 92627",
+      "phone": "(949) 646-8855",
+      "website": "https://www.harpinn.com/",
+      "notes": "Irish pub with sports viewing in Costa Mesa. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Hive Sports Bar and Grill",
+      "teams": [
+        "Angels"
+      ],
+      "address": "Anaheim, CA",
+      "phone": "(714) 363-3601",
+      "website": "https://www.thehivesportsbar.com/",
+      "notes": "Sports bar and grill in Anaheim with multiple screens. | https://www.thehivesportsbar.com/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Hub Kitchen & Taps",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "address": "1749 Newport Blvd, Costa Mesa, CA 92627",
+      "phone": "(949) 356-5544",
+      "website": "http://thehubcm.com",
+      "notes": "15 large-screen TVs visible from anywhere in bar. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Huddle",
+      "teams": [
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "address": "741 Baker St, Costa Mesa, CA",
+      "phone": "(714) 540-0966",
+      "website": "",
+      "notes": "General sports bar showing NHL games | https://enjoyorangecounty.com/best-sports-bars/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Irishman",
+      "teams": [
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "address": "Irvine, CA (specific address needed)",
+      "phone": "",
+      "website": "",
+      "notes": "Rated top hockey bar in Irvine area | https://www.yelp.com/search?find_desc=Hockey+Bar&find_loc=Irvine,+CA",
+      "sports": [
+        "NHL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Pump Room",
+      "teams": [
+        "Angels"
+      ],
+      "address": "Anaheim, CA",
+      "phone": "",
+      "website": "",
+      "notes": "Popular Angels sports bar near stadium area. | https://www.yelp.com/search?find_desc=angels+sports+bar&find_loc=Anaheim,+CA",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Salty Dawg Tavern",
+      "teams": [
+        "Angels"
+      ],
+      "address": "1214 N Parker St, Orange, CA 92867",
+      "phone": "(714) 532-9977",
+      "website": "",
+      "notes": "Classic neighborhood bar popular with Angels fans, hearty comfort food. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "The Starting Gate",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "address": "5052 Katella Ave, Los Alamitos, CA 90720",
+      "phone": "(562) 598-8957",
+      "website": "http://startinggateoc.com",
+      "notes": "No confirmed Titans bars found in Southern California. Consider general sports bars.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Tustin Brewing Company",
+      "teams": [
+        "Dodgers"
+      ],
+      "address": "13011 Newport Ave #100, Tustin, CA 92780",
+      "phone": "(714) 665-2337",
+      "website": "https://www.tustinbrewery.com/",
+      "notes": "Known as a Dodgers spot, brewery with food and multiple screens. | https://www.reddit.com/r/orangecounty/comments/1gcr745/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Wings 'N Things Grill",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "address": "18302 Beach Blvd, Huntington Beach, CA 92648",
+      "phone": "(714) 375-0022",
+      "website": "http://wingsnthingsgrill.com",
+      "notes": "Nearest confirmed Dolphins bars in Sherman Oaks and Rancho Cucamonga. Consider general sports bars listed below.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Yard House",
+      "teams": [
+        "Additional Orange County Sports Bars (All Teams)"
+      ],
+      "address": "620 Spectrum Center Dr, Irvine, CA 92618",
+      "phone": "(949) 753-9373",
+      "website": "https://www.yardhouse.com/locations/ca/irvine",
+      "notes": "Large chain with extensive beer selection, 130+ taps, multiple TVs showing NBA games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "NBA"
+      ],
+      "city": "orange-county"
+    },
+    {
+      "name": "Yard House (Multiple Locations)",
+      "teams": [
+        "Additional General Sports Bars in Orange County"
+      ],
+      "address": "Multiple OC locations (Irvine, Costa Mesa, Brea)",
+      "phone": "Varies by location",
+      "website": "https://www.yardhouse.com/",
+      "notes": "Chain with extensive beer selection, multiple screens, reliable MLB coverage. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+      "sports": [
+        "MLB"
+      ],
+      "city": "orange-county"
+    }
+  ],
+  "by_sport": {
+    "MLB": [
+      {
+        "name": "A Slice of New York Pizza",
+        "teams": [
+          "Yankees"
+        ],
+        "address": "Huntington Beach, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Can draw Yankees crowds for big games like World Series. | https://www.reddit.com/r/orangecounty/comments/1g72ws8/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Aces Bar & Grill",
+        "teams": [
+          "Angels"
+        ],
+        "address": "3538 E Chapman Ave, Orange, CA 92869",
+        "phone": "(714) 628-9404",
+        "website": "https://www.acesbarandgrilloc.com/",
+        "notes": "Craft food, beer, cocktails, daily specials, weekend brunch, across from Fred Kelly Stadium. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Anaheim Packing House",
+        "teams": [
+          "Dodgers"
+        ],
+        "address": "Anaheim, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Has shown Dodgers games on big projector screen during playoffs/World Series. | https://www.reddit.com/r/orangecounty/comments/1gcr745/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "BIG's Grill",
+        "teams": [
+          "Angels"
+        ],
+        "address": "323 N State College Blvd, Fullerton, CA 92831",
+        "phone": "(714) 526-4950",
+        "website": "https://www.bigsfullerton.com/",
+        "notes": "Wings in 13 flavors, multiple HD TVs, Angels viewing spot. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "BJ's Restaurant & Brewhouse (Multiple Locations)",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "Multiple OC locations",
+        "phone": "Varies by location",
+        "website": "https://www.bjsrestaurants.com/",
+        "notes": "Brewhouse chain with sports viewing, reliable for MLB games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Brewery X",
+        "teams": [
+          "Anaheim Ducks",
+          "Dodgers"
+        ],
+        "address": "Anaheim, CA",
+        "phone": "(760) 530-6040",
+        "website": "https://www.brewery-x.com",
+        "notes": "Has broadcasted Dodgers World Series games on outdoor patio with good fan turnout. | https://www.reddit.com/r/orangecounty/comments/1gcr745/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Buffalo Wild Wings (Multiple Locations)",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "Multiple OC locations",
+        "phone": "Varies by location",
+        "website": "https://www.buffalowildwings.com/",
+        "notes": "Chain sports bar with extensive screen coverage, will show any MLB game. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Campus Craft Beer - Billiards & Sports Bar",
+        "teams": [
+          "Dodgers"
+        ],
+        "address": "Cypress, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Official LA & OC Dodgers Fan Club meeting spot, large sports bar. | https://www.meetup.com/dodgers-fans-la-oc/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Capri Bar & Grill",
+        "teams": [
+          "Angels"
+        ],
+        "address": "Orange, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Elevated sports bar with HD TVs, outdoor patio, Angels games. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Cruisers Pizza Bar and Grill",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "210 5th St, Huntington Beach, CA 92648",
+        "phone": "(657) 301-2200",
+        "website": "https://www.cruiserspizzabargrill.com/",
+        "notes": "Downtown Huntington Beach sports viewing spot. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Dave & Buster's",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "20 City Blvd W, Orange, CA 92868",
+        "phone": "(714) 769-1515",
+        "website": "https://www.daveandbusters.com/",
+        "notes": "Entertainment complex with extensive sports viewing. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Garf's Sports Lounge",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "3046 Bristol St, Costa Mesa, CA 92626",
+        "phone": "(714) 435-4070",
+        "website": "https://www.garfsbar.com/",
+        "notes": "Popular Costa Mesa sports bar with extensive TV coverage. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "General OC Sports Bars",
+        "teams": [
+          "Dodgers"
+        ],
+        "address": "Various locations throughout Orange County",
+        "phone": "",
+        "website": "",
+        "notes": "Most OC sports bars show Dodgers games due to large fan base in region. | https://www.reddit.com/r/orangecounty/comments/1fz6d3f/dodgers_bar_in_oc/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "General Sports Bars",
+        "teams": [
+          "Astros",
+          "Athletics",
+          "Blue Jays",
+          "Braves",
+          "Brewers",
+          "Cardinals",
+          "Cubs",
+          "Diamondbacks",
+          "Giants (San Francisco)",
+          "Guardians",
+          "Mariners",
+          "Marlins",
+          "Mets",
+          "Nationals",
+          "Orioles",
+          "Padres",
+          "Phillies",
+          "Pirates",
+          "Rangers",
+          "Rays",
+          "Red Sox",
+          "Reds",
+          "Rockies",
+          "Royals",
+          "Tigers",
+          "Twins",
+          "White Sox",
+          "Yankees"
+        ],
+        "address": "Throughout Orange County, especially south OC",
+        "phone": "",
+        "website": "",
+        "notes": "Southern OC residents can catch Padres games at most sports bars; dedicated bars in San Diego. | https://www.sandiegouniontribune.com/2024/10/03/padres-limit-scarce-postseason-ticket-sales-to-san-diego-area-fans/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "HQ Gastropub",
+        "teams": [
+          "Angels"
+        ],
+        "address": "155 5th Street, Huntington Beach, CA 92648",
+        "phone": "(714) 369-2155",
+        "website": "https://www.hqgastropub.com/",
+        "notes": "Upscale gastropub with multiple TVs, craft cocktails, and gourmet menu options. | https://localemagazine.com/best-baseball-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Harvey's Sports Bar",
+        "teams": [
+          "Angels"
+        ],
+        "address": "1728 S Euclid St, Anaheim, CA 92802",
+        "phone": "(714) 635-0462",
+        "website": "https://www.facebook.com/harveyssportsbar/",
+        "notes": "General sports bar in Anaheim showing Angels games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Helmsman Ale House",
+        "teams": [
+          "Cubs"
+        ],
+        "address": "2920 Newport Blvd, Newport Beach, CA 92663",
+        "phone": "(949) 220-9977",
+        "website": "https://helmsmanalehouse.com/",
+        "notes": "Bartender confirmed Cubs games shown when requested, Cubs fan-friendly. | https://www.reddit.com/r/orangecounty/comments/1nia5s4/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Heroes Bar & Grill",
+        "teams": [
+          "Angels"
+        ],
+        "address": "Fullerton, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Family-friendly comfort food spot, popular for Angels games. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "JT Schmid's Restaurant & Brewery",
+        "teams": [
+          "Anaheim Ducks",
+          "Angels"
+        ],
+        "address": "2610 E Katella Avenue, Anaheim, CA 92806",
+        "phone": "(714) 634-9200",
+        "website": "http://jtschmidsrestaurants.com",
+        "notes": "Near Angel Stadium, brewery with food and multiple screens. | https://accidentaltravelwriter.com/los-angeles-angels-bars/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Keno's Sports Bar",
+        "teams": [
+          "Angels"
+        ],
+        "address": "2661 W La Palma Ave, Anaheim, CA 92801",
+        "phone": "(714) 761-5366",
+        "website": "https://kenossportsbarca.com/",
+        "notes": "Anaheim sports bar popular for Angels games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "La Barca",
+        "teams": [
+          "Dodgers"
+        ],
+        "address": "Whittier Blvd, La Habra, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Popular with OC/East LA Dodgers fans. | https://dodgersbeat.com/where-to-watch-dodger-games/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Lazy Dog Restaurant and Bar (Multiple Locations)",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "Multiple OC locations",
+        "phone": "Varies by location",
+        "website": "https://www.lazydogrestaurants.com/",
+        "notes": "Family-friendly chain with sports viewing capabilities. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Lopez & Lefty's",
+        "teams": [
+          "Angels"
+        ],
+        "address": "2050 S State College Blvd, Anaheim, CA 92806",
+        "phone": "",
+        "website": "https://www.lopezandleftys.com/",
+        "notes": "Sports bar minutes from Angel Stadium, 25+ draft beers, Mexican-inspired menu. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Magdalena Kitchen & Bar",
+        "teams": [
+          "Angels"
+        ],
+        "address": "Near Angel Stadium, Anaheim, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Upscale bar/restaurant steps from Angel Stadium, margaritas and upscale menu. | https://localemagazine.com/best-baseball-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Mulleady's Sports Pub",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "27695 Santa Margarita Pkwy #B, Mission Viejo, CA 92691",
+        "phone": "(949) 380-3752",
+        "website": "http://mymulleadys.com/",
+        "notes": "Mission Viejo sports pub with good screen coverage. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "New York Mets Fans in Los Angeles Meetup",
+        "teams": [
+          "Mets"
+        ],
+        "address": "Venues vary, members travel from Orange County",
+        "phone": "",
+        "website": "https://www.meetup.com/metsfansinla/",
+        "notes": "Meetup group for Mets fans in LA/OC/Ventura counties, no permanent bar. | https://www.meetup.com/metsfansinla/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "O'Connell's Sports Pub & Grille",
+        "teams": [
+          "GENERAL ORANGE COUNTY SPORTS BARS",
+          "Red Sox"
+        ],
+        "address": "19047 Bushard St, Huntington Beach, CA 92646",
+        "phone": "(714) 964-6741",
+        "website": "https://www.hboconnells.com/",
+        "notes": "Top Yelp result for Red Sox bar in Orange County, Irish pub atmosphere. | https://www.yelp.com/search?find_desc=red+sox+bar&find_loc=Orange+County,+CA",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Paul's Cocktails",
+        "teams": [
+          "Angels"
+        ],
+        "address": "Orange, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Dive bar serving community since 1942, popular with Angels fans, strong drinks. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Penalties Sports Bar & Grill",
+        "teams": [
+          "Dodgers"
+        ],
+        "address": "Orange County, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Popular Dodgers viewing spot in Orange County. | https://www.yelp.com/search?find_desc=dodgers+bar&find_loc=Orange+County,+CA",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Rock & Brews",
+        "teams": [
+          "Angels"
+        ],
+        "address": "7777 Beach Blvd, Buena Park, CA 90620",
+        "phone": "(714) 266-0314",
+        "website": "https://www.rockandbrews.com/",
+        "notes": "Co-founded by KISS legends, 50+ beers on tap, rock-themed sports bar. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Stadium Brewery",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "26731 Aliso Creek Rd, Aliso Viejo, CA 92656",
+        "phone": "(949) 448-9611",
+        "website": "https://stadiumbrewco.com/",
+        "notes": "Brewery with sports viewing in Aliso Viejo. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Catch",
+        "teams": [
+          "Angels"
+        ],
+        "address": "Near Angel Stadium, Anaheim, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Close proximity to Angel Stadium, popular pre/post-game spot. | https://www.ocregister.com/2012/04/06/best-bars-to-watch-angels-games/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Cave Sports Bar",
+        "teams": [
+          "Angels"
+        ],
+        "address": "628 W Orangewood Ave, Anaheim, CA 92802",
+        "phone": "(714) 740-0490",
+        "website": "",
+        "notes": "Anaheim sports bar near stadium area. | https://www.yelp.com/biz/the-cave-sports-bar-anaheim",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Harp Inn",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "130 E 17th St, Costa Mesa, CA 92627",
+        "phone": "(949) 646-8855",
+        "website": "https://www.harpinn.com/",
+        "notes": "Irish pub with sports viewing in Costa Mesa. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Hive Sports Bar and Grill",
+        "teams": [
+          "Angels"
+        ],
+        "address": "Anaheim, CA",
+        "phone": "(714) 363-3601",
+        "website": "https://www.thehivesportsbar.com/",
+        "notes": "Sports bar and grill in Anaheim with multiple screens. | https://www.thehivesportsbar.com/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Pump Room",
+        "teams": [
+          "Angels"
+        ],
+        "address": "Anaheim, CA",
+        "phone": "",
+        "website": "",
+        "notes": "Popular Angels sports bar near stadium area. | https://www.yelp.com/search?find_desc=angels+sports+bar&find_loc=Anaheim,+CA",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Salty Dawg Tavern",
+        "teams": [
+          "Angels"
+        ],
+        "address": "1214 N Parker St, Orange, CA 92867",
+        "phone": "(714) 532-9977",
+        "website": "",
+        "notes": "Classic neighborhood bar popular with Angels fans, hearty comfort food. | https://surterreproperties.com/baseball-bars-orange-county-angels-dodgers-padres/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Tustin Brewing Company",
+        "teams": [
+          "Dodgers"
+        ],
+        "address": "13011 Newport Ave #100, Tustin, CA 92780",
+        "phone": "(714) 665-2337",
+        "website": "https://www.tustinbrewery.com/",
+        "notes": "Known as a Dodgers spot, brewery with food and multiple screens. | https://www.reddit.com/r/orangecounty/comments/1gcr745/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Yard House (Multiple Locations)",
+        "teams": [
+          "Additional General Sports Bars in Orange County"
+        ],
+        "address": "Multiple OC locations (Irvine, Costa Mesa, Brea)",
+        "phone": "Varies by location",
+        "website": "https://www.yardhouse.com/",
+        "notes": "Chain with extensive beer selection, multiple screens, reliable MLB coverage. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "MLB"
+        ],
+        "city": "orange-county"
+      }
+    ],
+    "NFL": [
+      {
+        "name": "Avenue Restaurant and Music Lounge",
+        "teams": [
+          "Dallas Cowboys"
+        ],
+        "address": "1750 W Lincoln Ave, Anaheim, CA 92801",
+        "phone": "(714) 833-5707",
+        "website": "http://avenueorangecounty.com",
+        "notes": "No confirmed Commanders bars in Orange County or nearby. Consider general sports bars.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "BWW (Buffalo Wild Wings)",
+        "teams": [
+          "GENERAL SPORTS BARS (All NFL Games)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Bowlero Orange County",
+        "teams": [
+          "New England Patriots"
+        ],
+        "address": "2405 Park Ave, Tustin, CA 92782",
+        "phone": "(714) 258-2695",
+        "website": "https://www.bowlero.com/location/bowlero-orange-county",
+        "notes": "Bengals West fan club meets in Eagle Rock (LA). Consider general sports bars.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Classic Q",
+        "teams": [
+          "76ers",
+          "Celtics",
+          "Clippers",
+          "GENERAL SPORTS BARS (All NFL Games)",
+          "Hawks",
+          "Hornets",
+          "Jazz",
+          "Kings",
+          "Knicks",
+          "Lakers",
+          "Magic",
+          "Nets",
+          "Nuggets",
+          "Pacers",
+          "Pelicans",
+          "Pistons",
+          "Raptors",
+          "Rockets",
+          "Suns",
+          "Thunder",
+          "Warriors",
+          "Wizards"
+        ],
+        "address": "4251 MacArthur Blvd, Newport Beach, CA 92660",
+        "phone": "(949) 261-9458",
+        "website": "https://www.classicq.com",
+        "notes": "Upscale sports bar, hosts multiple fan groups",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Costa Mesa 55 Tavern+Bowl",
+        "teams": [
+          "Seattle Seahawks"
+        ],
+        "address": "1875 Newport Blvd, Costa Mesa, CA 92627",
+        "phone": "(949) 438-2320",
+        "website": "http://tavernbowl.com/newport-blvd-costa-mesa",
+        "notes": "Triangle Square location is heart of OC Seahawks fandom. Instagram: @ocseattleseahawkfans",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Cruisers Pizza Bar Grill (Huntington Beach)",
+        "teams": [
+          "Chicago Bears"
+        ],
+        "address": "210 5th St, Huntington Beach, CA 92648",
+        "phone": "(657) 301-2200",
+        "website": "https://www.cruiserspizzabargrill.com",
+        "notes": "Detroit Lions Fan Club LA meets in El Segundo. Consider general sports bars or LA locations.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Cruisers Pizza Bar Grill (Newport Beach)",
+        "teams": [
+          "Buffalo Bills",
+          "Chicago Bears",
+          "Green Bay Packers"
+        ],
+        "address": "801 E Balboa Blvd, Newport Beach, CA 92661",
+        "phone": "(949) 220-9414",
+        "website": "https://www.cruiserspizzabargrill.com",
+        "notes": "One owner is diehard Bills fan; Chicago-style deep dish pizza, 30+ HDTVs, 4K projector. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Danny K's Billiards & Sports Bar",
+        "teams": [
+          "Anaheim Ducks",
+          "Angels",
+          "GENERAL SPORTS BARS (All NFL Games)",
+          "Los Angeles Kings"
+        ],
+        "address": "Orange (specific address via search)",
+        "phone": "(714) 771-9706",
+        "website": "https://www.dannyks.com/",
+        "notes": "Large venue with many big screens",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Dave & Buster's Orange",
+        "teams": [
+          "Los Angeles Chargers"
+        ],
+        "address": "20 City Blvd W, Orange, CA 92868",
+        "phone": "(714) 769-1515",
+        "website": "https://www.daveandbusters.com",
+        "notes": "Home of DHBC Orange County fan club; family-friendly with arcade games. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Hollingshead's Delicatessen",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "address": "368 S Main St, Orange, CA 92868",
+        "phone": "",
+        "website": "https://www.hollingsheadsdeli.com",
+        "notes": "Decorated wall-to-wall with Wisconsin Packers memorabilia; legendary OC deli and beer haven. | https://www.reddit.com/r/orangecounty/comments/161cejn/green_bay_packers_bar/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "InCahoots",
+        "teams": [
+          "Dallas Cowboys"
+        ],
+        "address": "1401 S Lemon St, Fullerton, CA 92832",
+        "phone": "(714) 441-1666",
+        "website": "https://ocincahoots.com",
+        "notes": "Home of Orange County chapter of So Cal Dallas Cowboys Fan Club; country western bar. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Killarney's Irish Pub",
+        "teams": [
+          "Las Vegas Raiders"
+        ],
+        "address": "209 Main St, Huntington Beach, CA 92648",
+        "phone": "(714) 536-7887",
+        "website": "https://killarneysirishpubhb.com",
+        "notes": "Called \"#1 Raiders bar in the nation\"; former Raiders players sign autographs nearly every week. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Marlin Bar & Grill",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "address": "5874 Edinger Ave, Huntington Beach, CA 92649",
+        "phone": "(714) 861-1465",
+        "website": "http://marlinbar.com",
+        "notes": "Green Bay Packers fans gather here; 7 HD projection screens, 16 flat-screen TVs, Sunday brunch. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Mutt Lynch's",
+        "teams": [
+          "Angels",
+          "GENERAL SPORTS BARS (All NFL Games)"
+        ],
+        "address": "2300 W Oceanfront, Newport Beach, CA",
+        "phone": "(949) 675-1556",
+        "website": "https://www.muttlynchs.com/",
+        "notes": "Rowdy beach institution",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "My Place Sports Bar & Grill",
+        "teams": [
+          "Kansas City Chiefs"
+        ],
+        "address": "5452 Commercial Drive, Huntington Beach, CA 92649",
+        "phone": "(714) 892-8706",
+        "website": "https://myplacesportsbar.com",
+        "notes": "Home of Chiefs LA Huntington Beach Chapter; family-friendly with pool tables and many TVs. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Newport Rib Company",
+        "teams": [
+          "Los Angeles Chargers"
+        ],
+        "address": "2196 Harbor Blvd, Costa Mesa, CA 92627",
+        "phone": "(949) 631-2110",
+        "website": "http://ribcompany.com",
+        "notes": "Fans wearing Chargers gear receive happy hour prices during games. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Next Round Bar & Grill",
+        "teams": [
+          "Las Vegas Raiders"
+        ],
+        "address": "200 N Broadway, Santa Ana, CA 92701",
+        "phone": "(714) 392-7572",
+        "website": "https://nextroundbar.com/food-menu",
+        "notes": "Popular Raiders bar in downtown Santa Ana. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "OC Local Tap Room",
+        "teams": [
+          "GENERAL SPORTS BARS (All NFL Games)"
+        ],
+        "address": "Laguna Niguel",
+        "phone": "",
+        "website": "",
+        "notes": "Many TVs, great vibe for Sunday football and UFC",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Oggi's Sports Brewhouse Pizza",
+        "teams": [
+          "Denver Broncos"
+        ],
+        "address": "24042 Alicia Pkwy, Mission Viejo, CA 92691",
+        "phone": "(949) 215-8570",
+        "website": "https://www.oggis.com/location/oggis-sports-brewhouse-pizza-mission-viejo/",
+        "notes": "Home of OC Orange Crush fan group. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Old Crow Smokehouse",
+        "teams": [
+          "San Francisco 49ers"
+        ],
+        "address": "21022 Pacific Coast Highway, Huntington Beach, CA 92648",
+        "phone": "(714) 536-0381",
+        "website": "http://oldcrowsmokehouse.com/huntingtonbeach",
+        "notes": "Strong 49ers presence in OC given proximity to Bay Area. Old Crow main location; Reddit mentions other spots.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Palapa Grill",
+        "teams": [
+          "Los Angeles Rams"
+        ],
+        "address": "104 N Harbor Blvd, Fullerton, CA 92832",
+        "phone": "(714) 879-7571",
+        "website": "http://palapafishbowl.com",
+        "notes": "Rams play at SoFi Stadium in Inglewood (nearby). Multiple LA-area Rams bars exist but limited OC presence.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Patrick's Pub",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "address": "2645 Harbor Blvd, Costa Mesa, CA 92626",
+        "phone": "(714) 966-2721",
+        "website": "https://www.patrickspubcm.com",
+        "notes": "Official Southern California Browns Backers watch site; 5-7 dedicated TVs with surround sound for Browns. | https://2ndhomesports.com/blogs/nfl-sports-bar-los-angeles-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Patsy's Irish Pub",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "address": "25571 Jeronimo Road, Mission Viejo, CA 92691",
+        "phone": "(949) 587-0253",
+        "website": "https://www.facebook.com/irishmissionviejo",
+        "notes": "Top Dawgs of OC fan club meets here; corned beef tacos recommended. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Players Sports Grill",
+        "teams": [
+          "Pittsburgh Steelers"
+        ],
+        "address": "24401 Ridge Route Drive, Laguna Hills, CA 92653",
+        "phone": "(949) 588-5973",
+        "website": "http://psgrill.com",
+        "notes": "Home of the Orange County Steelers fan club. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Stag Bar + Kitchen",
+        "teams": [
+          "GENERAL SPORTS BARS (All NFL Games)"
+        ],
+        "address": "Newport Beach (Fashion Island area)",
+        "phone": "",
+        "website": "",
+        "notes": "Wings, personal pizzas, drink specials, Sunday raffle",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Black Marlin",
+        "teams": [
+          "Cleveland Browns"
+        ],
+        "address": "560 El Camino Real, Tustin, CA 92780",
+        "phone": "(714) 929-7427",
+        "website": "http://blackmarlinrestaurant.com",
+        "notes": "Official Southern California Browns Backers watch site; Sunday brunch starts 8am. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Classic Q",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "address": "4251 MacArthur Blvd, Newport Beach, CA 92660",
+        "phone": "(949) 261-9458",
+        "website": "https://www.classicq.com",
+        "notes": "No confirmed Cardinals bars in Orange County or nearby LA area. Consider general sports bars.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Hub Kitchen & Taps",
+        "teams": [
+          "Los Angeles Chargers"
+        ],
+        "address": "1749 Newport Blvd, Costa Mesa, CA 92627",
+        "phone": "(949) 356-5544",
+        "website": "http://thehubcm.com",
+        "notes": "15 large-screen TVs visible from anywhere in bar. | https://www.ocregister.com/2018/09/06/best-places-to-watch-nfl-teams-in-southern-california/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Starting Gate",
+        "teams": [
+          "Pittsburgh Steelers"
+        ],
+        "address": "5052 Katella Ave, Los Alamitos, CA 90720",
+        "phone": "(562) 598-8957",
+        "website": "http://startinggateoc.com",
+        "notes": "No confirmed Titans bars found in Southern California. Consider general sports bars.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Wings 'N Things Grill",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "address": "18302 Beach Blvd, Huntington Beach, CA 92648",
+        "phone": "(714) 375-0022",
+        "website": "http://wingsnthingsgrill.com",
+        "notes": "Nearest confirmed Dolphins bars in Sherman Oaks and Rancho Cucamonga. Consider general sports bars listed below.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "orange-county"
+      }
+    ],
+    "NBA": [
+      {
+        "name": "BJ's Restaurant and Brewhouse",
+        "teams": [
+          "Additional Orange County Sports Bars (All Teams)"
+        ],
+        "address": "13130 Jamboree Rd, Irvine, CA 92602",
+        "phone": "(714) 665-8595",
+        "website": "https://www.bjsrestaurants.com/locations/ca/irvine",
+        "notes": "Chain brewhouse with multiple locations, shows NBA games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "NBA"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Daily's Sports Grill",
+        "teams": [
+          "Additional Orange County Sports Bars (All Teams)"
+        ],
+        "address": "29881 Aventura, Rancho Santa Margarita, CA 92688",
+        "phone": "(949) 858-5788",
+        "website": "https://www.dailyssportsgrill.org",
+        "notes": "Shows all NBA games, multiple screens. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "NBA"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Danny K's Billards and Sports Bar",
+        "teams": [
+          "Additional Orange County Sports Bars (All Teams)"
+        ],
+        "address": "1096 N Main St, Orange, CA 92868",
+        "phone": "(714) 771-9706",
+        "website": "http://dannyks.com",
+        "notes": "Multiple screens, pool tables, shows all NBA games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "NBA"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Mulleady's Sports Pub and Grill",
+        "teams": [
+          "Lakers"
+        ],
+        "address": "27695 Santa Margarita Pkwy Ste B, Mission Viejo, CA 92691",
+        "phone": "(949) 380-3752",
+        "website": "http://mymulleadys.com",
+        "notes": "Family-owned since 2001, multiple flat screens, shows Lakers and all NBA games. | https://www.cbsnews.com/losangeles/news/best-bars-to-watch-basketball-in-oc/",
+        "sports": [
+          "NBA"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "O'Connell's Sports Pub and Grille",
+        "teams": [
+          "Bucks",
+          "Bulls",
+          "Cavaliers",
+          "Clippers",
+          "Grizzlies",
+          "Heat",
+          "Lakers",
+          "Mavericks",
+          "Spurs",
+          "Timberwolves",
+          "Trail Blazers",
+          "Warriors"
+        ],
+        "address": "19047 Bushard St, Huntington Beach, CA 92646",
+        "phone": "(714) 964-6741",
+        "website": "http://www.hboconnells.com",
+        "notes": "26 HD TVs with NBA packages, Irish pub atmosphere, shows all Lakers games. | https://allthingsorangecounty.com/7-best-bars-in-orange-county-to-watch-the-big-game/",
+        "sports": [
+          "NBA"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Yard House",
+        "teams": [
+          "Additional Orange County Sports Bars (All Teams)"
+        ],
+        "address": "620 Spectrum Center Dr, Irvine, CA 92618",
+        "phone": "(949) 753-9373",
+        "website": "https://www.yardhouse.com/locations/ca/irvine",
+        "notes": "Large chain with extensive beer selection, 130+ taps, multiple TVs showing NBA games. | https://www.mylocaloc.com/blog/the-best-sports-bars-in-orange-county/",
+        "sports": [
+          "NBA"
+        ],
+        "city": "orange-county"
+      }
+    ],
+    "NHL": [
+      {
+        "name": "Cruisers Pizza Bar & Grill",
+        "teams": [
+          "GENERAL ORANGE COUNTY SPORTS BARS"
+        ],
+        "address": "Huntington Beach, CA (specific address needed)",
+        "phone": "",
+        "website": "",
+        "notes": "Popular sports bar with NHL coverage | https://www.opentable.com/cuisine/best-sports-bar-restaurants-orange-county-ca-costa-mesa",
+        "sports": [
+          "NHL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Golden Road Brewing Anaheim",
+        "teams": [
+          "Anaheim Ducks"
+        ],
+        "address": "2210 E Orangewood Ave, Anaheim, CA 92806",
+        "phone": "(714) 363-3537",
+        "website": "https://www.goldenroad.la/anaheim",
+        "notes": "Official Ducks watch party venue near Honda Center | https://gamewatch.info/teams/anaheim-ducks",
+        "sports": [
+          "NHL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "Michael's Sports Pub and Grill",
+        "teams": [
+          "GENERAL ORANGE COUNTY SPORTS BARS"
+        ],
+        "address": "15192 Goldenwest St, Westminster, CA 92683",
+        "phone": "(714) 373-5665",
+        "website": "http://www.michaelssportspubandgrill.com",
+        "notes": "37 TVs, shows all major sports including NHL | https://www.cbsnews.com/losangeles/news/best-bars-to-watch-hockey-in-oc/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Huddle",
+        "teams": [
+          "GENERAL ORANGE COUNTY SPORTS BARS"
+        ],
+        "address": "741 Baker St, Costa Mesa, CA",
+        "phone": "(714) 540-0966",
+        "website": "",
+        "notes": "General sports bar showing NHL games | https://enjoyorangecounty.com/best-sports-bars/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "orange-county"
+      },
+      {
+        "name": "The Irishman",
+        "teams": [
+          "GENERAL ORANGE COUNTY SPORTS BARS"
+        ],
+        "address": "Irvine, CA (specific address needed)",
+        "phone": "",
+        "website": "",
+        "notes": "Rated top hockey bar in Irvine area | https://www.yelp.com/search?find_desc=Hockey+Bar&find_loc=Irvine,+CA",
+        "sports": [
+          "NHL"
+        ],
+        "city": "orange-county"
+      }
+    ]
+  }
+}

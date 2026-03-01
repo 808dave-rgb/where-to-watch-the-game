@@ -1,0 +1,1786 @@
+{
+  "city": "las-vegas",
+  "total_bars": 61,
+  "sports": [
+    "NFL",
+    "NHL",
+    "MLB",
+    "NBA"
+  ],
+  "bars": [
+    {
+      "name": "7-11 Bar",
+      "teams": [
+        "New Orleans Saints"
+      ],
+      "address": "2530 Arville St, Las Vegas, NV 89102",
+      "phone": "(702) 362-2415",
+      "website": "",
+      "notes": "New Orleans Saints neighborhood bar, no kitchen, open 24 hours | https://lasvegasweekly.com/places/7-11-bar-2530-arville-st/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "BarCanada",
+      "teams": [
+        "Calgary Flames",
+        "Edmonton Oilers",
+        "Montreal Canadiens",
+        "Ottawa Senators",
+        "Toronto Maple Leafs",
+        "Vancouver Canucks",
+        "Vegas Golden Knights"
+      ],
+      "address": "301 Fremont St (2nd level), Las Vegas, NV 89101",
+      "phone": "",
+      "website": "https://www.thed.com/barcanada/",
+      "notes": "Ode to Canadian sports and culture at The D Las Vegas, serves all Canadian NHL teams. | https://www.thed.com/barcanada/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Beerhaus",
+      "teams": [
+        "Vegas Golden Knights"
+      ],
+      "address": "3790 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "phone": "(702) 692-2337",
+      "website": "https://www.theparkvegas.com",
+      "notes": "At The Park, pre-game spot for T-Mobile Arena, beer hall style. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Big Dog's Draft House",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "https://www.bigdogsbrews.com/packer-backers/",
+      "notes": "Packer Backers gatherings, reservations available | https://www.bigdogsbrews.com/packer-backers/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Blondies Sports Bar & Grill",
+      "teams": [
+        "Carolina Panthers",
+        "General Sports Bars Recommended for MLB Games",
+        "Tennessee Titans",
+        "Vegas Golden Knights"
+      ],
+      "address": "Miracle Mile Shops (Planet Hollywood), Las Vegas, NV",
+      "phone": "(702) 737-0444",
+      "website": "https://www.blondieslasvegas.com",
+      "notes": "Lots of TVs, can reserve tables for games",
+      "sports": [
+        "MLB"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Blue Diamond Saloon",
+      "teams": [
+        "Kansas City Chiefs"
+      ],
+      "address": "6935 Blue Diamond Rd, Las Vegas, NV 89178",
+      "phone": "",
+      "website": "",
+      "notes": "Chiefs bar also supporting Nebraska Cornhuskers, has pool tables and live music | https://www.reddit.com/r/KansasCityChiefs/comments/15kqo2k/watching_a_game_in_vegas/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Blue Ox Central",
+      "teams": [
+        "Minnesota Vikings"
+      ],
+      "address": "Central Las Vegas location",
+      "phone": "",
+      "website": "",
+      "notes": "Second Blue Ox location supporting Vikings | https://gamewatch.info/teams/minnesota-vikings/cities/las-vegas-nv",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Blue Ox Tavern",
+      "teams": [
+        "Minnesota Vikings"
+      ],
+      "address": "5825 W Sahara Ave, Las Vegas, NV 89146",
+      "phone": "",
+      "website": "https://blueoxtavern.app.vdomobile.com",
+      "notes": "24/7 eatery with Minnesotan vibe, official Vikings bar, approx 3 miles off Strip | https://www.yelp.com/biz/blue-ox-tavern-las-vegas",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Born And Raised Centennial",
+      "teams": [
+        "Vegas Golden Knights"
+      ],
+      "address": "6470 Kevin Way, Ste 100, Las Vegas, NV 89149",
+      "phone": "(702) 202-4991",
+      "website": "https://bornandraisedlv.com/",
+      "notes": "Official Golden Knights bar, open 24/7, official away game watch party location. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Brooksy's",
+      "teams": [
+        "Tampa Bay Buccaneers",
+        "Vegas Golden Knights",
+        "Washington Capitals",
+        "Winnipeg Jets"
+      ],
+      "address": "9295 W Flamingo Rd, Las Vegas, NV 89147",
+      "phone": "(702) 562-2050",
+      "website": "https://brooksys.net/",
+      "notes": "Hockey bar inside Las Vegas Ice Center, overlooks ice rink. | https://gamewatch.info/teams/washington-capitals/cities/las-vegas-nv",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Buffalo Wild Wings",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "address": "7430 S Las Vegas Blvd #120, Las Vegas, NV 89123",
+      "phone": "(702) 614-0238",
+      "website": "",
+      "notes": "DHBCLV (Chargers fan club) gathers here | https://2ndhomesports.com/blogs/los-angeles-chargers-bar-in-las-vegas-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Chickie's & Pete's",
+      "teams": [
+        "Philadelphia Phillies"
+      ],
+      "address": "2535 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "phone": "(702) 761-7000",
+      "website": "https://www.saharalasvegas.com/restaurants-bars/chickies-petes",
+      "notes": "Philadelphia-themed crabhouse and sports bar at Sahara Las Vegas | https://www.chickiesandpetes.com/location/las-vegas",
+      "sports": [
+        "MLB"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Chickie's & Pete's Las Vegas",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Philadelphia-based restaurant chain with Vegas location | Yelp search results",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Crab Corner Maryland Seafood House",
+      "teams": [
+        "Washington Commanders"
+      ],
+      "address": "6485 S Rainbow Blvd, Las Vegas, NV",
+      "phone": "(702) 489-4646",
+      "website": "http://www.crabcornerlv.com/",
+      "notes": "Maryland-themed seafood house supporting Commanders | https://www.reviewjournal.com/nflbars/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Crowbar (Flamingo)",
+      "teams": [
+        "Detroit Lions"
+      ],
+      "address": "Near Flamingo and Rainbow, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Definitive Las Vegas neighborhood bar, home of Lions in Vegas | https://www.instagram.com/crowbarlasvegas/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "E-String (Historical)",
+      "teams": [
+        "New York Giants"
+      ],
+      "address": "6851 Flamingo Rd, Las Vegas, NV 89103",
+      "phone": "",
+      "website": "",
+      "notes": "May no longer be Giants bar, verify before visiting | https://www.ktnv.com/sports/13-vegas-bars-that-go-all-out-for-their-favorite-nfl-teams",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Eclipse Theatres",
+      "teams": [
+        "Los Angeles Lakers"
+      ],
+      "address": "814 S 3rd St, Las Vegas, NV 89101",
+      "phone": "",
+      "website": "",
+      "notes": "Vegas Lakers Fans club organized watch parties here (as of 2020); status uncertain | https://lvmagazine.com/introducing-the-vegas-lakers-fans-club",
+      "sports": [
+        "NBA"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Flanker Kitchen + Sports Bar",
+      "teams": [
+        "Vegas Golden Knights"
+      ],
+      "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+      "phone": "(702) 632-5200",
+      "website": "https://www.flankerlv.com",
+      "notes": "At Mandalay Bay, next to Allegiant Stadium, 70-foot LED screen. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Flowing Tide Pub",
+      "teams": [
+        "Miami Dolphins"
+      ],
+      "address": "Multiple locations in Las Vegas metro area",
+      "phone": "",
+      "website": "",
+      "notes": "Check specific location for Dolphins game viewing | https://www.reviewjournal.com/nflbars/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Flowing Tide Pub #9",
+      "teams": [
+        "Tampa Bay Buccaneers"
+      ],
+      "address": "9860 Las Vegas Blvd S, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Bucs fan gathering location per 2025 RJ listing | https://www.reddit.com/r/vegas/comments/1mtluf1/best_bar_for_tampa_bay_bucs_fans/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Flowing Tide Pub 6",
+      "teams": [
+        "Detroit Lions"
+      ],
+      "address": "4680 S Decatur Blvd, Las Vegas, NV 89103",
+      "phone": "",
+      "website": "",
+      "notes": "Home of Detroit Lions Fans Las Vegas Chapter | https://www.reddit.com/r/vegas/comments/2qbsk0/where_can_i_find_a_detroit_lions_bar/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Flowing Tide Pub on Rainbow",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "address": "Rainbow Blvd location, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Las Vegas Niner Empire gathering spot | https://www.reddit.com/r/vegaslocals/comments/1px8dnj/49ers_bar/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "G.O.A.T Sports Bar",
+      "teams": [
+        "Carolina Panthers"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Panthers fans reported gathering location | https://accidentaltravelwriter.com/best-las-vegas-sports-bar/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Home Plate Grill & Bar",
+      "teams": [
+        "General Sports Bars Recommended for MLB Games"
+      ],
+      "address": "2460 W Warm Springs Rd, Las Vegas, NV 89119",
+      "phone": "(702) 410-5600",
+      "website": "https://www.homeplategrillandbar.com/",
+      "notes": "Baseball-themed sports bar, open 24/7",
+      "sports": [
+        "MLB"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Jackpot Bar and Grill",
+      "teams": [
+        "Kansas City Chiefs"
+      ],
+      "address": "4485 S Jones Blvd, Las Vegas, NV 89103",
+      "phone": "(702) 463-0333",
+      "website": "http://jackpotbarlv.com",
+      "notes": "Home of KC Chiefs Las Vegas Kingdom, neighborhood sports bar west of Strip | https://2ndhomesports.com/blogs/kansas-city-chiefs-bar-in-las-vegas-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Jake's Bar",
+      "teams": [
+        "Denver Broncos"
+      ],
+      "address": "2301 S Eastern Ave, Las Vegas, NV 89104",
+      "phone": "",
+      "website": "https://www.jakesbarvegas.com",
+      "notes": "Self-described \"Home of the Broncos\", 24/7 with gaming promos | https://www.jakesbarvegas.com",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Joe's Bar",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "address": "2851 N Rancho Dr, Las Vegas, NV 89130",
+      "phone": "(702) 780-8376",
+      "website": "https://www.joesbarlv.com",
+      "notes": "Chicago Italian-style food, 14 big screen TVs, supports Bears, Golden Knights, Michigan | https://www.joesbarlv.com",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Joey's Tavern",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "address": "7081 W Craig Rd, Las Vegas, NV 89129",
+      "phone": "(702) 215-3300",
+      "website": "https://joeyslasvegas.com",
+      "notes": "Open 24/7, visited by former 49ers stars John Taylor and Eric Wright | https://2ndhomesports.com/blogs/san-francisco-49ers-bar-in-las-vegas-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Johnny Mac's Bar and Restaurant",
+      "teams": [
+        "Buffalo Bills",
+        "Washington Commanders"
+      ],
+      "address": "842 S Boulder Hwy, Henderson, NV 89015",
+      "phone": "",
+      "website": "",
+      "notes": "Boulder Highway location supporting Bills fans | https://www.reviewjournal.com/nflbars/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Knight Time Hockey Bar",
+      "teams": [
+        "Vegas Golden Knights"
+      ],
+      "address": "12300 S Las Vegas Blvd, Henderson, NV 89044",
+      "phone": "(702) 797-1000",
+      "website": "https://www.themresort.com/dining/bars-and-lounges/knight-time-hockey-bar",
+      "notes": "At M Resort, Henderson Silver Knights official bar, VGK memorabilia. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Las Vegas Ballpark",
+      "teams": [
+        "General Sports Bars Recommended for MLB Games"
+      ],
+      "address": "1650 S Pavilion Center Dr, Las Vegas, NV 89135",
+      "phone": "",
+      "website": "https://www.thelvballpark.com/",
+      "notes": "Home of Las Vegas Aviators (Triple-A); hosts MLB spring training games",
+      "sports": [
+        "MLB"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "MacKenzie River Pizza, Grill & Pub",
+      "teams": [
+        "Vegas Golden Knights",
+        "Washington Capitals",
+        "Winnipeg Jets"
+      ],
+      "address": "1550 S Pavilion Center Dr, Las Vegas, NV 89135",
+      "phone": "",
+      "website": "https://locations.mackenzieriverpizza.com/locations/nv/las-vegas/1550-s-pavilion-center-dr/",
+      "notes": "Inside City National Arena (Golden Knights practice facility), overlooks two ice rinks. | https://gamewatch.info/teams/washington-capitals/cities/las-vegas-nv",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Madison Ave (Historical)",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Reported in decline per 2018 Reddit post, verify current status | https://www.reddit.com/r/eagles/comments/7p25wx/las_vegas_eagles_bar/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Michael's Pub",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "address": "4012 S Rainbow Blvd, Las Vegas, NV 89103",
+      "phone": "(702) 871-1381",
+      "website": "http://michaelspubvegas.com",
+      "notes": "Listed as Chargers bar location | https://sportsbars.fandom.com/wiki/Los_Angeles_Chargers_Bars",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Moon Doggie's",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "address": "6320 W Sahara Ave, Las Vegas, NV 89146",
+      "phone": "",
+      "website": "",
+      "notes": "Bills fans gather here for game viewing | https://www.reviewjournal.com/nflbars/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Moondoggies",
+      "teams": [
+        "Buffalo Sabres"
+      ],
+      "address": "3240 Arville St, Las Vegas, NV 89102",
+      "phone": "(702) 368-4180",
+      "website": "http://www.moondoggiesbar.com/",
+      "notes": "Original Buffalo Bills & Sabres bar, dive bar atmosphere, open 24/7. | https://www.facebook.com/moondoggieslv/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Mr. D's Sportsbar & Grill",
+      "teams": [
+        "Dallas Cowboys"
+      ],
+      "address": "North Las Vegas location",
+      "phone": "",
+      "website": "",
+      "notes": "Self-described \"Las Vegas' Premier Dallas Cowboys Bar\", bikini bar with live bands | https://www.facebook.com/MrDsSportsBar/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Mulligan's Bar & Grill",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "address": "2312 E Craig Rd, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Bears specials including Old Style beer and touchdown schnapps shots | TripAdvisor forums",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "PKWY Tavern",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "address": "9820 W Flamingo Rd, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Hosted official Packers Everywhere pep rally | https://www.packerseverywhere.com/pep-rallies/detail/las-vegas",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "PKWY Tavern (Multiple Locations)",
+      "teams": [
+        "General Sports Bars (Show All NBA Games)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "https://www.pkwytavern.com",
+      "notes": "7 locations across Las Vegas/Henderson; 24/7 kitchen, 250+ beers, sports viewing | https://www.pkwytavern.com/locations/",
+      "sports": [
+        "NBA"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "PKWY Tavern Flamingo",
+      "teams": [
+        "Golden State Warriors"
+      ],
+      "address": "9820 W Flamingo Rd, Las Vegas, NV 89147",
+      "phone": "(702) 243-5329",
+      "website": "https://www.pkwytavern.com",
+      "notes": "Listed as Warriors watch location; 24/7 kitchen, 250+ beers | https://gamewatch.info/teams/golden-state-warriors/cities/las-vegas-nv/bars",
+      "sports": [
+        "NBA"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "PKWY Tavern Tivoli",
+      "teams": [
+        "Golden State Warriors",
+        "Toronto Raptors"
+      ],
+      "address": "450 S Rampart Blvd, Las Vegas, NV 89145",
+      "phone": "(702) 722-2000",
+      "website": "https://www.pkwytavern.com",
+      "notes": "Listed as Raptors watch location; 24/7 kitchen, 250+ beers, bar top gaming | https://gamewatch.info/teams/toronto-raptors",
+      "sports": [
+        "NBA"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "PT's Ranch",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "address": "Pebble and Eastern area, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Bears bar location per local Reddit | https://www.reddit.com/r/LasVegas/comments/zbyyga/chicago_bears_bars_in_vegas/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Roadrunner Saloon",
+      "teams": [
+        "Denver Broncos"
+      ],
+      "address": "921 N Buffalo Dr, Las Vegas, NV 89128",
+      "phone": "",
+      "website": "https://roadrunnerlasvegas.com",
+      "notes": "Premier Broncos bar in Summerlin, country bar atmosphere with best burgers | https://roadrunnerlasvegas.com",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Rum Runner Lounge",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "address": "Multiple locations, Las Vegas, NV",
+      "phone": "",
+      "website": "https://rumrunnervegas.com",
+      "notes": "All three locations are Packer Backer bars with halftime brat buffet and drawings | https://rumrunnervegas.com",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Scooter's Pub",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "address": "6200 S Rainbow Blvd, Las Vegas, NV 89118",
+      "phone": "",
+      "website": "",
+      "notes": "Official bar of Las Vegas SeaHawkers booster club, get there early for seats | https://www.seahawkers.org/chapters/nv-las-vegas/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Shooters Bar & Grill",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "address": "East Sahara Ave, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Mentioned as Chargers-friendly bar | https://www.neighborhoods.com/blog/a-neighborhood-guide-to-nfl-bars-in-las-vegas",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Status: HOME TEAM",
+      "teams": [
+        "Las Vegas Raiders"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Raiders games shown at virtually every bar and casino in Las Vegas metro area. Allegiant Stadium is home venue.",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Steiner's Pub",
+      "teams": [
+        "Washington Commanders"
+      ],
+      "address": "1750 N Buffalo Dr, Las Vegas, NV 89128",
+      "phone": "",
+      "website": "",
+      "notes": "THE local Redskins/Commanders bar with big crowds and raffles at halftime | https://www.reddit.com/r/Commanders/comments/1f9u2uz/in_the_las_vegas_area_come_check_out_our/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "TAP Sports Bar",
+      "teams": [
+        "General Sports Bars Recommended for MLB Games",
+        "Vegas Golden Knights"
+      ],
+      "address": "MGM Grand, Las Vegas, NV",
+      "phone": "(702) 891-7239",
+      "website": "https://mgmgrand.mgmresorts.com/en/restaurants/tap-sports-bar.html",
+      "notes": "Major casino sportsbook with all MLB games",
+      "sports": [
+        "MLB"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "TAP Sports Bar at Excalibur",
+      "teams": [
+        "Tampa Bay Buccaneers"
+      ],
+      "address": "3850 S Las Vegas Blvd, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Buccaneers-friendly sportsbook location | https://accidentaltravelwriter.com/best-las-vegas-sports-bar/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "The Standard Tavern",
+      "teams": [
+        "Baltimore Ravens"
+      ],
+      "address": "8675 W Rome Blvd, Las Vegas, NV 89131",
+      "phone": "(702) 522-7709",
+      "website": "https://thestandardlv.com/",
+      "notes": "General sports bars recommended - check casino sportsbooks",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "The Still Crafts, Drafts & Eats",
+      "teams": [
+        "Atlanta Falcons",
+        "General Sports Bars (Show All NBA Games)"
+      ],
+      "address": "3400 S Las Vegas Blvd, Las Vegas, NV 89109 (The Mirage)",
+      "phone": "(702) 489-2129",
+      "website": "",
+      "notes": "**PERMANENTLY CLOSED** (The Mirage closed/redeveloped) | https://www.yelp.com/biz/the-still-crafts-drafts-and-eats-las-vegas",
+      "sports": [
+        "NBA"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "The Tavern",
+      "teams": [
+        "Cleveland Browns",
+        "Los Angeles Rams",
+        "Vegas Golden Knights"
+      ],
+      "address": "2777 S Las Vegas Blvd, Las Vegas, NV 89109",
+      "phone": "(833) 702-7272",
+      "website": "https://www.fontainebleaulasvegas.com/dining/the-tavern",
+      "notes": "At Fontainebleau, upscale sportsbook and bar, massive LED wall. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+      "sports": [
+        "NHL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Timbers Bar and Grill",
+      "teams": [
+        "Arizona Cardinals",
+        "Pittsburgh Steelers"
+      ],
+      "address": "Multiple locations in Las Vegas",
+      "phone": "",
+      "website": "",
+      "notes": "General sports bars recommended",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Tom's Watch Bar",
+      "teams": [
+        "General Sports Bars (Show All NBA Games)",
+        "General Sports Bars Recommended for MLB Games",
+        "Los Angeles Lakers",
+        "San Francisco 49ers",
+        "Vegas Golden Knights"
+      ],
+      "address": "3790 Las Vegas Blvd S, Las Vegas, NV 89109",
+      "phone": "(702) 740-6766",
+      "website": "https://tomswatchbar.com/las-vegas/",
+      "notes": "Ultimate NBA destination on the Strip; shows all teams but popular with Lakers fans | https://tomswatchbar.com/las-vegas/",
+      "sports": [
+        "NBA"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Torrey Pines Pub",
+      "teams": [
+        "New England Patriots",
+        "New York Giants",
+        "Philadelphia Eagles",
+        "Philadelphia Phillies"
+      ],
+      "address": "6374 W Lake Mead Blvd, Las Vegas, NV 89108",
+      "phone": "(702) 648-7775",
+      "website": "https://www.torreypinespub.com/",
+      "notes": "General sports bars available | Search results",
+      "sports": [
+        "MLB"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Twin Peaks",
+      "teams": [
+        "Los Angeles Rams"
+      ],
+      "address": "Eastern Ave location, Las Vegas, NV",
+      "phone": "",
+      "website": "",
+      "notes": "Home of 702 Rams Club LV | https://2ndhomesports.com/blogs/los-angeles-rams-bar-in-las-vegas-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Walk-On's Sports Bistreaux",
+      "teams": [
+        "New Orleans Saints"
+      ],
+      "address": "Las Vegas location",
+      "phone": "",
+      "website": "",
+      "notes": "Louisiana-based sports bar chain | Yelp search results",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Wildfire Sports Bar",
+      "teams": [
+        "New York Jets"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Jets fans reported gathering location | https://www.reviewjournal.com/nflbars/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    },
+    {
+      "name": "Wildfire Valley View",
+      "teams": [
+        "New York Giants"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Official home of New York Giants Las Vegas G-Fam | https://2ndhomesports.com/blogs/new-york-giants-bar-in-las-vegas-2024/",
+      "sports": [
+        "NFL"
+      ],
+      "city": "las-vegas"
+    }
+  ],
+  "by_sport": {
+    "NFL": [
+      {
+        "name": "7-11 Bar",
+        "teams": [
+          "New Orleans Saints"
+        ],
+        "address": "2530 Arville St, Las Vegas, NV 89102",
+        "phone": "(702) 362-2415",
+        "website": "",
+        "notes": "New Orleans Saints neighborhood bar, no kitchen, open 24 hours | https://lasvegasweekly.com/places/7-11-bar-2530-arville-st/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Big Dog's Draft House",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "https://www.bigdogsbrews.com/packer-backers/",
+        "notes": "Packer Backers gatherings, reservations available | https://www.bigdogsbrews.com/packer-backers/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Blue Diamond Saloon",
+        "teams": [
+          "Kansas City Chiefs"
+        ],
+        "address": "6935 Blue Diamond Rd, Las Vegas, NV 89178",
+        "phone": "",
+        "website": "",
+        "notes": "Chiefs bar also supporting Nebraska Cornhuskers, has pool tables and live music | https://www.reddit.com/r/KansasCityChiefs/comments/15kqo2k/watching_a_game_in_vegas/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Blue Ox Central",
+        "teams": [
+          "Minnesota Vikings"
+        ],
+        "address": "Central Las Vegas location",
+        "phone": "",
+        "website": "",
+        "notes": "Second Blue Ox location supporting Vikings | https://gamewatch.info/teams/minnesota-vikings/cities/las-vegas-nv",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Blue Ox Tavern",
+        "teams": [
+          "Minnesota Vikings"
+        ],
+        "address": "5825 W Sahara Ave, Las Vegas, NV 89146",
+        "phone": "",
+        "website": "https://blueoxtavern.app.vdomobile.com",
+        "notes": "24/7 eatery with Minnesotan vibe, official Vikings bar, approx 3 miles off Strip | https://www.yelp.com/biz/blue-ox-tavern-las-vegas",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Buffalo Wild Wings",
+        "teams": [
+          "Los Angeles Chargers"
+        ],
+        "address": "7430 S Las Vegas Blvd #120, Las Vegas, NV 89123",
+        "phone": "(702) 614-0238",
+        "website": "",
+        "notes": "DHBCLV (Chargers fan club) gathers here | https://2ndhomesports.com/blogs/los-angeles-chargers-bar-in-las-vegas-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Chickie's & Pete's Las Vegas",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Philadelphia-based restaurant chain with Vegas location | Yelp search results",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Crab Corner Maryland Seafood House",
+        "teams": [
+          "Washington Commanders"
+        ],
+        "address": "6485 S Rainbow Blvd, Las Vegas, NV",
+        "phone": "(702) 489-4646",
+        "website": "http://www.crabcornerlv.com/",
+        "notes": "Maryland-themed seafood house supporting Commanders | https://www.reviewjournal.com/nflbars/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Crowbar (Flamingo)",
+        "teams": [
+          "Detroit Lions"
+        ],
+        "address": "Near Flamingo and Rainbow, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Definitive Las Vegas neighborhood bar, home of Lions in Vegas | https://www.instagram.com/crowbarlasvegas/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "E-String (Historical)",
+        "teams": [
+          "New York Giants"
+        ],
+        "address": "6851 Flamingo Rd, Las Vegas, NV 89103",
+        "phone": "",
+        "website": "",
+        "notes": "May no longer be Giants bar, verify before visiting | https://www.ktnv.com/sports/13-vegas-bars-that-go-all-out-for-their-favorite-nfl-teams",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Flowing Tide Pub",
+        "teams": [
+          "Miami Dolphins"
+        ],
+        "address": "Multiple locations in Las Vegas metro area",
+        "phone": "",
+        "website": "",
+        "notes": "Check specific location for Dolphins game viewing | https://www.reviewjournal.com/nflbars/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Flowing Tide Pub #9",
+        "teams": [
+          "Tampa Bay Buccaneers"
+        ],
+        "address": "9860 Las Vegas Blvd S, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Bucs fan gathering location per 2025 RJ listing | https://www.reddit.com/r/vegas/comments/1mtluf1/best_bar_for_tampa_bay_bucs_fans/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Flowing Tide Pub 6",
+        "teams": [
+          "Detroit Lions"
+        ],
+        "address": "4680 S Decatur Blvd, Las Vegas, NV 89103",
+        "phone": "",
+        "website": "",
+        "notes": "Home of Detroit Lions Fans Las Vegas Chapter | https://www.reddit.com/r/vegas/comments/2qbsk0/where_can_i_find_a_detroit_lions_bar/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Flowing Tide Pub on Rainbow",
+        "teams": [
+          "San Francisco 49ers"
+        ],
+        "address": "Rainbow Blvd location, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Las Vegas Niner Empire gathering spot | https://www.reddit.com/r/vegaslocals/comments/1px8dnj/49ers_bar/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "G.O.A.T Sports Bar",
+        "teams": [
+          "Carolina Panthers"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Panthers fans reported gathering location | https://accidentaltravelwriter.com/best-las-vegas-sports-bar/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Jackpot Bar and Grill",
+        "teams": [
+          "Kansas City Chiefs"
+        ],
+        "address": "4485 S Jones Blvd, Las Vegas, NV 89103",
+        "phone": "(702) 463-0333",
+        "website": "http://jackpotbarlv.com",
+        "notes": "Home of KC Chiefs Las Vegas Kingdom, neighborhood sports bar west of Strip | https://2ndhomesports.com/blogs/kansas-city-chiefs-bar-in-las-vegas-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Jake's Bar",
+        "teams": [
+          "Denver Broncos"
+        ],
+        "address": "2301 S Eastern Ave, Las Vegas, NV 89104",
+        "phone": "",
+        "website": "https://www.jakesbarvegas.com",
+        "notes": "Self-described \"Home of the Broncos\", 24/7 with gaming promos | https://www.jakesbarvegas.com",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Joe's Bar",
+        "teams": [
+          "Chicago Bears"
+        ],
+        "address": "2851 N Rancho Dr, Las Vegas, NV 89130",
+        "phone": "(702) 780-8376",
+        "website": "https://www.joesbarlv.com",
+        "notes": "Chicago Italian-style food, 14 big screen TVs, supports Bears, Golden Knights, Michigan | https://www.joesbarlv.com",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Joey's Tavern",
+        "teams": [
+          "San Francisco 49ers"
+        ],
+        "address": "7081 W Craig Rd, Las Vegas, NV 89129",
+        "phone": "(702) 215-3300",
+        "website": "https://joeyslasvegas.com",
+        "notes": "Open 24/7, visited by former 49ers stars John Taylor and Eric Wright | https://2ndhomesports.com/blogs/san-francisco-49ers-bar-in-las-vegas-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Johnny Mac's Bar and Restaurant",
+        "teams": [
+          "Buffalo Bills",
+          "Washington Commanders"
+        ],
+        "address": "842 S Boulder Hwy, Henderson, NV 89015",
+        "phone": "",
+        "website": "",
+        "notes": "Boulder Highway location supporting Bills fans | https://www.reviewjournal.com/nflbars/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Madison Ave (Historical)",
+        "teams": [
+          "Philadelphia Eagles"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Reported in decline per 2018 Reddit post, verify current status | https://www.reddit.com/r/eagles/comments/7p25wx/las_vegas_eagles_bar/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Michael's Pub",
+        "teams": [
+          "Los Angeles Chargers"
+        ],
+        "address": "4012 S Rainbow Blvd, Las Vegas, NV 89103",
+        "phone": "(702) 871-1381",
+        "website": "http://michaelspubvegas.com",
+        "notes": "Listed as Chargers bar location | https://sportsbars.fandom.com/wiki/Los_Angeles_Chargers_Bars",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Moon Doggie's",
+        "teams": [
+          "Buffalo Bills"
+        ],
+        "address": "6320 W Sahara Ave, Las Vegas, NV 89146",
+        "phone": "",
+        "website": "",
+        "notes": "Bills fans gather here for game viewing | https://www.reviewjournal.com/nflbars/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Mr. D's Sportsbar & Grill",
+        "teams": [
+          "Dallas Cowboys"
+        ],
+        "address": "North Las Vegas location",
+        "phone": "",
+        "website": "",
+        "notes": "Self-described \"Las Vegas' Premier Dallas Cowboys Bar\", bikini bar with live bands | https://www.facebook.com/MrDsSportsBar/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Mulligan's Bar & Grill",
+        "teams": [
+          "Chicago Bears"
+        ],
+        "address": "2312 E Craig Rd, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Bears specials including Old Style beer and touchdown schnapps shots | TripAdvisor forums",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "PKWY Tavern",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "address": "9820 W Flamingo Rd, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Hosted official Packers Everywhere pep rally | https://www.packerseverywhere.com/pep-rallies/detail/las-vegas",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "PT's Ranch",
+        "teams": [
+          "Chicago Bears"
+        ],
+        "address": "Pebble and Eastern area, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Bears bar location per local Reddit | https://www.reddit.com/r/LasVegas/comments/zbyyga/chicago_bears_bars_in_vegas/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Roadrunner Saloon",
+        "teams": [
+          "Denver Broncos"
+        ],
+        "address": "921 N Buffalo Dr, Las Vegas, NV 89128",
+        "phone": "",
+        "website": "https://roadrunnerlasvegas.com",
+        "notes": "Premier Broncos bar in Summerlin, country bar atmosphere with best burgers | https://roadrunnerlasvegas.com",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Rum Runner Lounge",
+        "teams": [
+          "Green Bay Packers"
+        ],
+        "address": "Multiple locations, Las Vegas, NV",
+        "phone": "",
+        "website": "https://rumrunnervegas.com",
+        "notes": "All three locations are Packer Backer bars with halftime brat buffet and drawings | https://rumrunnervegas.com",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Scooter's Pub",
+        "teams": [
+          "Seattle Seahawks"
+        ],
+        "address": "6200 S Rainbow Blvd, Las Vegas, NV 89118",
+        "phone": "",
+        "website": "",
+        "notes": "Official bar of Las Vegas SeaHawkers booster club, get there early for seats | https://www.seahawkers.org/chapters/nv-las-vegas/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Shooters Bar & Grill",
+        "teams": [
+          "Los Angeles Chargers"
+        ],
+        "address": "East Sahara Ave, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Mentioned as Chargers-friendly bar | https://www.neighborhoods.com/blog/a-neighborhood-guide-to-nfl-bars-in-las-vegas",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Status: HOME TEAM",
+        "teams": [
+          "Las Vegas Raiders"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Raiders games shown at virtually every bar and casino in Las Vegas metro area. Allegiant Stadium is home venue.",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Steiner's Pub",
+        "teams": [
+          "Washington Commanders"
+        ],
+        "address": "1750 N Buffalo Dr, Las Vegas, NV 89128",
+        "phone": "",
+        "website": "",
+        "notes": "THE local Redskins/Commanders bar with big crowds and raffles at halftime | https://www.reddit.com/r/Commanders/comments/1f9u2uz/in_the_las_vegas_area_come_check_out_our/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "TAP Sports Bar at Excalibur",
+        "teams": [
+          "Tampa Bay Buccaneers"
+        ],
+        "address": "3850 S Las Vegas Blvd, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Buccaneers-friendly sportsbook location | https://accidentaltravelwriter.com/best-las-vegas-sports-bar/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "The Standard Tavern",
+        "teams": [
+          "Baltimore Ravens"
+        ],
+        "address": "8675 W Rome Blvd, Las Vegas, NV 89131",
+        "phone": "(702) 522-7709",
+        "website": "https://thestandardlv.com/",
+        "notes": "General sports bars recommended - check casino sportsbooks",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Timbers Bar and Grill",
+        "teams": [
+          "Arizona Cardinals",
+          "Pittsburgh Steelers"
+        ],
+        "address": "Multiple locations in Las Vegas",
+        "phone": "",
+        "website": "",
+        "notes": "General sports bars recommended",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Twin Peaks",
+        "teams": [
+          "Los Angeles Rams"
+        ],
+        "address": "Eastern Ave location, Las Vegas, NV",
+        "phone": "",
+        "website": "",
+        "notes": "Home of 702 Rams Club LV | https://2ndhomesports.com/blogs/los-angeles-rams-bar-in-las-vegas-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Walk-On's Sports Bistreaux",
+        "teams": [
+          "New Orleans Saints"
+        ],
+        "address": "Las Vegas location",
+        "phone": "",
+        "website": "",
+        "notes": "Louisiana-based sports bar chain | Yelp search results",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Wildfire Sports Bar",
+        "teams": [
+          "New York Jets"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Jets fans reported gathering location | https://www.reviewjournal.com/nflbars/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Wildfire Valley View",
+        "teams": [
+          "New York Giants"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Official home of New York Giants Las Vegas G-Fam | https://2ndhomesports.com/blogs/new-york-giants-bar-in-las-vegas-2024/",
+        "sports": [
+          "NFL"
+        ],
+        "city": "las-vegas"
+      }
+    ],
+    "NHL": [
+      {
+        "name": "BarCanada",
+        "teams": [
+          "Calgary Flames",
+          "Edmonton Oilers",
+          "Montreal Canadiens",
+          "Ottawa Senators",
+          "Toronto Maple Leafs",
+          "Vancouver Canucks",
+          "Vegas Golden Knights"
+        ],
+        "address": "301 Fremont St (2nd level), Las Vegas, NV 89101",
+        "phone": "",
+        "website": "https://www.thed.com/barcanada/",
+        "notes": "Ode to Canadian sports and culture at The D Las Vegas, serves all Canadian NHL teams. | https://www.thed.com/barcanada/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Beerhaus",
+        "teams": [
+          "Vegas Golden Knights"
+        ],
+        "address": "3790 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "phone": "(702) 692-2337",
+        "website": "https://www.theparkvegas.com",
+        "notes": "At The Park, pre-game spot for T-Mobile Arena, beer hall style. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Born And Raised Centennial",
+        "teams": [
+          "Vegas Golden Knights"
+        ],
+        "address": "6470 Kevin Way, Ste 100, Las Vegas, NV 89149",
+        "phone": "(702) 202-4991",
+        "website": "https://bornandraisedlv.com/",
+        "notes": "Official Golden Knights bar, open 24/7, official away game watch party location. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Brooksy's",
+        "teams": [
+          "Tampa Bay Buccaneers",
+          "Vegas Golden Knights",
+          "Washington Capitals",
+          "Winnipeg Jets"
+        ],
+        "address": "9295 W Flamingo Rd, Las Vegas, NV 89147",
+        "phone": "(702) 562-2050",
+        "website": "https://brooksys.net/",
+        "notes": "Hockey bar inside Las Vegas Ice Center, overlooks ice rink. | https://gamewatch.info/teams/washington-capitals/cities/las-vegas-nv",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Flanker Kitchen + Sports Bar",
+        "teams": [
+          "Vegas Golden Knights"
+        ],
+        "address": "3950 S Las Vegas Blvd, Las Vegas, NV 89119",
+        "phone": "(702) 632-5200",
+        "website": "https://www.flankerlv.com",
+        "notes": "At Mandalay Bay, next to Allegiant Stadium, 70-foot LED screen. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Knight Time Hockey Bar",
+        "teams": [
+          "Vegas Golden Knights"
+        ],
+        "address": "12300 S Las Vegas Blvd, Henderson, NV 89044",
+        "phone": "(702) 797-1000",
+        "website": "https://www.themresort.com/dining/bars-and-lounges/knight-time-hockey-bar",
+        "notes": "At M Resort, Henderson Silver Knights official bar, VGK memorabilia. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "MacKenzie River Pizza, Grill & Pub",
+        "teams": [
+          "Vegas Golden Knights",
+          "Washington Capitals",
+          "Winnipeg Jets"
+        ],
+        "address": "1550 S Pavilion Center Dr, Las Vegas, NV 89135",
+        "phone": "",
+        "website": "https://locations.mackenzieriverpizza.com/locations/nv/las-vegas/1550-s-pavilion-center-dr/",
+        "notes": "Inside City National Arena (Golden Knights practice facility), overlooks two ice rinks. | https://gamewatch.info/teams/washington-capitals/cities/las-vegas-nv",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Moondoggies",
+        "teams": [
+          "Buffalo Sabres"
+        ],
+        "address": "3240 Arville St, Las Vegas, NV 89102",
+        "phone": "(702) 368-4180",
+        "website": "http://www.moondoggiesbar.com/",
+        "notes": "Original Buffalo Bills & Sabres bar, dive bar atmosphere, open 24/7. | https://www.facebook.com/moondoggieslv/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "The Tavern",
+        "teams": [
+          "Cleveland Browns",
+          "Los Angeles Rams",
+          "Vegas Golden Knights"
+        ],
+        "address": "2777 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "phone": "(833) 702-7272",
+        "website": "https://www.fontainebleaulasvegas.com/dining/the-tavern",
+        "notes": "At Fontainebleau, upscale sportsbook and bar, massive LED wall. | https://www.vegas4locals.com/resources/best-sports-bars-las-vegas/",
+        "sports": [
+          "NHL"
+        ],
+        "city": "las-vegas"
+      }
+    ],
+    "MLB": [
+      {
+        "name": "Blondies Sports Bar & Grill",
+        "teams": [
+          "Carolina Panthers",
+          "General Sports Bars Recommended for MLB Games",
+          "Tennessee Titans",
+          "Vegas Golden Knights"
+        ],
+        "address": "Miracle Mile Shops (Planet Hollywood), Las Vegas, NV",
+        "phone": "(702) 737-0444",
+        "website": "https://www.blondieslasvegas.com",
+        "notes": "Lots of TVs, can reserve tables for games",
+        "sports": [
+          "MLB"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Chickie's & Pete's",
+        "teams": [
+          "Philadelphia Phillies"
+        ],
+        "address": "2535 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "phone": "(702) 761-7000",
+        "website": "https://www.saharalasvegas.com/restaurants-bars/chickies-petes",
+        "notes": "Philadelphia-themed crabhouse and sports bar at Sahara Las Vegas | https://www.chickiesandpetes.com/location/las-vegas",
+        "sports": [
+          "MLB"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Home Plate Grill & Bar",
+        "teams": [
+          "General Sports Bars Recommended for MLB Games"
+        ],
+        "address": "2460 W Warm Springs Rd, Las Vegas, NV 89119",
+        "phone": "(702) 410-5600",
+        "website": "https://www.homeplategrillandbar.com/",
+        "notes": "Baseball-themed sports bar, open 24/7",
+        "sports": [
+          "MLB"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Las Vegas Ballpark",
+        "teams": [
+          "General Sports Bars Recommended for MLB Games"
+        ],
+        "address": "1650 S Pavilion Center Dr, Las Vegas, NV 89135",
+        "phone": "",
+        "website": "https://www.thelvballpark.com/",
+        "notes": "Home of Las Vegas Aviators (Triple-A); hosts MLB spring training games",
+        "sports": [
+          "MLB"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "TAP Sports Bar",
+        "teams": [
+          "General Sports Bars Recommended for MLB Games",
+          "Vegas Golden Knights"
+        ],
+        "address": "MGM Grand, Las Vegas, NV",
+        "phone": "(702) 891-7239",
+        "website": "https://mgmgrand.mgmresorts.com/en/restaurants/tap-sports-bar.html",
+        "notes": "Major casino sportsbook with all MLB games",
+        "sports": [
+          "MLB"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Torrey Pines Pub",
+        "teams": [
+          "New England Patriots",
+          "New York Giants",
+          "Philadelphia Eagles",
+          "Philadelphia Phillies"
+        ],
+        "address": "6374 W Lake Mead Blvd, Las Vegas, NV 89108",
+        "phone": "(702) 648-7775",
+        "website": "https://www.torreypinespub.com/",
+        "notes": "General sports bars available | Search results",
+        "sports": [
+          "MLB"
+        ],
+        "city": "las-vegas"
+      }
+    ],
+    "NBA": [
+      {
+        "name": "Eclipse Theatres",
+        "teams": [
+          "Los Angeles Lakers"
+        ],
+        "address": "814 S 3rd St, Las Vegas, NV 89101",
+        "phone": "",
+        "website": "",
+        "notes": "Vegas Lakers Fans club organized watch parties here (as of 2020); status uncertain | https://lvmagazine.com/introducing-the-vegas-lakers-fans-club",
+        "sports": [
+          "NBA"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "PKWY Tavern (Multiple Locations)",
+        "teams": [
+          "General Sports Bars (Show All NBA Games)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "https://www.pkwytavern.com",
+        "notes": "7 locations across Las Vegas/Henderson; 24/7 kitchen, 250+ beers, sports viewing | https://www.pkwytavern.com/locations/",
+        "sports": [
+          "NBA"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "PKWY Tavern Flamingo",
+        "teams": [
+          "Golden State Warriors"
+        ],
+        "address": "9820 W Flamingo Rd, Las Vegas, NV 89147",
+        "phone": "(702) 243-5329",
+        "website": "https://www.pkwytavern.com",
+        "notes": "Listed as Warriors watch location; 24/7 kitchen, 250+ beers | https://gamewatch.info/teams/golden-state-warriors/cities/las-vegas-nv/bars",
+        "sports": [
+          "NBA"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "PKWY Tavern Tivoli",
+        "teams": [
+          "Golden State Warriors",
+          "Toronto Raptors"
+        ],
+        "address": "450 S Rampart Blvd, Las Vegas, NV 89145",
+        "phone": "(702) 722-2000",
+        "website": "https://www.pkwytavern.com",
+        "notes": "Listed as Raptors watch location; 24/7 kitchen, 250+ beers, bar top gaming | https://gamewatch.info/teams/toronto-raptors",
+        "sports": [
+          "NBA"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "The Still Crafts, Drafts & Eats",
+        "teams": [
+          "Atlanta Falcons",
+          "General Sports Bars (Show All NBA Games)"
+        ],
+        "address": "3400 S Las Vegas Blvd, Las Vegas, NV 89109 (The Mirage)",
+        "phone": "(702) 489-2129",
+        "website": "",
+        "notes": "**PERMANENTLY CLOSED** (The Mirage closed/redeveloped) | https://www.yelp.com/biz/the-still-crafts-drafts-and-eats-las-vegas",
+        "sports": [
+          "NBA"
+        ],
+        "city": "las-vegas"
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "teams": [
+          "General Sports Bars (Show All NBA Games)",
+          "General Sports Bars Recommended for MLB Games",
+          "Los Angeles Lakers",
+          "San Francisco 49ers",
+          "Vegas Golden Knights"
+        ],
+        "address": "3790 Las Vegas Blvd S, Las Vegas, NV 89109",
+        "phone": "(702) 740-6766",
+        "website": "https://tomswatchbar.com/las-vegas/",
+        "notes": "Ultimate NBA destination on the Strip; shows all teams but popular with Lakers fans | https://tomswatchbar.com/las-vegas/",
+        "sports": [
+          "NBA"
+        ],
+        "city": "las-vegas"
+      }
+    ]
+  }
+}

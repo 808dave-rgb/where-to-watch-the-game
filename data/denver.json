@@ -1,0 +1,3960 @@
+{
+  "city": "denver",
+  "total_bars": 138,
+  "sports": [
+    "NBA",
+    "NHL",
+    "NFL",
+    "MLB"
+  ],
+  "bars": [
+    {
+      "name": "**1UP Arcade Bar - Colfax**",
+      "teams": [
+        "GENERAL SPORTS BARS (Show All NBA Games)"
+      ],
+      "address": "717 E Colfax Ave, Denver, CO 80203",
+      "phone": "(303) 736-2230",
+      "website": "N/A",
+      "notes": "90+ arcade games + great sports viewing. Largest arcade bar in nation.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**5280 Burger Bar**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Blake Street Tavern**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Blake Street Tavern** ❌ **CLOSED**",
+      "teams": [
+        "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
+      ],
+      "address": "2301 Blake St, Denver, CO 80205",
+      "phone": "",
+      "website": "",
+      "notes": "**CLOSED**. Was home to **Denver Carolina Club** (UNC fans). UNC alumni may have scattered to other bars.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Brooklyn's**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Cherry Cricket** (multiple locations)",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Chopper's Sports Grill**",
+      "teams": [
+        "GENERAL SPORTS BARS (Show All NBA Games)",
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "Denver, CO (exact location TBD)",
+      "phone": "TBD",
+      "website": "N/A",
+      "notes": "Mentioned in multiple searches as general sports bar",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**DNVR Bar**",
+      "teams": [
+        "GENERAL SPORTS BARS (Show All NBA Games)"
+      ],
+      "address": "Denver, CO (exact location TBD)",
+      "phone": "TBD",
+      "website": "https://www.dnvr.com",
+      "notes": "Official DNVR media company bar. Best Nuggets atmosphere but shows all games.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Denver 'Canes (University of Miami alumni group)**",
+      "teams": [
+        "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
+      ],
+      "address": "N/A (no permanent bar listed)",
+      "phone": "",
+      "website": "https://www.facebook.com/DenverCANES/",
+      "notes": "Miami Hurricanes alumni group. Potential Heat fans.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Drink Wisconsinbly**",
+      "teams": [
+        "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
+      ],
+      "address": "Denver, CO (exact location TBD)",
+      "phone": "",
+      "website": "",
+      "notes": "Wisconsin bar serving Packers, Bucks, Brewers fans.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**East Colfax**",
+      "teams": [
+        "GEOGRAPHIC CLUSTERS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**For Away Fans:**",
+      "teams": [
+        "RECOMMENDATIONS FOR NBA FANS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**For Playoff Games:**",
+      "teams": [
+        "RECOMMENDATIONS FOR NBA FANS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Henry's Tavern**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Icehouse Tavern**",
+      "teams": [
+        "COLLEGE ALUMNI BARS (NBA Crossover Potential)",
+        "GENERAL SPORTS BARS (Show All NBA Games)"
+      ],
+      "address": "1801 Wynkoop St #150, Denver, CO 80202",
+      "phone": "(303) 292-3775",
+      "website": "N/A",
+      "notes": "Purdue/Indiana bar. Shows all major games + Indiana teams.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**If Your Team Has NO Dedicated Bar:**",
+      "teams": [
+        "RECOMMENDATIONS FOR NBA FANS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**If Your Team Has a Dedicated Bar:**",
+      "teams": [
+        "RECOMMENDATIONS FOR NBA FANS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Jackson's LoDo**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**LoDo (Lower Downtown) - Near Ball Arena**",
+      "teams": [
+        "GEOGRAPHIC CLUSTERS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**MLB (Colorado Rockies)**",
+      "teams": [
+        "COMPARISON TO OTHER DENVER SPORTS SCENES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**NBA vs. Other Sports:**",
+      "teams": [
+        "COMPARISON TO OTHER DENVER SPORTS SCENES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**NFL (Denver Broncos)**",
+      "teams": [
+        "COMPARISON TO OTHER DENVER SPORTS SCENES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**NHL (Colorado Avalanche)**",
+      "teams": [
+        "COMPARISON TO OTHER DENVER SPORTS SCENES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Number Thirty Eight**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Pour House Market Street**",
+      "teams": [
+        "GENERAL SPORTS BARS (Show All NBA Games)"
+      ],
+      "address": "Market Street, Denver, CO (exact location TBD)",
+      "phone": "TBD",
+      "website": "N/A",
+      "notes": "Celtics-friendly, general sports bar",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Secret Level**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Society Sports and Spirits**",
+      "teams": [
+        "GENERAL SPORTS BARS (Show All NBA Games)",
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "1434 Blake Street, Denver, CO 80202",
+      "phone": "TBD",
+      "website": "https://societydenver.com/",
+      "notes": "Texas-themed \"Tailgate\" bar near Ball Arena. Serves Rockets, Spurs fans officially. Shows all NBA games.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Sports Column**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Stoney's Bar & Grill (multiple locations)**",
+      "teams": [
+        "GENERAL SPORTS BARS (Show All NBA Games)"
+      ],
+      "address": "1035 E 17th Ave (Uptown), plus other locations",
+      "phone": "TBD",
+      "website": "https://www.stoneysbarandgrill.com/",
+      "notes": "Colorado-themed sports bar. Multiple locations across Denver.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Stoney's Uptown**",
+      "teams": [
+        "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
+      ],
+      "address": "1035 E 17th Ave, Denver, CO",
+      "phone": "",
+      "website": "",
+      "notes": "Current home of **Denver Carolina Club** (UNC Tar Heels). UNC fans gather here for college basketball.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Tavern on 26th**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**The Sportsbook Bar & Grill**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Tom's Watch Bar (Denver - Coors Field)**",
+      "teams": [
+        "GENERAL SPORTS BARS (Show All NBA Games)"
+      ],
+      "address": "Near Coors Field, downtown Denver (exact address TBD)",
+      "phone": "TBD",
+      "website": "https://tomswatchbar.com/denver-coors-field/",
+      "notes": "National sports bar chain. Massive HD screens (100+), shows all major NBA games. Welcomes all fans.",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Uptown**",
+      "teams": [
+        "GEOGRAPHIC CLUSTERS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**View House** (multiple locations)",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "**Yard House**",
+      "teams": [
+        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Arizona Cardinals",
+      "teams": [
+        "NFC WEST",
+        "🏈 NFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Atlanta Falcons",
+      "teams": [
+        "NFC SOUTH",
+        "🏈 NFC SOUTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Atlantic Division",
+      "teams": [
+        "EASTERN CONFERENCE",
+        "TEAM-SPECIFIC FINDINGS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Baltimore Ravens",
+      "teams": [
+        "AFC NORTH",
+        "🏈 AFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Blake Street Tavern",
+      "teams": [
+        "MULTI-TEAM / GENERAL SPORTS BARS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Buffalo Bills",
+      "teams": [
+        "AFC EAST",
+        "🏈 AFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Capitol Hill/Uptown",
+      "teams": [
+        "📍 GEOGRAPHIC BREAKDOWN"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Carolina Panthers",
+      "teams": [
+        "NFC SOUTH",
+        "🏈 NFC SOUTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Central Division",
+      "teams": [
+        "EASTERN CONFERENCE",
+        "TEAM-SPECIFIC FINDINGS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Chicago Bears",
+      "teams": [
+        "NFC NORTH",
+        "🏈 NFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Chopper's Sports Grill",
+      "teams": [
+        "MULTI-TEAM / GENERAL SPORTS BARS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Cincinnati Bengals",
+      "teams": [
+        "AFC NORTH",
+        "🏈 AFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Cleveland Browns",
+      "teams": [
+        "AFC NORTH",
+        "🏈 AFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Comparison to NFL Bar Scene:",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "MLB"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Comparison to NFL/MLB Bar Scenes",
+      "teams": [
+        "ANALYSIS & SUMMARY"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Dallas Cowboys",
+      "teams": [
+        "NFC EAST",
+        "🏈 NFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Denver Broncos",
+      "teams": [
+        "AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Denver Broncos 🏠",
+      "teams": [
+        "🏈 AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Detroit Lions",
+      "teams": [
+        "NFC NORTH",
+        "🏈 NFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Downtown/LoDo (Highest Concentration)",
+      "teams": [
+        "📍 GEOGRAPHIC BREAKDOWN"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Geographic Clusters",
+      "teams": [
+        "ANALYSIS & SUMMARY",
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Geographic Clusters:",
+      "teams": [
+        "SUMMARY & ANALYSIS",
+        "SUMMARY ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Green Bay Packers",
+      "teams": [
+        "NFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Green Bay Packers (Multiple Locations!)",
+      "teams": [
+        "🏈 NFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Hopper's Sports Grill",
+      "teams": [
+        "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Sunday Ticket, 18 TVs, agnostic (all teams welcome), sound for Broncos games | Reddit r/Denver",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Houston Texans",
+      "teams": [
+        "AFC SOUTH",
+        "🏈 AFC SOUTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Indianapolis Colts",
+      "teams": [
+        "AFC SOUTH",
+        "🏈 AFC SOUTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Jackson's LoDo",
+      "teams": [
+        "MULTI-TEAM / GENERAL SPORTS BARS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Jacksonville Jaguars",
+      "teams": [
+        "AFC SOUTH",
+        "🏈 AFC SOUTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Joyride Brewing",
+      "teams": [
+        "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Sunday Ticket, lots of TVs, shows all games | Reddit r/Denver",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Kansas City Chiefs",
+      "teams": [
+        "AFC WEST",
+        "🏈 AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Key Findings:",
+      "teams": [
+        "SUMMARY ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Key Insights",
+      "teams": [
+        "ANALYSIS & SUMMARY"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Key Resources for Finding Bars",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Las Vegas Raiders",
+      "teams": [
+        "AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Las Vegas Raiders (Oakland Raiders)",
+      "teams": [
+        "AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Las Vegas Raiders (formerly Oakland)",
+      "teams": [
+        "🏈 AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "LoDo (Lower Downtown) - High Concentration",
+      "teams": [
+        "🏟️ Notable Neighborhoods/Zones"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Los Angeles Chargers",
+      "teams": [
+        "AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Los Angeles Chargers (San Diego Chargers)",
+      "teams": [
+        "AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Los Angeles Chargers (formerly San Diego)",
+      "teams": [
+        "🏈 AFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Los Angeles Rams",
+      "teams": [
+        "NFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Los Angeles Rams (St. Louis Rams)",
+      "teams": [
+        "NFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Los Angeles Rams (formerly St. Louis)",
+      "teams": [
+        "🏈 NFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Major Sports Bars Hosting Multiple Teams",
+      "teams": [
+        "MULTI-TEAM VENUES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Metropolitan Division",
+      "teams": [
+        "TEAM-SPECIFIC FINDINGS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Miami Dolphins",
+      "teams": [
+        "AFC EAST",
+        "🏈 AFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Minnesota Vikings",
+      "teams": [
+        "NFC NORTH",
+        "🏈 NFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Multi-Team Sports Bars (Sunday Ticket):",
+      "teams": [
+        "🍺 BAR CATEGORIES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "New England Patriots",
+      "teams": [
+        "AFC EAST",
+        "🏈 AFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "New Orleans Saints",
+      "teams": [
+        "NFC SOUTH",
+        "🏈 NFC SOUTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "New York Giants",
+      "teams": [
+        "NFC EAST",
+        "🏈 NFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "New York Jets",
+      "teams": [
+        "AFC EAST",
+        "🏈 AFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Northwest Division",
+      "teams": [
+        "WESTERN CONFERENCE"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Notable Fan Clubs & Organizations",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Notable Trends:",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "MLB"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Official Team HQ Bars (designated by fan clubs):",
+      "teams": [
+        "🍺 BAR CATEGORIES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Origins Sports Bar",
+      "teams": [
+        "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "Speakeasy vibe, sports-focused | 9news.com",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Pacific Division",
+      "teams": [
+        "TEAM-SPECIFIC FINDINGS",
+        "WESTERN CONFERENCE"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Peak Times:",
+      "teams": [
+        "⚠️ IMPORTANT NOTES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Philadelphia Eagles",
+      "teams": [
+        "NFC EAST",
+        "🏈 NFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Pittsburgh Steelers",
+      "teams": [
+        "AFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Pittsburgh Steelers (Multiple Locations!)",
+      "teams": [
+        "🏈 AFC NORTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Recent Closures/Changes:",
+      "teams": [
+        "⚠️ IMPORTANT NOTES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Recommendations for Transplant Fans:",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "MLB"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Research Quality Notes",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "San Francisco 49ers",
+      "teams": [
+        "NFC WEST",
+        "🏈 NFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "teams": [
+        "NFC WEST",
+        "🏈 NFC WEST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "South Denver",
+      "teams": [
+        "🏟️ Notable Neighborhoods/Zones",
+        "📍 GEOGRAPHIC BREAKDOWN"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Southeast Division",
+      "teams": [
+        "EASTERN CONFERENCE"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Southwest Division",
+      "teams": [
+        "WESTERN CONFERENCE"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NBA"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Sports Column",
+      "teams": [
+        "MULTI-TEAM / GENERAL SPORTS BARS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Suburbs",
+      "teams": [
+        "🏟️ Notable Neighborhoods/Zones",
+        "📍 GEOGRAPHIC BREAKDOWN"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Tampa Bay Buccaneers",
+      "teams": [
+        "NFC SOUTH",
+        "🏈 NFC SOUTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Tavern Uptown",
+      "teams": [
+        "MULTI-TEAM / GENERAL SPORTS BARS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with Most Dedicated Bars",
+      "teams": [
+        "ANALYSIS & SUMMARY"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with Most Dedicated Bars (3+ locations)",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with Most Dedicated Bars:",
+      "teams": [
+        "SUMMARY & ANALYSIS",
+        "SUMMARY ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with NO Confirmed Dedicated Bars:",
+      "teams": [
+        "SUMMARY ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with NO Dedicated Bars Confirmed",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with NO Dedicated Bars:",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "MLB"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with No Dedicated Bars (30 teams)",
+      "teams": [
+        "ANALYSIS & SUMMARY"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with Single/Minimal Bars:",
+      "teams": [
+        "SUMMARY ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Teams with Strong Single Dedicated Bars",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Tennessee Titans",
+      "teams": [
+        "AFC SOUTH",
+        "🏈 AFC SOUTH"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Themed/Cuisine Bars:",
+      "teams": [
+        "🍺 BAR CATEGORIES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Tom's Watch Bar",
+      "teams": [
+        "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "TVs everywhere, can watch any team | do303.com",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Total Unique Bars Found",
+      "teams": [
+        "ANALYSIS & SUMMARY",
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Total Unique Bars Found: **60+**",
+      "teams": [
+        "SUMMARY ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Total Unique Bars Found: ~35-40 venues",
+      "teams": [
+        "SUMMARY & ANALYSIS"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "MLB"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Uptown",
+      "teams": [
+        "🏟️ Notable Neighborhoods/Zones"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Verification Recommended:",
+      "teams": [
+        "⚠️ IMPORTANT NOTES"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Washington Commanders",
+      "teams": [
+        "NFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Washington Commanders (Redskins)",
+      "teams": [
+        "NFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "Washington Commanders (formerly Redskins)",
+      "teams": [
+        "🏈 NFC EAST"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NFL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "🏒 **Benders Bar & Grill** (Westminster location)",
+      "teams": [
+        "PRIMARY NHL BARS IN DENVER"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "🏒 **Highland Tap and Burger**",
+      "teams": [
+        "PRIMARY NHL BARS IN DENVER"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "🏒 **Occidental** (Official NY Sports Bar)",
+      "teams": [
+        "PRIMARY NHL BARS IN DENVER"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "🏒 **Sobo 151 Czech Bar & Grill** (The #1 Hockey Bar)",
+      "teams": [
+        "PRIMARY NHL BARS IN DENVER"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "🏒 **Stoney's Bar & Grill** (Multiple locations)",
+      "teams": [
+        "PRIMARY NHL BARS IN DENVER"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "🏒 **The DNVR Bar**",
+      "teams": [
+        "PRIMARY NHL BARS IN DENVER"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    },
+    {
+      "name": "🏒 **Tom's Watch Bar** (Coors Field location)",
+      "teams": [
+        "PRIMARY NHL BARS IN DENVER"
+      ],
+      "address": "",
+      "phone": "",
+      "website": "",
+      "notes": "",
+      "sports": [
+        "NHL"
+      ],
+      "city": "denver"
+    }
+  ],
+  "by_sport": {
+    "NBA": [
+      {
+        "name": "**1UP Arcade Bar - Colfax**",
+        "teams": [
+          "GENERAL SPORTS BARS (Show All NBA Games)"
+        ],
+        "address": "717 E Colfax Ave, Denver, CO 80203",
+        "phone": "(303) 736-2230",
+        "website": "N/A",
+        "notes": "90+ arcade games + great sports viewing. Largest arcade bar in nation.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Blake Street Tavern** ❌ **CLOSED**",
+        "teams": [
+          "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
+        ],
+        "address": "2301 Blake St, Denver, CO 80205",
+        "phone": "",
+        "website": "",
+        "notes": "**CLOSED**. Was home to **Denver Carolina Club** (UNC fans). UNC alumni may have scattered to other bars.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Chopper's Sports Grill**",
+        "teams": [
+          "GENERAL SPORTS BARS (Show All NBA Games)",
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "Denver, CO (exact location TBD)",
+        "phone": "TBD",
+        "website": "N/A",
+        "notes": "Mentioned in multiple searches as general sports bar",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**DNVR Bar**",
+        "teams": [
+          "GENERAL SPORTS BARS (Show All NBA Games)"
+        ],
+        "address": "Denver, CO (exact location TBD)",
+        "phone": "TBD",
+        "website": "https://www.dnvr.com",
+        "notes": "Official DNVR media company bar. Best Nuggets atmosphere but shows all games.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Denver 'Canes (University of Miami alumni group)**",
+        "teams": [
+          "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
+        ],
+        "address": "N/A (no permanent bar listed)",
+        "phone": "",
+        "website": "https://www.facebook.com/DenverCANES/",
+        "notes": "Miami Hurricanes alumni group. Potential Heat fans.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Drink Wisconsinbly**",
+        "teams": [
+          "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
+        ],
+        "address": "Denver, CO (exact location TBD)",
+        "phone": "",
+        "website": "",
+        "notes": "Wisconsin bar serving Packers, Bucks, Brewers fans.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**East Colfax**",
+        "teams": [
+          "GEOGRAPHIC CLUSTERS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**For Away Fans:**",
+        "teams": [
+          "RECOMMENDATIONS FOR NBA FANS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**For Playoff Games:**",
+        "teams": [
+          "RECOMMENDATIONS FOR NBA FANS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Icehouse Tavern**",
+        "teams": [
+          "COLLEGE ALUMNI BARS (NBA Crossover Potential)",
+          "GENERAL SPORTS BARS (Show All NBA Games)"
+        ],
+        "address": "1801 Wynkoop St #150, Denver, CO 80202",
+        "phone": "(303) 292-3775",
+        "website": "N/A",
+        "notes": "Purdue/Indiana bar. Shows all major games + Indiana teams.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**If Your Team Has NO Dedicated Bar:**",
+        "teams": [
+          "RECOMMENDATIONS FOR NBA FANS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**If Your Team Has a Dedicated Bar:**",
+        "teams": [
+          "RECOMMENDATIONS FOR NBA FANS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**LoDo (Lower Downtown) - Near Ball Arena**",
+        "teams": [
+          "GEOGRAPHIC CLUSTERS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**MLB (Colorado Rockies)**",
+        "teams": [
+          "COMPARISON TO OTHER DENVER SPORTS SCENES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**NBA vs. Other Sports:**",
+        "teams": [
+          "COMPARISON TO OTHER DENVER SPORTS SCENES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**NFL (Denver Broncos)**",
+        "teams": [
+          "COMPARISON TO OTHER DENVER SPORTS SCENES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**NHL (Colorado Avalanche)**",
+        "teams": [
+          "COMPARISON TO OTHER DENVER SPORTS SCENES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Pour House Market Street**",
+        "teams": [
+          "GENERAL SPORTS BARS (Show All NBA Games)"
+        ],
+        "address": "Market Street, Denver, CO (exact location TBD)",
+        "phone": "TBD",
+        "website": "N/A",
+        "notes": "Celtics-friendly, general sports bar",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Society Sports and Spirits**",
+        "teams": [
+          "GENERAL SPORTS BARS (Show All NBA Games)",
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "1434 Blake Street, Denver, CO 80202",
+        "phone": "TBD",
+        "website": "https://societydenver.com/",
+        "notes": "Texas-themed \"Tailgate\" bar near Ball Arena. Serves Rockets, Spurs fans officially. Shows all NBA games.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Stoney's Bar & Grill (multiple locations)**",
+        "teams": [
+          "GENERAL SPORTS BARS (Show All NBA Games)"
+        ],
+        "address": "1035 E 17th Ave (Uptown), plus other locations",
+        "phone": "TBD",
+        "website": "https://www.stoneysbarandgrill.com/",
+        "notes": "Colorado-themed sports bar. Multiple locations across Denver.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Stoney's Uptown**",
+        "teams": [
+          "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
+        ],
+        "address": "1035 E 17th Ave, Denver, CO",
+        "phone": "",
+        "website": "",
+        "notes": "Current home of **Denver Carolina Club** (UNC Tar Heels). UNC fans gather here for college basketball.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Tom's Watch Bar (Denver - Coors Field)**",
+        "teams": [
+          "GENERAL SPORTS BARS (Show All NBA Games)"
+        ],
+        "address": "Near Coors Field, downtown Denver (exact address TBD)",
+        "phone": "TBD",
+        "website": "https://tomswatchbar.com/denver-coors-field/",
+        "notes": "National sports bar chain. Massive HD screens (100+), shows all major NBA games. Welcomes all fans.",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Uptown**",
+        "teams": [
+          "GEOGRAPHIC CLUSTERS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Atlantic Division",
+        "teams": [
+          "EASTERN CONFERENCE",
+          "TEAM-SPECIFIC FINDINGS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Central Division",
+        "teams": [
+          "EASTERN CONFERENCE",
+          "TEAM-SPECIFIC FINDINGS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Northwest Division",
+        "teams": [
+          "WESTERN CONFERENCE"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Pacific Division",
+        "teams": [
+          "TEAM-SPECIFIC FINDINGS",
+          "WESTERN CONFERENCE"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Southeast Division",
+        "teams": [
+          "EASTERN CONFERENCE"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Southwest Division",
+        "teams": [
+          "WESTERN CONFERENCE"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NBA"
+        ],
+        "city": "denver"
+      }
+    ],
+    "NHL": [
+      {
+        "name": "**5280 Burger Bar**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Blake Street Tavern**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Brooklyn's**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Cherry Cricket** (multiple locations)",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Henry's Tavern**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Jackson's LoDo**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Number Thirty Eight**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Secret Level**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Sports Column**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Tavern on 26th**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**The Sportsbook Bar & Grill**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**View House** (multiple locations)",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "**Yard House**",
+        "teams": [
+          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Comparison to NFL/MLB Bar Scenes",
+        "teams": [
+          "ANALYSIS & SUMMARY"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Geographic Clusters",
+        "teams": [
+          "ANALYSIS & SUMMARY",
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Key Insights",
+        "teams": [
+          "ANALYSIS & SUMMARY"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Metropolitan Division",
+        "teams": [
+          "TEAM-SPECIFIC FINDINGS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with Most Dedicated Bars",
+        "teams": [
+          "ANALYSIS & SUMMARY"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with No Dedicated Bars (30 teams)",
+        "teams": [
+          "ANALYSIS & SUMMARY"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Total Unique Bars Found",
+        "teams": [
+          "ANALYSIS & SUMMARY",
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "🏒 **Benders Bar & Grill** (Westminster location)",
+        "teams": [
+          "PRIMARY NHL BARS IN DENVER"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "🏒 **Highland Tap and Burger**",
+        "teams": [
+          "PRIMARY NHL BARS IN DENVER"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "🏒 **Occidental** (Official NY Sports Bar)",
+        "teams": [
+          "PRIMARY NHL BARS IN DENVER"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "🏒 **Sobo 151 Czech Bar & Grill** (The #1 Hockey Bar)",
+        "teams": [
+          "PRIMARY NHL BARS IN DENVER"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "🏒 **Stoney's Bar & Grill** (Multiple locations)",
+        "teams": [
+          "PRIMARY NHL BARS IN DENVER"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "🏒 **The DNVR Bar**",
+        "teams": [
+          "PRIMARY NHL BARS IN DENVER"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "🏒 **Tom's Watch Bar** (Coors Field location)",
+        "teams": [
+          "PRIMARY NHL BARS IN DENVER"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NHL"
+        ],
+        "city": "denver"
+      }
+    ],
+    "NFL": [
+      {
+        "name": "Arizona Cardinals",
+        "teams": [
+          "NFC WEST",
+          "🏈 NFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Atlanta Falcons",
+        "teams": [
+          "NFC SOUTH",
+          "🏈 NFC SOUTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Baltimore Ravens",
+        "teams": [
+          "AFC NORTH",
+          "🏈 AFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Blake Street Tavern",
+        "teams": [
+          "MULTI-TEAM / GENERAL SPORTS BARS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Buffalo Bills",
+        "teams": [
+          "AFC EAST",
+          "🏈 AFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Capitol Hill/Uptown",
+        "teams": [
+          "📍 GEOGRAPHIC BREAKDOWN"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Carolina Panthers",
+        "teams": [
+          "NFC SOUTH",
+          "🏈 NFC SOUTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Chicago Bears",
+        "teams": [
+          "NFC NORTH",
+          "🏈 NFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Chopper's Sports Grill",
+        "teams": [
+          "MULTI-TEAM / GENERAL SPORTS BARS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Cincinnati Bengals",
+        "teams": [
+          "AFC NORTH",
+          "🏈 AFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Cleveland Browns",
+        "teams": [
+          "AFC NORTH",
+          "🏈 AFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Dallas Cowboys",
+        "teams": [
+          "NFC EAST",
+          "🏈 NFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Denver Broncos",
+        "teams": [
+          "AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Denver Broncos 🏠",
+        "teams": [
+          "🏈 AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Detroit Lions",
+        "teams": [
+          "NFC NORTH",
+          "🏈 NFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Downtown/LoDo (Highest Concentration)",
+        "teams": [
+          "📍 GEOGRAPHIC BREAKDOWN"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Geographic Clusters:",
+        "teams": [
+          "SUMMARY & ANALYSIS",
+          "SUMMARY ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Green Bay Packers",
+        "teams": [
+          "NFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Green Bay Packers (Multiple Locations!)",
+        "teams": [
+          "🏈 NFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Hopper's Sports Grill",
+        "teams": [
+          "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Sunday Ticket, 18 TVs, agnostic (all teams welcome), sound for Broncos games | Reddit r/Denver",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Houston Texans",
+        "teams": [
+          "AFC SOUTH",
+          "🏈 AFC SOUTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Indianapolis Colts",
+        "teams": [
+          "AFC SOUTH",
+          "🏈 AFC SOUTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Jackson's LoDo",
+        "teams": [
+          "MULTI-TEAM / GENERAL SPORTS BARS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Jacksonville Jaguars",
+        "teams": [
+          "AFC SOUTH",
+          "🏈 AFC SOUTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Joyride Brewing",
+        "teams": [
+          "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Sunday Ticket, lots of TVs, shows all games | Reddit r/Denver",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Kansas City Chiefs",
+        "teams": [
+          "AFC WEST",
+          "🏈 AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Key Findings:",
+        "teams": [
+          "SUMMARY ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Key Resources for Finding Bars",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Las Vegas Raiders",
+        "teams": [
+          "AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Las Vegas Raiders (Oakland Raiders)",
+        "teams": [
+          "AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Las Vegas Raiders (formerly Oakland)",
+        "teams": [
+          "🏈 AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "LoDo (Lower Downtown) - High Concentration",
+        "teams": [
+          "🏟️ Notable Neighborhoods/Zones"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Los Angeles Chargers",
+        "teams": [
+          "AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Los Angeles Chargers (San Diego Chargers)",
+        "teams": [
+          "AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Los Angeles Chargers (formerly San Diego)",
+        "teams": [
+          "🏈 AFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Los Angeles Rams",
+        "teams": [
+          "NFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Los Angeles Rams (St. Louis Rams)",
+        "teams": [
+          "NFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Los Angeles Rams (formerly St. Louis)",
+        "teams": [
+          "🏈 NFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Major Sports Bars Hosting Multiple Teams",
+        "teams": [
+          "MULTI-TEAM VENUES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Miami Dolphins",
+        "teams": [
+          "AFC EAST",
+          "🏈 AFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Minnesota Vikings",
+        "teams": [
+          "NFC NORTH",
+          "🏈 NFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Multi-Team Sports Bars (Sunday Ticket):",
+        "teams": [
+          "🍺 BAR CATEGORIES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "New England Patriots",
+        "teams": [
+          "AFC EAST",
+          "🏈 AFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "New Orleans Saints",
+        "teams": [
+          "NFC SOUTH",
+          "🏈 NFC SOUTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "New York Giants",
+        "teams": [
+          "NFC EAST",
+          "🏈 NFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "New York Jets",
+        "teams": [
+          "AFC EAST",
+          "🏈 AFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Notable Fan Clubs & Organizations",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Official Team HQ Bars (designated by fan clubs):",
+        "teams": [
+          "🍺 BAR CATEGORIES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Origins Sports Bar",
+        "teams": [
+          "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "Speakeasy vibe, sports-focused | 9news.com",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Peak Times:",
+        "teams": [
+          "⚠️ IMPORTANT NOTES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Philadelphia Eagles",
+        "teams": [
+          "NFC EAST",
+          "🏈 NFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Pittsburgh Steelers",
+        "teams": [
+          "AFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Pittsburgh Steelers (Multiple Locations!)",
+        "teams": [
+          "🏈 AFC NORTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Recent Closures/Changes:",
+        "teams": [
+          "⚠️ IMPORTANT NOTES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Research Quality Notes",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "San Francisco 49ers",
+        "teams": [
+          "NFC WEST",
+          "🏈 NFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Seattle Seahawks",
+        "teams": [
+          "NFC WEST",
+          "🏈 NFC WEST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "South Denver",
+        "teams": [
+          "🏟️ Notable Neighborhoods/Zones",
+          "📍 GEOGRAPHIC BREAKDOWN"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Sports Column",
+        "teams": [
+          "MULTI-TEAM / GENERAL SPORTS BARS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Suburbs",
+        "teams": [
+          "🏟️ Notable Neighborhoods/Zones",
+          "📍 GEOGRAPHIC BREAKDOWN"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Tampa Bay Buccaneers",
+        "teams": [
+          "NFC SOUTH",
+          "🏈 NFC SOUTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Tavern Uptown",
+        "teams": [
+          "MULTI-TEAM / GENERAL SPORTS BARS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with Most Dedicated Bars (3+ locations)",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with Most Dedicated Bars:",
+        "teams": [
+          "SUMMARY & ANALYSIS",
+          "SUMMARY ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with NO Confirmed Dedicated Bars:",
+        "teams": [
+          "SUMMARY ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with NO Dedicated Bars Confirmed",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with Single/Minimal Bars:",
+        "teams": [
+          "SUMMARY ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with Strong Single Dedicated Bars",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Tennessee Titans",
+        "teams": [
+          "AFC SOUTH",
+          "🏈 AFC SOUTH"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Themed/Cuisine Bars:",
+        "teams": [
+          "🍺 BAR CATEGORIES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "teams": [
+          "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "TVs everywhere, can watch any team | do303.com",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Total Unique Bars Found: **60+**",
+        "teams": [
+          "SUMMARY ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Uptown",
+        "teams": [
+          "🏟️ Notable Neighborhoods/Zones"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Verification Recommended:",
+        "teams": [
+          "⚠️ IMPORTANT NOTES"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Washington Commanders",
+        "teams": [
+          "NFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Washington Commanders (Redskins)",
+        "teams": [
+          "NFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Washington Commanders (formerly Redskins)",
+        "teams": [
+          "🏈 NFC EAST"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "NFL"
+        ],
+        "city": "denver"
+      }
+    ],
+    "MLB": [
+      {
+        "name": "Comparison to NFL Bar Scene:",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "MLB"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Notable Trends:",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "MLB"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Recommendations for Transplant Fans:",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "MLB"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Teams with NO Dedicated Bars:",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "MLB"
+        ],
+        "city": "denver"
+      },
+      {
+        "name": "Total Unique Bars Found: ~35-40 venues",
+        "teams": [
+          "SUMMARY & ANALYSIS"
+        ],
+        "address": "",
+        "phone": "",
+        "website": "",
+        "notes": "",
+        "sports": [
+          "MLB"
+        ],
+        "city": "denver"
+      }
+    ]
+  }
+}

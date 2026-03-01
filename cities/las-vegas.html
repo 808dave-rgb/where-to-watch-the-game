@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Las Vegas Sports Bars - Where to Watch the Game</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f7fafc;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header-content {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        .header h1 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .header .breadcrumb {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+        
+        .header .breadcrumb a {
+            color: white;
+            text-decoration: none;
+        }
+        
+        .header .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            gap: 2rem;
+        }
+        
+        .sidebar {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            height: fit-content;
+            position: sticky;
+            top: 2rem;
+        }
+        
+        .sidebar h2 {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            color: #2d3748;
+        }
+        
+        .filter-group {
+            margin-bottom: 1.5rem;
+        }
+        
+        .filter-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            color: #4a5568;
+        }
+        
+        .sport-filters {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        
+        .sport-filter {
+            display: flex;
+            align-items: center;
+            padding: 0.75rem;
+            background: #f7fafc;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .sport-filter:hover {
+            background: #edf2f7;
+        }
+        
+        .sport-filter input {
+            margin-right: 0.75rem;
+        }
+        
+        .sport-filter.active {
+            background: #5a67d8;
+            color: white;
+        }
+        
+        .search-box {
+            width: 100%;
+            padding: 0.75rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 1rem;
+        }
+        
+        .search-box:focus {
+            outline: none;
+            border-color: #5a67d8;
+        }
+        
+        .stats-bar {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+        }
+        
+        .stat {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .stat .number {
+            font-weight: 700;
+            font-size: 1.25rem;
+            color: #5a67d8;
+        }
+        
+        .main-content {
+            min-height: 100vh;
+        }
+        
+        .bar-grid {
+            display: grid;
+            gap: 1rem;
+        }
+        
+        .bar-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .bar-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+        
+        .bar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 1rem;
+        }
+        
+        .bar-name {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: #2d3748;
+        }
+        
+        .sport-badges {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .sport-badge {
+            padding: 0.25rem 0.75rem;
+            background: #edf2f7;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+        
+        .sport-badge.nfl {
+            background: #fed7d7;
+            color: #742a2a;
+        }
+        
+        .sport-badge.mlb {
+            background: #c6f6d5;
+            color: #22543d;
+        }
+        
+        .sport-badge.nhl {
+            background: #bee3f8;
+            color: #2c5282;
+        }
+        
+        .sport-badge.nba {
+            background: #feebc8;
+            color: #7c2d12;
+        }
+        
+        .bar-details {
+            display: grid;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        
+        .detail-row {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #4a5568;
+        }
+        
+        .detail-icon {
+            width: 20px;
+            text-align: center;
+        }
+        
+        .teams-list {
+            margin-top: 1rem;
+            padding: 1rem;
+            background: #f7fafc;
+            border-radius: 8px;
+        }
+        
+        .teams-list h4 {
+            font-size: 0.85rem;
+            color: #718096;
+            margin-bottom: 0.5rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .teams {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        
+        .team-tag {
+            padding: 0.25rem 0.75rem;
+            background: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            color: #4a5568;
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 4rem 2rem;
+            color: #718096;
+        }
+        
+        .no-results-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+        
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            
+            .sidebar {
+                position: static;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.5rem;
+            }
+            
+            .container {
+                padding: 1rem;
+            }
+            
+            .stats-bar {
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <h1>🎰 Las Vegas Sports Bars</h1>
+            <div class="breadcrumb">
+                <a href="../index.html">← Back to All Cities</a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+        <aside class="sidebar">
+            <h2>🔍 Filter</h2>
+            
+            <div class="filter-group">
+                <label>Search</label>
+                <input type="text" id="searchBox" class="search-box" placeholder="Bar name or team...">
+            </div>
+            
+            <div class="filter-group">
+                <label>Sports</label>
+                <div class="sport-filters">
+                    <label class="sport-filter" data-sport="NFL">
+                        <input type="checkbox" checked> 🏈 NFL
+                    </label>
+                    <label class="sport-filter" data-sport="MLB">
+                        <input type="checkbox" checked> ⚾ MLB
+                    </label>
+                    <label class="sport-filter" data-sport="NHL">
+                        <input type="checkbox" checked> 🏒 NHL
+                    </label>
+                    <label class="sport-filter" data-sport="NBA">
+                        <input type="checkbox" checked> 🏀 NBA
+                    </label>
+                </div>
+            </div>
+        </aside>
+        
+        <main class="main-content">
+            <div class="stats-bar">
+                <div class="stat">
+                    <span class="emoji">🍻</span>
+                    <span><span class="number" id="totalBars">0</span> bars</span>
+                </div>
+                <div class="stat">
+                    <span class="emoji">🏈</span>
+                    <span><span class="number" id="nflCount">0</span> NFL</span>
+                </div>
+                <div class="stat">
+                    <span class="emoji">⚾</span>
+                    <span><span class="number" id="mlbCount">0</span> MLB</span>
+                </div>
+                <div class="stat">
+                    <span class="emoji">🏒</span>
+                    <span><span class="number" id="nhlCount">0</span> NHL</span>
+                </div>
+                <div class="stat">
+                    <span class="emoji">🏀</span>
+                    <span><span class="number" id="nbaCount">0</span> NBA</span>
+                </div>
+            </div>
+            
+            <div class="bar-grid" id="barGrid"></div>
+            
+            <div class="no-results" id="noResults" style="display: none;">
+                <div class="no-results-icon">🔍</div>
+                <h3>No bars found</h3>
+                <p>Try adjusting your filters or search</p>
+            </div>
+        </main>
+    </div>
+    
+    <script>
+        let allBars = [];
+        let activeSports = new Set(['NFL', 'MLB', 'NHL', 'NBA']);
+        
+        // Load city data
+        fetch('../data/las-vegas.json')
+            .then(r => r.json())
+            .then(data => {
+                allBars = data.bars;
+                updateStats(data);
+                renderBars();
+            })
+            .catch(err => {
+                console.error('Error loading data:', err);
+                document.getElementById('barGrid').innerHTML = '<p>Error loading bar data</p>';
+            });
+        
+        function updateStats(data) {
+            document.getElementById('totalBars').textContent = data.total_bars || allBars.length;
+            document.getElementById('nflCount').textContent = data.by_sport?.NFL?.length || 0;
+            document.getElementById('mlbCount').textContent = data.by_sport?.MLB?.length || 0;
+            document.getElementById('nhlCount').textContent = data.by_sport?.NHL?.length || 0;
+            document.getElementById('nbaCount').textContent = data.by_sport?.NBA?.length || 0;
+        }
+        
+        function renderBars() {
+            const search = document.getElementById('searchBox').value.toLowerCase();
+            
+            const filtered = allBars.filter(bar => {
+                // Filter by sport
+                const barSports = bar.sports || [];
+                if (!barSports.some(s => activeSports.has(s))) return false;
+                
+                // Filter by search
+                if (search) {
+                    const searchText = [
+                        bar.name,
+                        bar.address,
+                        ...(bar.teams || [])
+                    ].join(' ').toLowerCase();
+                    
+                    if (!searchText.includes(search)) return false;
+                }
+                
+                return true;
+            });
+            
+            const grid = document.getElementById('barGrid');
+            const noResults = document.getElementById('noResults');
+            
+            if (filtered.length === 0) {
+                grid.style.display = 'none';
+                noResults.style.display = 'block';
+                return;
+            }
+            
+            grid.style.display = 'grid';
+            noResults.style.display = 'none';
+            
+            grid.innerHTML = filtered.map(bar => {
+                const sports = (bar.sports || []).map(s => 
+                    `<span class="sport-badge ${s.toLowerCase()}">${s}</span>`
+                ).join('');
+                
+                const teams = (bar.teams || []).map(t => 
+                    `<span class="team-tag">${t}</span>`
+                ).join('');
+                
+                return `
+                    <div class="bar-card">
+                        <div class="bar-header">
+                            <h3 class="bar-name">${bar.name.replace(/\*\*/g, '')}</h3>
+                            <div class="sport-badges">${sports}</div>
+                        </div>
+                        
+                        <div class="bar-details">
+                            ${bar.address ? `
+                                <div class="detail-row">
+                                    <span class="detail-icon">📍</span>
+                                    <span>${bar.address}</span>
+                                </div>
+                            ` : ''}
+                            
+                            ${bar.phone && bar.phone !== 'N/A' ? `
+                                <div class="detail-row">
+                                    <span class="detail-icon">📞</span>
+                                    <a href="tel:${bar.phone}">${bar.phone}</a>
+                                </div>
+                            ` : ''}
+                            
+                            ${bar.website && bar.website !== 'N/A' ? `
+                                <div class="detail-row">
+                                    <span class="detail-icon">🌐</span>
+                                    <a href="${bar.website}" target="_blank">Website</a>
+                                </div>
+                            ` : ''}
+                            
+                            ${bar.notes ? `
+                                <div class="detail-row">
+                                    <span class="detail-icon">ℹ️</span>
+                                    <span>${bar.notes}</span>
+                                </div>
+                            ` : ''}
+                        </div>
+                        
+                        ${teams ? `
+                            <div class="teams-list">
+                                <h4>Teams</h4>
+                                <div class="teams">${teams}</div>
+                            </div>
+                        ` : ''}
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        // Event listeners
+        document.querySelectorAll('.sport-filter').forEach(filter => {
+            filter.addEventListener('click', (e) => {
+                const checkbox = filter.querySelector('input');
+                const sport = filter.dataset.sport;
+                
+                if (activeSports.has(sport)) {
+                    activeSports.delete(sport);
+                    checkbox.checked = false;
+                } else {
+                    activeSports.add(sport);
+                    checkbox.checked = true;
+                }
+                
+                renderBars();
+            });
+        });
+        
+        document.getElementById('searchBox').addEventListener('input', renderBars);
+    </script>
+</body>
+</html>
