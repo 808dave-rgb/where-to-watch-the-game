@@ -1,0 +1,1069 @@
+{
+  "NFL": {
+    "Arizona Cardinals": [],
+    "Atlanta Falcons": [
+      {
+        "name": "Frankie's Downtown",
+        "address": "Downtown Dallas",
+        "description": "Watch parties for Cardinals fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dirty Birds Sports Bar & Grill",
+        "address": "4021 Preston Rd Suite D 618, Plano, TX",
+        "description": "Official Falcons fan bar, affiliated with Atlanta Falcons Fans in Dallas/Fort Worth Facebook group",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Baltimore Ravens": [
+      {
+        "name": "Sidecar Social",
+        "address": "Addison, TX",
+        "description": "Secondary location for Falcons fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Buffalo Bills": [
+      {
+        "name": "Chop Sports, Sports Garage",
+        "address": "7560 State Hwy 121 Suite 150, McKinney, TX",
+        "description": "Home of Dallas Ravens Flock fan club. Features open patio",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Hideaway Bar & Grill",
+        "address": "14902 Preston Rd, Far North Dallas, TX",
+        "description": "Official home of DFW Bills Backers (2,600+ members)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Carolina Panthers": [
+      {
+        "name": "Buffalo Bros",
+        "address": "3015 S University Dr, Fort Worth, TX",
+        "description": "Second location for DFW Bills Backers",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago Bears": [
+      {
+        "name": "Harwood Tavern",
+        "address": "333 S Harwood St, Dallas (Downtown Historic District), TX",
+        "description": "Home of D-Town Riot fan club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Wing'd Nut Sports Bar & Grill",
+        "address": "720 E Campbell Rd, Richardson, TX",
+        "description": "DFW's official Bears bar, home of Da Bears in Dallas Facebook group",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cincinnati Bengals": [
+      {
+        "name": "Buffalo Wild Wings",
+        "address": "4140 Lemmon Ave, Oak Lawn, Dallas, TX",
+        "description": "Secondary location for Bears fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Stan's Blue Note",
+        "address": "2908 Greenville Ave (Lower Greenville), Dallas, TX",
+        "description": "Affiliated with Bengals Fans DFW, watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Backstreet Bar and Grill",
+        "address": "104 Navajo Dr, Keller, TX",
+        "description": "Bengals Fans DFW location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cleveland Browns": [
+      {
+        "name": "Buffalo Wild Wings",
+        "address": "5000 Belt Line Rd Unit 100 Addison Walk, Dallas, TX",
+        "description": "Third location for Bengals fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Multiple locations (Dallas Area Browns Backers)",
+        "address": "Various locations in Dallas, Frisco, Fort Worth, Richardson, and Denton",
+        "description": "Visit dallasbrowns.com/locations.html for full list",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Flips Patio Grill",
+        "address": "Fort Worth, TX",
+        "description": "Browns watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Harwood Arms",
+        "address": "Downtown Dallas, TX",
+        "description": "Browns watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Brass Tap",
+        "address": "Richardson, TX",
+        "description": "Browns watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Lake Haus",
+        "address": "Denton, TX",
+        "description": "Browns watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Dallas Cowboys": [
+      {
+        "name": "The Revel Patio",
+        "address": "Frisco, TX",
+        "description": "Browns watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Revel Patio Grill",
+        "address": "Frisco, TX",
+        "description": "Home to watch parties for Cowboys and many NFL teams",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Texas Live!",
+        "address": "Arlington, TX (near AT&T Stadium)",
+        "description": "Kroger Game Day Live! watch parties, heart of the action",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Legacy Hall",
+        "address": "Plano, TX",
+        "description": "Multiple dining options and screens for Cowboys games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The AT&T Discovery District",
+        "address": "Downtown Dallas, TX",
+        "description": "Features 104-foot media wall for viewing",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Denver Broncos": [
+      {
+        "name": "The Star in Frisco",
+        "address": "Frisco, TX",
+        "description": "Tostitos Championship Plaza at Cowboys HQ, interactive elements",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dallas Texas Denver Broncos Fans (Facebook group)",
+        "address": "TBD",
+        "description": "Fan club exists, specific bar location not consistently verified",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Detroit Lions": [
+      {
+        "name": "The Back 9 Sports Bar & Grill",
+        "address": "Addison, TX",
+        "description": "Broncos watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Scruffy Duffies",
+        "address": "5865 Kincaid Rd E8, Plano, TX",
+        "description": "Home of DFW Detroit Lions Fan Club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Green Bay Packers": [
+      {
+        "name": "No Frills Grill & Sports Bar",
+        "address": "2851 Matlock Rd #422, Mansfield, TX",
+        "description": "Second location for DFW Detroit Lions Fan Club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Blackfriar Pub",
+        "address": "2621 McKinney Ave, Dallas (Oak Lawn), TX",
+        "description": "Verified Dallas Packers Fans hangout, Irish pub with soccer and football",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bender's",
+        "address": "North Dallas / Richardson, TX",
+        "description": "Packers watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Fireplace Lounge",
+        "address": "McKinney Ave, Dallas, TX",
+        "description": "Packers watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Houston Texans": [
+      {
+        "name": "Woody's Tavern",
+        "address": "Fort Worth, TX",
+        "description": "Packers watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Indianapolis Colts": [
+      {
+        "name": "The Brass Tap",
+        "address": "1951 FM 423 STE 900, Frisco, TX",
+        "description": "Home of Houston Texans Fans in Dallas club, craft beers, food/drink specials, giveaways",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Jacksonville Jaguars": [
+      {
+        "name": "Underdog Restaurant & Sports Club",
+        "address": "6750 Abrams Rd Suite 110 (Near Northeast Dallas), TX",
+        "description": "Home of DFW Colts Crew, hosts yearly trip to Houston for live games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Kansas City Chiefs": [
+      {
+        "name": "Legacy Hall",
+        "address": "Plano, TX",
+        "description": "Jaguars watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Wizards Sports Cafe",
+        "address": "747 S Central Expy, Richardson, TX",
+        "description": "Official home of Chiefs Fans of Dallas club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Arrowhead Sports Grill",
+        "address": "Plano, TX",
+        "description": "Chiefs-themed sports bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Blackfriar Pub",
+        "address": "Lakewood, Dallas, TX",
+        "description": "Chiefs watch party location (Lakewood location)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Las Vegas Raiders": [
+      {
+        "name": "The Nodding Donkey",
+        "address": "State Thomas, Dallas, TX",
+        "description": "Chiefs watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Wilson's Sports Grill",
+        "address": "13765 Noel Rd Unit 110 (Dallas International District), TX",
+        "description": "Home of DFW Raiders 4 Life fan club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Ron's Place",
+        "address": "Addison, TX",
+        "description": "Raiders watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Chargers": [
+      {
+        "name": "Shakertins",
+        "address": "The Colony, TX",
+        "description": "Raiders watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "DFW Bolt Club (various locations)",
+        "address": "Various, including COSM for MNF games",
+        "description": "Follow @dfwboltclub on Instagram for watch party info",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Rams": [
+      {
+        "name": "Legacy Hall",
+        "address": "Plano, TX",
+        "description": "Chargers watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Miami Dolphins": [
+      {
+        "name": "Legacy Hall",
+        "address": "Plano, TX",
+        "description": "Rams watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Minnesota Vikings": [
+      {
+        "name": "Stan's Blue Note",
+        "address": "Greenville Ave, Dallas, TX",
+        "description": "Dolphins watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New England Patriots": [
+      {
+        "name": "TNT Sports Bar & Grill",
+        "address": "14902 Preston Rd #716, Dallas (Far North Dallas), TX",
+        "description": "Official home of The Purple Haze Fan Club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New Orleans Saints": [
+      {
+        "name": "Buffalo Joe's Bar & Grill",
+        "address": "3636 Frankford Rd #390, Dallas, TX 75287",
+        "description": "Official home of New England Patriots Fans of Dallas (1,300+ registered members), serves nachos, wings, burgers (including bison), hosts poker nights",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "DFW Who Dats (various locations)",
+        "address": "Multiple locations in Dallas, Frisco, Grand Prairie, and Bedford",
+        "description": "Visit dfwwhodats.com for full list of watch party venues",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Quarter Bar",
+        "address": "Uptown, Dallas, TX",
+        "description": "Saints watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Twilite Lounge",
+        "address": "Deep Ellum, Dallas, TX",
+        "description": "Saints watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Giants": [
+      {
+        "name": "Pluckers",
+        "address": "Grapevine, TX",
+        "description": "Saints watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Jets": [
+      {
+        "name": "Buffalo Joe's Bar & Grill",
+        "address": "3636 Frankford Rd #390, Dallas, TX",
+        "description": "Home of BigBlueDFW fan club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Eagles": [
+      {
+        "name": "Binions Ice House",
+        "address": "205 N West St, Arlington, TX",
+        "description": "Home of Gang Green DFW fan club, also hosts live music",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "BoomerJack's",
+        "address": "2437 S Stemmons Fwy, Lewisville, TX",
+        "description": "Home of EaglesNest Dallas fan club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Austin Avenue Grill & Sports Bar",
+        "address": "935 W Parker Rd Suite #410, Plano, TX",
+        "description": "EaglesNest Dallas location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings",
+        "address": "5601 S Hulen St, Fort Worth, TX",
+        "description": "Fort Worth Eagles Nation location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Steelers": [
+      {
+        "name": "Walk-On's Sports Bistreaux",
+        "address": "401 E Interstate 20, Arlington, TX",
+        "description": "Fort Worth Eagles Nation location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Longhorn Icehouse",
+        "address": "1901 W Northwest Hwy, Dallas, TX",
+        "description": "Home of The Dallas Steelers Fan Club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Francisco 49ers": [
+      {
+        "name": "Woody's Tavern",
+        "address": "Fort Worth, TX",
+        "description": "Steelers watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dave & Buster's",
+        "address": "425 Curtis Mathes Way, Arlington, TX",
+        "description": "Home of Niner Empire DFW fan club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bombshells Restaurant & Bar",
+        "address": "Arlington, TX",
+        "description": "49ers watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Seattle Seahawks": [
+      {
+        "name": "The Frisco Bar & Grill",
+        "address": "Frisco, TX",
+        "description": "49ers watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "II Brothers Bar and Grill",
+        "address": "8308 Preston Rd #198, Plano, TX",
+        "description": "Home of Dallas Sea Hawkers fan club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Buccaneers": [
+      {
+        "name": "Longhorn Ice House",
+        "address": "Northwest Dallas, TX",
+        "description": "Seahawks watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tennessee Titans": [
+      {
+        "name": "Serious Pizza",
+        "address": "Deep Ellum, Dallas, TX",
+        "description": "Buccaneers watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Washington Commanders": [
+      {
+        "name": "Harwood Tavern",
+        "address": "Downtown Dallas, TX",
+        "description": "Titans watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Austin Avenue Grill & Sports Bar",
+        "address": "935 W Parker Rd Suite #410, Plano, TX",
+        "description": "Home of The Burgundy and Gold Club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "The Hideaway",
+        "address": "Preston & Henderson, Dallas, TX",
+        "description": "Commanders watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "MLB": {
+    "Texas Rangers": [
+      {
+        "name": "Globe Life Field (Official Stadium)",
+        "address": "734 Stadium Dr, Arlington, TX 76011",
+        "description": "Home stadium, primary viewing venue",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Texas Live!",
+        "address": "Arlington, TX (adjacent to Globe Life Field)",
+        "description": "Entertainment district with multiple bars showing Rangers games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "Most sports bars throughout DFW show Rangers games",
+        "address": "Various locations",
+        "description": "Rangers games are shown at virtually all sports bars in Dallas-Fort Worth during season",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "American League",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "General MLB Viewing Options": [
+      {
+        "name": "National League",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "NBA": {
+    "Dallas Mavericks": [
+      {
+        "name": "Official and Popular Mavericks Watch Party Locations",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Owners Box",
+        "address": "555 South Lamar Street, Downtown Dallas, TX",
+        "description": "#1 ranked Mavericks bar on GameWatch.info, 16-foot center screen, great beer selection, official Mavs watch parties with ManiACCs, giveaways, raffles, photo ops, $1 off Modelo pints",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Hero",
+        "address": "3090 Nowitzki Way (Olive Street), Victory Park, Dallas, TX",
+        "description": "Located right next to American Airlines Center, official Mavericks watch party location for playoff games, game day headquarters",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dodie's Reef",
+        "address": "2821 Greenville Avenue, Lower Greenville, Dallas, TX",
+        "description": "#2 ranked Mavericks bar on GameWatch.info",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Topgolf Dallas",
+        "address": "Multiple DFW locations",
+        "description": "Popular Mavericks watch party location, combines golf and sports viewing",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Happiest Hour",
+        "address": "Near American Airlines Center, Victory Park, Dallas, TX",
+        "description": "Large indoor/outdoor space, rooftop patio, signature cocktails, short walk from AAC",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Living Room at W Hotel",
+        "address": "Victory Park, Dallas, TX",
+        "description": "Luxury vibe, plush seating, nightclub atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Rabbit Hole Pub",
+        "address": "Fort Worth, TX",
+        "description": "Fort Worth favorite for watching Mavericks games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Heroes Lounge",
+        "address": "Dallas, TX",
+        "description": "Caribbean restaurant and bar hosting Mavericks watch parties",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bottled Blonde",
+        "address": "Deep Ellum, Dallas, TX",
+        "description": "Near DART station platform, popular post-game spot",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Backyard (Deep Ellum)",
+        "address": "Deep Ellum, Dallas, TX",
+        "description": "Right off DART station, walkable from AAC",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "River Pig Saloon",
+        "address": "Lower Greenville, Dallas, TX",
+        "description": "~15 TVs, great cocktails, huge patio, always busy with Dallas locals",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "American Airlines Center (Official Stadium)",
+        "address": "2500 Victory Avenue, Dallas, TX 75219",
+        "description": "Home arena of Dallas Mavericks",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "General Mavericks Viewing",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Conference - Atlantic Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Conference - Central Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Conference - Southeast Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Western Conference - Northwest Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Western Conference - Pacific Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "General NBA Viewing Options": [
+      {
+        "name": "Western Conference - Southwest Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "NHL": {
+    "Dallas Stars": [
+      {
+        "name": "Official Victory Green Headquarters Network",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Owners Box",
+        "address": "555 South Lamar Street, Downtown Dallas, TX",
+        "description": "#1 ranked Stars bar on GameWatch.info, 1,848 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Revel Patio Grill",
+        "address": "9305 Preston Road, Preston Trace Center, Frisco, TX",
+        "description": "#2 ranked Stars bar, 1,678 fan views, also shows many NFL teams",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dodie's Reef",
+        "address": "2821 Greenville Avenue, Lower Greenville, Dallas, TX",
+        "description": "#3 ranked Stars bar, 1,480 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Hero",
+        "address": "3090 Olive Street, Victory Park, Dallas, TX",
+        "description": "Located in Victory Park near American Airlines Center, 1,508 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "MOXIES Dallas Uptown Restaurant",
+        "address": "100 Crescent Court, Oak Lawn, Dallas, TX",
+        "description": "1,194 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Texas Live!",
+        "address": "1650 East Randol Mill Road, Arlington, TX",
+        "description": "Entertainment district, 1,263 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tight Ends Sports Bar & Grill",
+        "address": "5584 Texas 121, Plano, TX",
+        "description": "1,139 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Hooligans Pub",
+        "address": "310 East Abram Street, Arlington, TX",
+        "description": "1,116 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Snuffer's Restaurant & Bar (Multiple Locations)",
+        "address": "",
+        "description": "Chain with multiple DFW locations, all show Stars games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Maverick",
+        "address": "1616 West Hebron Parkway, Carrollton, TX",
+        "description": "1,092 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Rusty Beagle",
+        "address": "1301 Justin Road, Lewisville, TX",
+        "description": "1,050 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Rusty Nickel Icehouse",
+        "address": "Fort Worth, TX",
+        "description": "Official Stars watch party location for specific games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Jon's Grille",
+        "address": "Fort Worth, TX",
+        "description": "Official Stars watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Whiskey Business",
+        "address": "Fort Worth, TX",
+        "description": "Hockey bar in Fort Worth",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Longhorn Ice House",
+        "address": "Northwest Dallas, TX",
+        "description": "Big projection screen, growing Stars fan base",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Stan's Blue Note",
+        "address": "2908 Greenville Avenue, Lower Greenville, Dallas, TX",
+        "description": "896 fan views, also shows other sports",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings",
+        "address": "3211 Preston Road, Frisco, TX",
+        "description": "888 fan views",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "High Fives",
+        "address": "1804 McMillan Avenue, Knox-Henderson, Dallas, TX",
+        "description": "Stars games shown",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Katy Trail Ice House Outpost",
+        "address": "4700 West Park Boulevard, Plano, TX",
+        "description": "Stars viewing location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bottle Rockets Bar",
+        "address": "5800 Legacy Drive, Plano, TX",
+        "description": "Stars games shown",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "BoomerJack's Grill & Bar",
+        "address": "5430 Texas 121, Plano, TX",
+        "description": "Stars viewing location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Four Corners Brewing Company",
+        "address": "1311 South Ervay Street, Dallas, TX",
+        "description": "Brewery with Stars games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Shark Club Sports Grill",
+        "address": "8451 Parkwood Boulevard, Plano, TX",
+        "description": "Stars viewing location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "American Airlines Center (Official Stadium)",
+        "address": "2500 Victory Avenue, Dallas, TX 75219",
+        "description": "Home arena of Dallas Stars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Conference - Atlantic Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Conference - Metropolitan Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Western Conference - Central Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "General NHL Viewing Options": [
+      {
+        "name": "Western Conference - Pacific Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  }
+}

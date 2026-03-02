@@ -1,0 +1,623 @@
+{
+  "NFL": {
+    "Official Team Bar Network Locations": [
+      {
+        "name": "Sports Grill (Multiple Locations)",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Flanigan's Seafood Bar and Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Brickell Sports Bars": [
+      {
+        "name": "Sandbar Sports Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Batch Gastropub",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "American Social",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "305 Sports Bar",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Black Market Miami",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Wynwood / Edgewater": [
+      {
+        "name": "CMX Stone Sports Bar Brickell",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Miami Beach / South Beach": [
+      {
+        "name": "Grails Miami - Restaurant & Sports Bar",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Mickey Burkes",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Downtown Miami": [
+      {
+        "name": "Clevelander Sports Bar (Kush at Clevelander)",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Near Airport / Miami Springs": [
+      {
+        "name": "Mike's at Venetia",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "North Miami / North Miami Beach": [
+      {
+        "name": "Old Tom's (formerly Tom's NFL)",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Additional GameWatch.info Listings": [
+      {
+        "name": "Duffy's Sports Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Reddit Recommendations": [],
+    "Watch Party Info": [],
+    "Summary Statistics": []
+  },
+  "MLB": {
+    "Official Marlins Bar Network": [
+      {
+        "name": "Participating Bars (Official Program)",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Downtown / Brickell Venues": [
+      {
+        "name": "Breweries (Official Partners)",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Black Market Miami",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "American Social",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "305 Sports Bar",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Wynwood / Edgewater": [
+      {
+        "name": "Batch Gastropub",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Coconut Grove": [
+      {
+        "name": "Grails Miami - Restaurant & Sports Bar",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Little Havana": [
+      {
+        "name": "Sandbar Sports Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Batting Cage Sports Bar & Lounge",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "At the Stadium": [
+      {
+        "name": "Ball & Chain",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Recess Sports Lounge",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "West Miami / Doral": [
+      {
+        "name": "The Clevelander at Marlins Park",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Additional Official Partners": [
+      {
+        "name": "Sports & Social Sports Bar",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Brightside",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Texas Roadhouse",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Participating Restaurants": [
+      {
+        "name": "Thank You Miami",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "PINCHO",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "SuViche",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Reddit Recommendations": [
+      {
+        "name": "Miami's Best Pizza",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Watch Party Schedule Info": [],
+    "Summary Statistics": [],
+    "Notes": []
+  },
+  "NBA": {
+    "Top-Rated Heat Watch Party Locations": [
+      {
+        "name": "Grails Miami - Restaurant & Sports Bar",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Wynwood / Edgewater Area": [
+      {
+        "name": "American Social",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Brickell Sports Bars": [
+      {
+        "name": "Cerveceria La Tropical",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Batch Gastropub",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "305 Sports Bar",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Black Market Miami",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Miami Beach / South Beach": [
+      {
+        "name": "CMX Stone Sports Bar Brickell",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Clevelander Sports Bar (Kush at Clevelander)",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "West Miami / Doral": [
+      {
+        "name": "Mickey Burkes",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Additional Heat-Friendly Locations": [
+      {
+        "name": "Fatty Crab",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Miccosukee Resort & Gaming",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Cheers Bar",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Islander Bar and Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Coral Gables": [
+      {
+        "name": "Casa D Miami",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Downtown Miami": [
+      {
+        "name": "Sandbar Sports Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chain Options": [
+      {
+        "name": "Mike's at Venetia",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Duffy's Sports Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Hotel Bars": [
+      {
+        "name": "Flanigan's Seafood Bar and Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Specialty Venues": [
+      {
+        "name": "The Bamboo Room (Esme Hotel lobby bar)",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Watch Party Events & Fan Clubs": [
+      {
+        "name": "Wynwood Brewing Company",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Summary Statistics": [],
+    "Heat Season Info": [],
+    "Best Bets by Vibe": []
+  },
+  "NHL": {
+    "Official \"Cats on Tap\" Program Locations": [],
+    "Fort Lauderdale / Broward County": [
+      {
+        "name": "Miami Locations",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Fort Lauderdale Area",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Davie / Cooper City",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Plantation",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Delray Beach / Boca Raton": [
+      {
+        "name": "Oakland Park / Pompano Beach",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "West Palm Beach / Palm Beach County": [],
+    "Top GameWatch.info Locations": [
+      {
+        "name": "Bokampers Sports Bar & Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Sandbar Sports Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Additional Notable Locations": [
+      {
+        "name": "Whistle Stop",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Panthers Point Bar & Grill",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "BRGR STOP",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Irishmen",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Inn Field",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Official Watch Parties at Amerant Bank Arena": [
+      {
+        "name": "Funky Buddha Brewery",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Recent Championship Context": [],
+    "Summary Statistics": [],
+    "Best Bets by Location": [],
+    "Panthers Season Info": []
+  }
+}

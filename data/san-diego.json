@@ -1,0 +1,2159 @@
+{
+  "NFL": {
+    "Arizona Cardinals": [
+      {
+        "name": "Arizona Café",
+        "address": "Ocean Beach, CA (exact address TBD)",
+        "description": "Cozy spot with laid-back vibe",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Coaster Saloon",
+        "address": "744 Ventura Place, San Diego, CA",
+        "description": "$10 Bud Light with Jägermeister shot, beef brisket, baby back ribs, wings",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Atlanta Falcons": [
+      {
+        "name": "The Duck Dive",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Vibrant atmosphere and delicious food",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Baltimore Ravens": [
+      {
+        "name": "East Village Tavern + Bowl",
+        "address": "930 Market St., San Diego, CA 92101",
+        "description": "Bowling and football combined, champ-style nachos, hot honey fried chicken",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dirty Birds - Pacific Beach",
+        "address": "4656 Mission Blvd., San Diego, CA 92109",
+        "description": "40 wing sauce flavors, sound on, $30 beer buckets, $5 mimosas, Ravens Flock official",
+        "phone": "(858) 274-2473",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dirty Birds - Liberty Station",
+        "address": "Liberty Station (exact address TBD)",
+        "description": "Part of Dirty Birds chain, multiple locations",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dirty Birds - SDSU College Area",
+        "address": "College Area near SDSU (exact address TBD)",
+        "description": "Part of Dirty Birds chain",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dirty Birds - Ocean Beach",
+        "address": "1929 Cable St., San Diego, CA 92107",
+        "description": "30+ TVs with sound, half-price wings Mon/Thu happy hour",
+        "phone": "(619) 241-2922",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Buffalo Bills": [
+      {
+        "name": "Dirty Birds - UCSD Campus",
+        "address": "Near UCSD Campus (exact address TBD)",
+        "description": "Part of Dirty Birds chain",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Long Story Irish Pub",
+        "address": "4204 Voltaire St., San Diego, CA 92107",
+        "description": "Buffalo Bills central, table-smashing, Labatt Blue chug-off, $4 Labatt Blue",
+        "phone": "(619) 269-0690",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Patrick's Gaslamp Pub",
+        "address": "428 F St., San Diego, CA 92101",
+        "description": "$4 Bud Light, $5 Labatt Blue, free nachos/hot dogs during games",
+        "phone": "(619) 230-5323",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Carolina Panthers": [
+      {
+        "name": "The Local Pacific Beach",
+        "address": "809 Thomas Ave., San Diego, CA 92109",
+        "description": "Home of Bills Backers, two floors, opens early, raffles and giveaways",
+        "phone": "(858) 263-7475",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago Bears": [
+      {
+        "name": "None found",
+        "address": "",
+        "description": "No dedicated Panthers bars identified in San Diego",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "710 Beach Club",
+        "address": "710 Garnet Ave., San Diego, CA 92109",
+        "description": "\"Wildest Bears parties west of Mississippi,\" 20 TVs, Sunday brunch 10am-2pm, bottomless mimosas",
+        "phone": "(858) 483-7844",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cincinnati Bengals": [
+      {
+        "name": "Rosie O'Grady's",
+        "address": "Normal Heights (exact address TBD)",
+        "description": "Traditional pub atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cleveland Browns": [
+      {
+        "name": "The Local Eatery & Drinking Hole",
+        "address": "Downtown San Diego (exact address TBD)",
+        "description": "Lively atmosphere, plenty of fellow fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Players Sports Grill",
+        "address": "5225 Kearny Villa Road, San Diego, CA",
+        "description": "San Diego Browns Backers official, multiple TVs with sound, projector, weekly raffles, pool",
+        "phone": "(858) 694-4201",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Elbowroom",
+        "address": "Kearny Mesa (exact address TBD)",
+        "description": "Relaxed vibe, great food",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Cardiff Beach Bar at Tower 13",
+        "address": "Encinitas (exact address TBD)",
+        "description": "Coastal views, fun crowd",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Dallas Cowboys": [
+      {
+        "name": "Sycamore Den",
+        "address": "TBD",
+        "description": "Charcuterie & cheese boards, artisanal cocktails, craft beer, retro '70s-style space",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Smoking Gun",
+        "address": "555 Market St., San Diego, CA 92101",
+        "description": "Southern California Dallas Cowboys Fan Club partnership, game-day raffles, arcade",
+        "phone": "(619) 233-3836",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Denver Broncos": [
+      {
+        "name": "Union Kitchen & Tap Gaslamp",
+        "address": "333 Fifth Ave., San Diego, CA 92101",
+        "description": "Cowboy flatbread, pet-friendly patio, $25 Ultra buckets, $12 cowboy margaritas",
+        "phone": "(619) 795-9463",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Pacific Beach AleHouse",
+        "address": "721 Grand Ave., San Diego, CA 92109",
+        "description": "DJ Grimm, full sound, $30 beer buckets, Bronco burger, Denver dog",
+        "phone": "(858) 581-2337",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Backyard Kitchen and Tap",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Great spot for Broncos fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Chief's Burgers and Brew",
+        "address": "Solana Beach (exact address TBD)",
+        "description": "Broncos watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Detroit Lions": [
+      {
+        "name": "Guava Beach",
+        "address": "Mission Beach (exact address TBD)",
+        "description": "Also serves Vikings fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Ould Sod",
+        "address": "3373 Adams Ave., San Diego, CA 92116",
+        "description": "San Diego's official Lions spot, outdoor patio, $5 Bud Light, BYO food allowed",
+        "phone": "(619) 284-6594",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "SD TapRoom",
+        "address": "1269 Garnet Ave., San Diego, CA 92109",
+        "description": "Pacific Beach location, official 2024 Lions watch location",
+        "phone": "(858) 330-4617",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Slater's 50/50",
+        "address": "Liberty Station (exact address TBD)",
+        "description": "Beer, food, gameday energy",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Green Bay Packers": [
+      {
+        "name": "The Dog Bar",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Laid-back spot with welcoming crowd",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Hooleys Irish Pub",
+        "address": "5500 Grossmont Center Drive #277, La Mesa, CA 91942",
+        "description": "SoCal Packer Backers official meetup spot",
+        "phone": "(619) 713-6900",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Miss B's Coconut Club",
+        "address": "3704 Mission Blvd., San Diego, CA 92109",
+        "description": "Indoor-outdoor, brunch until 2pm, frozen cocktails, Caribbean steak",
+        "phone": "(858) 923-5503",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Regal Beagle",
+        "address": "3659 India St., San Diego, CA 92103",
+        "description": "Wings, burgers, cheesesteaks, dog-friendly patio, local craft beers",
+        "phone": "(619) 297-2337",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Riptides PB",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Top Packers watch spot",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Local",
+        "address": "TBD",
+        "description": "Packers watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Mavericks Beach Club",
+        "address": "TBD",
+        "description": "Packers watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Flamingo Deck",
+        "address": "TBD",
+        "description": "Packers watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Catalina Lounge",
+        "address": "Ocean Beach (exact address TBD)",
+        "description": "Classic choice for Packers fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Houston Texans": [
+      {
+        "name": "Henry's Pub",
+        "address": "Gaslamp Quarter (exact address TBD)",
+        "description": "Fun and friendly environment",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "East Village Tavern & Bowl",
+        "address": "930 Market St., San Diego, CA 92101",
+        "description": "Bowling meets football",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Indianapolis Colts": [
+      {
+        "name": "True North",
+        "address": "North Park (exact address TBD)",
+        "description": "Great drink selection, lively crowd",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Sidecar",
+        "address": "1310 Morena Blvd., San Diego, CA 92110",
+        "description": "Official SoCal Colts watch spot, food from The Shed Kitchen, pool/arcade/karaoke",
+        "phone": "(619) 230-5715",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Jacksonville Jaguars": [
+      {
+        "name": "Miss B's Coconut Club",
+        "address": "3704 Mission Blvd., San Diego, CA 92109",
+        "description": "Mission Beach location, also serves Colts fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "JT's Tavern",
+        "address": "5821 Mission Gorge Road, San Diego, CA",
+        "description": "Affordable drinks, diverse breakfast menu, dog-friendly patio",
+        "phone": "(619) 280-4698",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Kansas City Chiefs": [
+      {
+        "name": "Rip Current Brewing",
+        "address": "North Park (exact address TBD)",
+        "description": "Craft beer selection, welcoming environment",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Home and Away",
+        "address": "2222 San Diego Ave., San Diego, CA 92110",
+        "description": "Chiefs Kingdom hub, huge patio screens, Sunday brisket, hosts every game including preseason",
+        "phone": "(619) 501-0522",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Angry Pete's Pizza",
+        "address": "Kearny Mesa (exact address TBD)",
+        "description": "Chiefs watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Ould Sod",
+        "address": "3373 Adams Ave., San Diego, CA 92116",
+        "description": "Normal Heights, also serves Chiefs fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Kansas City BBQ",
+        "address": "Downtown San Diego (exact address TBD)",
+        "description": "Famous for Top Gun memorabilia, warm friendly crowd",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Las Vegas Raiders": [
+      {
+        "name": "Bayside Landing",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Chiefs watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings - Chula Vista",
+        "address": "555 Broadway #116, Chula Vista, CA",
+        "description": "West Coast Raider Nation official, every preseason and regular season game, patio seating",
+        "phone": "(619) 407-6205",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Wonderland Ocean Pub",
+        "address": "Ocean Beach (exact address TBD)",
+        "description": "Lively atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Sopranos Pizza and Restaurant",
+        "address": "TBD",
+        "description": "Raiders watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Cove Bar & Grill",
+        "address": "TBD",
+        "description": "Raiders watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Arizona Cafe",
+        "address": "Ocean Beach (exact address TBD)",
+        "description": "Also serves Raiders fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "El Chingon",
+        "address": "Gaslamp Quarter (exact address TBD)",
+        "description": "Spirited atmosphere, team pride",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Chargers": [
+      {
+        "name": "Sunshine Company",
+        "address": "Ocean Beach (exact address TBD)",
+        "description": "Silver and Black tribe gathering spot",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Cali BBQ",
+        "address": "8910 Troy St., Spring Valley, CA",
+        "description": "BBQ favorites, slow-smoked meats, fish bowl cocktails",
+        "phone": "(619) 337-0670",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dirty Birds - Ocean Beach",
+        "address": "1929 Cable St., San Diego, CA 92107",
+        "description": "30+ TVs with sound on every game",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Deck at Moonshine Flats",
+        "address": "335 Sixth Ave., San Diego, CA 92101",
+        "description": "16 TVs, 165-inch video wall, game audio, jersey raffles",
+        "phone": "(619) 255-7625",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Barleymash",
+        "address": "Gaslamp Quarter (exact address TBD)",
+        "description": "Lively game day atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bub's at the Ballpark",
+        "address": "TBD",
+        "description": "Chargers watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Rams": [
+      {
+        "name": "Oggi's",
+        "address": "Multiple locations",
+        "description": "Reliable choice for catching games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Miami Dolphins": [
+      {
+        "name": "The Silver Fox",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Rams fans gathering spot",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Flamingo Deck",
+        "address": "4110 Mission Blvd., San Diego, CA 92109",
+        "description": "Miami Dolphins official bar, $5 draft specials, 100-inch HDTV, \"Miami Vice\" style",
+        "phone": "(858) 263-4205",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bare Back Grill",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Great mix of food, drinks, football",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Raglan Public House",
+        "address": "Ocean Beach (exact address TBD)",
+        "description": "Dolphins watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Minnesota Vikings": [
+      {
+        "name": "San Diego Brewing Co.",
+        "address": "Mission Valley (exact address TBD)",
+        "description": "Dolphins watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Guava Beach Bar & Grill",
+        "address": "3714 Mission Blvd., San Diego, CA 92109",
+        "description": "100-inch HDTV with sound, $4 pilsners, $6 Lambeau leap shots, Sunday brunch",
+        "phone": "(858) 488-6688",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New England Patriots": [
+      {
+        "name": "Regal Seagull",
+        "address": "996 North Coast Highway 101, Encinitas, CA",
+        "description": "North County location for Vikings fans, sandwiches, wings, pretzels",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Tipsy Crow",
+        "address": "770 Fifth Ave., San Diego, CA 92101",
+        "description": "Gaslamp Quarter, game-day beer/seltzer specials, clam chowder, lobster rolls",
+        "phone": "(619) 338-9300",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New Orleans Saints": [
+      {
+        "name": "Wonderland Ocean Pub",
+        "address": "Ocean Beach (exact address TBD)",
+        "description": "Top choice for Patriots fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Fast Times",
+        "address": "3065 Clairemont Drive, San Diego, CA",
+        "description": "$20 beer buckets, $11 Hurricanes, weekend brunch, dog-friendly",
+        "phone": "(619) 642-0338",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "NOLA on 5th",
+        "address": "3683 Fifth Ave., San Diego, CA",
+        "description": "Hillcrest, New Orleans-themed, jambalaya, gumbo, po'boys, bottomless mimosas",
+        "phone": "(858) 444-6173",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Giants": [
+      {
+        "name": "The Air Conditioned Lounge",
+        "address": "Normal Heights (exact address TBD)",
+        "description": "Lively atmosphere, great food",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Knotty Barrel",
+        "address": "844 Market St., San Diego, CA 92101",
+        "description": "Downtown, weekend brunch, wings, brisket sandwiches, huge beer selection",
+        "phone": "(619) 269-7156",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "U-31 Cocktail Lounge",
+        "address": "TBD",
+        "description": "Giants watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Jets": [
+      {
+        "name": "PB Shore Club",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Great food, fun game day crowd",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Eagles": [
+      {
+        "name": "Taste & Thirst",
+        "address": "Downtown (exact address TBD)",
+        "description": "Lively atmosphere, generous happy hour",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Pretzels & Pints",
+        "address": "3812 Ray St., San Diego, CA 92104",
+        "description": "Official Eagles bar, shows all Philly sports year-round, pretzel pizzas",
+        "phone": "(619) 230-5353",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Cabo Cantina",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Great mix of food, drinks, football",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Rabbit Hole",
+        "address": "Normal Heights (exact address TBD)",
+        "description": "Eagles watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tilted Stick Bar & Grill",
+        "address": "Ocean Beach (exact address TBD)",
+        "description": "Eagles watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Avenue",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Eagles bar (unofficial)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Society",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Eagles bar (unofficial)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Steelers": [
+      {
+        "name": "Backyard",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Eagles bar (unofficial)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Wonderland Ocean Pub",
+        "address": "5083 Santa Monica Ave. Suite 2B, San Diego, CA",
+        "description": "OB location, DJ at halftime, drink specials, touchdown shots, free raffle in team gear",
+        "phone": "(619) 255-3358",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Francisco 49ers": [
+      {
+        "name": "Bub's",
+        "address": "Downtown (exact address TBD)",
+        "description": "Local favorite, welcoming atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Moonshine Beach",
+        "address": "1165 Garnet Ave., San Diego, CA 92109",
+        "description": "San Diego's official 49ers bar, opens 1hr before kickoff, $20 beer buckets, loyalty perks",
+        "phone": "(858) 999-0158",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bottle Rocket",
+        "address": "805 16th St., San Diego, CA",
+        "description": "East Village, happy hour pricing in team gear, opens 10am Sundays",
+        "phone": "(619) 539-7372",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Moonshine Flats",
+        "address": "Gaslamp (exact address TBD)",
+        "description": "49ers watch location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Seattle Seahawks": [
+      {
+        "name": "The Saddle Bar",
+        "address": "Solana Beach (exact address TBD)",
+        "description": "Football and fun go hand in hand",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Thruster's Lounge",
+        "address": "4633 Mission Blvd., San Diego, CA 92109",
+        "description": "\"San Diego's best spot for Seahawks,\" 22 beers on tap, 21+ only, opens 1hr before kickoff",
+        "phone": "Listed on thrusterslounge.com",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Buccaneers": [
+      {
+        "name": "West Coast Tavern",
+        "address": "TBD",
+        "description": "Former movie theater, slick casual spot for American fare and cocktails",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tennessee Titans": [
+      {
+        "name": "None found",
+        "address": "",
+        "description": "No dedicated Bucs bars identified in San Diego",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Washington Commanders": [
+      {
+        "name": "None found",
+        "address": "",
+        "description": "No dedicated Titans bars identified in San Diego",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Winston's",
+        "address": "1921 Bacon St., San Diego, CA 92107",
+        "description": "Music venue + Commanders hub, shows all games, drink specials, BYO food allowed",
+        "phone": "(619) 222-6822",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "Latitude 32",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Welcoming crowd, team spirit",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "MLB": {
+    "San Diego Padres": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "Downtown sports bar, overlooks Petco Park area, 50+ beers, 65+ screens",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Petco Park (Stadium)",
+        "address": "100 Park Blvd, San Diego, CA 92101",
+        "description": "Home venue, various bars and restaurants inside and around the ballpark",
+        "phone": "(619) 795-5555",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Arizona Diamondbacks": [
+      {
+        "name": "Multiple Downtown Bars",
+        "address": "Gaslamp Quarter and East Village areas",
+        "description": "Numerous bars within walking distance of Petco Park show Padres games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Atlanta Braves": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated D-backs bars found. Arizona Café (Ocean Beach) serves Cardinals fans but no MLB confirmation",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Baltimore Orioles": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Braves bars found in research",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Boston Red Sox": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Orioles bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "PB Cantina (potential)",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Reddit mentions as New England bar (unconfirmed for MLB specifically)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago Cubs": [
+      {
+        "name": "Wonderland Ocean Pub (potential)",
+        "address": "Ocean Beach",
+        "description": "Known Patriots bar, may show Red Sox games (unconfirmed)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago White Sox": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Cubs bars found; 710 Beach Club and Rosie O'Grady's serve Bears fans but no MLB confirmation",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cincinnati Reds": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated White Sox bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cleveland Guardians": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Reds bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Colorado Rockies": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Guardians bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Detroit Tigers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Rockies bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Houston Astros": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Tigers bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Kansas City Royals": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Astros bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Angels": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Royals bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Dodgers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "Geographic proximity suggests general sports bars may show Angels games, but no dedicated bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Miami Marlins": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "Major rival of Padres; likely general sports bars show games but no dedicated Dodgers bars found in research",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Milwaukee Brewers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Marlins bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Minnesota Twins": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Brewers bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Mets": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Twins bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Yankees": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Mets bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Oakland Athletics": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Yankees bars found despite large fanbase",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Phillies": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "Team relocated to Las Vegas; no dedicated bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Pirates": [
+      {
+        "name": "Pretzels & Pints (potential)",
+        "address": "3812 Ray St., San Diego, CA 92104",
+        "description": "Shows \"all Philly sports year-round\" - likely includes Phillies games",
+        "phone": "(619) 230-5353",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Francisco Giants": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Pirates bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Seattle Mariners": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "Major NL West rival of Padres; no dedicated Giants bars found (surprising given large SF transplant population)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "St. Louis Cardinals": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Mariners bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Rays": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Cardinals bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Texas Rangers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Rays bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Toronto Blue Jays": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Rangers bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Washington Nationals": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Blue Jays bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Nationals bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "NBA": {
+    "Atlanta Hawks": [],
+    "Boston Celtics": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Hawks bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "PB Cantina (potential)",
+        "address": "Pacific Beach (exact address TBD)",
+        "description": "Reddit mentions as New England/Boston bar; \"NBA package, beer's cheaper\" at home",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Brooklyn Nets": [
+      {
+        "name": "The Tipsy Crow (potential)",
+        "address": "770 Fifth Ave., San Diego, CA 92101",
+        "description": "Known Patriots bar, may attract Celtics fans (Boston connection)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Charlotte Hornets": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Nets bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago Bulls": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Hornets bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cleveland Cavaliers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Bulls bars found (710 Beach Club/Rosie O'Grady's serve Bears but no NBA confirmation)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Dallas Mavericks": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Cavaliers bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Denver Nuggets": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Mavericks bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Detroit Pistons": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Nuggets bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Golden State Warriors": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Pistons bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "\"Ultimate home for NBA fans\" - \"Warriors supporters unite under one roof\"",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Houston Rockets": [
+      {
+        "name": "True North (unconfirmed)",
+        "address": "North Park",
+        "description": "Reddit mention of watching Lakers there; may show Warriors too",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Indiana Pacers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Rockets bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Clippers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Pacers bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "\"Clippers supporters unite under one roof\" - note: Clippers were SD's team 1978-1984",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Lakers": [
+      {
+        "name": "San Diego Clippers (G-League)",
+        "address": "Frontwave Arena, Oceanside",
+        "description": "G-League affiliate plays in North County (not a bar, but local basketball option)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "\"Ultimate home for NBA fans\" - \"Lakers supporters unite under one roof\"",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "True North",
+        "address": "North Park (exact address TBD)",
+        "description": "Reddit mentions Lakers crowd, TVs showing local broadcast Lakers games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Guava Beach (mixed reports)",
+        "address": "Mission Beach",
+        "description": "One Reddit user had bad experience (no Lakers focus), another mentions it",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Memphis Grizzlies": [
+      {
+        "name": "Bullpen Sports Bar",
+        "address": "Near Convoy",
+        "description": "\"My go to\" per Reddit; shows local broadcast Lakers games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Miami Heat": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Grizzlies bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Milwaukee Bucks": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Heat bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Minnesota Timberwolves": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Bucks bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New Orleans Pelicans": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Timberwolves bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Knicks": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Pelicans bars found (NOLA on 5th serves Saints but no NBA confirmation)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Oklahoma City Thunder": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Knicks bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Orlando Magic": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Thunder bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Philadelphia 76ers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Magic bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Phoenix Suns": [
+      {
+        "name": "Pretzels & Pints (potential)",
+        "address": "3812 Ray St., San Diego, CA 92104",
+        "description": "Shows \"all Philly sports year-round\" - likely includes 76ers",
+        "phone": "(619) 230-5353",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Portland Trail Blazers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Suns bars found (Arizona Café serves Cardinals, no NBA confirmation)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Sacramento Kings": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Blazers bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Antonio Spurs": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Kings bars found (geographic proximity might = general bar coverage)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Toronto Raptors": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Spurs bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Utah Jazz": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Raptors bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Washington Wizards": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Jazz bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "General NBA Bars": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Wizards bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tier 1 - Actively Markets NBA",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "65+ screens, \"ultimate home for NBA fans,\" specifically mentions Lakers/Clippers/Warriors",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tier 2 - Shows NBA Games Regularly",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Bullpen Bar & Grill",
+        "address": "Near Convoy",
+        "description": "Reddit-confirmed for NBA games, \"one of the best sports bars in San Diego\"",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "True North",
+        "address": "North Park",
+        "description": "Shows Lakers/NBA games, had Lakers crowd during playoffs",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Fairplay",
+        "address": "TBD",
+        "description": "\"One stop shop sports bars\" for NBA per Reddit",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bub's",
+        "address": "Downtown (multiple locations)",
+        "description": "\"One stop shop sports bars\" for NBA per Reddit",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Guava Beach",
+        "address": "Mission Beach",
+        "description": "Mixed reports for NBA (Vikings bar primarily)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Stout Public House",
+        "address": "TBD",
+        "description": "Major sports bar, likely shows NBA",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Yard House",
+        "address": "Multiple locations",
+        "description": "Chain sports bar showing NBA games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Barleymash",
+        "address": "Gaslamp Quarter",
+        "description": "Large sports bar, NBA coverage",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "McGregor's Grill",
+        "address": "TBD",
+        "description": "GameWatch lists as one of best sports bars in SD",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Home & Away",
+        "address": "2222 San Diego Ave., San Diego, CA 92110",
+        "description": "Large sports bar (Chiefs venue primarily)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "The Local Pacific Beach",
+        "address": "809 Thomas Ave., San Diego, CA 92109",
+        "description": "Two floors, major sports bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "NHL": {
+    "Anaheim Ducks": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "\"Home for NHL fans from all over,\" specifically mentions Ducks",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Arizona Coyotes": [
+      {
+        "name": "General hockey bars",
+        "address": "Various (see below)",
+        "description": "Geographic proximity makes Ducks popular; most hockey bars show Ducks games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Boston Bruins": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "Team relocated to Utah; no dedicated bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Stout Public House (potential)",
+        "address": "TBD",
+        "description": "\"THE Hockey bar of SD\" per Reddit; shows all NHL games but not team-specific",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Buffalo Sabres": [
+      {
+        "name": "The Tipsy Crow (potential)",
+        "address": "770 Fifth Ave., San Diego, CA 92101",
+        "description": "Known Patriots bar, may attract Bruins fans (Boston connection)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Calgary Flames": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Sabres bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Carolina Hurricanes": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "Specifically mentioned as showing Flames games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago Blackhawks": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Hurricanes bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Colorado Avalanche": [
+      {
+        "name": "Rosie O'Grady's",
+        "address": "Normal Heights (exact address TBD)",
+        "description": "\"Blackhawk bar\" - plays all hockey games with focus on Chicago",
+        "phone": "Listed online",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Columbus Blue Jackets": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "Specifically mentioned as showing Avalanche games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Dallas Stars": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Blue Jackets bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Detroit Red Wings": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Stars bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Edmonton Oilers": [
+      {
+        "name": "Redwing Bar & Grill",
+        "address": "TBD",
+        "description": "NAME suggests Red Wings affiliation (unconfirmed); appears in Yelp hockey bar searches",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Florida Panthers": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "Specifically mentioned as showing Oilers games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Kings": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Panthers bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "\"Kings fans dominate the SoCal scene\" at this bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Minnesota Wild": [
+      {
+        "name": "General hockey bars",
+        "address": "Various",
+        "description": "Geographic proximity makes Kings very popular in San Diego",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Montreal Canadiens": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Wild bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Nashville Predators": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Canadiens bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New Jersey Devils": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Predators bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Islanders": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Devils bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Rangers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Islanders bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Ottawa Senators": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Rangers bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Flyers": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Senators bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Penguins": [
+      {
+        "name": "Pretzels & Pints (potential)",
+        "address": "3812 Ray St., San Diego, CA 92104",
+        "description": "Shows \"all Philly sports year-round\" - likely includes Flyers",
+        "phone": "(619) 230-5353",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Jose Sharks": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Penguins bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Seattle Kraken": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "Specifically mentioned as showing Sharks games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "St. Louis Blues": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "New franchise (2021); no dedicated bars found yet",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Lightning": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Blues bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Toronto Maple Leafs": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Lightning bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Utah Hockey Club": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "Reddit mentions fans looking for playoff watch locations but no dedicated bar found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Vancouver Canucks": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "Recently relocated (2024); no dedicated bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Vegas Golden Knights": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Canucks bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Washington Capitals": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "Specifically mentioned as showing Golden Knights games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Winnipeg Jets": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Capitals bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "General Hockey Bars": [
+      {
+        "name": "TBD",
+        "address": "",
+        "description": "No dedicated Jets bars found",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tier 1 - Dedicated Hockey Focus",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Stout Public House",
+        "address": "TBD",
+        "description": "\"THE Hockey bar of SD,\" shows all NHL games, NHL Network available",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "600 W Harbor Dr, San Diego, CA 92101",
+        "description": "65+ screens, specifically markets to NHL fans, mentions 7+ teams",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tier 2 - Regular Hockey Coverage",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Redwing Bar & Grill",
+        "address": "TBD",
+        "description": "Appears in hockey bar searches",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Bullpen Bar & Grill",
+        "address": "Near Convoy",
+        "description": "Shows hockey games regularly",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Rosie O'Grady's",
+        "address": "Normal Heights",
+        "description": "Blackhawks bar, shows all hockey",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Rabbit Hole",
+        "address": "Normal Heights",
+        "description": "Shows hockey games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Triple Crown Pub",
+        "address": "TBD",
+        "description": "Shows hockey",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "SD TapRoom",
+        "address": "Pacific Beach",
+        "description": "Shows hockey games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "High Dive Bar And Grill",
+        "address": "TBD",
+        "description": "Shows hockey",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Brewski's Bar & Arcade",
+        "address": "TBD",
+        "description": "Shows hockey games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Barleymash",
+        "address": "Gaslamp Quarter",
+        "description": "Sports bar with hockey coverage",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Yard House",
+        "address": "Multiple locations",
+        "description": "Chain sports bar, shows NHL games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bay Hill Tavern",
+        "address": "TBD",
+        "description": "Shows hockey",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dirty Birds",
+        "address": "Multiple locations (PB, OB, Liberty Station, etc.)",
+        "description": "Large sports bar chain, shows NHL games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Seven Grand",
+        "address": "TBD",
+        "description": "Shows hockey games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Nunu's Tavern",
+        "address": "TBD",
+        "description": "Shows hockey",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "Time Out Sports Tavern",
+        "address": "Downtown San Diego",
+        "description": "Downtown sports bar showing NHL",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  }
+}

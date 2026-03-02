@@ -1,0 +1,1556 @@
+{
+  "NFL": {
+    "Research completed: March 1, 2026": [],
+    "Minnesota Vikings": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, Official Vikings watch party location, 2-for-1 drinks on Vikings touchdowns, Fan Club membership discount ($1 off pints)",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "The Rabbit Hole",
+        "address": "Near Minneapolis Sculpture Garden (North Loop)",
+        "description": "Official watch party location for Vikings, Twins, and Wild games",
+        "phone": "TBD",
+        "website": "https://www.therabbitholemn.com/",
+        "hours": ""
+      },
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Top-rated NFL bar on GameWatch.info, 20-36 taps, Vikings home games",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Jackson's Hole Bar & Grill",
+        "address": "106 N 3rd St, Minneapolis, MN 55401",
+        "description": "Historic warehouse district location, all Vikings games",
+        "phone": "(612) 343-5930",
+        "website": "Facebook - Jackson's Hole MPLS",
+        "hours": ""
+      },
+      {
+        "name": "Day Block Brewing Company",
+        "address": "1105 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Craft brewery with pizza, Vikings games on multiple screens",
+        "phone": "(612) 617-7793",
+        "website": "https://www.dayblockbrewing.com/",
+        "hours": ""
+      },
+      {
+        "name": "The Loon Cafe",
+        "address": "500 1st Ave N, Minneapolis, MN 55403",
+        "description": "Downtown classic, vintage wood bar, Vikings memorabilia",
+        "phone": "(612) 332-8342",
+        "website": "https://www.looncafe.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Northern Taphouse",
+        "address": "TBD (Minneapolis)",
+        "description": "Vikings games, local craft beer selection",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Bunny's Bar & Grill",
+        "address": "TBD (Minneapolis)",
+        "description": "Vikings watch parties",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Ray J's American Grill",
+        "address": "TBD (Minneapolis)",
+        "description": "Great wings, Vikings games, recommended on Reddit",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Tailgate Sports Café",
+        "address": "TBD (Minneapolis)",
+        "description": "Vikings watch parties",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Surly Brewing",
+        "address": "TBD (Minneapolis)",
+        "description": "Brewery with taproom, Vikings games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Half Time Rec (St. Paul)",
+        "address": "St. Paul (outside city center)",
+        "description": "Historic charm, large TVs, local brews, hearty food",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Arizona Cardinals": [
+      {
+        "name": "Boardwalk Kitchen & Bar (South Metro)",
+        "address": "South Metro suburbs",
+        "description": "Vikings watch parties",
+        "phone": "TBD",
+        "website": "https://www.boardwalkmn.com/",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, shows all NFL games with NFL Sunday Ticket",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Multiple TVs, all NFL games",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Atlanta Falcons": [
+      {
+        "name": "Buffalo Wild Wings (Multiple Locations)",
+        "address": "Multiple Minneapolis locations",
+        "description": "Chain restaurant, NFL Sunday Ticket, all games shown",
+        "phone": "Varies by location",
+        "website": "https://www.buffalowildwings.com/locations/us/mn/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, shows all NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Baltimore Ravens": [
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "All NFL games shown",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, all NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Buffalo Bills": [
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "All NFL games",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, all NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Carolina Panthers": [
+      {
+        "name": "General Sports Bars",
+        "address": "",
+        "description": "Reddit thread mentions Bills fans looking for dedicated bars; most major sports bars show Bills games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago Bears": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Alary's Bar & Barbeque (St. Paul)",
+        "address": "St. Paul (near Xcel Energy Center)",
+        "description": "OFFICIAL CHICAGO BEARS BAR, 50% discount for law enforcement, shuttles to events, blackout games shown",
+        "phone": "TBD",
+        "website": "https://www.alarys.com/",
+        "hours": ""
+      }
+    ],
+    "Cincinnati Bengals": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games including Bears",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Cleveland Browns": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Dallas Cowboys": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games, large Cowboys fanbase",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Denver Broncos": [
+      {
+        "name": "General Notes",
+        "address": "",
+        "description": "No dedicated Cowboys bars found in Twin Cities according to Reddit r/cowboys 2019 thread",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Detroit Lions": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Green Bay Packers": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games including Lions",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Tiff's Sports Lounge (East of river)",
+        "address": "TBD (East of Mississippi River)",
+        "description": "OFFICIAL PACKERS BAR, two 120-inch screens, no cover, green and gold friendly",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Houston Texans": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games, Packers shown on dedicated screens",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Indianapolis Colts": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Jacksonville Jaguars": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Kansas City Chiefs": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Las Vegas Raiders": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Chargers": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Rams": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Miami Dolphins": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "New England Patriots": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "New Orleans Saints": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "New York Giants": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "New York Jets": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Eagles": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Steelers": [
+      {
+        "name": "General Notes",
+        "address": "",
+        "description": "Reddit threads mention Eagles fans searching for dedicated Eagles bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Francisco 49ers": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Seattle Seahawks": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Buccaneers": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games shown",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Tennessee Titans": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "Washington Commanders": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "ADDITIONAL VENUES - GENERAL NFL VIEWING": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "All NFL games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Palace NE",
+        "address": "Northeast Minneapolis",
+        "description": "NFL Sunday Ticket, largest build-your-own bloody mary bar in the city",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Kieran's Irish Pub",
+        "address": "Downtown Minneapolis",
+        "description": "All NFL games, downtown location near Target Center",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Cowboy Jack's",
+        "address": "TBD (Minneapolis - multiple locations possible)",
+        "description": "Sports bar chain, NFL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Dulono's Sport Bar",
+        "address": "TBD (Minneapolis)",
+        "description": "All NFL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Joe Senser's",
+        "address": "TBD (Minneapolis area)",
+        "description": "Former Viking Joe Senser's restaurant, NFL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Cedar Inn",
+        "address": "Minneapolis (different side from Ray J's)",
+        "description": "Great wings, NFL Sunday games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Lyon's Pub",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location (2024), Nebraska Cornhuskers bar, NFL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Gluek's",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location 2024, NFL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "8th St. Grill",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location, NFL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Sneaky Pete's",
+        "address": "Downtown Minneapolis",
+        "description": "Official watch party location, NFL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "NOTES & OBSERVATIONS": [
+      {
+        "name": "The Local",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party, NFL games, downtown location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ]
+  },
+  "MLB": {
+    "Research completed: March 1, 2026": [],
+    "Minnesota Twins": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, all Twins games (home and away), near Target Field",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "The Rabbit Hole",
+        "address": "Near Minneapolis Sculpture Garden (North Loop)",
+        "description": "Official Twins watch party location",
+        "phone": "TBD",
+        "website": "https://www.therabbitholemn.com/",
+        "hours": ""
+      },
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Twins games shown, near downtown",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Jackson's Hole Bar & Grill",
+        "address": "106 N 3rd St, Minneapolis, MN 55401",
+        "description": "All Twins games shown",
+        "phone": "(612) 343-5930",
+        "website": "Facebook - Jackson's Hole MPLS",
+        "hours": ""
+      },
+      {
+        "name": "The Loon Cafe",
+        "address": "500 1st Ave N, Minneapolis, MN 55403",
+        "description": "Near Target Field, Twins games with sound",
+        "phone": "(612) 332-8342",
+        "website": "https://www.looncafe.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Day Block Brewing Company",
+        "address": "1105 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Craft brewery, Twins games on multiple screens",
+        "phone": "(612) 617-7793",
+        "website": "https://www.dayblockbrewing.com/",
+        "hours": ""
+      }
+    ],
+    "ALL OTHER MLB TEAMS": [
+      {
+        "name": "Fulton Brewing Taproom",
+        "address": "Near Target Field",
+        "description": "Short walk to Target Field, shows Twins games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, MLB Extra Innings package, shows all MLB games on request",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Multiple TVs, will show requested MLB games",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings (Multiple Locations)",
+        "address": "Multiple Minneapolis locations",
+        "description": "MLB Extra Innings package, all games available",
+        "phone": "Varies by location",
+        "website": "https://www.buffalowildwings.com/locations/us/mn/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Jackson's Hole Bar & Grill",
+        "address": "106 N 3rd St, Minneapolis, MN 55401",
+        "description": "Will show requested MLB games",
+        "phone": "(612) 343-5930",
+        "website": "Facebook - Jackson's Hole MPLS",
+        "hours": ""
+      },
+      {
+        "name": "The Loon Cafe",
+        "address": "500 1st Ave N, Minneapolis, MN 55403",
+        "description": "Shows MLB games on multiple screens",
+        "phone": "(612) 332-8342",
+        "website": "https://www.looncafe.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Day Block Brewing Company",
+        "address": "1105 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Will show MLB games on request",
+        "phone": "(612) 617-7793",
+        "website": "https://www.dayblockbrewing.com/",
+        "hours": ""
+      },
+      {
+        "name": "Kieran's Irish Pub",
+        "address": "Downtown Minneapolis",
+        "description": "MLB games shown, downtown location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Cowboy Jack's",
+        "address": "TBD (Minneapolis - multiple locations possible)",
+        "description": "Sports bar chain, MLB games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Lyon's Pub",
+        "address": "Downtown Minneapolis",
+        "description": "MLB games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Gluek's Restaurant & Bar",
+        "address": "Downtown Minneapolis",
+        "description": "MLB games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Northern Taphouse",
+        "address": "TBD (Minneapolis)",
+        "description": "MLB games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Bunny's Bar & Grill",
+        "address": "TBD (Minneapolis)",
+        "description": "MLB games available",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Ray J's American Grill",
+        "address": "TBD (Minneapolis)",
+        "description": "MLB games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "ST. PAUL VENUES": [
+      {
+        "name": "Tailgate Sports Café",
+        "address": "TBD (Minneapolis)",
+        "description": "MLB games available",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Alary's Bar & Barbeque",
+        "address": "St. Paul (near Xcel Energy Center)",
+        "description": "Shows MLB games, shuttles to downtown St. Paul events",
+        "phone": "TBD",
+        "website": "https://www.alarys.com/",
+        "hours": ""
+      },
+      {
+        "name": "Tom Reid's Hockey City Pub",
+        "address": "St. Paul (near Xcel Energy Center)",
+        "description": "Sports bar, MLB games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Half Time Rec",
+        "address": "St. Paul (outside city center)",
+        "description": "Historic charm, MLB games on large TVs",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Obb's Sports Bar & Grill",
+        "address": "St. Paul (5 minutes from downtown)",
+        "description": "MLB games shown",
+        "phone": "TBD",
+        "website": "https://www.obbsbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Joe & Stan's Pub & Grill",
+        "address": "St. Paul",
+        "description": "MLB games available",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Tiffany Sports Lounge",
+        "address": "St. Paul",
+        "description": "Sports bar, MLB games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Wild Bill's Sports Saloon",
+        "address": "St. Paul",
+        "description": "Wall-to-wall HDTVs, MLB games",
+        "phone": "TBD",
+        "website": "https://www.wildbillssportssaloon-stpaul.com/",
+        "hours": ""
+      }
+    ],
+    "BREWERIES SHOWING MLB GAMES": [
+      {
+        "name": "Black Hart of Saint Paul",
+        "address": "St. Paul",
+        "description": "Sports bar, MLB games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Surly Brewing",
+        "address": "Minneapolis",
+        "description": "Large taproom, shows Twins and MLB games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Indeed Brewing Company",
+        "address": "Northeast Minneapolis",
+        "description": "Taproom with games (shuffleboard, bags), shows sports including MLB",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Fulton Brewing Taproom",
+        "address": "Near Target Field, Minneapolis",
+        "description": "Short walk to Target Field, shows Twins games, nice patio",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "NOTES & OBSERVATIONS": [
+      {
+        "name": "Day Block Brewing Company",
+        "address": "1105 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Pizza & brewery combo, MLB games on request",
+        "phone": "(612) 617-7793",
+        "website": "https://www.dayblockbrewing.com/",
+        "hours": ""
+      }
+    ]
+  },
+  "NBA": {
+    "Research completed: March 1, 2026": [],
+    "Minnesota Timberwolves": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "OFFICIAL Timberwolves away-game HQ, 100+ screens, Target Center energy atmosphere, near Target Center",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "The Rabbit Hole",
+        "address": "Near Minneapolis Sculpture Garden (North Loop)",
+        "description": "Official Timberwolves watch party location",
+        "phone": "TBD",
+        "website": "https://www.therabbitholemn.com/",
+        "hours": ""
+      },
+      {
+        "name": "Gluek's",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location (2024 playoffs), Michelob partnership",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Lyon's Pub",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location (2024 playoffs)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "8th St. Grill",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location (2024 playoffs)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Sneaky Pete's",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location (2024 playoffs)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Jackson's Hole",
+        "address": "106 N 3rd St, Minneapolis, MN 55401",
+        "description": "Official Timberwolves watch party location (2024 playoffs)",
+        "phone": "(612) 343-5930",
+        "website": "Facebook - Jackson's Hole MPLS",
+        "hours": ""
+      },
+      {
+        "name": "Kieran's",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location (2024 playoffs), 11 downtown Minneapolis bars partnership",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "The Local",
+        "address": "Downtown Minneapolis",
+        "description": "Official Timberwolves watch party location (2024 playoffs)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Willy McCoys",
+        "address": "TBD",
+        "description": "Top Timberwolves bar according to GameWatch.info",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "The Pourhouse",
+        "address": "TBD",
+        "description": "Popular Timberwolves watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Mackenzie Pub",
+        "address": "TBD",
+        "description": "Top NBA bar in Minneapolis according to GameWatch.info",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Bricksworth",
+        "address": "North Loop, Minneapolis",
+        "description": "Wolves-inspired brews on tap, solid Detroit-style pizza, advertises watch parties for every game, more chill atmosphere",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Falling Knife Brewing",
+        "address": "TBD (Minneapolis)",
+        "description": "Timberwolves games shown, brewery atmosphere",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "OFFICIAL TIMBERWOLVES WATCH PARTY BARS": [
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Timberwolves games shown on multiple screens",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "ALL OTHER NBA TEAMS": [
+      {
+        "name": "Complete List (May 2024):",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "\"Welcomes NBA fans from all over\" - Lakers, Warriors, Mavericks, Suns, Nuggets all play live, loud, in HD with full sound, NBA League Pass available",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Will show requested NBA games",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings (Multiple Locations)",
+        "address": "Multiple Minneapolis locations",
+        "description": "NBA League Pass, all games available",
+        "phone": "Varies by location",
+        "website": "https://www.buffalowildwings.com/locations/us/mn/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Jackson's Hole Bar & Grill",
+        "address": "106 N 3rd St, Minneapolis, MN 55401",
+        "description": "Will show requested NBA games",
+        "phone": "(612) 343-5930",
+        "website": "Facebook - Jackson's Hole MPLS",
+        "hours": ""
+      },
+      {
+        "name": "The Loon Cafe",
+        "address": "500 1st Ave N, Minneapolis, MN 55403",
+        "description": "Shows NBA games on multiple screens",
+        "phone": "(612) 332-8342",
+        "website": "https://www.looncafe.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Day Block Brewing Company",
+        "address": "1105 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Will show NBA games on request",
+        "phone": "(612) 617-7793",
+        "website": "https://www.dayblockbrewing.com/",
+        "hours": ""
+      },
+      {
+        "name": "Mac's Industrial Sports Bar & Grill",
+        "address": "Northeast Minneapolis",
+        "description": "NE Minneapolis location, NBA games shown",
+        "phone": "TBD",
+        "website": "https://macsindustrial.com/",
+        "hours": ""
+      },
+      {
+        "name": "Kieran's Irish Pub",
+        "address": "Downtown Minneapolis",
+        "description": "NBA games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Lyon's Pub",
+        "address": "Downtown Minneapolis",
+        "description": "NBA games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Gluek's Restaurant & Bar",
+        "address": "Downtown Minneapolis",
+        "description": "NBA games available",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Cowboy Jack's",
+        "address": "TBD (Minneapolis - multiple locations possible)",
+        "description": "Sports bar chain, NBA games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Mackenzie Pub",
+        "address": "TBD",
+        "description": "Top-rated NBA bar on GameWatch.info",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Sneaky Pete's",
+        "address": "Downtown Minneapolis",
+        "description": "NBA games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "ST. PAUL VENUES": [
+      {
+        "name": "The Local",
+        "address": "Downtown Minneapolis",
+        "description": "NBA games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Alary's Bar & Barbeque",
+        "address": "St. Paul (near Xcel Energy Center)",
+        "description": "Shows NBA games",
+        "phone": "TBD",
+        "website": "https://www.alarys.com/",
+        "hours": ""
+      },
+      {
+        "name": "Tom Reid's Hockey City Pub",
+        "address": "Near Xcel Energy Center, St. Paul",
+        "description": "Sports bar, NBA games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Obb's Sports Bar & Grill",
+        "address": "St. Paul (5 minutes from downtown)",
+        "description": "NBA games shown",
+        "phone": "TBD",
+        "website": "https://www.obbsbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Joe & Stan's Pub & Grill",
+        "address": "St. Paul",
+        "description": "NBA games available",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Tiffany Sports Lounge",
+        "address": "St. Paul",
+        "description": "Sports bar, NBA games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Wild Bill's Sports Saloon",
+        "address": "St. Paul",
+        "description": "Wall-to-wall HDTVs, NBA games",
+        "phone": "TBD",
+        "website": "https://www.wildbillssportssaloon-stpaul.com/",
+        "hours": ""
+      }
+    ],
+    "BREWERIES SHOWING NBA GAMES": [
+      {
+        "name": "Half Time Rec",
+        "address": "St. Paul (outside city center)",
+        "description": "Historic charm, NBA games on large TVs",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Bricksworth",
+        "address": "North Loop, Minneapolis",
+        "description": "Wolves-inspired brews, watch parties for every Timberwolves game, Detroit-style pizza",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Falling Knife Brewing",
+        "address": "TBD (Minneapolis)",
+        "description": "Timberwolves games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Surly Brewing",
+        "address": "Minneapolis",
+        "description": "Large taproom, shows Timberwolves and NBA games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "NOTES & OBSERVATIONS": [
+      {
+        "name": "Indeed Brewing Company",
+        "address": "Northeast Minneapolis",
+        "description": "Taproom with games, shows sports including NBA",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ]
+  },
+  "NHL": {
+    "Research completed: March 1, 2026": [],
+    "Minnesota Wild": [
+      {
+        "name": "Tom Reid's Hockey City Pub (St. Paul)",
+        "address": "Near Xcel Energy Center, St. Paul",
+        "description": "OFFICIAL Wild bar, named after former North Stars player Tom Reid, closest to Xcel Energy Center",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, official Wild watch party location, all Wild games",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "The Rabbit Hole",
+        "address": "Near Minneapolis Sculpture Garden (North Loop)",
+        "description": "Official Wild watch party hotspot",
+        "phone": "TBD",
+        "website": "https://www.therabbitholemn.com/",
+        "hours": ""
+      },
+      {
+        "name": "Truck Park",
+        "address": "Near Xcel Energy Center, St. Paul (down the block from Tom Reid's)",
+        "description": "Solid for watching Wild games and drinking, near arena",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Mac's Industrial Sports Bar & Grill",
+        "address": "Northeast Minneapolis",
+        "description": "NE Minneapolis sports bar, Wild games shown",
+        "phone": "TBD",
+        "website": "https://macsindustrial.com/",
+        "hours": ""
+      },
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Wild games shown on multiple screens",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Wildcats Bar & Grill",
+        "address": "TBD",
+        "description": "Top Wild watch party location according to GameWatch.info",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Outpost",
+        "address": "TBD",
+        "description": "Popular Wild watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Willy McCoy's",
+        "address": "TBD",
+        "description": "Popular Wild bar according to GameWatch.info",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "The Local",
+        "address": "Downtown Minneapolis",
+        "description": "Wild games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Jackson's Hole Bar & Grill",
+        "address": "106 N 3rd St, Minneapolis, MN 55401",
+        "description": "All Wild games",
+        "phone": "(612) 343-5930",
+        "website": "Facebook - Jackson's Hole MPLS",
+        "hours": ""
+      },
+      {
+        "name": "The Loon Cafe",
+        "address": "500 1st Ave N, Minneapolis, MN 55403",
+        "description": "Wild games shown",
+        "phone": "(612) 332-8342",
+        "website": "https://www.looncafe.com/minneapolis/",
+        "hours": ""
+      }
+    ],
+    "OFFICIAL WILD WATCH BARS": [
+      {
+        "name": "Day Block Brewing Company",
+        "address": "1105 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Wild games on request",
+        "phone": "(612) 617-7793",
+        "website": "https://www.dayblockbrewing.com/",
+        "hours": ""
+      }
+    ],
+    "ALL OTHER NHL TEAMS": [
+      {
+        "name": "(List from NHL.com/Wild/fans/wild-watch-bars)",
+        "address": "",
+        "description": "Official Minnesota Wild Watch Bar list available at NHL.com/wild site",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+        "description": "100+ screens, NHL Center Ice package, shows all NHL games on request",
+        "phone": "(612) 430-6113",
+        "website": "https://tomswatchbar.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Crooked Pint Ale House",
+        "address": "501 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Will show requested NHL games",
+        "phone": "(612) 877-6900",
+        "website": "https://www.crookedpint.com/locations/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings (Multiple Locations)",
+        "address": "Multiple Minneapolis locations",
+        "description": "NHL Center Ice package, all games available",
+        "phone": "Varies by location",
+        "website": "https://www.buffalowildwings.com/locations/us/mn/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Mac's Industrial Sports Bar & Grill",
+        "address": "Northeast Minneapolis",
+        "description": "NE Minneapolis location, NHL games shown",
+        "phone": "TBD",
+        "website": "https://macsindustrial.com/",
+        "hours": ""
+      },
+      {
+        "name": "Jackson's Hole Bar & Grill",
+        "address": "106 N 3rd St, Minneapolis, MN 55401",
+        "description": "Will show requested NHL games",
+        "phone": "(612) 343-5930",
+        "website": "Facebook - Jackson's Hole MPLS",
+        "hours": ""
+      },
+      {
+        "name": "The Loon Cafe",
+        "address": "500 1st Ave N, Minneapolis, MN 55403",
+        "description": "Shows NHL games on multiple screens",
+        "phone": "(612) 332-8342",
+        "website": "https://www.looncafe.com/minneapolis/",
+        "hours": ""
+      },
+      {
+        "name": "Day Block Brewing Company",
+        "address": "1105 S Washington Ave, Minneapolis, MN 55415",
+        "description": "Will show NHL games on request",
+        "phone": "(612) 617-7793",
+        "website": "https://www.dayblockbrewing.com/",
+        "hours": ""
+      },
+      {
+        "name": "Blarney's Pub (University of Minnesota area)",
+        "address": "Near University of Minnesota campus",
+        "description": "Good for watching hockey (any teams), fan-friendly",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Burrito Loco (University of Minnesota area)",
+        "address": "Near University of Minnesota campus",
+        "description": "Multiple TVs, fans of all teams, cheap prices, hockey games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "The Library Bar (University of Minnesota area)",
+        "address": "Near University of Minnesota campus",
+        "description": "Older crowd (strict 21+), hockey games shown, cheap prices",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Kieran's Irish Pub",
+        "address": "Downtown Minneapolis",
+        "description": "NHL games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Lyon's Pub",
+        "address": "Downtown Minneapolis",
+        "description": "NHL games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Gluek's Restaurant & Bar",
+        "address": "Downtown Minneapolis",
+        "description": "NHL games available",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "ST. PAUL VENUES": [
+      {
+        "name": "Cowboy Jack's",
+        "address": "TBD (Minneapolis - multiple locations possible)",
+        "description": "Sports bar chain, NHL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Tom Reid's Hockey City Pub",
+        "address": "Near Xcel Energy Center, St. Paul",
+        "description": "THE hockey bar in Twin Cities, named after Tom Reid (former North Stars)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Truck Park",
+        "address": "Down the block from Tom Reid's, St. Paul",
+        "description": "Near Xcel, Wild watch parties",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Alary's Bar & Barbeque",
+        "address": "St. Paul (near Xcel Energy Center)",
+        "description": "Shows NHL games, shuttles to Xcel events",
+        "phone": "TBD",
+        "website": "https://www.alarys.com/",
+        "hours": ""
+      },
+      {
+        "name": "Obb's Sports Bar & Grill",
+        "address": "St. Paul (5 minutes from downtown)",
+        "description": "NHL games shown",
+        "phone": "TBD",
+        "website": "https://www.obbsbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Joe & Stan's Pub & Grill",
+        "address": "St. Paul",
+        "description": "NHL games available",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Tiffany Sports Lounge",
+        "address": "St. Paul",
+        "description": "Sports bar, NHL games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Wild Bill's Sports Saloon",
+        "address": "St. Paul",
+        "description": "Wall-to-wall HDTVs, NHL games",
+        "phone": "TBD",
+        "website": "https://www.wildbillssportssaloon-stpaul.com/",
+        "hours": ""
+      },
+      {
+        "name": "Half Time Rec",
+        "address": "St. Paul (outside city center)",
+        "description": "Historic charm, NHL games on large TVs",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Pillbox Tavern",
+        "address": "St. Paul",
+        "description": "Sports bar, NHL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Nickel Sports Bar",
+        "address": "St. Paul",
+        "description": "NHL games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "The Dugout Bar",
+        "address": "St. Paul",
+        "description": "Sports bar, NHL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "BREWERIES SHOWING NHL GAMES": [
+      {
+        "name": "Stadium Bar And Grill",
+        "address": "St. Paul",
+        "description": "NHL games shown",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Surly Brewing",
+        "address": "Minneapolis",
+        "description": "Large taproom, shows Wild and NHL games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "NOTES & OBSERVATIONS": [
+      {
+        "name": "Indeed Brewing Company",
+        "address": "Northeast Minneapolis",
+        "description": "Taproom with games, shows sports including NHL",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,1552 @@
+{
+  "NFL": {
+    "New England Patriots": [
+      {
+        "name": "Sullivan's Tap",
+        "address": "168 Canal St, Boston, MA 02114",
+        "description": "Boston's oldest sports bar (est. 1933), dive bar atmosphere, no food served, near TD Garden, 26.2-mile-long bar",
+        "phone": "(617) 523-1177",
+        "website": "https://www.sullivanstapboston.com",
+        "hours": ""
+      },
+      {
+        "name": "Cask 'n Flagon",
+        "address": "62 Brookline Ave, Boston, MA 02215",
+        "description": "Legendary Fenway hangout, outdoor patio, upscale bar snacks, near Green Monster",
+        "phone": "(617) 536-4840",
+        "website": "https://casknflagon.com",
+        "hours": ""
+      },
+      {
+        "name": "Game On!",
+        "address": "82 Lansdowne St, Boston, MA 02215",
+        "description": "Connected to Fenway Park, arcade-style sports bar, ping pong and batting cages downstairs",
+        "phone": "Phone not listed",
+        "website": "https://www.gameonboston.com",
+        "hours": ""
+      }
+    ],
+    "Arizona Cardinals": [
+      {
+        "name": "The Harp",
+        "address": "85 Causeway St, Boston, MA 02114",
+        "description": "Irish-accented sports bar, across from TD Garden, 30+ years in business, sister location at Patriot Place",
+        "phone": "Phone not listed",
+        "website": "https://harpboston.com",
+        "hours": ""
+      }
+    ],
+    "Atlanta Falcons": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Cardinals bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Baltimore Ravens": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Falcons bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Buffalo Bills": [
+      {
+        "name": "Causeway (area bars)",
+        "address": "Causeway Street area, Boston, MA",
+        "description": "Per Reddit, Ravens fans meet at Causeway Street bars",
+        "phone": "Various",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "The Harp",
+        "address": "85 Causeway St, Boston, MA 02114",
+        "description": "Known Bills bar per Reddit users (though primarily a Pats bar)",
+        "phone": "Phone not listed",
+        "website": "https://harpboston.com",
+        "hours": ""
+      }
+    ],
+    "Carolina Panthers": [
+      {
+        "name": "Bills bar (specific name TBD)",
+        "address": "TBD",
+        "description": "2ndHomeSports lists a dedicated Bills bar in Boston - requires page fetch",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Chicago Bears": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Panthers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Cincinnati Bengals": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Bears bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Cleveland Browns": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Bengals bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Dallas Cowboys": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Browns bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Sports Grille Boston",
+        "address": "Canal Street, Boston, MA",
+        "description": "Where Cowboys fans in Boston watch games per Tripadvisor",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "The Point",
+        "address": "147 Hanover St, Boston, MA 02108",
+        "description": "Fun, laid-back vibe per Yelp reviews",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Game On Fenway",
+        "address": "82 Lansdowne St, Boston, MA 02215",
+        "description": "GameWatch lists as Cowboys watch party location",
+        "phone": "Phone not listed",
+        "website": "https://www.gameonboston.com",
+        "hours": ""
+      }
+    ],
+    "Denver Broncos": [
+      {
+        "name": "M.J. O'Connor's",
+        "address": "27 Columbus Ave, Boston, MA",
+        "description": "Cowboys watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Detroit Lions": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Broncos bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Green Bay Packers": [
+      {
+        "name": "Scores",
+        "address": "166 Canal St, Boston, MA 02114",
+        "description": "Listed as Lions bar location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Houston Texans": [
+      {
+        "name": "Packers bar (specific name TBD)",
+        "address": "TBD",
+        "description": "2ndHomeSports lists a dedicated Packers bar - requires page fetch",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Indianapolis Colts": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Texans bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Jacksonville Jaguars": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Colts bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Kansas City Chiefs": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Jaguars bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Las Vegas Raiders": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Chiefs bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Chargers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Raiders bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Rams": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Chargers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Miami Dolphins": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Rams bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Minnesota Vikings": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Dolphins bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New Orleans Saints": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Vikings bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New York Giants": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Saints bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New York Jets": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Giants bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Eagles": [
+      {
+        "name": "M.J. O'Connor's",
+        "address": "27 Columbus Ave, Boston, MA",
+        "description": "Best Jets bar per GameWatch, full game sound, fan club location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Steelers": [
+      {
+        "name": "Eagles bar (specific name TBD)",
+        "address": "TBD",
+        "description": "2ndHomeSports lists dedicated Eagles bar - requires page fetch",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Cityside Bar",
+        "address": "TBD",
+        "description": "Top Steelers bar per GameWatch",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Sunset Cantina",
+        "address": "TBD",
+        "description": "Steelers watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "San Francisco 49ers": [
+      {
+        "name": "Yinz in Boston (organizes events)",
+        "address": "Various locations",
+        "description": "Official Steelers/Penguins/Pirates fan organization in New England, organizes watch parties",
+        "phone": "N/A",
+        "website": "https://www.yinzinboston.com",
+        "hours": ""
+      }
+    ],
+    "Seattle Seahawks": [
+      {
+        "name": "The Point Boston",
+        "address": "147 Hanover St, Boston, MA 02108",
+        "description": "Official home of 49ers Faithful Of Boston fan club",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Buccaneers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "2ndHomeSports may have listing - requires search",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Tennessee Titans": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Buccaneers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Washington Commanders": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Titans bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "RESEARCH NOTES": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Commanders bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ]
+  },
+  "MLB": {
+    "Boston Red Sox": [
+      {
+        "name": "Bleacher Bar",
+        "address": "82A Lansdowne St, Boston, MA 02215",
+        "description": "Located INSIDE Fenway Park beneath center field seats, window overlooks right field, closes during games but view always has baseball magic",
+        "phone": "TBD",
+        "website": "https://www.bleacherbarboston.com",
+        "hours": ""
+      },
+      {
+        "name": "Cask 'n Flagon",
+        "address": "62 Brookline Ave, Boston, MA 02215",
+        "description": "Legendary Fenway hangout in shadow of Green Monster, multi-generational crowds, outdoor patio, upscale bar snacks",
+        "phone": "(617) 536-4840",
+        "website": "https://casknflagon.com",
+        "hours": ""
+      },
+      {
+        "name": "Game On!",
+        "address": "82 Lansdowne St, Boston, MA 02215",
+        "description": "Connected to Fenway Park, pre/post-game crowds, arcade features, Max and Leo's pizzas",
+        "phone": "Phone not listed",
+        "website": "https://www.gameonboston.com",
+        "hours": ""
+      },
+      {
+        "name": "Lansdowne Pub",
+        "address": "9 Lansdowne St, Boston, MA 02215",
+        "description": "Irish-inspired bar near Fenway, cozy ambiance, Irish fare, shepherd's pie, New England seafood stew",
+        "phone": "(617) 247-1222",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "The Burren (sister pub: The Bebop)",
+        "address": "Somerville, MA (0.5 miles from Fenway)",
+        "description": "Popular Irish pub, good Guinness and food per Reddit",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Brickhouse Sports Pub",
+        "address": "TBD (appears in multiple cities)",
+        "description": "Listed as top Red Sox bar on GameWatch",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Batter'd & Fried",
+        "address": "TBD",
+        "description": "Popular Red Sox watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Arizona Diamondbacks": [
+      {
+        "name": "BOXCAR",
+        "address": "TBD",
+        "description": "Popular Red Sox watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Atlanta Braves": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated D-backs bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Baltimore Orioles": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Braves bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Chicago Cubs": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Orioles bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Chicago White Sox": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Cubs bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Cincinnati Reds": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated White Sox bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Cleveland Guardians": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Reds bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Colorado Rockies": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Guardians bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Detroit Tigers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Rockies bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Houston Astros": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Tigers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Kansas City Royals": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Astros bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Angels": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Royals bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Dodgers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Angels bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Miami Marlins": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Dodgers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Milwaukee Brewers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Marlins bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Minnesota Twins": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Brewers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New York Mets": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Twins bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New York Yankees": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Mets bar found in initial research (check GameWatch)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Oakland Athletics": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Yankees bar found in initial research (likely exists given rivalry)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Phillies": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated A's bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Pirates": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Phillies bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "San Diego Padres": [
+      {
+        "name": "Yinz in Boston organizes events",
+        "address": "Various locations",
+        "description": "Official Pittsburgh sports fan organization, organizes Pirates watch parties",
+        "phone": "N/A",
+        "website": "https://www.yinzinboston.com",
+        "hours": ""
+      }
+    ],
+    "San Francisco Giants": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Padres bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Seattle Mariners": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Giants bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "St. Louis Cardinals": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Mariners bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Rays": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Cardinals bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Texas Rangers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Rays bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Toronto Blue Jays": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Rangers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Washington Nationals": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Blue Jays bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "RESEARCH NOTES": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Nationals bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ]
+  },
+  "NBA": {
+    "Boston Celtics": [
+      {
+        "name": "Sullivan's Tap",
+        "address": "168 Canal St, Boston, MA 02114",
+        "description": "Boston's oldest sports bar (1933), iconic Celtics pregame spot, dive bar atmosphere, near TD Garden",
+        "phone": "(617) 523-1177",
+        "website": "https://www.sullivanstapboston.com",
+        "hours": ""
+      },
+      {
+        "name": "Banners Kitchen & Tap",
+        "address": "82 Causeway St, Boston, MA 02114",
+        "description": "Named after championship banners, next to TD Garden, 40-foot screen, 60 TVs, named after the team's banners",
+        "phone": "TBD",
+        "website": "https://www.bannerskitchenandtap.com",
+        "hours": ""
+      },
+      {
+        "name": "The Harp",
+        "address": "85 Causeway St, Boston, MA 02114",
+        "description": "Across from TD Garden, 30+ year institution for Celtics fans",
+        "phone": "Phone not listed",
+        "website": "https://harpboston.com",
+        "hours": ""
+      },
+      {
+        "name": "The Greatest Bar",
+        "address": "262 Friend St, Boston, MA 02114",
+        "description": "Amazing setup for games, two levels of stadium seating, great food, near TD Garden",
+        "phone": "TBD",
+        "website": "https://thegreatestbar.com",
+        "hours": ""
+      },
+      {
+        "name": "Parlor Sports",
+        "address": "1 Beacon St, Somerville, MA",
+        "description": "Hands-down best bar for basketball nerds, multiple Best of Boston awards, outstanding game-time food",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Hurricane's (Hurricane O'Reilly's)",
+        "address": "150 Canal St, Boston, MA 02114",
+        "description": "High energy Celtics watch party atmosphere, Causeway Street location",
+        "phone": "TBD",
+        "website": "https://hurricanesboston.com",
+        "hours": ""
+      },
+      {
+        "name": "The Blackmore (Charlestown)",
+        "address": "Charlestown, Boston, MA",
+        "description": "Removed from TD Garden chaos but still great Celtics atmosphere per Reddit",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Coogan's",
+        "address": "Near TD Garden",
+        "description": "Real local spot, mentioned as authentic Celtics bar",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Jake n JOES Sports Grille - Waltham",
+        "address": "Waltham, MA",
+        "description": "Top Celtics bar per GameWatch",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Brack's Grille & Tap",
+        "address": "TBD",
+        "description": "Popular Celtics watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Libby's Bar & Grill",
+        "address": "TBD",
+        "description": "Popular Celtics watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Cheers",
+        "address": "84 Beacon St, Beacon Hill, Boston, MA",
+        "description": "Famous bar that also shows Celtics games",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Atlanta Hawks": [
+      {
+        "name": "Brick & Beam",
+        "address": "705 Adams St, Quincy, MA",
+        "description": "Celtics watch party location outside Boston proper",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Brooklyn Nets": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Hawks bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Charlotte Hornets": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Nets bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Chicago Bulls": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Hornets bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Cleveland Cavaliers": [
+      {
+        "name": "Tripoli Tavern (Chicago-based)",
+        "address": "Chicago, IL",
+        "description": "GameWatch references Tripoli as Celtics bar in Chicago (reverse search insight)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Dallas Mavericks": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Cavaliers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Denver Nuggets": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Mavericks bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Detroit Pistons": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Nuggets bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Golden State Warriors": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Pistons bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Houston Rockets": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Warriors bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Indiana Pacers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Rockets bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Clippers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Pacers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Lakers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Clippers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Memphis Grizzlies": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Lakers bar found (surprising given popularity)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Miami Heat": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Grizzlies bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Milwaukee Bucks": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Heat bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Minnesota Timberwolves": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Bucks bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New Orleans Pelicans": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Timberwolves bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New York Knicks": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Pelicans bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Oklahoma City Thunder": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Knicks bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Orlando Magic": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Thunder bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Philadelphia 76ers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Magic bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Phoenix Suns": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated 76ers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Portland Trail Blazers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Suns bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Sacramento Kings": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Trail Blazers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "San Antonio Spurs": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Kings bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Toronto Raptors": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Spurs bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Utah Jazz": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Raptors bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Washington Wizards": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Jazz bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "RESEARCH NOTES": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Wizards bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ]
+  },
+  "NHL": {
+    "Boston Bruins": [
+      {
+        "name": "Sullivan's Tap",
+        "address": "168 Canal St, Boston, MA 02114",
+        "description": "Boston's oldest sports bar (1933), dive bar with special place in Bruins fans' hearts, 26.2-mile-long bar, no food, near TD Garden",
+        "phone": "(617) 523-1177",
+        "website": "https://www.sullivanstapboston.com",
+        "hours": ""
+      },
+      {
+        "name": "Banners Kitchen & Tap",
+        "address": "82 Causeway St, Boston, MA 02114",
+        "description": "At Hub on Causeway next to TD Garden, 60 TVs, 40-foot screen (biggest in Northeast), 30 rotating beer taps, sophisticated bar food",
+        "phone": "TBD",
+        "website": "https://www.bannerskitchenandtap.com",
+        "hours": ""
+      },
+      {
+        "name": "The Harp",
+        "address": "85 Causeway St, Boston, MA 02114",
+        "description": "Across from TD Garden, 30+ year history, Irish-accented sports bar, dozens of TVs",
+        "phone": "Phone not listed",
+        "website": "https://harpboston.com",
+        "hours": ""
+      },
+      {
+        "name": "Hurricane's (Hurricane O'Reilly's)",
+        "address": "150 Canal St, Boston, MA 02114",
+        "description": "Causeway Street location, high energy atmosphere, Game 7 2011 Stanley Cup tradition",
+        "phone": "TBD",
+        "website": "https://hurricanesboston.com",
+        "hours": ""
+      },
+      {
+        "name": "The Greatest Bar",
+        "address": "262 Friend St, Boston, MA 02114",
+        "description": "Two levels of stadium-style sightlines, near TD Garden, great game atmosphere",
+        "phone": "TBD",
+        "website": "https://thegreatestbar.com",
+        "hours": ""
+      },
+      {
+        "name": "Coogan's",
+        "address": "Near TD Garden",
+        "description": "Local favorite mentioned by Reddit users, dive bar atmosphere",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Sullivan's Tap (listed multiple times as TOP Bruins bar)",
+        "address": "TBD",
+        "description": "Ranks #1 on GameWatch for Bruins bars",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Tupelo",
+        "address": "TBD",
+        "description": "Top Bruins watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "Foxboro Sports Tavern",
+        "address": "Foxboro, MA (south of Boston)",
+        "description": "Popular Bruins bar outside city center",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      },
+      {
+        "name": "SideBar",
+        "address": "14 Bromfield St, Downtown Boston, MA",
+        "description": "Downtown Bruins watch party location",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Anaheim Ducks": [
+      {
+        "name": "Harpoon Brewery (TD Garden location)",
+        "address": "Near TD Garden",
+        "description": "Brewery with harbor views, Zakim views, near TD Garden, great pregame spot",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Arizona Coyotes": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Ducks bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Calgary Flames": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Coyotes bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Carolina Hurricanes": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Flames bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Chicago Blackhawks": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Hurricanes bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Colorado Avalanche": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Blackhawks bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Columbus Blue Jackets": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Avalanche bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Dallas Stars": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Blue Jackets bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Detroit Red Wings": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Stars bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Edmonton Oilers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Red Wings bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Florida Panthers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Oilers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Kings": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Panthers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Minnesota Wild": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Kings bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Montreal Canadiens": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Wild bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Nashville Predators": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Canadiens bar found (surprising given Boston-Montreal rivalry)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New Jersey Devils": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Predators bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New York Islanders": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Devils bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "New York Rangers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Islanders bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Ottawa Senators": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Rangers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Flyers": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Senators bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Penguins": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Flyers bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "San Jose Sharks": [
+      {
+        "name": "Yinz in Boston organizes events",
+        "address": "Various locations",
+        "description": "Official Pittsburgh sports fan organization in Boston, organizes Penguins watch parties",
+        "phone": "N/A",
+        "website": "https://www.yinzinboston.com",
+        "hours": ""
+      }
+    ],
+    "Seattle Kraken": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Sharks bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "St. Louis Blues": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Kraken bar found (newest NHL team)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Lightning": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Blues bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Toronto Maple Leafs": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Lightning bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Vancouver Canucks": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Maple Leafs bar found (surprising given proximity/rivalry)",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Vegas Golden Knights": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Canucks bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Washington Capitals": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Golden Knights bar found",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "Winnipeg Jets": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Capitals bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ],
+    "RESEARCH NOTES": [
+      {
+        "name": "Research needed",
+        "address": "TBD",
+        "description": "No dedicated Jets bar found in initial research",
+        "phone": "TBD",
+        "website": "TBD",
+        "hours": ""
+      }
+    ]
+  }
+}

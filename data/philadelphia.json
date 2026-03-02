@@ -1,0 +1,397 @@
+{
+  "NFL": {
+    "Home Team - Philadelphia Eagles": [],
+    "Arizona Cardinals": [
+      {
+        "name": "Lincoln Financial Field / Any bar in Philadelphia",
+        "address": "Citywide - Eagles games dominate all bars when playing",
+        "description": "Eagles games are shown everywhere. Popular spots include Xfinity Live!, McGillin's Olde Ale House, Tavern on Broad, Starbolt",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Atlanta Falcons": [
+      {
+        "name": "McFadden's Ballpark",
+        "address": "Citizens Bank Park, 1 Citizens Bank Way, Philadelphia, PA 19148",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Baltimore Ravens": [
+      {
+        "name": "City Tap House",
+        "address": "3925 Walnut St, Philadelphia, PA 19104",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Buffalo Bills": [
+      {
+        "name": "Cavanaugh's University City",
+        "address": "119 South 39th St, Philadelphia, PA 19104",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "CJ & Eck's",
+        "address": "384 Shurs Ln, Philadelphia, PA 19128",
+        "description": "Official Bills Backers Philly Burbs meetup location, active fan club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Carolina Panthers": [
+      {
+        "name": "Tir Na Nog",
+        "address": "1600 Arch Street, Philadelphia, PA 19103",
+        "description": "Philadelphia Bills Backers official location, Irish pub atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago Bears": [
+      {
+        "name": "Manayunk Brewery and Restaurant",
+        "address": "4120 Main St, Philadelphia, PA 19127",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cincinnati Bengals": [
+      {
+        "name": "Fado Irish Pub",
+        "address": "1500 Locust St, Philadelphia, PA 19102",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cleveland Browns": [
+      {
+        "name": "Cavanaugh's Rittenhouse",
+        "address": "1823 Sansom St, Philadelphia, PA 19103",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Dallas Cowboys": [
+      {
+        "name": "City Tap House (University City)",
+        "address": "3925 Walnut St, Philadelphia, PA 19104",
+        "description": "Listed in 2014 CBS guide, Reddit mentions \"Jaxx\" as Browns bar (closed down)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Denver Broncos": [
+      {
+        "name": "Manny Brown's Bar and Grill",
+        "address": "512 South St, Philadelphia, PA 19147",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Detroit Lions": [
+      {
+        "name": "McGillin's Olde Ale House",
+        "address": "1310 Drury St, Philadelphia, PA 19107",
+        "description": "Philadelphia's oldest operating tavern (since 1860)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Green Bay Packers": [
+      {
+        "name": "Mac's Tavern",
+        "address": "226 Market St, Philadelphia, PA 19106",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Houston Texans": [
+      {
+        "name": "Brauhaus Schmitz",
+        "address": "718 South St, Philadelphia, PA 19147",
+        "description": "German beer hall atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Indianapolis Colts": [
+      {
+        "name": "Johnny Utah's Country Rock Bar and Saloon",
+        "address": "461 N 3rd St, Philadelphia, PA 19123",
+        "description": "Country-themed sports bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Jacksonville Jaguars": [
+      {
+        "name": "Field House Sports & Beer Hall",
+        "address": "Philadelphia Convention Center, 1150 Filbert St, Philadelphia, PA 19107",
+        "description": "Large venue inside Convention Center",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Kansas City Chiefs": [
+      {
+        "name": "South Philly Bar & Grill",
+        "address": "1235 E. Passyunk Ave, Philadelphia, PA 19147",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Miami Dolphins": [
+      {
+        "name": "Big Charlie's Saloon",
+        "address": "S 11th St, Philadelphia, PA 19148",
+        "description": "\"Arrowhead East\" - has active fan club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Minnesota Vikings": [
+      {
+        "name": "Cuba Libre",
+        "address": "10 S 2nd St, Philadelphia, PA 19106",
+        "description": "Cuban restaurant/bar theme",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New England Patriots": [
+      {
+        "name": "Chickie's & Pete's",
+        "address": "1526 Packer Ave, Philadelphia, PA 19145",
+        "description": "Famous for \"Crabfries\"",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New Orleans Saints": [
+      {
+        "name": "McGillin's Old Ale House",
+        "address": "1310 Drury St, Philadelphia, PA 19107",
+        "description": "Same location as Broncos bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Giants": [
+      {
+        "name": "Prohibition Taproom",
+        "address": "501 N. 13th St, Philadelphia, PA 19123",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Jets": [
+      {
+        "name": "Fox & Hound",
+        "address": "1501 Spruce St, Philadelphia, PA 19102",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Las Vegas Raiders": [
+      {
+        "name": "Revolution House",
+        "address": "200 Market St, Philadelphia, PA 19106",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Steelers": [
+      {
+        "name": "O'Neal's Pub",
+        "address": "611 S. 3rd St, Philadelphia, PA 19147",
+        "description": "Irish pub with sports bar vibe",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Diego Chargers": [
+      {
+        "name": "O'Neals Pub",
+        "address": "611 S 3rd St, Philadelphia, PA 19147",
+        "description": "Steelers Alley fan club location, Irish pub atmosphere with TVs, darts, game nights",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Francisco 49ers": [
+      {
+        "name": "PJ Whelihan's Pub and Restaurant",
+        "address": "799 Dekalb Pike, Blue Bell, PA 19422",
+        "description": "Suburb location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Seattle Seahawks": [
+      {
+        "name": "BarLy",
+        "address": "101 N. 11th St, Philadelphia, PA 19107",
+        "description": "Chinatown location, had NFL Sunday Ticket",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "St. Louis Rams": [
+      {
+        "name": "Mad River Bar & Grill",
+        "address": "4100 Main St, Philadelphia, PA 19127",
+        "description": "Manayunk location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tampa Bay Buccaneers": [
+      {
+        "name": "Kings Oak",
+        "address": "1031 Germantown Ave, Philadelphia, PA 19123",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tennessee Titans": [
+      {
+        "name": "Twenty Manning Grill",
+        "address": "261 S. 20th St, Philadelphia, PA 19103",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Washington Commanders": [
+      {
+        "name": "Misconduct Tavern",
+        "address": "1511 Locust St, Philadelphia, PA 19102",
+        "description": "Listed in 2014 CBS guide",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "Buffalo Billiards",
+        "address": "118 Chestnut St, Philadelphia, PA 19106",
+        "description": "Pool hall/sports bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "MLB": {
+    "Home Team - Philadelphia Phillies": [
+      {
+        "name": "Xfinity Live! (Primary)",
+        "address": "1100 Pattison Ave, Philadelphia, PA 19148",
+        "description": "Official stadium district entertainment complex, top Phillies watch party destination",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Cavanaugh's Headhouse",
+        "address": "421 S 2nd St, Philadelphia, PA 19147",
+        "description": "Popular Phillies watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Chickie's & Pete's",
+        "address": "1526 Packer Ave, Philadelphia, PA 19145",
+        "description": "Famous for Crabfries, near stadium",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "Crow's Nest Restaurant",
+        "address": "TBD",
+        "description": "Listed as popular Phillies bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "NBA": {
+    "Home Team - Philadelphia 76ers": [],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "General Sports Bars (Citywide)",
+        "address": "Various locations throughout Philadelphia",
+        "description": "76ers games are widely shown at sports bars throughout Philadelphia. No single dominant \"Sixers bar\" identified in research.",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "NHL": {
+    "Home Team - Philadelphia Flyers": [],
+    "Teams Without Dedicated Bars": [
+      {
+        "name": "General Sports Bars (Citywide)",
+        "address": "Various locations throughout Philadelphia",
+        "description": "Flyers games are widely shown at any sports bar in Philadelphia during hockey season. No single dominant \"Flyers bar\" identified.",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  }
+}

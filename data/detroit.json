@@ -1,0 +1,1362 @@
+{
+  "NFL": {
+    "Detroit Lions": [
+      {
+        "name": "Nemo's",
+        "address": "1384 Michigan Ave, Detroit, MI 48226",
+        "description": "Iconic Detroit sports bar, compact old-school tavern with Detroit sports memorabilia, famous griddle burgers, shuttles to all Detroit sports games",
+        "phone": "(313) 965-3180",
+        "website": "https://nemosdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Harry's Detroit",
+        "address": "2482 Clifford St, Detroit, MI 48201",
+        "description": "Pre-game staple, covered roof deck, shuttle service to events, two levels with outdoor patio",
+        "phone": "(313) 964-1575",
+        "website": "https://www.harrysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Tommy's Detroit Bar & Grill",
+        "address": "624 3rd Ave, Detroit, MI 48226",
+        "description": "Historic hangout (Underground Railroad history), free shuttle to all Detroit sporting events, iconic Detroit sports moments on walls",
+        "phone": "(313) 965-2269",
+        "website": "https://tommysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "McShane's Irish Pub & Whiskey Bar",
+        "address": "1460 Michigan Ave, Detroit, MI 48216",
+        "description": "Sprawling Corktown bar, international sports focus (soccer/rugby), extensive pub food menu, shuttle to Ford Field",
+        "phone": "(313) 961-1960",
+        "website": "https://mcshanespub.com/",
+        "hours": ""
+      },
+      {
+        "name": "Jacoby's",
+        "address": "624 Brush St, Detroit, MI 48226",
+        "description": "Classic German beer hall since 1904, long beer list for Sunday kickoff",
+        "phone": "(313) 962-7067",
+        "website": "https://jacobysbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Sweetwater Tavern",
+        "address": "400 E Congress St, Detroit, MI 48226",
+        "description": "Famous for marinated wings and housemade sauces",
+        "phone": "(313) 962-2210",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bookies Bar & Grille",
+        "address": "2208 Cass Ave, Detroit, MI 48201",
+        "description": "10-minute walk from Ford Field, three floors with rooftop patio, game day specials",
+        "phone": "(313) 962-0319",
+        "website": "http://www.bookiesbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Parlay Detroit",
+        "address": "1260 Washington Blvd, Detroit, MI 48226",
+        "description": "Owned by former Lions RB Joique Bell, 11,000+ sq ft, cigar lounge, VIP areas, recurring Lions viewing parties",
+        "phone": "(313) 502-5179",
+        "website": "https://www.parlaydetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Gilly's Clubhouse & Rooftop",
+        "address": "1550 Woodward Ave, Detroit, MI 48226",
+        "description": "14,000 sq ft, 120-sq-ft TV wall, rooftop area, mezzanine level, \"Behaving\" and \"Misbehaving\" menu sections",
+        "phone": "(313) 651-7050",
+        "website": "https://www.gillysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Detroit Sports Bar and Grille",
+        "address": "1570 Woodward Ave, Detroit, MI 48226",
+        "description": "15+ beers on draft, walking distance to all stadiums, Detroit City Club Sandwich",
+        "phone": "(313) 672-2073",
+        "website": "https://www.detroitsportsbargrille.com",
+        "hours": ""
+      },
+      {
+        "name": "Anchor Bar",
+        "address": "450 W Fort St, Detroit, MI 48226",
+        "description": "Historic site (FBI raid 1971 for illegal gambling), famous totchos, downtown workers/politicians hangout",
+        "phone": "(313) 964-9127",
+        "website": "http://www.anchorbardetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Ford's Garage Dearborn",
+        "address": "21367 Michigan Ave, Dearborn, MI 48124",
+        "description": "Classic Ford-themed spot, big screens, burgers, lively pre-game crowd",
+        "phone": "(313) 752-3673",
+        "website": "https://fordsgarageusa.com/locations/dearborn/",
+        "hours": ""
+      },
+      {
+        "name": "Tin Roof Detroit",
+        "address": "47 Adams Avenue East, Detroit, MI 48226",
+        "description": "Three floors + outdoor deck, near Comerica Park, great for groups, fantastic views",
+        "phone": "(313) 262-6114",
+        "website": "http://tinroofdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Elwood Bar & Grill",
+        "address": "300 E Adams Ave, Detroit, MI 48226",
+        "description": "Since 1936, Art Moderne architecture, view of Comerica Park, moved in 1997 to make way for baseball park",
+        "phone": "(313) 962-2337",
+        "website": "http://www.elwoodgrill.com",
+        "hours": ""
+      },
+      {
+        "name": "Brass Rail Pizza Bar",
+        "address": "18 West Adams Ave, Detroit, MI 48226",
+        "description": "Downtown location, GameWatch.info ranking #10 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Basement Burger Bar",
+        "address": "1326 Brush Street, Detroit, MI 48226",
+        "description": "Downtown Detroit, GameWatch.info ranking #13 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Firebird Tavern",
+        "address": "Greektown, Detroit",
+        "description": "Great Lions tailgate every home game, hosted MSU Alumni Association games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Suburban Detroit - Lions Bars": [
+      {
+        "name": "The Lockerroom",
+        "address": "Cass Corridor area, Detroit",
+        "description": "Solid sports bar atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Vivio's II Food & Spirits",
+        "address": "3601 Twelve Mile Road, Warren, MI",
+        "description": "GameWatch.info ranking #4 for Lions bars, Warren location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Big League Brews",
+        "address": "20428 Ecorse Road, Taylor, MI",
+        "description": "GameWatch.info ranking #5 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Blarney Stone Pub",
+        "address": "27253 Woodward Avenue, Berkley, MI",
+        "description": "GameWatch.info ranking #6 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Fishbone's West",
+        "address": "29244 Northwestern Highway, Southfield, MI",
+        "description": "GameWatch.info ranking #12 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Captain's",
+        "address": "126 Oak Street, Wyandotte, MI",
+        "description": "GameWatch.info ranking #16 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Oak Cafe",
+        "address": "1167 Oak Street, Wyandotte, MI",
+        "description": "GameWatch.info ranking #17 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Madisons Pub",
+        "address": "15 North Walnut Street, Mount Clemens, MI",
+        "description": "GameWatch.info ranking #18 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Hamlin Pub Shelby",
+        "address": "48929 Hayes Road, Shelby Township, MI",
+        "description": "GameWatch.info ranking #19 for Lions bars, also hosts British soccer watch club",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Vito's Pizzaria",
+        "address": "3962 Fort Street, Lincoln Park, MI",
+        "description": "GameWatch.info ranking #20 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Gilbert's Lodge",
+        "address": "22335 Harper Avenue, St. Clair Shores, MI",
+        "description": "GameWatch.info ranking #21 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Buddies Pub & Grill",
+        "address": "1937 West Grand River Avenue, Okemos, MI",
+        "description": "GameWatch.info ranking #23 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Nuthouse Sports Grill",
+        "address": "420 East Michigan Avenue, Lansing, MI",
+        "description": "GameWatch.info ranking #24 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Out-of-Market NFL Teams": [
+      {
+        "name": "The Fowling Warehouse",
+        "address": "3901 Christopher Street, Hamtramck, MI",
+        "description": "Unique bowling/football hybrid venue, GameWatch.info ranking #25 for Lions bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Chicago Bears - Coaches Corner",
+        "address": "1465 Centre St, Detroit, MI 48226",
+        "description": "Official Bears bar in Detroit",
+        "phone": "(313) 963-4000",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Cincinnati Bengals - Thomas Magee's",
+        "address": "1408 E Fisher Service Drive, Detroit, MI 48207",
+        "description": "English-themed bar, Liverpool FC supporters, Formula 1 races, all Detroit teams coverage",
+        "phone": "(313) 263-4342",
+        "website": "https://thomasmagees.com/",
+        "hours": ""
+      },
+      {
+        "name": "Cleveland Browns - Cheli's Chili Bar",
+        "address": "47 E. Adams, Detroit",
+        "description": "Official Browns bar in Detroit per 2014 list",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Green Bay Packers",
+        "address": "",
+        "description": "No dedicated Packers bar found in Detroit (enemy territory - NFC North rival)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Pittsburgh Steelers",
+        "address": "",
+        "description": "No specific Steelers bar identified in Detroit area",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dallas Cowboys",
+        "address": "",
+        "description": "No specific Cowboys bar identified in Detroit area",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Additional NFL-Friendly Bars": [
+      {
+        "name": "New England Patriots",
+        "address": "",
+        "description": "No specific Patriots bar identified in Detroit area",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings - Downtown Detroit",
+        "address": "1218 Randolph St, Detroit, MI 48226",
+        "description": "Chain location, wall-to-wall TVs, 20+ beers on draft, award-winning wings",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Detroiter Bar",
+        "address": "Detroit, MI",
+        "description": "Classic sports bar vibe, TVs everywhere, saganaki sausage specialty",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tap at MGM Grand Detroit",
+        "address": "MGM Grand Detroit, 1777 Third St, Detroit, MI 48226",
+        "description": "50+ beers on tap, 40+ TVs, breakfast through late night, inside casino",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Rock Bar (Hollywood Casino Greektown)",
+        "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+        "description": "Sports Viewing Lounge, specialty drinks, craft beers",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Sportsbook Restaurant & Bar (Greektown)",
+        "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+        "description": "30-foot video wall, 35 betting kiosks, pub fare, daily specials",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Remaining NFL Teams": [
+      {
+        "name": "MotorCity Casino Sportsbook",
+        "address": "",
+        "description": "Accessible sportsbook, can walk in to watch sports without reservations",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Research Sources": []
+  },
+  "MLB": {
+    "Detroit Tigers": [
+      {
+        "name": "Elwood Bar & Grill",
+        "address": "300 E Adams Ave, Detroit, MI 48226",
+        "description": "Since 1936, Art Moderne architecture, NEXT DOOR to Comerica Park, moved in 1997 to make way for baseball park, ideal Tigers game location",
+        "phone": "(313) 962-2337",
+        "website": "http://www.elwoodgrill.com",
+        "hours": ""
+      },
+      {
+        "name": "Park Bar",
+        "address": "Detroit, MI",
+        "description": "GameWatch.info #1 ranked Tigers bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bookie's Bar & Grille",
+        "address": "2208 Cass Ave, Detroit, MI 48201",
+        "description": "10-minute walk from Comerica Park, three floors with rooftop patio, GameWatch.info #3 Tigers bar",
+        "phone": "(313) 962-0319",
+        "website": "http://www.bookiesbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Tin Roof Detroit",
+        "address": "47 Adams Avenue East, Detroit, MI 48226",
+        "description": "Three full floors + outdoor deck, adjacent to Comerica Park, fantastic views of the ballpark",
+        "phone": "(313) 262-6114",
+        "website": "http://tinroofdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Nemo's",
+        "address": "1384 Michigan Ave, Detroit, MI 48226",
+        "description": "Legendary during \"Roar of '84\" Tigers championship, historic Corktown bar, shuttles to Tigers games",
+        "phone": "(313) 965-3180",
+        "website": "https://nemosdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Hockeytown Cafe",
+        "address": "2301 Woodward Ave, Detroit, MI 48201",
+        "description": "Free parking and shuttles to Tigers, Red Wings, Pistons, and Lions games, Detroit sports memorabilia",
+        "phone": "(313) 471-3400",
+        "website": "hockeytowncafe.com",
+        "hours": ""
+      },
+      {
+        "name": "Harry's Detroit",
+        "address": "2482 Clifford St, Detroit, MI 48201",
+        "description": "Longtime Cass Corridor bar, rooftop deck, shuttles to Tigers games",
+        "phone": "(313) 964-1575",
+        "website": "https://www.harrysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Tommy's Detroit Bar & Grill",
+        "address": "624 3rd Ave, Detroit, MI 48226",
+        "description": "Free shuttle to Tigers games, historic downtown location",
+        "phone": "(313) 965-2269",
+        "website": "https://tommysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Parlay Detroit",
+        "address": "1260 Washington Blvd, Detroit, MI 48226",
+        "description": "Walking distance to Comerica Park, 11,000+ sq ft, sports ticker with latest scores",
+        "phone": "(313) 502-5179",
+        "website": "https://www.parlaydetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Gilly's Clubhouse & Rooftop",
+        "address": "1550 Woodward Ave, Detroit, MI 48226",
+        "description": "120-sq-ft TV wall, three levels, rooftop with views",
+        "phone": "(313) 651-7050",
+        "website": "https://www.gillysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Detroit Sports Bar and Grille",
+        "address": "1570 Woodward Ave, Detroit, MI 48226",
+        "description": "Walking distance to Comerica Park, 15+ beers on draft",
+        "phone": "(313) 672-2073",
+        "website": "https://www.detroitsportsbargrille.com",
+        "hours": ""
+      },
+      {
+        "name": "Anchor Bar",
+        "address": "450 W Fort St, Detroit, MI 48226",
+        "description": "Historic downtown bar, game-day atmosphere",
+        "phone": "(313) 964-9127",
+        "website": "http://www.anchorbardetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "McShane's Irish Pub & Whiskey Bar",
+        "address": "1460 Michigan Ave, Detroit, MI 48216",
+        "description": "Corktown location, extensive pub food menu",
+        "phone": "(313) 961-1960",
+        "website": "https://mcshanespub.com/",
+        "hours": ""
+      }
+    ],
+    "Out-of-Market MLB Teams": [
+      {
+        "name": "Thomas Magee's Sporting House",
+        "address": "1408 E Fisher Service Drive, Detroit, MI 48207",
+        "description": "Eastern Market location, all Detroit teams coverage including Tigers",
+        "phone": "(313) 263-4342",
+        "website": "https://thomasmagees.com/",
+        "hours": ""
+      }
+    ],
+    "Casino Sports Bars": [
+      {
+        "name": "Teams Without Dedicated Detroit Bars (29 teams):",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tap at MGM Grand Detroit",
+        "address": "MGM Grand Detroit, 1777 Third St, Detroit, MI 48226",
+        "description": "50+ beers on tap, 40+ TVs, MLB Extra Innings likely available",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Sportsbook Restaurant & Bar (Greektown)",
+        "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+        "description": "30-foot video wall, can show any MLB game, blocks from Comerica Park",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Rock Bar (Hollywood Casino Greektown)",
+        "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+        "description": "Sports Viewing Lounge with multiple screens",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chain Restaurants": [
+      {
+        "name": "MotorCity Casino Sportsbook",
+        "address": "",
+        "description": "Accessible sportsbook, walk-in friendly for baseball viewing",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings - Downtown Detroit",
+        "address": "1218 Randolph St, Detroit, MI 48226",
+        "description": "Wall-to-wall TVs, MLB Extra Innings package",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dave & Buster's - Livonia",
+        "address": "19375 Victor Parkway, Livonia, MI 48152",
+        "description": "Multiple large screens, arcade + sports bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Additional Tigers-Friendly Bars": [
+      {
+        "name": "Dave & Buster's - Utica",
+        "address": "Utica, MI",
+        "description": "20+ beers, sports viewing throughout",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bookies Bar & Grille",
+        "address": "2208 Cass Ave, Detroit, MI 48201",
+        "description": "Walking distance to Comerica, rooftop patio",
+        "phone": "(313) 962-0319",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Sweetwater Tavern",
+        "address": "400 E Congress St, Detroit, MI 48226",
+        "description": "Famous wings, downtown location",
+        "phone": "(313) 962-2210",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Jacoby's",
+        "address": "624 Brush St, Detroit, MI 48226",
+        "description": "Since 1904, German beer hall, extensive beer list",
+        "phone": "(313) 962-7067",
+        "website": "https://jacobysbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Cutter's Bar & Grill",
+        "address": "2638 Orleans St, Detroit, MI 48207",
+        "description": "Eastern Market location, burgers and steak bites, half dozen TVs",
+        "phone": "(313) 393-0960",
+        "website": "http://www.cuttersdetroit.com/",
+        "hours": ""
+      }
+    ],
+    "Breweries": [
+      {
+        "name": "Andrews on the Corner",
+        "address": "201 Joseph Campau St, Detroit, MI 48207",
+        "description": "Rivertown historic building, Detroit River views, local Atwater taps, several TVs",
+        "phone": "(313) 259-8325",
+        "website": "http://www.andrewsonthecorner.com",
+        "hours": ""
+      },
+      {
+        "name": "Atwater Brewery",
+        "address": "237 Joseph Campau St, Detroit, MI 48207",
+        "description": "Rivertown location near Comerica Park, local craft beer, TVs for games",
+        "phone": "(313) 877-9205",
+        "website": "https://www.atwaterbeer.com",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Market Brewing Company",
+        "address": "Eastern Market, Detroit",
+        "description": "Community-focused taproom, trivia nights, likely shows Tigers games",
+        "phone": "",
+        "website": "https://www.easternmarket.beer",
+        "hours": ""
+      },
+      {
+        "name": "Motor City Brewing Works - Canfield",
+        "address": "Detroit, MI",
+        "description": "Local brewery, sports-friendly atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Research Summary": [
+      {
+        "name": "Batch Brewing Company",
+        "address": "Detroit, MI",
+        "description": "Local craft brewery, game-friendly",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Research Sources": []
+  },
+  "NBA": {
+    "Detroit Pistons": [
+      {
+        "name": "The Greek",
+        "address": "Greektown, Detroit, MI",
+        "description": "GameWatch.info ranked as one of best Pistons bars, Greektown location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Level Two Bar & Rooftop",
+        "address": "Detroit, MI",
+        "description": "GameWatch.info ranked as one of best Pistons bars, rooftop viewing",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Green Lantern Lounge",
+        "address": "Detroit, MI",
+        "description": "GameWatch.info ranked as one of best Pistons bars",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Hockeytown Cafe",
+        "address": "2301 Woodward Ave, Detroit, MI 48201",
+        "description": "Free parking and shuttles to Pistons games at Little Caesars Arena, Detroit sports memorabilia",
+        "phone": "(313) 471-3400",
+        "website": "hockeytowncafe.com",
+        "hours": ""
+      },
+      {
+        "name": "Harry's Detroit",
+        "address": "2482 Clifford St, Detroit, MI 48201",
+        "description": "Next to Little Caesars Arena where Pistons play, two levels, outdoor patio",
+        "phone": "(313) 964-1575",
+        "website": "https://www.harrysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Parlay Detroit",
+        "address": "1260 Washington Blvd, Detroit, MI 48226",
+        "description": "Walking distance to Little Caesars Arena, 11,000+ sq ft, sports ticker",
+        "phone": "(313) 502-5179",
+        "website": "https://www.parlaydetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Gilly's Clubhouse & Rooftop",
+        "address": "1550 Woodward Ave, Detroit, MI 48226",
+        "description": "120-sq-ft TV wall, three levels, rooftop",
+        "phone": "(313) 651-7050",
+        "website": "https://www.gillysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Bookies Bar & Grille",
+        "address": "2208 Cass Ave, Detroit, MI 48201",
+        "description": "10-minute walk from Little Caesars Arena, three floors with rooftop",
+        "phone": "(313) 962-0319",
+        "website": "http://www.bookiesbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Detroit Sports Bar and Grille",
+        "address": "1570 Woodward Ave, Detroit, MI 48226",
+        "description": "Walking distance to Little Caesars Arena, 15+ beers on draft",
+        "phone": "(313) 672-2073",
+        "website": "https://www.detroitsportsbargrille.com",
+        "hours": ""
+      },
+      {
+        "name": "Tommy's Detroit Bar & Grill",
+        "address": "624 3rd Ave, Detroit, MI 48226",
+        "description": "Free shuttle to Pistons games, classic bar food",
+        "phone": "(313) 965-2269",
+        "website": "https://tommysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Nemo's",
+        "address": "1384 Michigan Ave, Detroit, MI 48226",
+        "description": "Detroit sports memorabilia, Corktown location",
+        "phone": "(313) 965-3180",
+        "website": "https://nemosdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Anchor Bar",
+        "address": "450 W Fort St, Detroit, MI 48226",
+        "description": "Historic downtown bar, multiple TVs",
+        "phone": "(313) 964-9127",
+        "website": "http://www.anchorbardetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Thomas Magee's Sporting House",
+        "address": "1408 E Fisher Service Drive, Detroit, MI 48207",
+        "description": "Eastern Market, all Detroit teams on ample screens",
+        "phone": "(313) 263-4342",
+        "website": "https://thomasmagees.com/",
+        "hours": ""
+      }
+    ],
+    "Little Caesars Arena Premium Experiences": [
+      {
+        "name": "McShane's Irish Pub & Whiskey Bar",
+        "address": "1460 Michigan Ave, Detroit, MI 48216",
+        "description": "Corktown bar, extensive pub food, flat-screen TVs",
+        "phone": "(313) 961-1960",
+        "website": "https://mcshanespub.com/",
+        "hours": ""
+      },
+      {
+        "name": "BetRivers Backcourt Club (Inside Arena)",
+        "address": "",
+        "description": "Open-air bar inside NBA arena, exclusive sold-out club",
+        "phone": "313-771-0124",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "CURE Insurance Courtside Club (Inside Arena)",
+        "address": "",
+        "description": "Courtside access, exclusive club",
+        "phone": "313-771-0124",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Post-Game Pistons Bars": [
+      {
+        "name": "Players Club (Inside Arena)",
+        "address": "",
+        "description": "Exclusive sold-out club experience",
+        "phone": "313-771-0124",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Out-of-Market NBA Teams": [
+      {
+        "name": "Cliff Bell's",
+        "address": "Near Little Caesars Arena, Detroit",
+        "description": "Legendary jazz club recommended for date night after Pistons games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Casino Sports Bars": [
+      {
+        "name": "Teams Without Dedicated Detroit Bars (29 teams):",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tap at MGM Grand Detroit",
+        "address": "MGM Grand Detroit, 1777 Third St, Detroit, MI 48226",
+        "description": "50+ beers on tap, 40+ TVs, NBA League Pass likely available",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Sportsbook Restaurant & Bar (Greektown)",
+        "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+        "description": "30-foot video wall, 35 betting kiosks, blocks from Little Caesars Arena",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Rock Bar (Hollywood Casino Greektown)",
+        "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+        "description": "Sports Viewing Lounge with multiple screens",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chain Restaurants": [
+      {
+        "name": "MotorCity Casino Sportsbook",
+        "address": "",
+        "description": "Best casino for watching sports per Reddit, accessible walk-in sportsbook",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings - Downtown Detroit",
+        "address": "1218 Randolph St, Detroit, MI 48226",
+        "description": "Wall-to-wall TVs, NBA League Pass likely available",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dave & Buster's - Livonia",
+        "address": "19375 Victor Parkway, Livonia, MI 48152",
+        "description": "Multiple large screens, UFC and all sports coverage",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Additional Pistons-Friendly Bars": [
+      {
+        "name": "Dave & Buster's - Utica",
+        "address": "Utica, MI",
+        "description": "Sports bar section with 20+ beers",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Elwood Bar & Grill",
+        "address": "300 E Adams Ave, Detroit, MI 48226",
+        "description": "Since 1936, downtown location with multiple TVs",
+        "phone": "(313) 962-2337",
+        "website": "http://www.elwoodgrill.com",
+        "hours": ""
+      },
+      {
+        "name": "Tin Roof Detroit",
+        "address": "47 Adams Avenue East, Detroit, MI 48226",
+        "description": "Three floors, outdoor deck, downtown entertainment district",
+        "phone": "(313) 262-6114",
+        "website": "http://tinroofdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Andrews on the Corner",
+        "address": "201 Joseph Campau St, Detroit, MI 48207",
+        "description": "Rivertown location, several TVs",
+        "phone": "(313) 259-8325",
+        "website": "http://www.andrewsonthecorner.com",
+        "hours": ""
+      },
+      {
+        "name": "Cutter's Bar & Grill",
+        "address": "2638 Orleans St, Detroit, MI 48207",
+        "description": "Eastern Market, half dozen TVs behind bar",
+        "phone": "(313) 393-0960",
+        "website": "http://www.cuttersdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Jacoby's",
+        "address": "624 Brush St, Detroit, MI 48226",
+        "description": "Since 1904, German beer hall atmosphere",
+        "phone": "(313) 962-7067",
+        "website": "https://jacobysbar.com/",
+        "hours": ""
+      }
+    ],
+    "Breweries": [
+      {
+        "name": "Sweetwater Tavern",
+        "address": "400 E Congress St, Detroit, MI 48226",
+        "description": "Famous wings",
+        "phone": "(313) 962-2210",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Atwater Brewery",
+        "address": "237 Joseph Campau St, Detroit, MI 48207",
+        "description": "Rivertown location, TVs for games, local craft beer",
+        "phone": "(313) 877-9205",
+        "website": "https://www.atwaterbeer.com",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Market Brewing Company",
+        "address": "Eastern Market, Detroit",
+        "description": "Community taproom, trivia nights, game-friendly",
+        "phone": "",
+        "website": "https://www.easternmarket.beer",
+        "hours": ""
+      }
+    ],
+    "Greektown Bars": [
+      {
+        "name": "Batch Brewing Company",
+        "address": "Detroit, MI",
+        "description": "Local craft brewery, sports-friendly",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Pegasus Taverna - Greektown",
+        "address": "Greektown Historic District, Detroit",
+        "description": "Greek restaurant/bar with sports viewing",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "MATI",
+        "address": "Greektown, Detroit",
+        "description": "Greektown venue with bar area",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Greek",
+        "address": "Greektown, Detroit",
+        "description": "Top Pistons bar per GameWatch, Greektown location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Delmar",
+        "address": "Greektown, Detroit",
+        "description": "Classy sports bar with large rooftop patio with heaters, Reddit-recommended",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Zorba The Greek Taverna",
+        "address": "Greektown Historic District, Detroit",
+        "description": "Greek restaurant with sports bar elements",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "DraftKings Sports & Social": [
+      {
+        "name": "Golden Fleece Restaurant",
+        "address": "Greektown, Detroit",
+        "description": "Greek restaurant/bar area",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Suburban Options": [
+      {
+        "name": "DraftKings Sports & Social Troy",
+        "address": "2850 Coolidge Highway, Troy, MI 48084",
+        "description": "First DraftKings venue, massive TV wall, betting via app, nightlife with DJs",
+        "phone": "(248) 282-4997",
+        "website": "https://sportsandsocial.com/troy/",
+        "hours": ""
+      },
+      {
+        "name": "24 Seconds Bar & Grill",
+        "address": "Berkley, MI",
+        "description": "Named after NBA shot clock, always shows games, UFC fights, rooftop deck, food/drink discounts for all Detroit games",
+        "phone": "Available",
+        "website": "http://24secondsbar.com/",
+        "hours": ""
+      }
+    ],
+    "Reddit Community Recommendations": [
+      {
+        "name": "Ciccarelli's",
+        "address": "Macomb County, MI",
+        "description": "Biggest TVs, Detroit sports focus",
+        "phone": "",
+        "website": "https://www.ciccarellis-22-sportsbar.com/",
+        "hours": ""
+      }
+    ],
+    "Research Summary": [],
+    "Research Sources": []
+  },
+  "NHL": {
+    "Detroit Red Wings": [
+      {
+        "name": "Hockeytown Cafe",
+        "address": "2301 Woodward Ave, Detroit, MI 48201",
+        "description": "THE premier Red Wings bar, down the street from Little Caesars Arena, Red Wings memorabilia floor to ceiling, custom motorcycles, Red Wings and Tigers hall of fame, free parking and shuttles to games",
+        "phone": "(313) 471-3400",
+        "website": "hockeytowncafe.com",
+        "hours": ""
+      },
+      {
+        "name": "Tipsy McStaggers",
+        "address": "Detroit area",
+        "description": "GameWatch.info #1 ranked Red Wings bar, most popular watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "One-Eyed Betty's",
+        "address": "Detroit/Ferndale area",
+        "description": "GameWatch.info #2 ranked Red Wings bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Honest John's",
+        "address": "Detroit area",
+        "description": "GameWatch.info #3 ranked Red Wings bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Common Pub Detroit",
+        "address": "5440 Cass Ave, Detroit, MI 48202",
+        "description": "Wayne State area, GameWatch.info local rank #6",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Nancy Whiskey Pub",
+        "address": "2644 Harrison St, Detroit, MI 48216",
+        "description": "North Corktown location, GameWatch.info local rank #4",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Marge's Bar and Grill",
+        "address": "15300 Mack Avenue, Grosse Pointe Park, MI 48230",
+        "description": "Green awnings, glowing neon, every inch of wall covered with Red Wings newspapers/history, serving fans since 1966, classic sports bar",
+        "phone": "(313) 881-8895",
+        "website": "http://www.margesbar.com/",
+        "hours": ""
+      },
+      {
+        "name": "Harry's Detroit",
+        "address": "2482 Clifford St, Detroit, MI 48201",
+        "description": "Next to Little Caesars Arena, two levels with outdoor patio, shuttles to Red Wings games",
+        "phone": "(313) 964-1575",
+        "website": "https://www.harrysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Nemo's",
+        "address": "1384 Michigan Ave, Detroit, MI 48226",
+        "description": "Walls filled with Detroit sports memorabilia including Red Wings history, Corktown classic",
+        "phone": "(313) 965-3180",
+        "website": "https://nemosdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Andrews on the Corner",
+        "address": "201 Joseph Campau St, Detroit, MI 48207",
+        "description": "Rivertown historic building (1899), walls decorated with Red Wings history including Stanley Cup moments, Detroit River views",
+        "phone": "(313) 259-8325",
+        "website": "http://www.andrewsonthecorner.com",
+        "hours": ""
+      },
+      {
+        "name": "Tommy's Detroit Bar & Grill",
+        "address": "624 3rd Ave, Detroit, MI 48226",
+        "description": "Iconic Detroit sports moments on walls, free shuttle to Little Caesars Arena",
+        "phone": "(313) 965-2269",
+        "website": "https://tommysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "McShane's Irish Pub & Whiskey Bar",
+        "address": "1460 Michigan Ave, Detroit, MI 48216",
+        "description": "Corktown bar, international sports focus including hockey",
+        "phone": "(313) 961-1960",
+        "website": "https://mcshanespub.com/",
+        "hours": ""
+      },
+      {
+        "name": "Thomas Magee's Sporting House",
+        "address": "1408 E Fisher Service Drive, Detroit, MI 48207",
+        "description": "Eastern Market, elevated pub style, all Detroit teams on ample TV screens",
+        "phone": "(313) 263-4342",
+        "website": "https://thomasmagees.com/",
+        "hours": ""
+      },
+      {
+        "name": "Parlay Detroit",
+        "address": "1260 Washington Blvd, Detroit, MI 48226",
+        "description": "Walking distance to Little Caesars Arena, 11,000+ sq ft, sports ticker",
+        "phone": "(313) 502-5179",
+        "website": "https://www.parlaydetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Gilly's Clubhouse & Rooftop",
+        "address": "1550 Woodward Ave, Detroit, MI 48226",
+        "description": "120-sq-ft TV wall, three levels, rooftop",
+        "phone": "(313) 651-7050",
+        "website": "https://www.gillysdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Bookies Bar & Grille",
+        "address": "2208 Cass Ave, Detroit, MI 48201",
+        "description": "10-minute walk from Little Caesars Arena, three floors with rooftop",
+        "phone": "(313) 962-0319",
+        "website": "http://www.bookiesbar.com/",
+        "hours": ""
+      }
+    ],
+    "Suburban Detroit - Red Wings Bars": [
+      {
+        "name": "Anchor Bar",
+        "address": "450 W Fort St, Detroit, MI 48226",
+        "description": "Historic downtown bar, multiple TVs",
+        "phone": "(313) 964-9127",
+        "website": "http://www.anchorbardetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Red Baron",
+        "address": "2495 Center Rd, Burton, MI 48519",
+        "description": "GameWatch.info local rank #1 for Red Wings (suburban)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Malone's Tavern",
+        "address": "32350 Van Dyke Avenue, Warren, MI",
+        "description": "Red Wings watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Red Ox Tavern - Utica",
+        "address": "45411 Park Avenue, Utica, MI",
+        "description": "Red Wings game watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Ciccarelli's": [
+      {
+        "name": "Penny Black",
+        "address": "124 West 4th Street, Rochester, MI",
+        "description": "Red Wings game watch bar",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Out-of-Market NHL Teams": [],
+    "Casino Sports Bars": [
+      {
+        "name": "Teams Without Dedicated Detroit Bars (31 teams):",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tap at MGM Grand Detroit",
+        "address": "MGM Grand Detroit, 1777 Third St, Detroit, MI 48226",
+        "description": "50+ beers on tap, 40+ TVs, NHL Center Ice likely available",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Sportsbook Restaurant & Bar (Greektown)",
+        "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+        "description": "30-foot video wall, blocks from Little Caesars Arena",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Rock Bar (Hollywood Casino Greektown)",
+        "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+        "description": "Sports Viewing Lounge",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chain Restaurants": [
+      {
+        "name": "MotorCity Casino Sportsbook",
+        "address": "",
+        "description": "Best casino for watching sports per Reddit, accessible walk-in sportsbook",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Buffalo Wild Wings - Downtown Detroit",
+        "address": "1218 Randolph St, Detroit, MI 48226",
+        "description": "Wall-to-wall TVs, NHL Center Ice package",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Dave & Buster's - Livonia",
+        "address": "19375 Victor Parkway, Livonia, MI 48152",
+        "description": "Multiple large screens, all sports packages",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Additional Red Wings-Friendly Bars": [
+      {
+        "name": "Dave & Buster's - Utica",
+        "address": "Utica, MI",
+        "description": "Sports bar section with extensive coverage",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Detroit City Clubhouse",
+        "address": "3401 E Lafayette St, Detroit, MI 48207",
+        "description": "Soccer-focused but shows all Detroit sports, weekdays-only, early brunch during games",
+        "phone": "(313) 656-2480",
+        "website": "https://www.detcityfc.com/club/facilities/clubhouse/",
+        "hours": ""
+      },
+      {
+        "name": "Cutter's Bar & Grill",
+        "address": "2638 Orleans St, Detroit, MI 48207",
+        "description": "Eastern Market, half dozen TVs behind bar",
+        "phone": "(313) 393-0960",
+        "website": "http://www.cuttersdetroit.com/",
+        "hours": ""
+      },
+      {
+        "name": "Elwood Bar & Grill",
+        "address": "300 E Adams Ave, Detroit, MI 48226",
+        "description": "Since 1936, multiple TVs, downtown location",
+        "phone": "(313) 962-2337",
+        "website": "http://www.elwoodgrill.com",
+        "hours": ""
+      },
+      {
+        "name": "Detroit Sports Bar and Grille",
+        "address": "1570 Woodward Ave, Detroit, MI 48226",
+        "description": "Walking distance to Little Caesars Arena",
+        "phone": "(313) 672-2073",
+        "website": "https://www.detroitsportsbargrille.com",
+        "hours": ""
+      },
+      {
+        "name": "Jacoby's",
+        "address": "624 Brush St, Detroit, MI 48226",
+        "description": "Since 1904, German beer hall atmosphere",
+        "phone": "(313) 962-7067",
+        "website": "https://jacobysbar.com/",
+        "hours": ""
+      }
+    ],
+    "Breweries": [
+      {
+        "name": "Sweetwater Tavern",
+        "address": "400 E Congress St, Detroit, MI 48226",
+        "description": "Famous wings, downtown location with TVs",
+        "phone": "(313) 962-2210",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Atwater Brewery",
+        "address": "237 Joseph Campau St, Detroit, MI 48207",
+        "description": "Rivertown location, TVs for Red Wings games, local craft beer",
+        "phone": "(313) 877-9205",
+        "website": "https://www.atwaterbeer.com",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Market Brewing Company",
+        "address": "Eastern Market, Detroit",
+        "description": "Community taproom, likely shows Red Wings games",
+        "phone": "",
+        "website": "https://www.easternmarket.beer",
+        "hours": ""
+      },
+      {
+        "name": "Motor City Brewing Works - Canfield",
+        "address": "Detroit, MI",
+        "description": "Local brewery, Detroit sports-friendly",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Batch Brewing Company",
+        "address": "Detroit, MI",
+        "description": "Local craft brewery, sports-friendly atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "DraftKings Sports & Social": [
+      {
+        "name": "Urbanrest Brewing",
+        "address": "Detroit, MI",
+        "description": "Local brewery with games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Research Summary": [
+      {
+        "name": "DraftKings Sports & Social Troy",
+        "address": "2850 Coolidge Highway, Troy, MI 48084",
+        "description": "First DraftKings Sports & Social venue adjacent to Somerset Collection, massive wall of TV screens, bright lighting, betting via DraftKings app",
+        "phone": "(248) 282-4997",
+        "website": "https://sportsandsocial.com/troy/",
+        "hours": ""
+      }
+    ],
+    "Research Sources": []
+  }
+}

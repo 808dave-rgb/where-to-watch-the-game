@@ -1,0 +1,669 @@
+{
+  "NFL": {
+    "Houston Texans": [
+      {
+        "name": "Multiple Official Locations",
+        "address": "Various locations (see Texans official website for themed away game watch parties)",
+        "description": "Official watch parties at different area bars, includes appearances by cheerleaders and team legends, free specialty cocktail for first 100 fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Decoy",
+        "address": "TBD (pickleball venue)",
+        "description": "Live DJ before/after games, bounce house for kids, drink specials",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Pitch 25",
+        "address": "TBD",
+        "description": "Soccer-themed but great for all sports, screens everywhere with sound on for games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "Downtown Houston",
+        "description": "Wall-to-wall TVs with coverage of Texans, sound zones for biggest games. Official away-game HQ when Rockets are on road",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Social Beer Garden",
+        "address": "3101 San Jacinto St (Midtown)",
+        "description": "Gameday destination for all major sports including Texans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "T-Bones Sports Pub",
+        "address": "1971 W T C Jester Blvd, Houston, TX 77008",
+        "description": "No-frills sports bar with numerous TVs, crawfish and comfort food",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "St. Arnold's Brewery",
+        "address": "TBD",
+        "description": "Mentioned as good Texans watch party spot",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Kirby Ice House",
+        "address": "TBD",
+        "description": "Popular Texans watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Little Woodrow's (Multiple Locations)",
+        "address": "Various Houston locations",
+        "description": "Multiple locations host Texans games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Christian's Tailgate (Multiple Locations)",
+        "address": "2000 Bagby St #105/106, Houston (Midtown) and other locations",
+        "description": "Multiple locations, deals on food and drink for Texans games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Biggio's",
+        "address": "Downtown Houston area",
+        "description": "Sports bar near downtown",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Tennessee Titans": [
+      {
+        "name": "Frost Town Brewing",
+        "address": "TBD",
+        "description": "Kid-friendly, hosts watch parties including Super Bowl",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Kansas City Chiefs": [
+      {
+        "name": "TBD",
+        "address": "TBD",
+        "description": "Facebook group exists (Tennessee Titans Fans in Houston) but no specific bar confirmed",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Las Vegas Raiders": [
+      {
+        "name": "Little Woodrow's Midtown",
+        "address": "2306 Brazos St, Houston",
+        "description": "Home to Houston KC Chiefs Fans watch parties",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Los Angeles Chargers": [
+      {
+        "name": "Texas T Tavern",
+        "address": "1535 Brittmoore Rd, Houston, TX 77043 (Northwest Houston)",
+        "description": "Home of Space City Raider Nation (established 2014)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Denver Broncos": [
+      {
+        "name": "Velvet Oak Tavern",
+        "address": "2221 W Alabama St, Houston (Near Montrose)",
+        "description": "H-Town Bolt Gang hosts watch parties here",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New England Patriots": [
+      {
+        "name": "Hugh O'Connors",
+        "address": "7620 Katy Fwy #350, Houston (Spring Branch East)",
+        "description": "Houston Denver Broncos Fans club founded 2013, fish and chips available",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Buffalo Bills": [
+      {
+        "name": "Cactus Cove",
+        "address": "3333 W 11th St, Houston (Lazybrook/Timbergrove)",
+        "description": "Patriots fan club dating back to 2006, serves seafood, burgers, Tex Mex",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Miami Dolphins": [
+      {
+        "name": "Christians Tailgate Bar & Grill",
+        "address": "2000 Bagby St #105/106, Houston (Midtown)",
+        "description": "Home of Houston Bills Backers",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Jets": [
+      {
+        "name": "TBD",
+        "address": "TBD",
+        "description": "Facebook group \"Houston Fins Up\" exists for connecting fans",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Pittsburgh Steelers": [
+      {
+        "name": "Christians Tailgate Bar & Grill",
+        "address": "1010 Hwy 6, Houston (Energy Corridor)",
+        "description": "Houston Jets Fans watch parties (club since 2011)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Baltimore Ravens": [
+      {
+        "name": "Frank N Stein's Bar & Grill",
+        "address": "9907 S Texas 6, Sugar Land",
+        "description": "Hwy SixBurgh Steelers Nation watch parties",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Cleveland Browns": [
+      {
+        "name": "Christians Tailgate Bar & Grill",
+        "address": "2820 White Oak Dr, Houston (Near Woodland Heights)",
+        "description": "Ravens Roost 610 watch parties",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Ducky McShweeney's Pub",
+        "address": "2025 Post Oak Blvd, Houston",
+        "description": "Space City Dawg Pound (Browns Backers Chapter #117, 331 members)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Stats Sports Bar & Grill",
+        "address": "10850 Louetta Rd Ste 1700, Houston",
+        "description": "Space City Dawg Pound meetup location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Philadelphia Eagles": [
+      {
+        "name": "Walk-On's Sports Bistreaux",
+        "address": "1000 Outpost Dr, Conroe",
+        "description": "Space City Dawg Pound meetup location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Dallas Cowboys": [
+      {
+        "name": "Patterson Park Patio Bar",
+        "address": "2205 Patterson St (Washington Avenue Coalition/Memorial Park)",
+        "description": "Houston Eagles Nest (since 2003) watch parties",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New York Giants": [
+      {
+        "name": "Various Locations",
+        "address": "Multiple (The Decoy, Little Woodrow's, Big City Wings mentioned)",
+        "description": "Dallas Cowboys Fans Houston (DCFH) hosts watch parties at rotating locations",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Washington Commanders": [
+      {
+        "name": "Little Woodrow's Heights",
+        "address": "2631 White Oak Dr (Woodland Heights)",
+        "description": "New York Giants Fans in Houston gather here",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "San Francisco 49ers": [
+      {
+        "name": "Christians Tailgate Bar & Grill",
+        "address": "5114 Kirby Dr (Near University Place)",
+        "description": "Houston Hails to the Commanders watch parties",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Arizona Cardinals": [
+      {
+        "name": "Social Beer Garden HTX",
+        "address": "3101 San Jacinto St (Midtown)",
+        "description": "Houston Niner Empire meetup location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Seattle Seahawks": [
+      {
+        "name": "TBD",
+        "address": "TBD",
+        "description": "Facebook group \"Arizona Cardinals Birdgang Texas\" exists (statewide)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "New Orleans Saints": [
+      {
+        "name": "Little Woodrow's Heights",
+        "address": "2631 White Oak Dr (Woodland Heights)",
+        "description": "Houston Seahawk Fans watch parties",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Gridiron Bar & Grill",
+        "address": "4524 Hwy 6, Sugar Land",
+        "description": "The Legendary Who Dat Nation Social Club of Missouri City headquarters",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Green Bay Packers": [
+      {
+        "name": "Ace of Clubs Sports Lounge",
+        "address": "3230 S Main St, Stafford",
+        "description": "Who Dat Nation meetup location, also Facebook group \"Hou Dat! Saints Fans of Houston\"",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Bigs Sports Bar (BIGGles Lounge Sports Cafe)",
+        "address": "6150 Wilcrest Dr (Near Westchase)",
+        "description": "CheddarHead Pack of Houston (since 1997 Super Bowl season)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Big City Wings",
+        "address": "5324 Atascocita Road, Humble",
+        "description": "CheddarHead Pack watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Chicago Bears": [
+      {
+        "name": "Timeout Sports Bar #4",
+        "address": "3338 E FM528 Rd, Friendswood",
+        "description": "CheddarHead Pack watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Detroit Lions": [
+      {
+        "name": "TBD",
+        "address": "TBD",
+        "description": "Facebook group \"Chicago Bears Fans in Houston\" exists",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Minnesota Vikings": [
+      {
+        "name": "Loft18 Houston",
+        "address": "2313 Edwards St Suite #200 (Washington Avenue Coalition/Memorial Park)",
+        "description": "Detroit Lions OnePride hosted watch parties here for Weeks 1 and 2",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Confirmed Bars": [
+      {
+        "name": "Wakefield Crowbar",
+        "address": "954 Wakefield Dr (Central Northwest)",
+        "description": "The Purple Haven Club meetup location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Notes": []
+  },
+  "MLB": {
+    "Houston Astros": [
+      {
+        "name": "8th Wonder Brewery",
+        "address": "TBD",
+        "description": "Showcases Astros games, not primarily a sports bar but good for game viewing",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Biggio's",
+        "address": "Downtown Houston (hotel bar)",
+        "description": "More refined atmosphere, higher prices (hotel bar)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Drift Bar",
+        "address": "TBD",
+        "description": "Great for watching Astros games, has patio",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Tom's Watch Bar",
+        "address": "Downtown Houston",
+        "description": "Shows all MLB games upon request",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Social Beer Garden HTX",
+        "address": "3101 San Jacinto St (Midtown)",
+        "description": "General sports bar showing major games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Highline Park",
+        "address": "TBD",
+        "description": "Indoor bar with good game-watching atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Confirmed Bars": [
+      {
+        "name": "Patterson Park",
+        "address": "2205 Patterson St (Washington Avenue Coalition/Memorial Park)",
+        "description": "Good for watching games with patio",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "American League",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Research Notes": [
+      {
+        "name": "National League",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "NBA": {
+    "Houston Rockets": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "Downtown Houston",
+        "description": "Official away-game HQ when Rockets are on the road, wall-to-wall TVs, also welcomes fans of all NBA teams (Lakers, Warriors, Mavericks, Celtics, etc.)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Little Woodrow's (Multiple Locations)",
+        "address": "Various Houston locations",
+        "description": "Hosts Rockets watch parties for some games, especially big matchups like NBA Cup games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Society Sports and Spirits",
+        "address": "TBD",
+        "description": "Listed as top Rockets bar on GameWatch.info",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Little Woodrow's Babcock",
+        "address": "TBD",
+        "description": "Popular Rockets watch party location",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Lavaca Street Bar",
+        "address": "TBD (Austin-based chain, may have Houston location)",
+        "description": "Listed on GameWatch.info for Rockets games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Nick's Place",
+        "address": "TBD",
+        "description": "Locally owned, ESPN's favorite sports bar in Houston, good for NBA games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Social Beer Garden HTX",
+        "address": "3101 San Jacinto St (Midtown)",
+        "description": "General sports bar showing NBA games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Biggio's",
+        "address": "Downtown Houston (hotel bar)",
+        "description": "Shows NBA games, more upscale atmosphere",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Christian's Tailgate (Multiple Locations)",
+        "address": "Multiple Houston locations",
+        "description": "Shows NBA games, lots of TVs",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Confirmed Dedicated Bars": [
+      {
+        "name": "Buffalo Wild Wings",
+        "address": "Multiple locations",
+        "description": "Chain sports bar, shows all NBA games",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Eastern Conference",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Research Notes": [
+      {
+        "name": "Western Conference",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ]
+  },
+  "NHL": {
+    "Dallas Stars": [
+      {
+        "name": "Tom's Watch Bar",
+        "address": "Downtown Houston",
+        "description": "Official home for Dallas Stars fans in Houston, 360° viewing, full sound, sea of green jerseys celebrating every goal. Also welcomes fans of all NHL teams",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "General NHL Viewing": [
+      {
+        "name": "Social Beer Garden HTX",
+        "address": "3101 San Jacinto St (Midtown)",
+        "description": "Houston's home for all things hockey, hosted Dallas Stars vs Winnipeg Jets opening game watch party",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Maple Leaf Pub",
+        "address": "TBD",
+        "description": "Heavily endorses Social Beer Garden HTX for NHL games via their social media pages",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Decoy",
+        "address": "TBD",
+        "description": "Hosted NHL viewing events, lots of hockey fans gather here",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Doghouse Tavern",
+        "address": "TBD",
+        "description": "Will put hockey games on if requested (when no local game conflicts)",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "The Phoenix",
+        "address": "TBD",
+        "description": "Will show NHL games when soccer isn't on",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Teams Without Confirmed Dedicated Bars": [
+      {
+        "name": "Pitch 25",
+        "address": "TBD",
+        "description": "Soccer-themed venue with many screens, accommodates NHL requests",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Atlantic Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Metropolitan Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      },
+      {
+        "name": "Central Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Research Notes": [
+      {
+        "name": "Pacific Division",
+        "address": "",
+        "description": "",
+        "phone": "",
+        "website": "",
+        "hours": ""
+      }
+    ],
+    "Best Bets for NHL Fans in Houston": [],
+    "GameWatch.info Reference": []
+  }
+}
