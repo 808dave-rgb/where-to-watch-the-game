@@ -1,1685 +1,1688 @@
 {
   "city": "San Diego",
   "total_venues": 119,
+  "venues_with_team_affiliations": 75,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "710 Beach Club",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "710 Garnet Ave., San Diego, CA 92109",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Angry Pete's Pizza",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "710 Garnet Ave., San Diego, CA 92109"
-    },
-    {
-      "id": "venue_2",
-      "name": "Angry Pete's Pizza",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "Kearny Mesa (exact address TBD)",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Arizona Cafe",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Kearny Mesa (exact address TBD)"
-    },
-    {
-      "id": "venue_3",
-      "name": "Arizona Cafe",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "Ocean Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Arizona Café",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Ocean Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_4",
-      "name": "Arizona Café",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Arizona Cardinals"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Ocean Beach, CA (exact address TBD)"
+      "address": "Ocean Beach, CA (exact address TBD)",
+      "notes": "Arizona Cardinals fans gather here"
     },
     {
-      "id": "venue_5",
       "name": "Avenue",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_6",
       "name": "Backyard",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_7",
       "name": "Backyard Kitchen and Tap",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Bare Back Grill",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_8",
-      "name": "Bare Back Grill",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Miami Dolphins"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Pacific Beach (exact address TBD)"
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_9",
       "name": "Barleymash",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)",
-        "General NBA Bars (Show Games But Not Team-Specific)",
-        "Los Angeles Chargers"
-      ],
       "sports": [
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "Gaslamp Quarter"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)",
+        "General Hockey Bars (Show All/Most NHL Games)",
+        "Los Angeles Chargers"
+      ],
+      "address": "Gaslamp Quarter",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_10",
       "name": "Bay Hill Tavern",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "TBD",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_11",
       "name": "Bayside Landing",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Bottle Rocket",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_12",
-      "name": "Bottle Rocket",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "805 16th St., San Diego, CA"
+      "address": "805 16th St., San Diego, CA",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_13",
       "name": "Brewski's Bar & Arcade",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "TBD",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_14",
       "name": "Bub's",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NBA",
+        "NFL"
+      ],
+      "team_affiliations": [
         "General NBA Bars (Show Games But Not Team-Specific)",
         "Pittsburgh Steelers"
       ],
-      "sports": [
-        "NBA",
-        "NFL"
-      ],
-      "address": "Downtown (multiple locations)"
+      "address": "Downtown (multiple locations)",
+      "notes": "General NBA Bars (Show Games But Not Team-Specific) fans gather here"
     },
     {
-      "id": "venue_15",
       "name": "Bub's at the Ballpark",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "TBD",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "Buffalo Wild Wings - Chula Vista",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_16",
-      "name": "Buffalo Wild Wings - Chula Vista",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "555 Broadway #116, Chula Vista, CA"
+      "address": "555 Broadway #116, Chula Vista, CA",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "Bullpen Sports Bar",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Los Angeles Lakers"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Near Convoy"
+      "team_affiliations": [
+        "Los Angeles Lakers"
+      ],
+      "address": "Near Convoy",
+      "notes": "Los Angeles Lakers fans gather here"
     },
     {
-      "id": "venue_18",
       "name": "Cabo Cantina",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Cali BBQ",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_19",
-      "name": "Cali BBQ",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "8910 Troy St., Spring Valley, CA",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "Cardiff Beach Bar at Tower 13",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "8910 Troy St., Spring Valley, CA"
-    },
-    {
-      "id": "venue_20",
-      "name": "Cardiff Beach Bar at Tower 13",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "Encinitas (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Catalina Lounge",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Encinitas (exact address TBD)"
-    },
-    {
-      "id": "venue_21",
-      "name": "Catalina Lounge",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "Ocean Beach (exact address TBD)",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Chief's Burgers and Brew",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Ocean Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_22",
-      "name": "Chief's Burgers and Brew",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "Solana Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Coaster Saloon",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Solana Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_23",
-      "name": "Coaster Saloon",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Arizona Cardinals"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "744 Ventura Place, San Diego, CA"
+      "address": "744 Ventura Place, San Diego, CA",
+      "notes": "Arizona Cardinals fans gather here"
     },
     {
-      "id": "venue_24",
       "name": "Dirty Birds",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Multiple locations (PB, OB, Liberty Station, etc.)"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "Multiple locations (PB, OB, Liberty Station, etc.)",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_25",
       "name": "Dirty Birds - Liberty Station",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Baltimore Ravens"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Liberty Station (exact address TBD)"
+      "team_affiliations": [
+        "Baltimore Ravens"
+      ],
+      "address": "Liberty Station (exact address TBD)",
+      "notes": "Baltimore Ravens fans gather here"
     },
     {
-      "id": "venue_26",
       "name": "Dirty Birds - Ocean Beach",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Baltimore Ravens",
         "Los Angeles Chargers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "1929 Cable St., San Diego, CA 92107"
+      "address": "1929 Cable St., San Diego, CA 92107",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_27",
       "name": "Dirty Birds - Pacific Beach",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Baltimore Ravens"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "4656 Mission Blvd., San Diego, CA 92109"
+      "team_affiliations": [
+        "Baltimore Ravens"
+      ],
+      "address": "4656 Mission Blvd., San Diego, CA 92109",
+      "notes": "Baltimore Ravens fans gather here"
     },
     {
-      "id": "venue_28",
       "name": "Dirty Birds - SDSU College Area",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Baltimore Ravens"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "College Area near SDSU (exact address TBD)"
+      "team_affiliations": [
+        "Baltimore Ravens"
+      ],
+      "address": "College Area near SDSU (exact address TBD)",
+      "notes": "Baltimore Ravens fans gather here"
     },
     {
-      "id": "venue_29",
       "name": "Dirty Birds - UCSD Campus",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Baltimore Ravens"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Near UCSD Campus (exact address TBD)"
+      "team_affiliations": [
+        "Baltimore Ravens"
+      ],
+      "address": "Near UCSD Campus (exact address TBD)",
+      "notes": "Baltimore Ravens fans gather here"
     },
     {
-      "id": "venue_30",
       "name": "East Village Tavern & Bowl",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
+        "Atlanta Falcons",
         "Houston Texans"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "930 Market St., San Diego, CA 92101"
+      "address": "930 Market St., San Diego, CA 92101",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_31",
       "name": "East Village Tavern + Bowl",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Atlanta Falcons"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "930 Market St., San Diego, CA 92101"
+      "team_affiliations": [
+        "Atlanta Falcons",
+        "Houston Texans"
+      ],
+      "address": "930 Market St., San Diego, CA 92101",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_32",
       "name": "El Chingon",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "Gaslamp Quarter (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Elbowroom",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Gaslamp Quarter (exact address TBD)"
-    },
-    {
-      "id": "venue_33",
-      "name": "Elbowroom",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Kearny Mesa (exact address TBD)"
+      "address": "Kearny Mesa (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_34",
       "name": "Fairplay",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NBA Bars (Show Games But Not Team-Specific)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)"
+      ],
+      "address": "TBD",
+      "notes": "General NBA Bars (Show Games But Not Team-Specific) fans gather here"
     },
     {
-      "id": "venue_35",
       "name": "Fast Times",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New Orleans Saints"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3065 Clairemont Drive, San Diego, CA"
+      "team_affiliations": [
+        "New Orleans Saints"
+      ],
+      "address": "3065 Clairemont Drive, San Diego, CA",
+      "notes": "New Orleans Saints fans gather here"
     },
     {
-      "id": "venue_36",
       "name": "Flamingo Deck",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Green Bay Packers",
         "Miami Dolphins"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "4110 Mission Blvd., San Diego, CA 92109"
+      "address": "4110 Mission Blvd., San Diego, CA 92109",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_37",
       "name": "General hockey bars",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Anaheim Ducks",
-        "Los Angeles Kings"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Various"
+      "team_affiliations": [
+        "Anaheim Ducks",
+        "Los Angeles Kings"
+      ],
+      "address": "Various",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_38",
       "name": "Guava Beach",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Denver Broncos",
-        "General NBA Bars (Show Games But Not Team-Specific)"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "Mission Beach (exact address TBD)"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)",
+        "Denver Broncos"
+      ],
+      "address": "Mission Beach (exact address TBD)",
+      "notes": "General NBA Bars (Show Games But Not Team-Specific) fans gather here"
     },
     {
-      "id": "venue_39",
       "name": "Guava Beach (mixed reports)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Los Angeles Lakers"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Mission Beach"
+      "team_affiliations": [
+        "Los Angeles Lakers"
+      ],
+      "address": "Mission Beach",
+      "notes": "Los Angeles Lakers fans gather here"
     },
     {
-      "id": "venue_40",
       "name": "Guava Beach Bar & Grill",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Minnesota Vikings"
       ],
+      "address": "3714 Mission Blvd., San Diego, CA 92109",
+      "notes": "Minnesota Vikings fans gather here"
+    },
+    {
+      "name": "Henry's Pub",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "3714 Mission Blvd., San Diego, CA 92109"
-    },
-    {
-      "id": "venue_41",
-      "name": "Henry's Pub",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Gaslamp Quarter (exact address TBD)"
+      "address": "Gaslamp Quarter (exact address TBD)",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_42",
       "name": "High Dive Bar And Grill",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "TBD",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_43",
       "name": "Home & Away",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NBA Bars (Show Games But Not Team-Specific)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "2222 San Diego Ave., San Diego, CA 92110"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)"
+      ],
+      "address": "2222 San Diego Ave., San Diego, CA 92110",
+      "notes": "General NBA Bars (Show Games But Not Team-Specific) fans gather here"
     },
     {
-      "id": "venue_44",
       "name": "Home and Away",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "2222 San Diego Ave., San Diego, CA 92110",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Hooleys Irish Pub",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "2222 San Diego Ave., San Diego, CA 92110"
-    },
-    {
-      "id": "venue_45",
-      "name": "Hooleys Irish Pub",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "5500 Grossmont Center Drive #277, La Mesa, CA 91942",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "JT's Tavern",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "5500 Grossmont Center Drive #277, La Mesa, CA 91942"
-    },
-    {
-      "id": "venue_46",
-      "name": "JT's Tavern",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Jacksonville Jaguars"
       ],
+      "address": "5821 Mission Gorge Road, San Diego, CA",
+      "notes": "Jacksonville Jaguars fans gather here"
+    },
+    {
+      "name": "Kansas City BBQ",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "5821 Mission Gorge Road, San Diego, CA"
-    },
-    {
-      "id": "venue_47",
-      "name": "Kansas City BBQ",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "Downtown San Diego (exact address TBD)",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Knotty Barrel",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Downtown San Diego (exact address TBD)"
-    },
-    {
-      "id": "venue_48",
-      "name": "Knotty Barrel",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "844 Market St., San Diego, CA 92101",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Latitude 32",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "844 Market St., San Diego, CA 92101"
-    },
-    {
-      "id": "venue_49",
-      "name": "Latitude 32",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Washington Commanders fans gather here"
+    },
+    {
+      "name": "Long Story Irish Pub",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_50",
-      "name": "Long Story Irish Pub",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "4204 Voltaire St., San Diego, CA 92107",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Mavericks Beach Club",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "4204 Voltaire St., San Diego, CA 92107"
-    },
-    {
-      "id": "venue_51",
-      "name": "Mavericks Beach Club",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_52",
       "name": "McGregor's Grill",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NBA Bars (Show Games But Not Team-Specific)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)"
+      ],
+      "address": "TBD",
+      "notes": "General NBA Bars (Show Games But Not Team-Specific) fans gather here"
     },
     {
-      "id": "venue_53",
       "name": "Miss B's Coconut Club",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Green Bay Packers",
         "Indianapolis Colts"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3704 Mission Blvd., San Diego, CA 92109"
+      "address": "3704 Mission Blvd., San Diego, CA 92109",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_54",
       "name": "Moonshine Beach",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "San Francisco 49ers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1165 Garnet Ave., San Diego, CA 92109"
+      "team_affiliations": [
+        "San Francisco 49ers"
+      ],
+      "address": "1165 Garnet Ave., San Diego, CA 92109",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_55",
       "name": "Moonshine Flats",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "San Francisco 49ers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Gaslamp (exact address TBD)"
+      "team_affiliations": [
+        "San Francisco 49ers"
+      ],
+      "address": "Gaslamp (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_56",
       "name": "Multiple Downtown Bars",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "San Diego Padres (Home Team)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Gaslamp Quarter and East Village areas"
+      "team_affiliations": [
+        "San Diego Padres (Home Team)"
+      ],
+      "address": "Gaslamp Quarter and East Village areas",
+      "notes": "San Diego Padres (Home Team) fans gather here"
     },
     {
-      "id": "venue_57",
       "name": "NOLA on 5th",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New Orleans Saints"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3683 Fifth Ave., San Diego, CA"
+      "team_affiliations": [
+        "New Orleans Saints"
+      ],
+      "address": "3683 Fifth Ave., San Diego, CA",
+      "notes": "New Orleans Saints fans gather here"
     },
     {
-      "id": "venue_58",
       "name": "None found",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Carolina Panthers",
         "Tampa Bay Buccaneers",
         "Tennessee Titans"
       ],
-      "sports": [
-        "NFL"
-      ]
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_59",
       "name": "Nunu's Tavern",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "TBD",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_60",
       "name": "Oggi's",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Los Angeles Chargers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Multiple locations"
+      "team_affiliations": [
+        "Los Angeles Chargers"
+      ],
+      "address": "Multiple locations",
+      "notes": "Los Angeles Chargers fans gather here"
     },
     {
-      "id": "venue_61",
       "name": "PB Cantina (potential)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "MLB",
+        "NBA"
+      ],
+      "team_affiliations": [
         "Boston Celtics",
         "Boston Red Sox"
       ],
-      "sports": [
-        "MLB",
-        "NBA"
-      ],
-      "address": "Pacific Beach (exact address TBD)"
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows MLB, NBA games"
     },
     {
-      "id": "venue_62",
       "name": "PB Shore Club",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Pacific Beach AleHouse",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_63",
-      "name": "Pacific Beach AleHouse",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "721 Grand Ave., San Diego, CA 92109",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Patrick's Gaslamp Pub",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "721 Grand Ave., San Diego, CA 92109"
-    },
-    {
-      "id": "venue_64",
-      "name": "Patrick's Gaslamp Pub",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "428 F St., San Diego, CA 92101"
+      "address": "428 F St., San Diego, CA 92101",
+      "notes": "Buffalo Bills fans gather here"
     },
     {
-      "id": "venue_65",
       "name": "Petco Park (Stadium)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "San Diego Padres (Home Team)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "100 Park Blvd, San Diego, CA 92101"
+      "team_affiliations": [
+        "San Diego Padres (Home Team)"
+      ],
+      "address": "100 Park Blvd, San Diego, CA 92101",
+      "notes": "San Diego Padres (Home Team) fans gather here"
     },
     {
-      "id": "venue_66",
       "name": "Players Sports Grill",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "5225 Kearny Villa Road, San Diego, CA",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Pretzels & Pints",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "5225 Kearny Villa Road, San Diego, CA"
-    },
-    {
-      "id": "venue_67",
-      "name": "Pretzels & Pints",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3812 Ray St., San Diego, CA 92104"
+      "address": "3812 Ray St., San Diego, CA 92104",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_68",
       "name": "Pretzels & Pints (potential)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia 76ers",
-        "Philadelphia Flyers",
-        "Philadelphia Phillies"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "3812 Ray St., San Diego, CA 92104"
+      "team_affiliations": [
+        "Philadelphia 76ers",
+        "Philadelphia Phillies",
+        "Philadelphia Flyers"
+      ],
+      "address": "3812 Ray St., San Diego, CA 92104",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_69",
       "name": "Raglan Public House",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Ocean Beach (exact address TBD)"
+      "team_affiliations": [
+        "Miami Dolphins"
+      ],
+      "address": "Ocean Beach (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_70",
       "name": "Redwing Bar & Grill",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NHL"
+      ],
+      "team_affiliations": [
         "Detroit Red Wings",
         "General Hockey Bars (Show All/Most NHL Games)"
       ],
-      "sports": [
-        "NHL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_71",
       "name": "Regal Beagle",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3659 India St., San Diego, CA 92103"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "3659 India St., San Diego, CA 92103",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_72",
       "name": "Regal Seagull",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Minnesota Vikings"
       ],
+      "address": "996 North Coast Highway 101, Encinitas, CA",
+      "notes": "Minnesota Vikings fans gather here"
+    },
+    {
+      "name": "Rip Current Brewing",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "996 North Coast Highway 101, Encinitas, CA"
-    },
-    {
-      "id": "venue_73",
-      "name": "Rip Current Brewing",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Jacksonville Jaguars"
       ],
+      "address": "North Park (exact address TBD)",
+      "notes": "Jacksonville Jaguars fans gather here"
+    },
+    {
+      "name": "Riptides PB",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "North Park (exact address TBD)"
-    },
-    {
-      "id": "venue_74",
-      "name": "Riptides PB",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Rosie O'Grady's",
+      "type": "Sports Bar",
+      "city": "San Diego",
+      "sports": [
+        "NFL",
+        "NHL"
+      ],
+      "team_affiliations": [
+        "Chicago Blackhawks",
+        "General Hockey Bars (Show All/Most NHL Games)",
+        "Chicago Bears"
+      ],
+      "address": "Normal Heights (exact address TBD)",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
+    },
+    {
+      "name": "SD TapRoom",
+      "type": "Sports Bar",
+      "city": "San Diego",
+      "sports": [
+        "NFL",
+        "NHL"
+      ],
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)",
+        "Detroit Lions"
+      ],
+      "address": "Pacific Beach",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
+    },
+    {
+      "name": "San Diego Brewing Co.",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_75",
-      "name": "Rosie O'Grady's",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Bears",
-        "Chicago Blackhawks",
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
-      "sports": [
-        "NFL",
-        "NHL"
-      ],
-      "address": "Normal Heights (exact address TBD)"
-    },
-    {
-      "id": "venue_76",
-      "name": "SD TapRoom",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit Lions",
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
-      "sports": [
-        "NFL",
-        "NHL"
-      ],
-      "address": "Pacific Beach"
-    },
-    {
-      "id": "venue_77",
-      "name": "San Diego Brewing Co.",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Miami Dolphins"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Mission Valley (exact address TBD)"
+      "address": "Mission Valley (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_78",
       "name": "San Diego Clippers (G-League)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Los Angeles Clippers"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Frontwave Arena, Oceanside"
+      "team_affiliations": [
+        "Los Angeles Clippers"
+      ],
+      "address": "Frontwave Arena, Oceanside",
+      "notes": "Los Angeles Clippers fans gather here"
     },
     {
-      "id": "venue_79",
       "name": "Seven Grand",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "TBD",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_80",
       "name": "Sidecar",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
+      "address": "1310 Morena Blvd., San Diego, CA 92110",
+      "notes": "Indianapolis Colts fans gather here"
+    },
+    {
+      "name": "Slater's 50/50",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "1310 Morena Blvd., San Diego, CA 92110"
-    },
-    {
-      "id": "venue_81",
-      "name": "Slater's 50/50",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "Liberty Station (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Society",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Liberty Station (exact address TBD)"
-    },
-    {
-      "id": "venue_82",
-      "name": "Society",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Sopranos Pizza and Restaurant",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_83",
-      "name": "Sopranos Pizza and Restaurant",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_84",
       "name": "Stout Public House",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)",
-        "General NBA Bars (Show Games But Not Team-Specific)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)",
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "TBD",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_85",
       "name": "Stout Public House (potential)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Boston Bruins"
+      ],
+      "address": "TBD",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_86",
       "name": "Sunshine Company",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "Ocean Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Sycamore Den",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Ocean Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_87",
-      "name": "Sycamore Den",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_88",
       "name": "TBD",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Arizona Coyotes (now Utah Hockey Club)",
-        "Arizona Diamondbacks",
-        "Atlanta Braves",
+      "sports": [
+        "MLB",
+        "NBA",
+        "NHL"
+      ],
+      "team_affiliations": [
         "Atlanta Hawks",
-        "Baltimore Orioles",
         "Brooklyn Nets",
-        "Buffalo Sabres",
-        "Carolina Hurricanes",
         "Charlotte Hornets",
         "Chicago Bulls",
+        "Cleveland Cavaliers",
+        "Dallas Mavericks",
+        "Denver Nuggets",
+        "Detroit Pistons",
+        "Houston Rockets",
+        "Indiana Pacers",
+        "Memphis Grizzlies",
+        "Miami Heat",
+        "Milwaukee Bucks",
+        "Minnesota Timberwolves",
+        "New Orleans Pelicans",
+        "New York Knicks",
+        "Oklahoma City Thunder",
+        "Orlando Magic",
+        "Phoenix Suns",
+        "Portland Trail Blazers",
+        "Sacramento Kings",
+        "San Antonio Spurs",
+        "Toronto Raptors",
+        "Utah Jazz",
+        "Washington Wizards",
+        "Arizona Diamondbacks",
+        "Atlanta Braves",
+        "Baltimore Orioles",
         "Chicago Cubs",
         "Chicago White Sox",
         "Cincinnati Reds",
-        "Cleveland Cavaliers",
         "Cleveland Guardians",
         "Colorado Rockies",
-        "Columbus Blue Jackets",
-        "Dallas Mavericks",
-        "Dallas Stars",
-        "Denver Nuggets",
-        "Detroit Pistons",
         "Detroit Tigers",
-        "Florida Panthers",
         "Houston Astros",
-        "Houston Rockets",
-        "Indiana Pacers",
         "Kansas City Royals",
         "Los Angeles Angels",
         "Los Angeles Dodgers",
-        "Memphis Grizzlies",
-        "Miami Heat",
         "Miami Marlins",
         "Milwaukee Brewers",
-        "Milwaukee Bucks",
-        "Minnesota Timberwolves",
         "Minnesota Twins",
+        "New York Mets",
+        "New York Yankees",
+        "Oakland Athletics (now Las Vegas)",
+        "Pittsburgh Pirates",
+        "San Francisco Giants",
+        "Seattle Mariners",
+        "St. Louis Cardinals",
+        "Tampa Bay Rays",
+        "Texas Rangers",
+        "Toronto Blue Jays",
+        "Washington Nationals",
+        "Arizona Coyotes (now Utah Hockey Club)",
+        "Buffalo Sabres",
+        "Carolina Hurricanes",
+        "Columbus Blue Jackets",
+        "Dallas Stars",
+        "Florida Panthers",
         "Minnesota Wild",
         "Montreal Canadiens",
         "Nashville Predators",
         "New Jersey Devils",
-        "New Orleans Pelicans",
         "New York Islanders",
-        "New York Knicks",
-        "New York Mets",
         "New York Rangers",
-        "New York Yankees",
-        "Oakland Athletics (now Las Vegas)",
-        "Oklahoma City Thunder",
-        "Orlando Magic",
         "Ottawa Senators",
-        "Phoenix Suns",
         "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Portland Trail Blazers",
-        "Sacramento Kings",
-        "San Antonio Spurs",
-        "San Francisco Giants",
         "Seattle Kraken",
-        "Seattle Mariners",
         "St. Louis Blues",
-        "St. Louis Cardinals",
         "Tampa Bay Lightning",
-        "Tampa Bay Rays",
-        "Texas Rangers",
-        "Toronto Blue Jays",
         "Toronto Maple Leafs",
-        "Toronto Raptors",
         "Utah Hockey Club (formerly Arizona Coyotes)",
-        "Utah Jazz",
         "Vancouver Canucks",
         "Washington Capitals",
-        "Washington Nationals",
-        "Washington Wizards",
         "Winnipeg Jets"
       ],
-      "sports": [
-        "MLB",
-        "NBA",
-        "NHL"
-      ]
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_89",
       "name": "Taste & Thirst",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "Downtown (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Air Conditioned Lounge",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Downtown (exact address TBD)"
-    },
-    {
-      "id": "venue_90",
-      "name": "The Air Conditioned Lounge",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Normal Heights (exact address TBD)"
+      "address": "Normal Heights (exact address TBD)",
+      "notes": "New Orleans Saints fans gather here"
     },
     {
-      "id": "venue_91",
       "name": "The Bullpen Bar & Grill",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)",
-        "General NBA Bars (Show Games But Not Team-Specific)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "Near Convoy"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)",
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "Near Convoy",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_92",
       "name": "The Cove Bar & Grill",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Deck at Moonshine Flats",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_93",
-      "name": "The Deck at Moonshine Flats",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "335 Sixth Ave., San Diego, CA 92101",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "The Dog Bar",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "335 Sixth Ave., San Diego, CA 92101"
-    },
-    {
-      "id": "venue_94",
-      "name": "The Dog Bar",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Duck Dive",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_95",
-      "name": "The Duck Dive",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Arizona Cardinals"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Arizona Cardinals fans gather here"
+    },
+    {
+      "name": "The Local",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_96",
-      "name": "The Local",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "TBD",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "The Local Eatery & Drinking Hole",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_97",
-      "name": "The Local Eatery & Drinking Hole",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cincinnati Bengals"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Downtown San Diego (exact address TBD)"
+      "address": "Downtown San Diego (exact address TBD)",
+      "notes": "Cincinnati Bengals fans gather here"
     },
     {
-      "id": "venue_98",
       "name": "The Local Pacific Beach",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Buffalo Bills",
-        "General NBA Bars (Show Games But Not Team-Specific)"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "809 Thomas Ave., San Diego, CA 92109"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)",
+        "Buffalo Bills"
+      ],
+      "address": "809 Thomas Ave., San Diego, CA 92109",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_99",
       "name": "The Ould Sod",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Detroit Lions",
         "Kansas City Chiefs"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3373 Adams Ave., San Diego, CA 92116"
+      "address": "3373 Adams Ave., San Diego, CA 92116",
+      "notes": "Kansas City Chiefs fans gather here"
     },
     {
-      "id": "venue_100",
       "name": "The Rabbit Hole",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)",
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL",
         "NHL"
       ],
-      "address": "Normal Heights (exact address TBD)"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)",
+        "Philadelphia Eagles"
+      ],
+      "address": "Normal Heights (exact address TBD)",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_101",
       "name": "The Saddle Bar",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Solana Beach (exact address TBD)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Silver Fox",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Solana Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_102",
-      "name": "The Silver Fox",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Rams"
       ],
+      "address": "Pacific Beach (exact address TBD)",
+      "notes": "Los Angeles Rams fans gather here"
+    },
+    {
+      "name": "The Smoking Gun",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "Pacific Beach (exact address TBD)"
-    },
-    {
-      "id": "venue_103",
-      "name": "The Smoking Gun",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "555 Market St., San Diego, CA 92101",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Tipsy Crow",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "555 Market St., San Diego, CA 92101"
-    },
-    {
-      "id": "venue_104",
-      "name": "The Tipsy Crow",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New England Patriots"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "770 Fifth Ave., San Diego, CA 92101"
+      "address": "770 Fifth Ave., San Diego, CA 92101",
+      "notes": "New England Patriots fans gather here"
     },
     {
-      "id": "venue_105",
       "name": "The Tipsy Crow (potential)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins",
-        "Boston Celtics"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "770 Fifth Ave., San Diego, CA 92101"
+      "team_affiliations": [
+        "Boston Celtics",
+        "Boston Bruins"
+      ],
+      "address": "770 Fifth Ave., San Diego, CA 92101",
+      "notes": "Shows NBA, NHL games"
     },
     {
-      "id": "venue_106",
       "name": "Thruster's Lounge",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
+      "address": "4633 Mission Blvd., San Diego, CA 92109",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Tilted Stick Bar & Grill",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "4633 Mission Blvd., San Diego, CA 92109"
-    },
-    {
-      "id": "venue_107",
-      "name": "Tilted Stick Bar & Grill",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Ocean Beach (exact address TBD)"
+      "address": "Ocean Beach (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_108",
       "name": "Time Out Sports Tavern",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Downtown San Diego"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "Downtown San Diego",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_109",
       "name": "Tom's Watch Bar",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Anaheim Ducks",
-        "Calgary Flames",
-        "Colorado Avalanche",
-        "Edmonton Oilers",
-        "General Hockey Bars (Show All/Most NHL Games)",
-        "General NBA Bars (Show Games But Not Team-Specific)",
-        "Golden State Warriors",
-        "Los Angeles Clippers",
-        "Los Angeles Kings",
-        "Los Angeles Lakers",
-        "San Diego Padres (Home Team)",
-        "San Jose Sharks",
-        "Vegas Golden Knights"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "600 W Harbor Dr, San Diego, CA 92101"
-    },
-    {
-      "id": "venue_110",
-      "name": "Triple Crown Pub",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "Golden State Warriors",
+        "Los Angeles Clippers",
+        "Los Angeles Lakers",
+        "General NBA Bars (Show Games But Not Team-Specific)",
+        "San Diego Padres (Home Team)",
+        "Anaheim Ducks",
+        "Calgary Flames",
+        "Colorado Avalanche",
+        "Edmonton Oilers",
+        "Los Angeles Kings",
+        "San Jose Sharks",
+        "Vegas Golden Knights",
         "General Hockey Bars (Show All/Most NHL Games)"
       ],
+      "address": "600 W Harbor Dr, San Diego, CA 92101",
+      "notes": "Multiple team fan communities"
+    },
+    {
+      "name": "Triple Crown Pub",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "TBD",
+      "notes": "General Hockey Bars (Show All/Most NHL Games) fans gather here"
     },
     {
-      "id": "venue_111",
       "name": "True North",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NBA Bars (Show Games But Not Team-Specific)",
-        "Houston Texans",
-        "Los Angeles Lakers"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "North Park (exact address TBD)"
+      "team_affiliations": [
+        "Los Angeles Lakers",
+        "General NBA Bars (Show Games But Not Team-Specific)",
+        "Houston Texans"
+      ],
+      "address": "North Park (exact address TBD)",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_112",
       "name": "True North (unconfirmed)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Golden State Warriors"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "North Park"
+      "team_affiliations": [
+        "Golden State Warriors"
+      ],
+      "address": "North Park",
+      "notes": "Golden State Warriors fans gather here"
     },
     {
-      "id": "venue_113",
       "name": "U-31 Cocktail Lounge",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Union Kitchen & Tap Gaslamp",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_114",
-      "name": "Union Kitchen & Tap Gaslamp",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "333 Fifth Ave., San Diego, CA 92101",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "West Coast Tavern",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "333 Fifth Ave., San Diego, CA 92101"
-    },
-    {
-      "id": "venue_115",
-      "name": "West Coast Tavern",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Winston's",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_116",
-      "name": "Winston's",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders"
       ],
+      "address": "1921 Bacon St., San Diego, CA 92107",
+      "notes": "Washington Commanders fans gather here"
+    },
+    {
+      "name": "Wonderland Ocean Pub",
+      "type": "Sports Bar",
+      "city": "San Diego",
       "sports": [
         "NFL"
       ],
-      "address": "1921 Bacon St., San Diego, CA 92107"
-    },
-    {
-      "id": "venue_117",
-      "name": "Wonderland Ocean Pub",
-      "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders",
         "New England Patriots",
         "Pittsburgh Steelers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Ocean Beach (exact address TBD)"
+      "address": "Ocean Beach (exact address TBD)",
+      "notes": "New England Patriots fans gather here"
     },
     {
-      "id": "venue_118",
       "name": "Wonderland Ocean Pub (potential)",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Ocean Beach"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "Ocean Beach",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_119",
       "name": "Yard House",
+      "type": "Sports Bar",
       "city": "San Diego",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (Show All/Most NHL Games)",
-        "General NBA Bars (Show Games But Not Team-Specific)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "Multiple locations"
+      "team_affiliations": [
+        "General NBA Bars (Show Games But Not Team-Specific)",
+        "General Hockey Bars (Show All/Most NHL Games)"
+      ],
+      "address": "Multiple locations",
+      "notes": "Multiple team fan communities"
     }
   ]
 }

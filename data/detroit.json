@@ -1,1166 +1,1238 @@
 {
   "city": "Detroit",
   "total_venues": 84,
+  "venues_with_team_affiliations": 0,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "24 Seconds Bar & Grill",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Berkley, MI"
+      "team_affiliations": [
+        "Suburban Options"
+      ],
+      "address": "Berkley, MI",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_2",
       "name": "Anchor Bar",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "450 W Fort St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "450 W Fort St, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_3",
       "name": "Andrews on the Corner",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "201 Joseph Campau St, Detroit, MI 48207"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)",
+        "Additional Pistons-Friendly Bars",
+        "Additional Tigers-Friendly Bars"
+      ],
+      "address": "201 Joseph Campau St, Detroit, MI 48207",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_4",
       "name": "Atwater Brewery",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "237 Joseph Campau St, Detroit, MI 48207"
+      "team_affiliations": [
+        "Breweries (Red Wings Games)",
+        "Breweries (Pistons Games)",
+        "Breweries (Tigers Games)"
+      ],
+      "address": "237 Joseph Campau St, Detroit, MI 48207",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_5",
       "name": "Basement Burger Bar",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1326 Brush Street, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)"
+      ],
+      "address": "1326 Brush Street, Detroit, MI 48226",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_6",
       "name": "Batch Brewing Company",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "Detroit, MI"
+      "team_affiliations": [
+        "Breweries (Red Wings Games)",
+        "Breweries (Pistons Games)",
+        "Breweries (Tigers Games)"
+      ],
+      "address": "Detroit, MI",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_7",
       "name": "BetRivers Backcourt Club (Inside Arena)",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Little Caesars Arena Premium Experiences"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_8",
       "name": "Big League Brews",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "20428 Ecorse Road, Taylor, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "20428 Ecorse Road, Taylor, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_9",
       "name": "Blarney Stone Pub",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "27253 Woodward Avenue, Berkley, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "27253 Woodward Avenue, Berkley, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_10",
       "name": "Bookie's Bar & Grille",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "2208 Cass Ave, Detroit, MI 48201"
+      "team_affiliations": [
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "2208 Cass Ave, Detroit, MI 48201",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_11",
       "name": "Bookies Bar & Grille",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "2208 Cass Ave, Detroit, MI 48201"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Additional Tigers-Friendly Bars"
+      ],
+      "address": "2208 Cass Ave, Detroit, MI 48201",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_12",
       "name": "Brass Rail Pizza Bar",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "18 West Adams Ave, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)"
+      ],
+      "address": "18 West Adams Ave, Detroit, MI 48226",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_13",
       "name": "Buddies Pub & Grill",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1937 West Grand River Avenue, Okemos, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "1937 West Grand River Avenue, Okemos, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_14",
       "name": "CURE Insurance Courtside Club (Inside Arena)",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Near Little Caesars Arena, Detroit"
+      "team_affiliations": [
+        "Little Caesars Arena Premium Experiences"
+      ],
+      "address": "Near Little Caesars Arena, Detroit",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_15",
       "name": "Captain's",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "126 Oak Street, Wyandotte, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "126 Oak Street, Wyandotte, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_16",
       "name": "Chicago Bears - Coaches Corner",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1465 Centre St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Out-of-Market NFL Teams"
+      ],
+      "address": "1465 Centre St, Detroit, MI 48226",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "Ciccarelli's",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Macomb County, MI"
+      "team_affiliations": [
+        "Suburban Options"
+      ],
+      "address": "Macomb County, MI",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_18",
       "name": "Cincinnati Bengals - Thomas Magee's",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1408 E Fisher Service Drive, Detroit, MI 48207"
+      "team_affiliations": [
+        "Out-of-Market NFL Teams"
+      ],
+      "address": "1408 E Fisher Service Drive, Detroit, MI 48207",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_19",
       "name": "Cleveland Browns - Cheli's Chili Bar",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "47 E. Adams, Detroit"
+      "team_affiliations": [
+        "Out-of-Market NFL Teams"
+      ],
+      "address": "47 E. Adams, Detroit",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_20",
       "name": "Cliff Bell's",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Near Little Caesars Arena, Detroit"
+      "team_affiliations": [
+        "Post-Game Pistons Bars"
+      ],
+      "address": "Near Little Caesars Arena, Detroit",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_21",
       "name": "Common Pub Detroit",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "5440 Cass Ave, Detroit, MI 48202"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)"
+      ],
+      "address": "5440 Cass Ave, Detroit, MI 48202",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_22",
       "name": "Cutter's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "2638 Orleans St, Detroit, MI 48207"
+      "team_affiliations": [
+        "Additional Red Wings-Friendly Bars",
+        "Additional Pistons-Friendly Bars",
+        "Additional Tigers-Friendly Bars"
+      ],
+      "address": "2638 Orleans St, Detroit, MI 48207",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_23",
       "name": "Dallas Cowboys",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1218 Randolph St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Out-of-Market NFL Teams"
+      ],
+      "address": "1218 Randolph St, Detroit, MI 48226",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_24",
       "name": "Dave & Buster's - Livonia",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "19375 Victor Parkway, Livonia, MI 48152"
+      "team_affiliations": [
+        "Chain Restaurants (NHL Coverage)",
+        "Chain Restaurants (NBA Coverage)",
+        "Chain Restaurants (MLB Coverage)"
+      ],
+      "address": "19375 Victor Parkway, Livonia, MI 48152",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_25",
       "name": "Dave & Buster's - Utica",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "Utica, MI"
+      "team_affiliations": [
+        "Chain Restaurants (NHL Coverage)",
+        "Chain Restaurants (NBA Coverage)",
+        "Chain Restaurants (MLB Coverage)"
+      ],
+      "address": "Utica, MI",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_26",
       "name": "Detroit City Clubhouse",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "3401 E Lafayette St, Detroit, MI 48207"
+      "team_affiliations": [
+        "Additional Red Wings-Friendly Bars"
+      ],
+      "address": "3401 E Lafayette St, Detroit, MI 48207",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_27",
       "name": "Detroit Sports Bar and Grille",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "1570 Woodward Ave, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Additional Red Wings-Friendly Bars",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "1570 Woodward Ave, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_28",
       "name": "DraftKings Sports & Social Troy",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "2850 Coolidge Highway, Troy, MI 48084"
+      "team_affiliations": [
+        "DraftKings Sports & Social (Suburban)"
+      ],
+      "address": "2850 Coolidge Highway, Troy, MI 48084",
+      "notes": "Shows NBA, NHL games"
     },
     {
-      "id": "venue_29",
       "name": "Eastern Market Brewing Company",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "Eastern Market, Detroit"
+      "team_affiliations": [
+        "Breweries (Red Wings Games)",
+        "Breweries (Pistons Games)",
+        "Breweries (Tigers Games)"
+      ],
+      "address": "Eastern Market, Detroit",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_30",
       "name": "Elwood Bar & Grill",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "300 E Adams Ave, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Additional Red Wings-Friendly Bars",
+        "Additional Pistons-Friendly Bars",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "300 E Adams Ave, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_31",
       "name": "Firebird Tavern",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Greektown, Detroit"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)"
+      ],
+      "address": "Greektown, Detroit",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_32",
       "name": "Fishbone's West",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "29244 Northwestern Highway, Southfield, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "29244 Northwestern Highway, Southfield, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_33",
       "name": "Ford's Garage Dearborn",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "21367 Michigan Ave, Dearborn, MI 48124"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)"
+      ],
+      "address": "21367 Michigan Ave, Dearborn, MI 48124",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_34",
       "name": "Gilbert's Lodge",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "22335 Harper Avenue, St. Clair Shores, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "22335 Harper Avenue, St. Clair Shores, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_35",
       "name": "Gilly's Clubhouse & Rooftop",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "1550 Woodward Ave, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "1550 Woodward Ave, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_36",
       "name": "Golden Fleece Restaurant",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Greektown, Detroit"
+      "team_affiliations": [
+        "Greektown Bars (Near Little Caesars Arena)"
+      ],
+      "address": "Greektown, Detroit",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_37",
       "name": "Green Bay Packers",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Out-of-Market NFL Teams"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_38",
       "name": "Green Lantern Lounge",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Detroit, MI"
+      "team_affiliations": [
+        "Detroit Pistons (Home Team)"
+      ],
+      "address": "Detroit, MI",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_39",
       "name": "Hamlin Pub Shelby",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "48929 Hayes Road, Shelby Township, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "48929 Hayes Road, Shelby Township, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_40",
       "name": "Harry's Detroit",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "2482 Clifford St, Detroit, MI 48201"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "2482 Clifford St, Detroit, MI 48201",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_41",
       "name": "Hockeytown Cafe",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "2301 Woodward Ave, Detroit, MI 48201"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "2301 Woodward Ave, Detroit, MI 48201",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_42",
       "name": "Honest John's",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Detroit area"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)"
+      ],
+      "address": "Detroit area",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_43",
       "name": "Jacoby's",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "624 Brush St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Additional Red Wings-Friendly Bars",
+        "Additional Pistons-Friendly Bars",
+        "Additional Tigers-Friendly Bars"
+      ],
+      "address": "624 Brush St, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_44",
       "name": "Level Two Bar & Rooftop",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Detroit, MI"
+      "team_affiliations": [
+        "Detroit Pistons (Home Team)"
+      ],
+      "address": "Detroit, MI",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_45",
       "name": "MATI",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Greektown, Detroit"
+      "team_affiliations": [
+        "Greektown Bars (Near Little Caesars Arena)"
+      ],
+      "address": "Greektown, Detroit",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_46",
       "name": "Madisons Pub",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "15 North Walnut Street, Mount Clemens, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "15 North Walnut Street, Mount Clemens, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_47",
       "name": "Malone's Tavern",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "32350 Van Dyke Avenue, Warren, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Red Wings Bars"
+      ],
+      "address": "32350 Van Dyke Avenue, Warren, MI",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_48",
       "name": "Marge's Bar and Grill",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "15300 Mack Avenue, Grosse Pointe Park, MI 48230"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)"
+      ],
+      "address": "15300 Mack Avenue, Grosse Pointe Park, MI 48230",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_49",
       "name": "McShane's Irish Pub & Whiskey Bar",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "1460 Michigan Ave, Detroit, MI 48216"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "1460 Michigan Ave, Detroit, MI 48216",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_50",
       "name": "Motor City Brewing Works - Canfield",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NHL"
       ],
-      "address": "Detroit, MI"
+      "team_affiliations": [
+        "Breweries (Red Wings Games)",
+        "Breweries (Tigers Games)"
+      ],
+      "address": "Detroit, MI",
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_51",
       "name": "MotorCity Casino Sportsbook",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "1218 Randolph St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Additional NFL-Friendly Bars (All Teams Welcome)",
+        "Casino Sports Bars (All NHL Games)",
+        "Casino Sports Bars (All NBA Games)",
+        "Casino Sports Bars (All MLB Games)"
+      ],
+      "address": "1218 Randolph St, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_52",
       "name": "Nancy Whiskey Pub",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "2644 Harrison St, Detroit, MI 48216"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)"
+      ],
+      "address": "2644 Harrison St, Detroit, MI 48216",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_53",
       "name": "Nemo's",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "1384 Michigan Ave, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "1384 Michigan Ave, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_54",
       "name": "New England Patriots",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1218 Randolph St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Out-of-Market NFL Teams"
+      ],
+      "address": "1218 Randolph St, Detroit, MI 48226",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_55",
       "name": "Nuthouse Sports Grill",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "420 East Michigan Avenue, Lansing, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "420 East Michigan Avenue, Lansing, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_56",
       "name": "Oak Cafe",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1167 Oak Street, Wyandotte, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "1167 Oak Street, Wyandotte, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_57",
       "name": "One-Eyed Betty's",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Detroit/Ferndale area"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)"
+      ],
+      "address": "Detroit/Ferndale area",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_58",
       "name": "Park Bar",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Detroit, MI"
+      "team_affiliations": [
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "Detroit, MI",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_59",
       "name": "Parlay Detroit",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "1260 Washington Blvd, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "1260 Washington Blvd, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_60",
       "name": "Pegasus Taverna - Greektown",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Greektown Historic District, Detroit"
+      "team_affiliations": [
+        "Greektown Bars (Near Little Caesars Arena)"
+      ],
+      "address": "Greektown Historic District, Detroit",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_61",
       "name": "Penny Black",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "124 West 4th Street, Rochester, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Red Wings Bars"
+      ],
+      "address": "124 West 4th Street, Rochester, MI",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_62",
       "name": "Pittsburgh Steelers",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1218 Randolph St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Out-of-Market NFL Teams"
+      ],
+      "address": "1218 Randolph St, Detroit, MI 48226",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_63",
       "name": "Players Club (Inside Arena)",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Near Little Caesars Arena, Detroit"
+      "team_affiliations": [
+        "Little Caesars Arena Premium Experiences"
+      ],
+      "address": "Near Little Caesars Arena, Detroit",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_64",
       "name": "Red Baron",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "2495 Center Rd, Burton, MI 48519"
+      "team_affiliations": [
+        "Suburban Detroit - Red Wings Bars"
+      ],
+      "address": "2495 Center Rd, Burton, MI 48519",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_65",
       "name": "Red Ox Tavern - Utica",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "45411 Park Avenue, Utica, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Red Wings Bars"
+      ],
+      "address": "45411 Park Avenue, Utica, MI",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_66",
       "name": "Rock Bar (Hollywood Casino Greektown)",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Additional NFL-Friendly Bars (All Teams Welcome)",
+        "Casino Sports Bars (All NHL Games)",
+        "Casino Sports Bars (All NBA Games)",
+        "Casino Sports Bars (All MLB Games)"
+      ],
+      "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_67",
       "name": "Sweetwater Tavern",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "400 E Congress St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Additional Red Wings-Friendly Bars",
+        "Additional Pistons-Friendly Bars",
+        "Additional Tigers-Friendly Bars"
+      ],
+      "address": "400 E Congress St, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_68",
       "name": "Tap at MGM Grand Detroit",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "MGM Grand Detroit, 1777 Third St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Additional NFL-Friendly Bars (All Teams Welcome)",
+        "Casino Sports Bars (All NHL Games)",
+        "Casino Sports Bars (All NBA Games)",
+        "Casino Sports Bars (All MLB Games)"
+      ],
+      "address": "MGM Grand Detroit, 1777 Third St, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_69",
       "name": "Teams Without Dedicated Detroit Bars (29 teams):",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Out-of-Market NBA Teams",
+        "Out-of-Market MLB Teams"
+      ],
+      "notes": "Shows MLB, NBA games"
     },
     {
-      "id": "venue_70",
       "name": "Teams Without Dedicated Detroit Bars (31 teams):",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Out-of-Market NHL Teams"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_71",
       "name": "The Delmar",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Greektown, Detroit"
+      "team_affiliations": [
+        "Greektown Bars (Near Little Caesars Arena)"
+      ],
+      "address": "Greektown, Detroit",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_72",
       "name": "The Detroiter Bar",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Detroit, MI"
+      "team_affiliations": [
+        "Additional NFL-Friendly Bars (All Teams Welcome)"
+      ],
+      "address": "Detroit, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_73",
       "name": "The Fowling Warehouse",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3901 Christopher Street, Hamtramck, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "3901 Christopher Street, Hamtramck, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_74",
       "name": "The Greek",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Greektown, Detroit"
+      "team_affiliations": [
+        "Detroit Pistons (Home Team)",
+        "Greektown Bars (Near Little Caesars Arena)"
+      ],
+      "address": "Greektown, Detroit",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_75",
       "name": "The Lockerroom",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Cass Corridor area, Detroit"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)"
+      ],
+      "address": "Cass Corridor area, Detroit",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_76",
       "name": "The Sportsbook Restaurant & Bar (Greektown)",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226"
+      "team_affiliations": [
+        "Additional NFL-Friendly Bars (All Teams Welcome)",
+        "Casino Sports Bars (All NHL Games)",
+        "Casino Sports Bars (All NBA Games)",
+        "Casino Sports Bars (All MLB Games)"
+      ],
+      "address": "Hollywood Casino Greektown, 555 E Lafayette St, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_77",
       "name": "Thomas Magee's Sporting House",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "1408 E Fisher Service Drive, Detroit, MI 48207"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "1408 E Fisher Service Drive, Detroit, MI 48207",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_78",
       "name": "Tin Roof Detroit",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
       ],
-      "address": "47 Adams Avenue East, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Additional Pistons-Friendly Bars",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "47 Adams Avenue East, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_79",
       "name": "Tipsy McStaggers",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Detroit area"
+      "team_affiliations": [
+        "Detroit Red Wings (Home Team)"
+      ],
+      "address": "Detroit area",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_80",
       "name": "Tommy's Detroit Bar & Grill",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "624 3rd Ave, Detroit, MI 48226"
+      "team_affiliations": [
+        "Detroit Lions (Home Team)",
+        "Detroit Red Wings (Home Team)",
+        "Detroit Pistons (Home Team)",
+        "Detroit Tigers (Home Team)"
+      ],
+      "address": "624 3rd Ave, Detroit, MI 48226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_81",
       "name": "Urbanrest Brewing",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Detroit, MI"
+      "team_affiliations": [
+        "Breweries (Red Wings Games)"
+      ],
+      "address": "Detroit, MI",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_82",
       "name": "Vito's Pizzaria",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3962 Fort Street, Lincoln Park, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "3962 Fort Street, Lincoln Park, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_83",
       "name": "Vivio's II Food & Spirits",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3601 Twelve Mile Road, Warren, MI"
+      "team_affiliations": [
+        "Suburban Detroit - Lions Bars"
+      ],
+      "address": "3601 Twelve Mile Road, Warren, MI",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_84",
       "name": "Zorba The Greek Taverna",
+      "type": "Sports Bar",
       "city": "Detroit",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Greektown Historic District, Detroit"
+      "team_affiliations": [
+        "Greektown Bars (Near Little Caesars Arena)"
+      ],
+      "address": "Greektown Historic District, Detroit",
+      "notes": "Shows NBA games"
     }
   ]
 }

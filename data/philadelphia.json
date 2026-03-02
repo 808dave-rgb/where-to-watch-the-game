@@ -1,492 +1,493 @@
 {
   "city": "Philadelphia",
   "total_venues": 37,
+  "venues_with_team_affiliations": 24,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "BarLy",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "101 N. 11th St, Philadelphia, PA 19107",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Big Charlie's Saloon",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "101 N. 11th St, Philadelphia, PA 19107"
-    },
-    {
-      "id": "venue_2",
-      "name": "Big Charlie's Saloon",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "S 11th St, Philadelphia, PA 19148",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Brauhaus Schmitz",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "S 11th St, Philadelphia, PA 19148"
-    },
-    {
-      "id": "venue_3",
-      "name": "Brauhaus Schmitz",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "718 South St, Philadelphia, PA 19147",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Buffalo Billiards",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "718 South St, Philadelphia, PA 19147"
-    },
-    {
-      "id": "venue_4",
-      "name": "Buffalo Billiards",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders (formerly Redskins)"
       ],
+      "address": "118 Chestnut St, Philadelphia, PA 19106",
+      "notes": "Washington Commanders (formerly Redskins) fans gather here"
+    },
+    {
+      "name": "CJ & Eck's",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "118 Chestnut St, Philadelphia, PA 19106"
-    },
-    {
-      "id": "venue_5",
-      "name": "CJ & Eck's",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "384 Shurs Ln, Philadelphia, PA 19128"
+      "address": "384 Shurs Ln, Philadelphia, PA 19128",
+      "notes": "Buffalo Bills fans gather here"
     },
     {
-      "id": "venue_6",
       "name": "Cavanaugh's Headhouse",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Home Team - Philadelphia Phillies"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "421 S 2nd St, Philadelphia, PA 19147"
+      "team_affiliations": [
+        "Home Team - Philadelphia Phillies"
+      ],
+      "address": "421 S 2nd St, Philadelphia, PA 19147",
+      "notes": "Home Team - Philadelphia Phillies fans gather here"
     },
     {
-      "id": "venue_7",
       "name": "Cavanaugh's Rittenhouse",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cincinnati Bengals"
       ],
+      "address": "1823 Sansom St, Philadelphia, PA 19103",
+      "notes": "Cincinnati Bengals fans gather here"
+    },
+    {
+      "name": "Cavanaugh's University City",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "1823 Sansom St, Philadelphia, PA 19103"
-    },
-    {
-      "id": "venue_8",
-      "name": "Cavanaugh's University City",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Baltimore Ravens"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "119 South 39th St, Philadelphia, PA 19104"
+      "address": "119 South 39th St, Philadelphia, PA 19104",
+      "notes": "Baltimore Ravens fans gather here"
     },
     {
-      "id": "venue_9",
       "name": "Chickie's & Pete's",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Home Team - Philadelphia Phillies",
-        "Minnesota Vikings"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "1526 Packer Ave, Philadelphia, PA 19145"
+      "team_affiliations": [
+        "Home Team - Philadelphia Phillies",
+        "Minnesota Vikings"
+      ],
+      "address": "1526 Packer Ave, Philadelphia, PA 19145",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_10",
       "name": "City Tap House",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Atlanta Falcons"
       ],
+      "address": "3925 Walnut St, Philadelphia, PA 19104",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "City Tap House (University City)",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "3925 Walnut St, Philadelphia, PA 19104"
-    },
-    {
-      "id": "venue_11",
-      "name": "City Tap House (University City)",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3925 Walnut St, Philadelphia, PA 19104"
+      "address": "3925 Walnut St, Philadelphia, PA 19104",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_12",
       "name": "Crow's Nest Restaurant",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Home Team - Philadelphia Phillies"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Home Team - Philadelphia Phillies"
+      ],
+      "address": "TBD",
+      "notes": "Home Team - Philadelphia Phillies fans gather here"
     },
     {
-      "id": "venue_13",
       "name": "Cuba Libre",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Miami Dolphins"
       ],
+      "address": "10 S 2nd St, Philadelphia, PA 19106",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Fado Irish Pub",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "10 S 2nd St, Philadelphia, PA 19106"
-    },
-    {
-      "id": "venue_14",
-      "name": "Fado Irish Pub",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "1500 Locust St, Philadelphia, PA 19102",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Field House Sports & Beer Hall",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "1500 Locust St, Philadelphia, PA 19102"
-    },
-    {
-      "id": "venue_15",
-      "name": "Field House Sports & Beer Hall",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
+      "address": "Philadelphia Convention Center, 1150 Filbert St, Philadelphia, PA 19107",
+      "notes": "Indianapolis Colts fans gather here"
+    },
+    {
+      "name": "Fox & Hound",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "Philadelphia Convention Center, 1150 Filbert St, Philadelphia, PA 19107"
-    },
-    {
-      "id": "venue_16",
-      "name": "Fox & Hound",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "1501 Spruce St, Philadelphia, PA 19102"
+      "address": "1501 Spruce St, Philadelphia, PA 19102",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "General Sports Bars (Citywide)",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Home Team - Philadelphia 76ers",
-        "Home Team - Philadelphia Flyers"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "Various locations throughout Philadelphia"
+      "team_affiliations": [
+        "Home Team - Philadelphia 76ers",
+        "Home Team - Philadelphia Flyers"
+      ],
+      "address": "Various locations throughout Philadelphia",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_18",
       "name": "Johnny Utah's Country Rock Bar and Saloon",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Houston Texans"
       ],
+      "address": "461 N 3rd St, Philadelphia, PA 19123",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Kings Oak",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "461 N 3rd St, Philadelphia, PA 19123"
-    },
-    {
-      "id": "venue_19",
-      "name": "Kings Oak",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "St. Louis Rams (now LA)"
       ],
+      "address": "1031 Germantown Ave, Philadelphia, PA 19123",
+      "notes": "St. Louis Rams (now LA) fans gather here"
+    },
+    {
+      "name": "Lincoln Financial Field / Any bar in Philadelphia",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "1031 Germantown Ave, Philadelphia, PA 19123"
-    },
-    {
-      "id": "venue_20",
-      "name": "Lincoln Financial Field / Any bar in Philadelphia",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Home Team - Philadelphia Eagles"
       ],
+      "address": "Citywide - Eagles games dominate all bars when playing",
+      "notes": "Home Team - Philadelphia Eagles fans gather here"
+    },
+    {
+      "name": "Mac's Tavern",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "Citywide - Eagles games dominate all bars when playing"
-    },
-    {
-      "id": "venue_21",
-      "name": "Mac's Tavern",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "226 Market St, Philadelphia, PA 19106",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Mad River Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "226 Market St, Philadelphia, PA 19106"
-    },
-    {
-      "id": "venue_22",
-      "name": "Mad River Bar & Grill",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
+      "address": "4100 Main St, Philadelphia, PA 19127",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Manayunk Brewery and Restaurant",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "4100 Main St, Philadelphia, PA 19127"
-    },
-    {
-      "id": "venue_23",
-      "name": "Manayunk Brewery and Restaurant",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Carolina Panthers"
       ],
+      "address": "4120 Main St, Philadelphia, PA 19127",
+      "notes": "Carolina Panthers fans gather here"
+    },
+    {
+      "name": "Manny Brown's Bar and Grill",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "4120 Main St, Philadelphia, PA 19127"
-    },
-    {
-      "id": "venue_24",
-      "name": "Manny Brown's Bar and Grill",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "512 South St, Philadelphia, PA 19147",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "McFadden's Ballpark",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "512 South St, Philadelphia, PA 19147"
-    },
-    {
-      "id": "venue_25",
-      "name": "McFadden's Ballpark",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Arizona Cardinals"
       ],
+      "address": "Citizens Bank Park, 1 Citizens Bank Way, Philadelphia, PA 19148",
+      "notes": "Arizona Cardinals fans gather here"
+    },
+    {
+      "name": "McGillin's Old Ale House",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "Citizens Bank Park, 1 Citizens Bank Way, Philadelphia, PA 19148"
-    },
-    {
-      "id": "venue_26",
-      "name": "McGillin's Old Ale House",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New England Patriots"
       ],
+      "address": "1310 Drury St, Philadelphia, PA 19107",
+      "notes": "New England Patriots fans gather here"
+    },
+    {
+      "name": "McGillin's Olde Ale House",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "1310 Drury St, Philadelphia, PA 19107"
-    },
-    {
-      "id": "venue_27",
-      "name": "McGillin's Olde Ale House",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "1310 Drury St, Philadelphia, PA 19107",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Misconduct Tavern",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "1310 Drury St, Philadelphia, PA 19107"
-    },
-    {
-      "id": "venue_28",
-      "name": "Misconduct Tavern",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Tennessee Titans"
       ],
+      "address": "1511 Locust St, Philadelphia, PA 19102",
+      "notes": "Tennessee Titans fans gather here"
+    },
+    {
+      "name": "O'Neal's Pub",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "1511 Locust St, Philadelphia, PA 19102"
-    },
-    {
-      "id": "venue_29",
-      "name": "O'Neal's Pub",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders (formerly Oakland)"
       ],
+      "address": "611 S. 3rd St, Philadelphia, PA 19147",
+      "notes": "Las Vegas Raiders (formerly Oakland) fans gather here"
+    },
+    {
+      "name": "O'Neals Pub",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "611 S. 3rd St, Philadelphia, PA 19147"
-    },
-    {
-      "id": "venue_30",
-      "name": "O'Neals Pub",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "611 S 3rd St, Philadelphia, PA 19147",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "PJ Whelihan's Pub and Restaurant",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "611 S 3rd St, Philadelphia, PA 19147"
-    },
-    {
-      "id": "venue_31",
-      "name": "PJ Whelihan's Pub and Restaurant",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Diego Chargers (now LA)"
       ],
+      "address": "799 Dekalb Pike, Blue Bell, PA 19422",
+      "notes": "San Diego Chargers (now LA) fans gather here"
+    },
+    {
+      "name": "Prohibition Taproom",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "799 Dekalb Pike, Blue Bell, PA 19422"
-    },
-    {
-      "id": "venue_32",
-      "name": "Prohibition Taproom",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "501 N. 13th St, Philadelphia, PA 19123",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "Revolution House",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "501 N. 13th St, Philadelphia, PA 19123"
-    },
-    {
-      "id": "venue_33",
-      "name": "Revolution House",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "200 Market St, Philadelphia, PA 19106",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "South Philly Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "200 Market St, Philadelphia, PA 19106"
-    },
-    {
-      "id": "venue_34",
-      "name": "South Philly Bar & Grill",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Jacksonville Jaguars"
       ],
+      "address": "1235 E. Passyunk Ave, Philadelphia, PA 19147",
+      "notes": "Jacksonville Jaguars fans gather here"
+    },
+    {
+      "name": "Tir Na Nog",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "1235 E. Passyunk Ave, Philadelphia, PA 19147"
-    },
-    {
-      "id": "venue_35",
-      "name": "Tir Na Nog",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills (Second Location)"
       ],
+      "address": "1600 Arch Street, Philadelphia, PA 19103",
+      "notes": "Buffalo Bills (Second Location) fans gather here"
+    },
+    {
+      "name": "Twenty Manning Grill",
+      "type": "Sports Bar",
+      "city": "Philadelphia",
       "sports": [
         "NFL"
       ],
-      "address": "1600 Arch Street, Philadelphia, PA 19103"
-    },
-    {
-      "id": "venue_36",
-      "name": "Twenty Manning Grill",
-      "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Tampa Bay Buccaneers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "261 S. 20th St, Philadelphia, PA 19103"
+      "address": "261 S. 20th St, Philadelphia, PA 19103",
+      "notes": "Tampa Bay Buccaneers fans gather here"
     },
     {
-      "id": "venue_37",
       "name": "Xfinity Live! (Primary)",
+      "type": "Sports Bar",
       "city": "Philadelphia",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Home Team - Philadelphia Phillies"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "1100 Pattison Ave, Philadelphia, PA 19148"
+      "team_affiliations": [
+        "Home Team - Philadelphia Phillies"
+      ],
+      "address": "1100 Pattison Ave, Philadelphia, PA 19148",
+      "notes": "Home Team - Philadelphia Phillies fans gather here"
     }
   ]
 }

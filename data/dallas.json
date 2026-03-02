@@ -1,1143 +1,1144 @@
 {
   "city": "Dallas",
   "total_venues": 85,
+  "venues_with_team_affiliations": 59,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "American Airlines Center (Official Stadium)",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)",
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "2500 Victory Avenue, Dallas, TX 75219"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)",
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "2500 Victory Avenue, Dallas, TX 75219",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_2",
       "name": "Arrowhead Sports Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Kansas City Chiefs"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Plano, TX"
+      "team_affiliations": [
+        "Kansas City Chiefs"
+      ],
+      "address": "Plano, TX",
+      "notes": "Kansas City Chiefs fans gather here"
     },
     {
-      "id": "venue_3",
       "name": "Austin Avenue Grill & Sports Bar",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Philadelphia Eagles",
         "Washington Commanders"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "935 W Parker Rd Suite #410, Plano, TX"
+      "address": "935 W Parker Rd Suite #410, Plano, TX",
+      "notes": "Washington Commanders fans gather here"
     },
     {
-      "id": "venue_4",
       "name": "Backyard (Deep Ellum)",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Deep Ellum, Dallas, TX"
+      "team_affiliations": [
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "Deep Ellum, Dallas, TX",
+      "notes": "Dallas Mavericks (Home Team) fans gather here"
     },
     {
-      "id": "venue_5",
       "name": "Bender's",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "North Dallas / Richardson, TX",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Binions Ice House",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "North Dallas / Richardson, TX"
-    },
-    {
-      "id": "venue_6",
-      "name": "Binions Ice House",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "205 N West St, Arlington, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Blackfriar Pub",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "205 N West St, Arlington, TX"
-    },
-    {
-      "id": "venue_7",
-      "name": "Blackfriar Pub",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers",
         "Kansas City Chiefs"
       ],
+      "address": "Lakewood, Dallas, TX",
+      "notes": "Multiple team fan communities"
+    },
+    {
+      "name": "Bombshells Restaurant & Bar",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Lakewood, Dallas, TX"
-    },
-    {
-      "id": "venue_8",
-      "name": "Bombshells Restaurant & Bar",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Arlington, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "BoomerJack's",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Arlington, TX"
-    },
-    {
-      "id": "venue_9",
-      "name": "BoomerJack's",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "2437 S Stemmons Fwy, Lewisville, TX"
+      "address": "2437 S Stemmons Fwy, Lewisville, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_10",
       "name": "BoomerJack's Grill & Bar",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "5430 Texas 121, Plano, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "5430 Texas 121, Plano, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_11",
       "name": "Bottle Rockets Bar",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "5800 Legacy Drive, Plano, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "5800 Legacy Drive, Plano, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_12",
       "name": "Bottled Blonde",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Deep Ellum, Dallas, TX"
+      "team_affiliations": [
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "Deep Ellum, Dallas, TX",
+      "notes": "Dallas Mavericks (Home Team) fans gather here"
     },
     {
-      "id": "venue_13",
       "name": "Buffalo Bros",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Buffalo Bills"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3015 S University Dr, Fort Worth, TX"
+      "team_affiliations": [
+        "Buffalo Bills"
+      ],
+      "address": "3015 S University Dr, Fort Worth, TX",
+      "notes": "Buffalo Bills fans gather here"
     },
     {
-      "id": "venue_14",
       "name": "Buffalo Joe's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New England Patriots",
         "New York Giants"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3636 Frankford Rd #390, Dallas, TX"
+      "address": "3636 Frankford Rd #390, Dallas, TX",
+      "notes": "New England Patriots fans gather here"
     },
     {
-      "id": "venue_15",
       "name": "Buffalo Wild Wings",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Bears",
-        "Cincinnati Bengals",
-        "Dallas Stars (Home Team)",
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL",
         "NHL"
       ],
-      "address": "3211 Preston Road, Frisco, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)",
+        "Chicago Bears",
+        "Cincinnati Bengals",
+        "Philadelphia Eagles"
+      ],
+      "address": "3211 Preston Road, Frisco, TX",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_16",
       "name": "Chop Sports, Sports Garage",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Baltimore Ravens"
       ],
+      "address": "7560 State Hwy 121 Suite 150, McKinney, TX",
+      "notes": "Baltimore Ravens fans gather here"
+    },
+    {
+      "name": "DFW Bolt Club (various locations)",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "7560 State Hwy 121 Suite 150, McKinney, TX"
-    },
-    {
-      "id": "venue_17",
-      "name": "DFW Bolt Club (various locations)",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "Various, including COSM for MNF games",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "DFW Who Dats (various locations)",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Various, including COSM for MNF games"
-    },
-    {
-      "id": "venue_18",
-      "name": "DFW Who Dats (various locations)",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "Multiple locations in Dallas, Frisco, Grand Prairie, and Bedford",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "Dallas Texas Denver Broncos Fans (Facebook group)",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Multiple locations in Dallas, Frisco, Grand Prairie, and Bedford"
-    },
-    {
-      "id": "venue_19",
-      "name": "Dallas Texas Denver Broncos Fans (Facebook group)",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Dave & Buster's",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_20",
-      "name": "Dave & Buster's",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "425 Curtis Mathes Way, Arlington, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Dirty Birds Sports Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "425 Curtis Mathes Way, Arlington, TX"
-    },
-    {
-      "id": "venue_21",
-      "name": "Dirty Birds Sports Bar & Grill",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Atlanta Falcons"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "4021 Preston Rd Suite D 618, Plano, TX"
+      "address": "4021 Preston Rd Suite D 618, Plano, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_22",
       "name": "Dodie's Reef",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)",
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "2821 Greenville Avenue, Lower Greenville, Dallas, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)",
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "2821 Greenville Avenue, Lower Greenville, Dallas, TX",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_23",
       "name": "Fireplace Lounge",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "McKinney Ave, Dallas, TX",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Flips Patio Grill",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "McKinney Ave, Dallas, TX"
-    },
-    {
-      "id": "venue_24",
-      "name": "Flips Patio Grill",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Fort Worth, TX"
+      "address": "Fort Worth, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_25",
       "name": "Four Corners Brewing Company",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "1311 South Ervay Street, Dallas, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "1311 South Ervay Street, Dallas, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_26",
       "name": "Frankie's Downtown",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Arizona Cardinals"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Downtown Dallas"
+      "team_affiliations": [
+        "Arizona Cardinals"
+      ],
+      "address": "Downtown Dallas",
+      "notes": "Arizona Cardinals fans gather here"
     },
     {
-      "id": "venue_27",
       "name": "Globe Life Field (Official Stadium)",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Texas Rangers (Home Team)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "734 Stadium Dr, Arlington, TX 76011"
+      "team_affiliations": [
+        "Texas Rangers (Home Team)"
+      ],
+      "address": "734 Stadium Dr, Arlington, TX 76011",
+      "notes": "Texas Rangers (Home Team) fans gather here"
     },
     {
-      "id": "venue_28",
       "name": "Happiest Hour",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Near American Airlines Center, Victory Park, Dallas, TX"
+      "team_affiliations": [
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "Near American Airlines Center, Victory Park, Dallas, TX",
+      "notes": "Dallas Mavericks (Home Team) fans gather here"
     },
     {
-      "id": "venue_29",
       "name": "Harwood Arms",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Downtown Dallas, TX"
+      "team_affiliations": [
+        "Cleveland Browns"
+      ],
+      "address": "Downtown Dallas, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_30",
       "name": "Harwood Tavern",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Carolina Panthers",
         "Tennessee Titans"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Downtown Dallas, TX"
+      "address": "Downtown Dallas, TX",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_31",
       "name": "Hero",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)",
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "3090 Olive Street, Victory Park, Dallas, TX"
-    },
-    {
-      "id": "venue_32",
-      "name": "Heroes Lounge",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "Dallas Stars (Home Team)",
         "Dallas Mavericks (Home Team)"
       ],
+      "address": "3090 Olive Street, Victory Park, Dallas, TX",
+      "notes": "Multiple team fan communities"
+    },
+    {
+      "name": "Heroes Lounge",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NBA"
       ],
-      "address": "Dallas, TX"
+      "team_affiliations": [
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "Dallas, TX",
+      "notes": "Dallas Mavericks (Home Team) fans gather here"
     },
     {
-      "id": "venue_33",
       "name": "High Fives",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "1804 McMillan Avenue, Knox-Henderson, Dallas, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "1804 McMillan Avenue, Knox-Henderson, Dallas, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_34",
       "name": "Hooligans Pub",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "310 East Abram Street, Arlington, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "310 East Abram Street, Arlington, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_35",
       "name": "II Brothers Bar and Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "8308 Preston Rd #198, Plano, TX"
+      "team_affiliations": [
+        "Seattle Seahawks"
+      ],
+      "address": "8308 Preston Rd #198, Plano, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_36",
       "name": "Jon's Grille",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Fort Worth, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "Fort Worth, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_37",
       "name": "Katy Trail Ice House Outpost",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "4700 West Park Boulevard, Plano, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "4700 West Park Boulevard, Plano, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_38",
       "name": "Legacy Hall",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Dallas Cowboys",
         "Jacksonville Jaguars",
         "Los Angeles Chargers",
         "Los Angeles Rams"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Plano, TX"
+      "address": "Plano, TX",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_39",
       "name": "Longhorn Ice House",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL",
+        "NHL"
+      ],
+      "team_affiliations": [
         "Dallas Stars (Home Team)",
         "Seattle Seahawks"
       ],
-      "sports": [
-        "NFL",
-        "NHL"
-      ],
-      "address": "Northwest Dallas, TX"
+      "address": "Northwest Dallas, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_40",
       "name": "Longhorn Icehouse",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1901 W Northwest Hwy, Dallas, TX"
+      "team_affiliations": [
+        "Pittsburgh Steelers"
+      ],
+      "address": "1901 W Northwest Hwy, Dallas, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_41",
       "name": "MOXIES Dallas Uptown Restaurant",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "100 Crescent Court, Oak Lawn, Dallas, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "100 Crescent Court, Oak Lawn, Dallas, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_42",
       "name": "Most sports bars throughout DFW show Rangers games",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Texas Rangers (Home Team)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Various locations"
+      "team_affiliations": [
+        "Texas Rangers (Home Team)"
+      ],
+      "address": "Various locations",
+      "notes": "Texas Rangers (Home Team) fans gather here"
     },
     {
-      "id": "venue_43",
       "name": "Multiple locations (Dallas Area Browns Backers)",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "Various locations in Dallas, Frisco, Fort Worth, Richardson, and Denton",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "No Frills Grill & Sports Bar",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Various locations in Dallas, Frisco, Fort Worth, Richardson, and Denton"
-    },
-    {
-      "id": "venue_44",
-      "name": "No Frills Grill & Sports Bar",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "2851 Matlock Rd #422, Mansfield, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Pluckers",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "2851 Matlock Rd #422, Mansfield, TX"
-    },
-    {
-      "id": "venue_45",
-      "name": "Pluckers",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "Grapevine, TX",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "Rabbit Hole Pub",
+      "type": "Sports Bar",
+      "city": "Dallas",
+      "sports": [
+        "NBA"
+      ],
+      "team_affiliations": [
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "Fort Worth, TX",
+      "notes": "Dallas Mavericks (Home Team) fans gather here"
+    },
+    {
+      "name": "River Pig Saloon",
+      "type": "Sports Bar",
+      "city": "Dallas",
+      "sports": [
+        "NBA"
+      ],
+      "team_affiliations": [
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "Lower Greenville, Dallas, TX",
+      "notes": "Dallas Mavericks (Home Team) fans gather here"
+    },
+    {
+      "name": "Ron's Place",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Grapevine, TX"
-    },
-    {
-      "id": "venue_46",
-      "name": "Rabbit Hole Pub",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)"
-      ],
-      "sports": [
-        "NBA"
-      ],
-      "address": "Fort Worth, TX"
-    },
-    {
-      "id": "venue_47",
-      "name": "River Pig Saloon",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)"
-      ],
-      "sports": [
-        "NBA"
-      ],
-      "address": "Lower Greenville, Dallas, TX"
-    },
-    {
-      "id": "venue_48",
-      "name": "Ron's Place",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "Addison, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Rusty Beagle",
+      "type": "Sports Bar",
+      "city": "Dallas",
+      "sports": [
+        "NHL"
+      ],
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "1301 Justin Road, Lewisville, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
+    },
+    {
+      "name": "Rusty Nickel Icehouse",
+      "type": "Sports Bar",
+      "city": "Dallas",
+      "sports": [
+        "NHL"
+      ],
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "Fort Worth, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
+    },
+    {
+      "name": "Scruffy Duffies",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Addison, TX"
-    },
-    {
-      "id": "venue_49",
-      "name": "Rusty Beagle",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
-      "sports": [
-        "NHL"
-      ],
-      "address": "1301 Justin Road, Lewisville, TX"
-    },
-    {
-      "id": "venue_50",
-      "name": "Rusty Nickel Icehouse",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
-      "sports": [
-        "NHL"
-      ],
-      "address": "Fort Worth, TX"
-    },
-    {
-      "id": "venue_51",
-      "name": "Scruffy Duffies",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "5865 Kincaid Rd E8, Plano, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Serious Pizza",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "5865 Kincaid Rd E8, Plano, TX"
-    },
-    {
-      "id": "venue_52",
-      "name": "Serious Pizza",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Tampa Bay Buccaneers"
       ],
+      "address": "Deep Ellum, Dallas, TX",
+      "notes": "Tampa Bay Buccaneers fans gather here"
+    },
+    {
+      "name": "Shakertins",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Deep Ellum, Dallas, TX"
-    },
-    {
-      "id": "venue_53",
-      "name": "Shakertins",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "The Colony, TX"
+      "address": "The Colony, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_54",
       "name": "Shark Club Sports Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "8451 Parkwood Boulevard, Plano, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "8451 Parkwood Boulevard, Plano, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_55",
       "name": "Sidecar Social",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Atlanta Falcons"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Addison, TX"
+      "address": "Addison, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_56",
       "name": "Snuffer's Restaurant & Bar (Multiple Locations)",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_57",
       "name": "Stan's Blue Note",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cincinnati Bengals",
-        "Dallas Stars (Home Team)",
-        "Miami Dolphins"
-      ],
       "sports": [
         "NFL",
         "NHL"
       ],
-      "address": "2908 Greenville Ave (Lower Greenville), Dallas, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)",
+        "Cincinnati Bengals",
+        "Miami Dolphins"
+      ],
+      "address": "2908 Greenville Ave (Lower Greenville), Dallas, TX",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_58",
       "name": "TNT Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minnesota Vikings"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "14902 Preston Rd #716, Dallas (Far North Dallas), TX"
+      "team_affiliations": [
+        "Minnesota Vikings"
+      ],
+      "address": "14902 Preston Rd #716, Dallas (Far North Dallas), TX",
+      "notes": "Minnesota Vikings fans gather here"
     },
     {
-      "id": "venue_59",
       "name": "Texas Live!",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Cowboys",
-        "Dallas Stars (Home Team)",
-        "Texas Rangers (Home Team)"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
       ],
-      "address": "Arlington, TX (adjacent to Globe Life Field)"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)",
+        "Dallas Cowboys",
+        "Texas Rangers (Home Team)"
+      ],
+      "address": "Arlington, TX (adjacent to Globe Life Field)",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_60",
       "name": "The AT&T Discovery District",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "Downtown Dallas, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Back 9 Sports Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Downtown Dallas, TX"
-    },
-    {
-      "id": "venue_61",
-      "name": "The Back 9 Sports Bar & Grill",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "Addison, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Backstreet Bar and Grill",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Addison, TX"
-    },
-    {
-      "id": "venue_62",
-      "name": "The Backstreet Bar and Grill",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cincinnati Bengals"
       ],
+      "address": "104 Navajo Dr, Keller, TX",
+      "notes": "Cincinnati Bengals fans gather here"
+    },
+    {
+      "name": "The Brass Tap",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "104 Navajo Dr, Keller, TX"
-    },
-    {
-      "id": "venue_63",
-      "name": "The Brass Tap",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns",
         "Houston Texans"
       ],
+      "address": "1951 FM 423 STE 900, Frisco, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Frisco Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "1951 FM 423 STE 900, Frisco, TX"
-    },
-    {
-      "id": "venue_64",
-      "name": "The Frisco Bar & Grill",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Frisco, TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Hideaway",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Frisco, TX"
-    },
-    {
-      "id": "venue_65",
-      "name": "The Hideaway",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders"
       ],
+      "address": "Preston & Henderson, Dallas, TX",
+      "notes": "Washington Commanders fans gather here"
+    },
+    {
+      "name": "The Hideaway Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Preston & Henderson, Dallas, TX"
-    },
-    {
-      "id": "venue_66",
-      "name": "The Hideaway Bar & Grill",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "14902 Preston Rd, Far North Dallas, TX",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "The Lake Haus",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "14902 Preston Rd, Far North Dallas, TX"
-    },
-    {
-      "id": "venue_67",
-      "name": "The Lake Haus",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Denton, TX"
+      "address": "Denton, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_68",
       "name": "The Living Room at W Hotel",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Victory Park, Dallas, TX"
+      "team_affiliations": [
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "Victory Park, Dallas, TX",
+      "notes": "Dallas Mavericks (Home Team) fans gather here"
     },
     {
-      "id": "venue_69",
       "name": "The Maverick",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "1616 West Hebron Parkway, Carrollton, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "1616 West Hebron Parkway, Carrollton, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_70",
       "name": "The Nodding Donkey",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Kansas City Chiefs"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "State Thomas, Dallas, TX"
+      "team_affiliations": [
+        "Kansas City Chiefs"
+      ],
+      "address": "State Thomas, Dallas, TX",
+      "notes": "Kansas City Chiefs fans gather here"
     },
     {
-      "id": "venue_71",
       "name": "The Owners Box",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)",
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "555 South Lamar Street, Downtown Dallas, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)",
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "555 South Lamar Street, Downtown Dallas, TX",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_72",
       "name": "The Quarter Bar",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "Uptown, Dallas, TX",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "The Revel Patio",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Uptown, Dallas, TX"
-    },
-    {
-      "id": "venue_73",
-      "name": "The Revel Patio",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Frisco, TX"
+      "address": "Frisco, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_74",
       "name": "The Revel Patio Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Cowboys",
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NFL",
         "NHL"
       ],
-      "address": "Frisco, TX"
-    },
-    {
-      "id": "venue_75",
-      "name": "The Star in Frisco",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "Dallas Stars (Home Team)",
         "Dallas Cowboys"
       ],
+      "address": "Frisco, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
+    },
+    {
+      "name": "The Star in Frisco",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Frisco, TX"
+      "team_affiliations": [
+        "Dallas Cowboys"
+      ],
+      "address": "Frisco, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_76",
       "name": "The Wing'd Nut Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Chicago Bears"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "720 E Campbell Rd, Richardson, TX"
+      "address": "720 E Campbell Rd, Richardson, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_77",
       "name": "Tight Ends Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "5584 Texas 121, Plano, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "5584 Texas 121, Plano, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_78",
       "name": "Topgolf Dallas",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Mavericks (Home Team)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Multiple DFW locations"
+      "team_affiliations": [
+        "Dallas Mavericks (Home Team)"
+      ],
+      "address": "Multiple DFW locations",
+      "notes": "Dallas Mavericks (Home Team) fans gather here"
     },
     {
-      "id": "venue_79",
       "name": "Twilite Lounge",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "Deep Ellum, Dallas, TX",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "Underdog Restaurant & Sports Club",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "Deep Ellum, Dallas, TX"
-    },
-    {
-      "id": "venue_80",
-      "name": "Underdog Restaurant & Sports Club",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
+      "address": "6750 Abrams Rd Suite 110 (Near Northeast Dallas), TX",
+      "notes": "Indianapolis Colts fans gather here"
+    },
+    {
+      "name": "Walk-On's Sports Bistreaux",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "6750 Abrams Rd Suite 110 (Near Northeast Dallas), TX"
-    },
-    {
-      "id": "venue_81",
-      "name": "Walk-On's Sports Bistreaux",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "401 E Interstate 20, Arlington, TX"
+      "address": "401 E Interstate 20, Arlington, TX",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_82",
       "name": "Whiskey Business",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Home Team)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Fort Worth, TX"
+      "team_affiliations": [
+        "Dallas Stars (Home Team)"
+      ],
+      "address": "Fort Worth, TX",
+      "notes": "Dallas Stars (Home Team) fans gather here"
     },
     {
-      "id": "venue_83",
       "name": "Wilson's Sports Grill",
+      "type": "Sports Bar",
       "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "13765 Noel Rd Unit 110 (Dallas International District), TX",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Wizards Sports Cafe",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "13765 Noel Rd Unit 110 (Dallas International District), TX"
-    },
-    {
-      "id": "venue_84",
-      "name": "Wizards Sports Cafe",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "747 S Central Expy, Richardson, TX",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Woody's Tavern",
+      "type": "Sports Bar",
+      "city": "Dallas",
       "sports": [
         "NFL"
       ],
-      "address": "747 S Central Expy, Richardson, TX"
-    },
-    {
-      "id": "venue_85",
-      "name": "Woody's Tavern",
-      "city": "Dallas",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers",
         "Pittsburgh Steelers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Fort Worth, TX"
+      "address": "Fort Worth, TX",
+      "notes": "Green Bay Packers fans gather here"
     }
   ]
 }

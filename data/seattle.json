@@ -1,1075 +1,998 @@
 {
   "city": "Seattle",
   "total_venues": 82,
+  "venues_with_team_affiliations": 0,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "32 Bar & Grill",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_2",
       "name": "907 Alehouse and Grill",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Alaska Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_3",
       "name": "ALEXS-BAR",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Oregon Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_4",
       "name": "Admiral Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_5",
       "name": "Anchor Alliance",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Official Kraken Bar Alliance"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_6",
       "name": "Bleachers Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Kraken",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Bars",
+        "Additional Seattle Kraken Bars"
+      ],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_7",
       "name": "Buckley's (Belltown)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_8",
       "name": "Buffalo Wild Wings",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Kraken",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Chain Restaurants",
+        "Chain Restaurants (Showing Seahawks Games)"
+      ],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_9",
       "name": "Capitol Hill / Central Seattle",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Neighborhood Favorites"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_10",
       "name": "Columbia City",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Neighborhood Favorites"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_11",
       "name": "Corner Club",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Idaho Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_12",
       "name": "Current NBA Viewing Culture",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Seattle's NBA History & Fan Culture"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_13",
       "name": "Dino's Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Renton / Kirkland Area"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_14",
       "name": "Doyle's Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Tacoma Area Bars"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_15",
       "name": "Earl's on the Ave",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_16",
       "name": "Fenders",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Alaska Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_17",
       "name": "Flight Path",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_18",
       "name": "Fremont",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Neighborhood Favorites"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_19",
       "name": "Fuel Sports Bar (Ballard)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_20",
       "name": "Gay-Friendly Sports Bars",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Neighborhood Favorites"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_21",
       "name": "Golden Roosters",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Bars"
+      ],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_22",
       "name": "Golden Roosters (Pioneer Square)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Neighborhoods"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_23",
       "name": "Greenwood",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Neighborhood Favorites"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_24",
       "name": "Hatback Bar & Grille",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Kraken",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_25",
       "name": "Hilltop Tavern",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Port Townsend"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_26",
       "name": "Hooverville Bar",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_27",
       "name": "KJ's Bar",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Capitol Hill Options"
+      ],
+      "notes": "Shows NBA, NFL games"
     },
     {
-      "id": "venue_28",
       "name": "Kell's Irish Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Irish Pubs (Show NBA Playoffs)"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_29",
       "name": "Kraken Home Opener Watch Parties (2021)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Watch Party Highlights (Historic)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_30",
       "name": "L.T.D. Bar and Grill",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_31",
       "name": "LTD Bar and Grill",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_32",
       "name": "Legion Sports Bar (Bellevue)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_33",
       "name": "Lord Stanleys",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Spokane Area (Eastern Washington)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_34",
       "name": "Madison Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Bars",
+        "Capitol Hill Options"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_35",
       "name": "Marco Polo Bar & Lounge",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Special Game Day Experiences"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_36",
       "name": "McNamara's Pub & Eatery",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Tacoma / Pierce County"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_37",
       "name": "O'Malley's Irish Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Tacoma Area"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_38",
       "name": "Owl'n Thistle",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Irish Pubs (Show NBA Playoffs)"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_39",
       "name": "Ozzie's",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_40",
       "name": "Pelicana Chicken (Capitol Hill)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_41",
       "name": "Petoskey's Sports Bar",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_42",
       "name": "Pied Piper Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Kent / South King County"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_43",
       "name": "Pioneer Square / SODO",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Neighborhood Favorites"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_44",
       "name": "Pitch the Baby",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Kraken",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Women's Sports Bars (Show Mariners Too)",
+        "Women's Sports Bars (Show Seahawks Games Too)",
+        "Women's Sports Bars (Show Kraken Games)",
+        "Women's Sports Bars"
+      ],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_45",
       "name": "Playmakers Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Battle Ground / SW Washington"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_46",
       "name": "Queen Anne Beer Hall",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Neighborhoods"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_47",
       "name": "Queen Anne Beer Hall (The Hall)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Bars"
+      ],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_48",
       "name": "Queen Anne Beerhall (The Hall)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_49",
       "name": "Reddit Communities",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Seattle SuperSonics Fan Communities"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_50",
       "name": "Rennie's Landing",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Oregon Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_51",
       "name": "Rhein Haus Seattle",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Bars",
+        "Capitol Hill Options"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_52",
       "name": "Rookies Sports Bar and Grill",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_53",
       "name": "Rookies Sports Bar and Grill (Columbia City)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Neighborhoods"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_54",
       "name": "Rough and Tumble",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Kraken",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Women's Sports Bars (Show Mariners Too)",
+        "Women's Sports Bars (Show Seahawks Games Too)",
+        "Women's Sports Bars (Show Kraken Games)",
+        "Women's Sports Bars"
+      ],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_55",
       "name": "Seahawks Bar Alliance",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Official Team Bar Alliance"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_56",
       "name": "Some Random Bar",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_57",
       "name": "Sonics Rising",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Seattle SuperSonics Fan Communities"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_58",
       "name": "Sporty's Beef & Brew",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Everett Area"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_59",
       "name": "Steelheads Alley",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_60",
       "name": "Suki's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Oregon Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_61",
       "name": "TV Broadcast Info",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Seattle's NBA History & Fan Culture"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_62",
       "name": "Tacoma Pie",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Tacoma Area Bars"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_63",
       "name": "Teddy's off Roosevelt",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_64",
       "name": "The Angry Beaver",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_65",
       "name": "The Barking Dog Alehouse",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Kraken Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_66",
       "name": "The Dock (Fremont)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_67",
       "name": "The George and Dragon Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_68",
       "name": "The Hub Tavern",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Spokane Area (Eastern Washington)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_69",
       "name": "The Local (South Lake Union)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_70",
       "name": "The Loose Wheel",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Tacoma Area Bars"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_71",
       "name": "The Octopus Bar",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_72",
       "name": "The Roanoke",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Seattle Bars",
+        "Capitol Hill Options"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_73",
       "name": "The SuperSonics Legacy",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Seattle's NBA History & Fan Culture"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_74",
       "name": "The Westside Tavern",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Olympia Area"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_75",
       "name": "The Westy (West Seattle)",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Neighborhoods"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_76",
       "name": "The Westy Roosevelt",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_77",
       "name": "Thrasher's Corner Sports Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Kraken"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_78",
       "name": "Tom's Watch Bar",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Kraken",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_79",
       "name": "Twin Peaks",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Kraken",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Chain Restaurants",
+        "Chain Restaurants (Showing Seahawks Games)"
+      ],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_80",
       "name": "Victory Hall",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle",
-        "Seattle Mariners",
-        "Seattle Seahawks"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_81",
       "name": "West End Pub",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Mariners"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Tacoma Area Bars"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_82",
       "name": "Yard House",
+      "type": "Sports Bar",
       "city": "Seattle",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Chain Restaurants"
+      ],
+      "notes": "Shows NBA games"
     }
   ]
 }

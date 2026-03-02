@@ -1,919 +1,769 @@
 {
   "city": "Cleveland",
   "total_venues": 73,
+  "venues_with_team_affiliations": 0,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "ABC The Tavern",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_2",
       "name": "AJ Rocco's",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_3",
       "name": "Around The Corner Saloon & Café",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_4",
       "name": "Bar Louie",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_5",
       "name": "Barley House",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland",
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL, NHL games"
     },
     {
-      "id": "venue_6",
       "name": "Baseball Heritage Museum",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_7",
       "name": "Buffalo Wild Wings",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_8",
       "name": "Characters Sports Bar and Grill",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_9",
       "name": "City Tap",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA games"
     },
     {
-      "id": "venue_10",
       "name": "Cleveland Barons (NHL 1976-1978)",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "🏆 HISTORICAL HOCKEY IN CLEVELAND"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_11",
       "name": "Cocky's Bagels and Bar",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_12",
       "name": "Collision Bend Brewing Company",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_13",
       "name": "Dive Bar",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland",
-        "Cleveland Browns",
-        "Cleveland Cavaliers",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_14",
       "name": "Driving from Cleveland to Columbus",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "🚗 ROAD TRIP: COLUMBUS BLUE JACKETS GAMES"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_15",
       "name": "Flannery's Pub",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA games"
     },
     {
-      "id": "venue_16",
       "name": "Gallos Tap Room Bethel Rd",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "Game On",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_18",
       "name": "Gillespie's Map Room",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_19",
       "name": "Grayton Road Tavern",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_20",
       "name": "Great Lakes Brewing Company",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_21",
       "name": "Grindstone Tap House",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns",
-        "Cleveland Cavaliers",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_22",
       "name": "HI 5",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_23",
       "name": "HI and DRY Bowling & Beer",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_24",
       "name": "Hofbräuhaus Cleveland",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_25",
       "name": "Hooley House",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_26",
       "name": "JUKEBOX",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_27",
       "name": "Johnny J's Pub & Grille",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_28",
       "name": "Johnny Malloy's Irish Sports Pub",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_29",
       "name": "Johnny's Little Bar",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_30",
       "name": "Jolly Scholar",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_31",
       "name": "Jukebox",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_32",
       "name": "Lakewood Truck Park",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_33",
       "name": "Lino's",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_34",
       "name": "Ludwig's Bar",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_35",
       "name": "Mac's Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_36",
       "name": "Market Garden Brewpub",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_37",
       "name": "Mars Bar and Cafe",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_38",
       "name": "Masthead Brewing Co.",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_39",
       "name": "Masthead Brewing Company",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_40",
       "name": "Merry Arts Pub & Grille",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_41",
       "name": "Nicks Sports Corner",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_42",
       "name": "Noble Beast Brewing",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_43",
       "name": "P.J. McIntyre's Irish Pub",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_44",
       "name": "Pioneer",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_45",
       "name": "Pizza (216)",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_46",
       "name": "Pre/Post-Game Columbus Bars",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "🚗 ROAD TRIP: COLUMBUS BLUE JACKETS GAMES"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_47",
       "name": "Rivals Sports Grille",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_48",
       "name": "Scalpers Bar & Grill",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_49",
       "name": "Scalpers Bar and Grill",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_50",
       "name": "Society Lounge",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_51",
       "name": "Southern Tier Brewing Company",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA games"
     },
     {
-      "id": "venue_52",
       "name": "Tailgate Sports Bar & Grille",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_53",
       "name": "Team Info",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "🏒 COLUMBUS BLUE JACKETS - Ohio's NHL Team",
+        "🏒 CLEVELAND MONSTERS (AHL)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_54",
       "name": "The Clevelander",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_55",
       "name": "The Clevelander Bar",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_56",
       "name": "The Clevelander Bar and Grill",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_57",
       "name": "The Corner Alley",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_58",
       "name": "The Kensington Pub",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_59",
       "name": "The W Sports Bar",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_60",
       "name": "The Wild Goose",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_61",
       "name": "The Yard on 3rd",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_62",
       "name": "Thirsty Parrot",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_63",
       "name": "Throwbacks Sports Pub",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_64",
       "name": "Twist Social Club",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_65",
       "name": "Upper Deck Bar & Grill",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_66",
       "name": "West End Tavern",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_67",
       "name": "West Park Station",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_68",
       "name": "Where to Watch Monsters Games",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "🏒 CLEVELAND MONSTERS (AHL)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_69",
       "name": "Whistle Taproom & Venue",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_70",
       "name": "Why No NHL Team?",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "🏆 HISTORICAL HOCKEY IN CLEVELAND"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_71",
       "name": "Wild Eagle Saloon",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_72",
       "name": "Winking Lizard Tavern",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland",
-        "Cleveland Browns",
-        "Cleveland Cavaliers",
-        "Cleveland Guardians"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_73",
       "name": "Woodland's Backyard",
+      "type": "Sports Bar",
       "city": "Cleveland",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     }
   ]
 }

@@ -1,1181 +1,1146 @@
 {
   "city": "Pittsburgh",
   "total_venues": 83,
+  "venues_with_team_affiliations": 0,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "5801 Video Lounge and Café",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_2",
       "name": "Allegheny City Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_3",
       "name": "Aslin Beer Company",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_4",
       "name": "Bigham Tavern",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Mt. Washington",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_5",
       "name": "Brew Gentlemen",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_6",
       "name": "Burgh'ers Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_7",
       "name": "Buxy's Salty Dog Saloon",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_8",
       "name": "COVEN Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_9",
       "name": "Cambria Hotel Pittsburgh",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Hotels Near PPG Paints Arena",
+        "Hotels with Sports Bars/Viewing"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_10",
       "name": "Cappy's Cafe",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Shadyside"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_11",
       "name": "Carson City Saloon",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_12",
       "name": "Church Brew Works",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Lawrenceville",
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_13",
       "name": "Cinderlands Beer Co. - Warehouse",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_14",
       "name": "City Works Eatery & Pour House",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Downtown",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_15",
       "name": "Cupka's Cafe II",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_16",
       "name": "Dancing Gnome",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_17",
       "name": "East End Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_18",
       "name": "Eleventh Hour Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Lawrenceville",
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_19",
       "name": "Fat Head's Saloon",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_20",
       "name": "Four Points Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_21",
       "name": "Grand Slam Lounge",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_22",
       "name": "Grand Slam Lounge (neighborhood unknown)",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Neighborhoods"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_23",
       "name": "Grist House Craft Brewery",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_24",
       "name": "Helltown Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_25",
       "name": "Hemingway's",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Oakland",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_26",
       "name": "Hitchhiker Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_27",
       "name": "Hofbrauhaus Pittsburgh",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_28",
       "name": "Holiday Inn Express & Suites Pittsburgh North Shore",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Hotels Near PPG Paints Arena",
+        "Hotels with Sports Bars/Viewing"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_29",
       "name": "Hyatt Place Pittsburgh - North Shore",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Hotels Near PPG Paints Arena",
+        "Hotels with Sports Bars/Viewing"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_30",
       "name": "Independent Brewing Company",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Other Notable Mentions"
+      ],
+      "notes": "Shows NFL, NHL games"
     },
     {
-      "id": "venue_31",
       "name": "Inner Groove",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_32",
       "name": "Jack's Bar",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_33",
       "name": "Kingfly Spirits",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_34",
       "name": "Late Addition Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_35",
       "name": "Lefty's",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_36",
       "name": "Lot 17",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Other Neighborhoods",
+        "Other Notable Mentions"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_37",
       "name": "Lucky's",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_38",
       "name": "Mario's (Oakland)",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Oakland"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_39",
       "name": "Mario's East Side Saloon",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Shadyside"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_40",
       "name": "Mario's Southside Saloon",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_41",
       "name": "McFadden's",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "North Shore (Near PPG Paints Arena)",
+        "North Shore (Near PNC Park)",
+        "Sports Bars That Show NBA Games",
+        "North Shore (Near Stadium)"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_42",
       "name": "Mike's Beer Bar",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "North Shore (Near PPG Paints Arena)",
+        "North Shore (Near PNC Park)",
+        "Sports Bars That Show NBA Games",
+        "North Shore (Near Stadium)"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_43",
       "name": "Nadine's",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_44",
       "name": "North Shore Tavern",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "North Shore (Near PPG Paints Arena)",
+        "North Shore (Near PNC Park)",
+        "Sports Bars That Show NBA Games",
+        "North Shore (Near Stadium)"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_45",
       "name": "Penn Brewery",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_46",
       "name": "Pennsylvania Market",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_47",
       "name": "Pins Mechanical Co.",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_48",
       "name": "Piper's Pub",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_49",
       "name": "Pittsburgh Brewing Co.",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Suburban Locations"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_50",
       "name": "Primanti Bros. (Strip District)",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_51",
       "name": "Primanti Bros. Market Square",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Downtown"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_52",
       "name": "Pub in the Park",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Other Neighborhoods",
+        "Suburban Locations"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_53",
       "name": "RedBeard's on Sixth",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Downtown",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_54",
       "name": "Rival",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Sports Bars That Show NBA Games",
+        "Other Notable Mentions"
+      ],
+      "notes": "Shows NFL, NHL games"
     },
     {
-      "id": "venue_55",
       "name": "Roland's",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_56",
       "name": "Roland's Seafood Grill",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_57",
       "name": "Roundabout Brewery",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_58",
       "name": "Rugger's Pub",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side",
+        "Primary NBA Viewing Venues"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_59",
       "name": "Shady Grove",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Shadyside"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_60",
       "name": "Silky's Pub",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Other Neighborhoods",
+        "Sports Bars That Show NBA Games",
+        "Other Notable Mentions"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_61",
       "name": "Sly Fox Brewing - Highline",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_62",
       "name": "SoHo (neighborhood unknown)",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Neighborhoods"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_63",
       "name": "South Side 86",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "South Side"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_64",
       "name": "Southern Tier Brewing Company",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "North Shore (Near PPG Paints Arena)",
+        "North Shore (Near PNC Park)",
+        "North Shore (Near Stadium)"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_65",
       "name": "SpringHill Suites Pittsburgh North Shore",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Hotels Near PPG Paints Arena",
+        "Hotels with Sports Bars/Viewing"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_66",
       "name": "Squirrel Hill Sports Bar",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Squirrel Hill"
+      ],
+      "notes": "Shows NFL, NHL games"
     },
     {
-      "id": "venue_67",
       "name": "Stinky's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Lawrenceville",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_68",
       "name": "Tequila Cowboy",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "North Shore (Near PPG Paints Arena)",
+        "North Shore (Near PNC Park)",
+        "Sports Bars That Show NBA Games",
+        "North Shore (Near Stadium)"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_69",
       "name": "The BeerHive",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_70",
       "name": "The Bocce House",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Sports Bars That Show NBA Games",
+        "Other Notable Mentions"
+      ],
+      "notes": "Shows NFL, NHL games"
     },
     {
-      "id": "venue_71",
       "name": "The Fire Side Public House",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Other Notable Mentions"
+      ],
+      "notes": "Shows NFL, NHL games"
     },
     {
-      "id": "venue_72",
       "name": "The Pitch on Butler",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Lawrenceville",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_73",
       "name": "The Urban Tap",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Shadyside"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_74",
       "name": "The Yard",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Notable Mentions"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_75",
       "name": "Tom's Watch Bar",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "North Shore (Near PPG Paints Arena)",
+        "North Shore (Near PNC Park)",
+        "Primary NBA Viewing Venues",
+        "North Shore (Near Stadium)"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_76",
       "name": "Trace Brewing",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_77",
       "name": "Twin Peaks (Robinson Township)",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Other Locations",
+        "Sports Bars That Show NBA Games",
+        "Suburban Locations"
+      ],
+      "notes": "Shows NFL, NHL games"
     },
     {
-      "id": "venue_78",
       "name": "Two Frays Brewery",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_79",
       "name": "Velum Fermentation",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Breweries (Sports Viewing Potential)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_80",
       "name": "Voodoo Brewing Co. - Pittsburgh Pub",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "North Shore (Near PPG Paints Arena)",
+        "North Shore (Near PNC Park)",
+        "North Shore (Near Stadium)"
+      ],
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_81",
       "name": "Wigle Whiskey",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Strip District"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_82",
       "name": "William Penn Tavern",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Shadyside",
+        "Sports Bars That Show NBA Games"
+      ],
+      "notes": "Shows MLB, NHL games"
     },
     {
-      "id": "venue_83",
       "name": "William Penn Tavern (\"The Tav\")",
+      "type": "Sports Bar",
       "city": "Pittsburgh",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Shadyside"
+      ],
+      "notes": "Shows NFL games"
     }
   ]
 }

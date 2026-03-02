@@ -1,876 +1,881 @@
 {
   "city": "Austin",
   "total_venues": 67,
+  "venues_with_team_affiliations": 28,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "512 Bar",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Arizona Cardinals"
       ],
+      "address": "408 East 6th Street, Austin, TX 78701",
+      "notes": "Arizona Cardinals fans gather here"
+    },
+    {
+      "name": "5280 Burger & Taphouse",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "408 East 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_2",
-      "name": "5280 Burger & Taphouse",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "7032 Wood Hollow Drive, Austin, TX 78731"
+      "address": "7032 Wood Hollow Drive, Austin, TX 78731",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_3",
       "name": "American League Central",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_4",
       "name": "American League East",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_5",
       "name": "American League West",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_6",
       "name": "Atlantic Division",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_7",
       "name": "Aussies",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Washington Commanders"
       ],
+      "address": "306 Barton Springs Road, Austin, TX 78704",
+      "notes": "Washington Commanders fans gather here"
+    },
+    {
+      "name": "Austin Garden & Studio at Inn Cahoots",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "306 Barton Springs Road, Austin, TX 78704"
-    },
-    {
-      "id": "venue_8",
-      "name": "Austin Garden & Studio at Inn Cahoots",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "1209 East 6th Street, Austin, TX 78702",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "B.D. Riley's Irish Pub",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "1209 East 6th Street, Austin, TX 78702"
-    },
-    {
-      "id": "venue_9",
-      "name": "B.D. Riley's Irish Pub",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New England Patriots"
       ],
+      "address": "1905 Aldrich Street, Austin, TX 78723 (Mueller location)",
+      "notes": "New England Patriots fans gather here"
+    },
+    {
+      "name": "Baker Street Pub",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "1905 Aldrich Street, Austin, TX 78723 (Mueller location)"
-    },
-    {
-      "id": "venue_10",
-      "name": "Baker Street Pub",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "3003 South Lamar Blvd, Austin, TX 78704",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Barzon",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "3003 South Lamar Blvd, Austin, TX 78704"
-    },
-    {
-      "id": "venue_11",
-      "name": "Barzon",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Rams"
       ],
+      "address": "1411 East 7th Street, Austin, TX 78702",
+      "notes": "Los Angeles Rams fans gather here"
+    },
+    {
+      "name": "Billy's On Burnet",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "1411 East 7th Street, Austin, TX 78702"
-    },
-    {
-      "id": "venue_12",
-      "name": "Billy's On Burnet",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "St. Louis Blues",
         "Green Bay Packers"
       ],
+      "address": "2105 Hancock Drive, Austin, TX 78756",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Black Sheep Lodge",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "2105 Hancock Drive, Austin, TX 78756"
-    },
-    {
-      "id": "venue_13",
-      "name": "Black Sheep Lodge",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "General Hockey-Friendly Bars",
         "Denver Broncos"
       ],
+      "address": "2108 South Lamar Blvd, Austin, TX 78704",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Blind Pig",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "2108 South Lamar Blvd, Austin, TX 78704"
-    },
-    {
-      "id": "venue_14",
-      "name": "Blind Pig",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "701 West Sixth Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Buckshots",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "701 West Sixth Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_15",
-      "name": "Buckshots",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "422 East 6th Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Buford's Backyard Beer Garden",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "422 East 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_16",
-      "name": "Buford's Backyard Beer Garden",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "700 West 6th Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Bungalow",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "700 West 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_17",
-      "name": "Bungalow",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cincinnati Bengals"
       ],
+      "address": "83 Rainey Street, Austin, TX 78701",
+      "notes": "Cincinnati Bengals fans gather here"
+    },
+    {
+      "name": "Burnside's Tavern",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "83 Rainey Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_18",
-      "name": "Burnside's Tavern",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Atlanta Falcons",
         "Tampa Bay Buccaneers"
       ],
+      "address": "413 East Sixth Street, Austin, TX 78701",
+      "notes": "Tampa Bay Buccaneers fans gather here"
+    },
+    {
+      "name": "Cabana Club",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "413 East Sixth Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_19",
-      "name": "Cabana Club",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "5012 East 7th Street, Austin, TX 78702"
+      "address": "5012 East 7th Street, Austin, TX 78702",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_20",
       "name": "Campus Area",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "907 West 24th Street, Austin, TX 78705"
+      "team_affiliations": [
+        "General NBA-Friendly Sports Bars"
+      ],
+      "address": "907 West 24th Street, Austin, TX 78705",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_21",
       "name": "Central Division",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_22",
       "name": "Chupacabra Cantina",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
+      "address": "400 East 6th Street, Austin, TX 78701",
+      "notes": "Indianapolis Colts fans gather here"
+    },
+    {
+      "name": "Common Interest Karaoke Bar",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "400 East 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_23",
-      "name": "Common Interest Karaoke Bar",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
+      "address": "8440 Burnet Road, Austin, TX 78757 (North Austin)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Dogwood",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "8440 Burnet Road, Austin, TX 78757 (North Austin)"
-    },
-    {
-      "id": "venue_24",
-      "name": "Dogwood",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Jacksonville Jaguars"
       ],
+      "address": "715 West Sixth Street, Austin, TX 78701",
+      "notes": "Jacksonville Jaguars fans gather here"
+    },
+    {
+      "name": "Dogwood - Domain",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "715 West Sixth Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_25",
-      "name": "Dogwood - Domain",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "11420 Rock Rose Avenue #130, Austin, TX 78758",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "Drifters Social Coffee & Cocktails",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "11420 Rock Rose Avenue #130, Austin, TX 78758"
-    },
-    {
-      "id": "venue_26",
-      "name": "Drifters Social Coffee & Cocktails",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders"
       ],
+      "address": "10630 Menchaca Road, Austin, TX 78748",
+      "notes": "Washington Commanders fans gather here"
+    },
+    {
+      "name": "East Austin",
+      "type": "Sports Bar",
+      "city": "Austin",
+      "sports": [
+        "NBA"
+      ],
+      "team_affiliations": [
+        "General NBA-Friendly Sports Bars"
+      ],
+      "address": "2310 Manor Road, Austin, TX 78722",
+      "notes": "Shows NBA games"
+    },
+    {
+      "name": "Eastern Conference",
+      "type": "Sports Bar",
+      "city": "Austin",
+      "sports": [
+        "NBA"
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows NBA games"
+    },
+    {
+      "name": "Gnar Bar",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "10630 Menchaca Road, Austin, TX 78748"
-    },
-    {
-      "id": "venue_27",
-      "name": "East Austin",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
-      "sports": [
-        "NBA"
-      ],
-      "address": "2310 Manor Road, Austin, TX 78722"
-    },
-    {
-      "id": "venue_28",
-      "name": "Eastern Conference",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
-      "sports": [
-        "NBA"
-      ]
-    },
-    {
-      "id": "venue_29",
-      "name": "Gnar Bar",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "219 East 6th Street, Austin, TX 78701",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "Green Light Social",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "219 East 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_30",
-      "name": "Green Light Social",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "720 West 6th Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Haymaker",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "720 West 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_31",
-      "name": "Haymaker",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions",
         "New York Jets"
       ],
+      "address": "2310 Manor Road, Austin, TX 78722",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "High 5 Entertainment",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "2310 Manor Road, Austin, TX 78722"
-    },
-    {
-      "id": "venue_32",
-      "name": "High 5 Entertainment",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "2700 West Anderson Lane, Unit 101, Austin, TX 78757",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Kung Fu Saloon",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "2700 West Anderson Lane, Unit 101, Austin, TX 78757"
-    },
-    {
-      "id": "venue_33",
-      "name": "Kung Fu Saloon",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns",
         "Kansas City Chiefs"
       ],
+      "address": "716 West 6th Street, Austin, TX 78701",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Lavaca Street Bar (downtown)",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "716 West 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_34",
-      "name": "Lavaca Street Bar (downtown)",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "TBD (downtown location)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Lavaca Street Bar - South Lamar",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "TBD (downtown location)"
-    },
-    {
-      "id": "venue_35",
-      "name": "Lavaca Street Bar - South Lamar",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Baltimore Ravens",
         "Jacksonville Jaguars"
       ],
+      "address": "3121 South Lamar Blvd, Austin, TX 78704",
+      "notes": "Multiple team fan communities"
+    },
+    {
+      "name": "Little Woodrow's West 6th",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "3121 South Lamar Blvd, Austin, TX 78704"
-    },
-    {
-      "id": "venue_36",
-      "name": "Little Woodrow's West 6th",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
+      "address": "520 West 6th Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Lou's Austin",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "520 West 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_37",
-      "name": "Lou's Austin",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Maggie Mae's",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_38",
-      "name": "Maggie Mae's",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Indianapolis Colts",
         "New England Patriots"
       ],
+      "address": "323 East 6th Street, Austin, TX 78701",
+      "notes": "Multiple team fan communities"
+    },
+    {
+      "name": "Mayfair",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "323 East 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_39",
-      "name": "Mayfair",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cincinnati Bengals"
       ],
+      "address": "501 West Sixth Street, Austin, TX 78701",
+      "notes": "Cincinnati Bengals fans gather here"
+    },
+    {
+      "name": "Metropolitan Division",
+      "type": "Sports Bar",
+      "city": "Austin",
+      "sports": [
+        "NHL"
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows NHL games"
+    },
+    {
+      "name": "Mister Tramps Sports Pub",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "501 West Sixth Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_40",
-      "name": "Metropolitan Division",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
-      "sports": [
-        "NHL"
-      ]
-    },
-    {
-      "id": "venue_41",
-      "name": "Mister Tramps Sports Pub",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "Dallas Stars",
         "Dallas Cowboys",
         "Houston Texans",
         "Tennessee Titans"
       ],
+      "address": "8565 Research Blvd, Austin, TX 78758",
+      "notes": "Tennessee Titans fans gather here"
+    },
+    {
+      "name": "National League Central",
+      "type": "Sports Bar",
+      "city": "Austin",
+      "sports": [
+        "MLB"
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows MLB games"
+    },
+    {
+      "name": "National League East",
+      "type": "Sports Bar",
+      "city": "Austin",
+      "sports": [
+        "MLB"
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows MLB games"
+    },
+    {
+      "name": "National League West",
+      "type": "Sports Bar",
+      "city": "Austin",
+      "sports": [
+        "MLB"
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows MLB games"
+    },
+    {
+      "name": "Nickel City",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "8565 Research Blvd, Austin, TX 78758"
-    },
-    {
-      "id": "venue_42",
-      "name": "National League Central",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
-      "sports": [
-        "MLB"
-      ]
-    },
-    {
-      "id": "venue_43",
-      "name": "National League East",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
-      "sports": [
-        "MLB"
-      ]
-    },
-    {
-      "id": "venue_44",
-      "name": "National League West",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
-      "sports": [
-        "MLB"
-      ]
-    },
-    {
-      "id": "venue_45",
-      "name": "Nickel City",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "1133 East 11th Street, Austin, TX 78702"
+      "address": "1133 East 11th Street, Austin, TX 78702",
+      "notes": "Buffalo Bills fans gather here"
     },
     {
-      "id": "venue_46",
       "name": "North Austin",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General NBA-Friendly Sports Bars"
+      ],
+      "address": "TBD",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_47",
       "name": "Pacific Division",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_48",
       "name": "Parlor & Yard",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "601 West 6th Street, Austin, TX 78701",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Pluckers Lakeline",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "601 West 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_49",
-      "name": "Pluckers Lakeline",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "11066 Pecan Park Boulevard, Austin, TX 78613",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "Pour Choices",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "11066 Pecan Park Boulevard, Austin, TX 78613"
-    },
-    {
-      "id": "venue_50",
-      "name": "Pour Choices",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Carolina Panthers",
         "Minnesota Vikings"
       ],
+      "address": "401 East Sixth Street, Austin, TX 78701",
+      "notes": "Multiple team fan communities"
+    },
+    {
+      "name": "Shiner's Saloon",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "401 East Sixth Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_51",
-      "name": "Shiner's Saloon",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "422 Congress Avenue, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Shoal Creek Saloon",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "422 Congress Avenue, Austin, TX 78701"
-    },
-    {
-      "id": "venue_52",
-      "name": "Shoal Creek Saloon",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "Houston Astros",
         "New Orleans Saints"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "909 North Lamar Blvd, Austin, TX 78703"
+      "address": "909 North Lamar Blvd, Austin, TX 78703",
+      "notes": "New Orleans Saints fans gather here"
     },
     {
-      "id": "venue_53",
       "name": "Shooters Billiards & Sports Bar",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "11416 Ranch Rd 620 North, Austin, TX 78726"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "11416 Ranch Rd 620 North, Austin, TX 78726",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_54",
       "name": "Star Bar",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "600 West 6th Street, Austin, TX 78701"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "600 West 6th Street, Austin, TX 78701",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_55",
       "name": "The Blind Pig",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Houston Texans"
       ],
+      "address": "317 East 6th Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Bon Aire",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "317 East 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_56",
-      "name": "The Bon Aire",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "9070 Research Blvd, #101, Austin, TX 78758",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Cat's Pajamas",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "9070 Research Blvd, #101, Austin, TX 78758"
-    },
-    {
-      "id": "venue_57",
-      "name": "The Cat's Pajamas",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "610 Nueces Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Dizzy Rooster",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "610 Nueces Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_58",
-      "name": "The Dizzy Rooster",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "306 East Sixth Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Jackalope",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "306 East Sixth Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_59",
-      "name": "The Jackalope",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "404 East 6th Street, Austin, TX 78701",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "The Local - Mockingbird Saloon",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "404 East 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_60",
-      "name": "The Local - Mockingbird Saloon",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "2610 Guadalupe Street, Austin, TX 78705",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Lodge on 6th",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "2610 Guadalupe Street, Austin, TX 78705"
-    },
-    {
-      "id": "venue_61",
-      "name": "The Lodge on 6th",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "411 East Sixth Street, Austin, TX 78701",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Third Base",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "411 East Sixth Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_62",
-      "name": "Third Base",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Miami Dolphins"
       ],
+      "address": "13301 North Highway 183, Austin, TX 78750",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Thirsty's",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "13301 North Highway 183, Austin, TX 78750"
-    },
-    {
-      "id": "venue_63",
-      "name": "Thirsty's",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears",
         "Tampa Bay Buccaneers"
       ],
+      "address": "325 East 6th Street, Austin, TX 78701",
+      "notes": "Tampa Bay Buccaneers fans gather here"
+    },
+    {
+      "name": "Top Spin",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "325 East 6th Street, Austin, TX 78701"
-    },
-    {
-      "id": "venue_64",
-      "name": "Top Spin",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "1851 South Lakeline Blvd, Cedar Park, TX 78613",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Warehouse Billiard Bar",
+      "type": "Sports Bar",
+      "city": "Austin",
       "sports": [
         "NFL"
       ],
-      "address": "1851 South Lakeline Blvd, Cedar Park, TX 78613"
-    },
-    {
-      "id": "venue_65",
-      "name": "Warehouse Billiard Bar",
-      "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Minnesota Vikings",
         "San Francisco 49ers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "509 East Ben White Boulevard, Austin, TX 78704"
+      "address": "509 East Ben White Boulevard, Austin, TX 78704",
+      "notes": "Minnesota Vikings fans gather here"
     },
     {
-      "id": "venue_66",
       "name": "West 6th",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "520 West 6th Street, Austin, TX 78701"
+      "team_affiliations": [
+        "General NBA-Friendly Sports Bars"
+      ],
+      "address": "520 West 6th Street, Austin, TX 78701",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_67",
       "name": "Western Conference",
+      "type": "Sports Bar",
       "city": "Austin",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Austin"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Teams Without Dedicated Bars"
+      ],
+      "notes": "Shows NBA games"
     }
   ]
 }

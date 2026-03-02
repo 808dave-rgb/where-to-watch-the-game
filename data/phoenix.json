@@ -1,1134 +1,1135 @@
 {
   "city": "Phoenix",
   "total_venues": 85,
+  "venues_with_team_affiliations": 35,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "Angry Crab Shack",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "2808 E. Indian School Road, Phoenix, AZ",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "Arlie's",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "2808 E. Indian School Road, Phoenix, AZ"
-    },
-    {
-      "id": "venue_2",
-      "name": "Arlie's",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Tempe, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Backyards (designated Rams room)",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Tempe, AZ"
-    },
-    {
-      "id": "venue_3",
-      "name": "Backyards (designated Rams room)",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Rams"
       ],
+      "address": "9261 East Vía de Ventura, Scottsdale, AZ",
+      "notes": "Los Angeles Rams fans gather here"
+    },
+    {
+      "name": "Big Daddy's Sports Lounge",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "9261 East Vía de Ventura, Scottsdale, AZ"
-    },
-    {
-      "id": "venue_4",
-      "name": "Big Daddy's Sports Lounge",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "10618 N. Cave Creek Road, Phoenix, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Bobby D's",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "10618 N. Cave Creek Road, Phoenix, AZ"
-    },
-    {
-      "id": "venue_5",
-      "name": "Bobby D's",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cincinnati Bengals"
       ],
+      "address": "Phoenix area (near Arcadia)",
+      "notes": "Cincinnati Bengals fans gather here"
+    },
+    {
+      "name": "Bonfire",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix area (near Arcadia)"
-    },
-    {
-      "id": "venue_6",
-      "name": "Bonfire",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "Tempe, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Bonfires Kitchen and Tap House",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Tempe, AZ"
-    },
-    {
-      "id": "venue_7",
-      "name": "Bonfires Kitchen and Tap House",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "1617 W Warner Road, Tempe, AZ 85284",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Brass Tap",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "1617 W Warner Road, Tempe, AZ 85284"
-    },
-    {
-      "id": "venue_8",
-      "name": "Brass Tap",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Gilbert, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Brick & Barley",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Gilbert, AZ"
-    },
-    {
-      "id": "venue_9",
-      "name": "Brick & Barley",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "Tempe, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Bruno's Sports Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Tempe, AZ"
-    },
-    {
-      "id": "venue_10",
-      "name": "Bruno's Sports Bar & Grill",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "16737 E. Parkview Ave., Fountain Hills, AZ"
+      "address": "16737 E. Parkview Ave., Fountain Hills, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_11",
       "name": "Buffalo Chip",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Cave Creek, AZ"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "Cave Creek, AZ",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_12",
       "name": "Cactus Jacks",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix, AZ"
+      "team_affiliations": [
+        "Cleveland Browns"
+      ],
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_13",
       "name": "Casa Amigos",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix, AZ"
+      "team_affiliations": [
+        "Cleveland Browns"
+      ],
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_14",
       "name": "Casey Jones",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "Phoenix, AZ",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Catalina Sports Bar and Grill",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix, AZ"
-    },
-    {
-      "id": "venue_15",
-      "name": "Catalina Sports Bar and Grill",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "2939 N. 16th St., Phoenix, AZ"
+      "address": "2939 N. 16th St., Phoenix, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_16",
       "name": "Cheezheadz",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "20283 N. Lake Pleasant Road, Suite 110, Peoria, AZ"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "20283 N. Lake Pleasant Road, Suite 110, Peoria, AZ",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_17",
       "name": "Clancy's",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Scottsdale, AZ"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "Scottsdale, AZ",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_18",
       "name": "Cold Beer & Cheeseburgers",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Maricopa, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Connolly's Sports Grill",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Maricopa, AZ"
-    },
-    {
-      "id": "venue_19",
-      "name": "Connolly's Sports Grill",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "2605 W. Carefree Highway, Phoenix, AZ",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "Crooked Pint",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "2605 W. Carefree Highway, Phoenix, AZ"
-    },
-    {
-      "id": "venue_20",
-      "name": "Crooked Pint",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Minnesota Vikings"
       ],
+      "address": "Inside Holiday Inn, across from stadium in Glendale, AZ",
+      "notes": "Minnesota Vikings fans gather here"
+    },
+    {
+      "name": "DTC Sports Grille",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Inside Holiday Inn, across from stadium in Glendale, AZ"
-    },
-    {
-      "id": "venue_21",
-      "name": "DTC Sports Grille",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "55 W Chicago St, Chandler, AZ 85225",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Dave & Buster's Phoenix – Scottsdale",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "55 W Chicago St, Chandler, AZ 85225"
-    },
-    {
-      "id": "venue_22",
-      "name": "Dave & Buster's Phoenix – Scottsdale",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
+      "address": "21001 N Tatum Blvd Suite 44-1400, Phoenix, AZ 85050",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Desert Rose",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "21001 N Tatum Blvd Suite 44-1400, Phoenix, AZ 85050"
-    },
-    {
-      "id": "venue_23",
-      "name": "Desert Rose",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Glendale, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Detroit Coney Grill",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Glendale, AZ"
-    },
-    {
-      "id": "venue_24",
-      "name": "Detroit Coney Grill",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "930 W. Broadway Road, Tempe, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Dierks Bentley's Whiskey Row",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "930 W. Broadway Road, Tempe, AZ"
-    },
-    {
-      "id": "venue_25",
-      "name": "Dierks Bentley's Whiskey Row",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "4420 N. Saddlebag Trail, #105, Scottsdale, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "El Hefe",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "4420 N. Saddlebag Trail, #105, Scottsdale, AZ"
-    },
-    {
-      "id": "venue_26",
-      "name": "El Hefe",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "Tempe, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Fibber Magees",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Tempe, AZ"
-    },
-    {
-      "id": "venue_27",
-      "name": "Fibber Magees",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
+      "address": "1989 W Elliot Rd #19, Chandler, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Fletcher's",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "1989 W Elliot Rd #19, Chandler, AZ"
-    },
-    {
-      "id": "venue_28",
-      "name": "Fletcher's",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "Peoria, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Four Peaks Brewery",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Peoria, AZ"
-    },
-    {
-      "id": "venue_29",
-      "name": "Four Peaks Brewery",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Minnesota Vikings"
       ],
+      "address": "1340 E. Eighth St., Tempe, AZ",
+      "notes": "Minnesota Vikings fans gather here"
+    },
+    {
+      "name": "FuNuGyz Sports Grill",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "1340 E. Eighth St., Tempe, AZ"
-    },
-    {
-      "id": "venue_30",
-      "name": "FuNuGyz Sports Grill",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "8378 W. Thunderbird Rd., Peoria, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Gallaghers",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "8378 W. Thunderbird Rd., Peoria, AZ"
-    },
-    {
-      "id": "venue_31",
-      "name": "Gallaghers",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Phoenix, AZ"
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_32",
       "name": "Half Moon Sports Grill",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Bears",
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "288 E Greenway Pkwy #103, Phoenix, AZ 85022"
-    },
-    {
-      "id": "venue_33",
-      "name": "Harold's Cave Creek Corral",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "6895 E. Cave Creek Road, Cave Creek, AZ 85331"
-    },
-    {
-      "id": "venue_34",
-      "name": "Hideaway Lounge",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas Raiders"
-      ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3215 E Thomas Rd, Phoenix, AZ 85018"
-    },
-    {
-      "id": "venue_35",
-      "name": "Hob Nob Sports Grill",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears",
-        "Chicago Blackhawks",
-        "Chicago Bulls",
         "Chicago Cubs"
       ],
+      "address": "288 E Greenway Pkwy #103, Phoenix, AZ 85022",
+      "notes": "Shows MLB, NFL games"
+    },
+    {
+      "name": "Harold's Cave Creek Corral",
+      "type": "Sports Bar",
+      "city": "Phoenix",
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
+        "Pittsburgh Steelers"
+      ],
+      "address": "6895 E. Cave Creek Road, Cave Creek, AZ 85331",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Hideaway Lounge",
+      "type": "Sports Bar",
+      "city": "Phoenix",
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
+        "Las Vegas Raiders"
+      ],
+      "address": "3215 E Thomas Rd, Phoenix, AZ 85018",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Hob Nob Sports Grill",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "7200 W Chandler Blvd, Chandler, AZ 85226"
+      "team_affiliations": [
+        "Chicago Bears",
+        "Chicago Cubs",
+        "Chicago Bulls",
+        "Chicago Blackhawks"
+      ],
+      "address": "7200 W Chandler Blvd, Chandler, AZ 85226",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_36",
       "name": "Home team - most sports bars show Cardinals games",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Arizona Cardinals"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Various locations throughout Phoenix metro"
+      "team_affiliations": [
+        "Arizona Cardinals"
+      ],
+      "address": "Various locations throughout Phoenix metro",
+      "notes": "Arizona Cardinals fans gather here"
     },
     {
-      "id": "venue_37",
       "name": "Home team - most sports bars show D-backs games",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Arizona Diamondbacks"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Various locations throughout Phoenix metro"
+      "team_affiliations": [
+        "Arizona Diamondbacks"
+      ],
+      "address": "Various locations throughout Phoenix metro",
+      "notes": "Arizona Diamondbacks fans gather here"
     },
     {
-      "id": "venue_38",
       "name": "Home team - most sports bars show Suns games",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NBA"
+      ],
+      "team_affiliations": [
         "Phoenix Suns"
       ],
-      "sports": [
-        "NBA"
-      ],
-      "address": "Various locations throughout Phoenix metro"
+      "address": "Various locations throughout Phoenix metro",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_39",
       "name": "Irish Wolfhound",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Surprise, AZ"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "Surprise, AZ",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_40",
       "name": "K O'Donnell's Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NBA"
+      ],
+      "team_affiliations": [
         "General NBA-Friendly Sports Bars (All Teams)"
       ],
-      "sports": [
-        "NBA"
-      ],
-      "address": "Scottsdale, AZ"
+      "address": "Scottsdale, AZ",
+      "notes": "General NBA-Friendly Sports Bars (All Teams) fans gather here"
     },
     {
-      "id": "venue_41",
       "name": "Liberty Tavern",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Loco Patrons",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix, AZ"
-    },
-    {
-      "id": "venue_42",
-      "name": "Loco Patrons",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "All locations in Phoenix area",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Lookout Tavern",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "All locations in Phoenix area"
-    },
-    {
-      "id": "venue_43",
-      "name": "Lookout Tavern",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "830 E Greenway Pkwy #100, Phoenix, AZ 85022",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "McFaddens",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "830 E Greenway Pkwy #100, Phoenix, AZ 85022"
-    },
-    {
-      "id": "venue_44",
-      "name": "McFaddens",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Glendale, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Mckenzies Midtown Tavern",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Glendale, AZ"
-    },
-    {
-      "id": "venue_45",
-      "name": "Mckenzies Midtown Tavern",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "4531 N 7th St, Phoenix, AZ 85014",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Moon Saloon",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "4531 N 7th St, Phoenix, AZ 85014"
-    },
-    {
-      "id": "venue_46",
-      "name": "Moon Saloon",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Phoenix, AZ"
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_47",
       "name": "Moon Saloon at Arrowhead/P83",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Blackhawks",
-        "Chicago Bulls",
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "Arrowhead area, Phoenix, AZ"
+      "team_affiliations": [
+        "Chicago Cubs",
+        "Chicago Bulls",
+        "Chicago Blackhawks"
+      ],
+      "address": "Arrowhead area, Phoenix, AZ",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_48",
       "name": "N/A - Team relocated to Utah in 2024",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Arizona Coyotes (RELOCATED)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "N/A"
+      "team_affiliations": [
+        "Arizona Coyotes (RELOCATED)"
+      ],
+      "address": "N/A",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_49",
       "name": "Nandos",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "San Francisco 49ers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Chandler, AZ"
+      "team_affiliations": [
+        "San Francisco 49ers"
+      ],
+      "address": "Chandler, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_50",
       "name": "Native Grill & Wings Mesa",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "559 S. Gilbert Road, Mesa, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "O'Kelley's",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "559 S. Gilbert Road, Mesa, AZ"
-    },
-    {
-      "id": "venue_51",
-      "name": "O'Kelley's",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "Mesa, AZ",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Padre Murphy's",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Mesa, AZ"
-    },
-    {
-      "id": "venue_52",
-      "name": "Padre Murphy's",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Phoenix area",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Peoria Pines GC",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix area"
-    },
-    {
-      "id": "venue_53",
-      "name": "Peoria Pines GC",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "Peoria, AZ",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Phat Turtle",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Peoria, AZ"
-    },
-    {
-      "id": "venue_54",
-      "name": "Phat Turtle",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "Cave Creek, AZ",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Pomeroys",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Cave Creek, AZ"
-    },
-    {
-      "id": "venue_55",
-      "name": "Pomeroys",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Pub Rock Live",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix, AZ"
-    },
-    {
-      "id": "venue_56",
-      "name": "Pub Rock Live",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "8005 E. Roosevelt St., Scottsdale, AZ",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Pullano's Pizza & Wings",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "8005 E. Roosevelt St., Scottsdale, AZ"
-    },
-    {
-      "id": "venue_57",
-      "name": "Pullano's Pizza & Wings",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "13848 N. 51st Ave., Glendale, AZ",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "RTO Sullivan's",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "13848 N. 51st Ave., Glendale, AZ"
-    },
-    {
-      "id": "venue_58",
-      "name": "RTO Sullivan's",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Miami Dolphins"
       ],
+      "address": "6646 Superstition Springs Blvd., Mesa, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "RockBar",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "6646 Superstition Springs Blvd., Mesa, AZ"
-    },
-    {
-      "id": "venue_59",
-      "name": "RockBar",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "245 N. Craftsman Court, Scottsdale, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Rooster Tavern",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "245 N. Craftsman Court, Scottsdale, AZ"
-    },
-    {
-      "id": "venue_60",
-      "name": "Rooster Tavern",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "Scottsdale, AZ",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Rosatis",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Scottsdale, AZ"
-    },
-    {
-      "id": "venue_61",
-      "name": "Rosatis",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears",
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Glendale, AZ"
+      "address": "Glendale, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_62",
       "name": "Scullys (formerly Lucky Break)",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (No Team Affiliation)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Mesa, AZ"
+      "team_affiliations": [
+        "General Hockey Bars (No Team Affiliation)"
+      ],
+      "address": "Mesa, AZ",
+      "notes": "General Hockey Bars (No Team Affiliation) fans gather here"
     },
     {
-      "id": "venue_63",
       "name": "Social Tap",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Baltimore Ravens"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "4312 N. Brown Road, Scottsdale, AZ"
+      "team_affiliations": [
+        "Baltimore Ravens"
+      ],
+      "address": "4312 N. Brown Road, Scottsdale, AZ",
+      "notes": "Baltimore Ravens fans gather here"
     },
     {
-      "id": "venue_64",
       "name": "Spring training bars near Sloan Park",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Mesa, AZ (near University & Dobson)"
+      "team_affiliations": [
+        "Chicago Cubs"
+      ],
+      "address": "Mesa, AZ (near University & Dobson)",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_65",
       "name": "Stadium Club",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Chandler, AZ"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "Chandler, AZ",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_66",
       "name": "TBD",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "MLB",
+        "NFL"
+      ],
+      "team_affiliations": [
         "Atlanta Falcons",
         "Carolina Panthers",
         "Houston Texans",
         "Jacksonville Jaguars",
-        "Los Angeles Dodgers",
         "Tampa Bay Buccaneers",
-        "Tennessee Titans"
+        "Tennessee Titans",
+        "Los Angeles Dodgers"
       ],
-      "sports": [
-        "MLB",
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_67",
       "name": "The Bar",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Blue Moose",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix, AZ"
-    },
-    {
-      "id": "venue_68",
-      "name": "The Blue Moose",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "7373 E. Scottsdale Mall, Scottsdale, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Cabin",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "7373 E. Scottsdale Mall, Scottsdale, AZ"
-    },
-    {
-      "id": "venue_69",
-      "name": "The Cabin",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Peoria, AZ"
+      "address": "Peoria, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_70",
       "name": "The Hungry Monk",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (No Team Affiliation)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Chandler, AZ"
+      "team_affiliations": [
+        "General Hockey Bars (No Team Affiliation)"
+      ],
+      "address": "Chandler, AZ",
+      "notes": "General Hockey Bars (No Team Affiliation) fans gather here"
     },
     {
-      "id": "venue_71",
       "name": "The Roadhouse (Bears Den)",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "6900 E Cave Creek Rd, Cave Creek, AZ 85331",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Social House",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "6900 E Cave Creek Rd, Cave Creek, AZ 85331"
-    },
-    {
-      "id": "venue_72",
-      "name": "The Social House",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "1440 S Country Club Dr Suite #3, Mesa, AZ 85210",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Spot at Arcadia",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "1440 S Country Club Dr Suite #3, Mesa, AZ 85210"
-    },
-    {
-      "id": "venue_73",
-      "name": "The Spot at Arcadia",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "4801 E Indian School Rd Suite 1, Phoenix, AZ 85018",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Thirsty Lion Gastropub",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "4801 E Indian School Rd Suite 1, Phoenix, AZ 85018"
-    },
-    {
-      "id": "venue_74",
-      "name": "Thirsty Lion Gastropub",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
+      "address": "7014 E. Camelback Road, #1423, Scottsdale, AZ",
+      "notes": "Indianapolis Colts fans gather here"
+    },
+    {
+      "name": "Tilted Kilt",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "7014 E. Camelback Road, #1423, Scottsdale, AZ"
-    },
-    {
-      "id": "venue_75",
-      "name": "Tilted Kilt",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders"
       ],
+      "address": "4731 E. Cactus Road, Phoenix, AZ",
+      "notes": "Washington Commanders fans gather here"
+    },
+    {
+      "name": "Tim Finnegan's Irish Restaurant and Pub",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "4731 E. Cactus Road, Phoenix, AZ"
-    },
-    {
-      "id": "venue_76",
-      "name": "Tim Finnegan's Irish Restaurant and Pub",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "9201 N. 29th Ave., Phoenix, AZ"
+      "address": "9201 N. 29th Ave., Phoenix, AZ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_77",
       "name": "Tom's Watch Bar",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General Hockey Bars (No Team Affiliation)",
-        "General NBA-Friendly Sports Bars (All Teams)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "Downtown Phoenix near Footprint Center"
+      "team_affiliations": [
+        "General NBA-Friendly Sports Bars (All Teams)",
+        "General Hockey Bars (No Team Affiliation)"
+      ],
+      "address": "Downtown Phoenix near Footprint Center",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_78",
       "name": "Toso's Sports Bar and Grill",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New England Patriots"
       ],
+      "address": "2401 W. Union Hills Drive, Phoenix, AZ 85027",
+      "notes": "New England Patriots fans gather here"
+    },
+    {
+      "name": "Tukees",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "2401 W. Union Hills Drive, Phoenix, AZ 85027"
-    },
-    {
-      "id": "venue_79",
-      "name": "Tukees",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "University Sports Grill",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix, AZ"
-    },
-    {
-      "id": "venue_80",
-      "name": "University Sports Grill",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "740 S. Mill Ave Suite D130, Tempe, AZ 85304",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Varsity Tavern",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "740 S. Mill Ave Suite D130, Tempe, AZ 85304"
-    },
-    {
-      "id": "venue_81",
-      "name": "Varsity Tavern",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "Tempe, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Wanderin",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Tempe, AZ"
-    },
-    {
-      "id": "venue_82",
-      "name": "Wanderin",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "Phoenix, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Wasted Grain",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Phoenix, AZ"
-    },
-    {
-      "id": "venue_83",
-      "name": "Wasted Grain",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "Scottsdale, AZ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Wicked Brews",
+      "type": "Sports Bar",
+      "city": "Phoenix",
       "sports": [
         "NFL"
       ],
-      "address": "Scottsdale, AZ"
-    },
-    {
-      "id": "venue_84",
-      "name": "Wicked Brews",
-      "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Ahwatukee, AZ"
+      "address": "Ahwatukee, AZ",
+      "notes": "Kansas City Chiefs fans gather here"
     },
     {
-      "id": "venue_85",
       "name": "Wicked Rain",
+      "type": "Sports Bar",
       "city": "Phoenix",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Seattle Seahawks"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1817 E Baseline Rd, Gilbert, AZ 85233"
+      "team_affiliations": [
+        "Seattle Seahawks"
+      ],
+      "address": "1817 E Baseline Rd, Gilbert, AZ 85233",
+      "notes": "Shows NFL games"
     }
   ]
 }

@@ -1,1362 +1,1363 @@
 {
   "city": "New York City",
   "total_venues": 96,
+  "venues_with_team_affiliations": 45,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "AWOL",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "25th and 3rd Ave"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "25th and 3rd Ave",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_2",
       "name": "All Stars Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Buffalo Bills"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "327 West 57th Street, New York, NY"
+      "team_affiliations": [
+        "Buffalo Bills"
+      ],
+      "address": "327 West 57th Street, New York, NY",
+      "notes": "Buffalo Bills fans gather here"
     },
     {
-      "id": "venue_3",
       "name": "Allendale Bar & Grill",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "67 West Allendale Avenue, Allendale, NJ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Allure Lounge",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "67 West Allendale Avenue, Allendale, NJ"
-    },
-    {
-      "id": "venue_4",
-      "name": "Allure Lounge",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "417 Halsey Street, Newark, NJ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "American Whiskey",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "417 Halsey Street, Newark, NJ"
-    },
-    {
-      "id": "venue_5",
-      "name": "American Whiskey",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Rams"
       ],
+      "address": "247 West 30th Street, New York, NY",
+      "notes": "Los Angeles Rams fans gather here"
+    },
+    {
+      "name": "Amity Hall",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "247 West 30th Street, New York, NY"
-    },
-    {
-      "id": "venue_6",
-      "name": "Amity Hall",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Carolina Panthers"
       ],
+      "address": "80 West 3rd Street, Greenwich Village, NY",
+      "notes": "Carolina Panthers fans gather here"
+    },
+    {
+      "name": "Bailey's Corner Pub",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "80 West 3rd Street, Greenwich Village, NY"
-    },
-    {
-      "id": "venue_7",
-      "name": "Bailey's Corner Pub",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "1607 York Avenue, New York, NY",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Bar None",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "1607 York Avenue, New York, NY"
-    },
-    {
-      "id": "venue_8",
-      "name": "Bar None",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Minnesota Vikings"
       ],
+      "address": "98 Third Avenue, New York, NY",
+      "notes": "Minnesota Vikings fans gather here"
+    },
+    {
+      "name": "Blaggard's Pub",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "98 Third Avenue, New York, NY"
-    },
-    {
-      "id": "venue_9",
-      "name": "Blaggard's Pub",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "8 West 38th Street, New York, NY",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Blue 42",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "8 West 38th Street, New York, NY"
-    },
-    {
-      "id": "venue_10",
-      "name": "Blue 42",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "158 Market St, Elmwood Park, NJ"
+      "address": "158 Market St, Elmwood Park, NJ",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_11",
       "name": "Blue Haven East",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New York Giants",
-        "New York Jets"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "493 3rd Ave, New York, NY 10016"
+      "team_affiliations": [
+        "New York Giants",
+        "New York Jets"
+      ],
+      "address": "493 3rd Ave, New York, NY 10016",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_12",
       "name": "Blue Haven South",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New York Giants",
-        "New York Jets"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "121 Fulton St, New York, NY 10038"
+      "team_affiliations": [
+        "New York Giants",
+        "New York Jets"
+      ],
+      "address": "121 Fulton St, New York, NY 10038",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_13",
       "name": "Bourbon Street",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New York Giants",
         "New York Jets"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "40-10 Bell Blvd, Queens, NY 11361"
+      "address": "40-10 Bell Blvd, Queens, NY 11361",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_14",
       "name": "Break Bar",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New York Giants"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "32-04 Broadway, Queens, NY 11106"
+      "team_affiliations": [
+        "New York Giants"
+      ],
+      "address": "32-04 Broadway, Queens, NY 11106",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_15",
       "name": "Brian Dempsey's",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New York Giants"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3931 Bell Blvd, Queens, NY 11361"
+      "team_affiliations": [
+        "New York Giants"
+      ],
+      "address": "3931 Bell Blvd, Queens, NY 11361",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_16",
       "name": "Burkes Restaurant and Bar",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Buffalo Bills"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "645 Bronx River Road, Yonkers, NY"
+      "address": "645 Bronx River Road, Yonkers, NY",
+      "notes": "Buffalo Bills fans gather here"
     },
     {
-      "id": "venue_17",
       "name": "Canal Bar",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "MLB",
+        "NFL"
+      ],
+      "team_affiliations": [
         "Chicago Bears",
         "Chicago White Sox"
       ],
-      "sports": [
-        "MLB",
-        "NFL"
-      ],
-      "address": "270 3rd Ave, Brooklyn"
+      "address": "270 3rd Ave, Brooklyn",
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_18",
       "name": "Canz Westbury",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "1610 Old Country Rd, Westbury, NY 11590",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Dan and Johns Wings",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "1610 Old Country Rd, Westbury, NY 11590"
-    },
-    {
-      "id": "venue_19",
-      "name": "Dan and Johns Wings",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "TBD (East Side)",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Dillingers Pub & Grill",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "TBD (East Side)"
-    },
-    {
-      "id": "venue_20",
-      "name": "Dillingers Pub & Grill",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "4619 30th Avenue, Astoria, NY",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "District",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "4619 30th Avenue, Astoria, NY"
-    },
-    {
-      "id": "venue_21",
-      "name": "District",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "2 Sneden Ave, Staten Island, NY 10312",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Dorrian's Red Hand",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "2 Sneden Ave, Staten Island, NY 10312"
-    },
-    {
-      "id": "venue_22",
-      "name": "Dorrian's Red Hand",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders"
       ],
+      "address": "1616 Second Avenue, New York, NY",
+      "notes": "Washington Commanders fans gather here"
+    },
+    {
+      "name": "East End Bar & Grill",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "1616 Second Avenue, New York, NY"
-    },
-    {
-      "id": "venue_23",
-      "name": "East End Bar & Grill",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills",
         "New York Giants"
       ],
+      "address": "1672 3rd Avenue, New York, NY",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Eastpoint",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "1672 3rd Avenue, New York, NY"
-    },
-    {
-      "id": "venue_24",
-      "name": "Eastpoint",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "25 Avenue B, New York, NY 10009",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Feile",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "25 Avenue B, New York, NY 10009"
-    },
-    {
-      "id": "venue_25",
-      "name": "Feile",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "131 West 33rd Street, New York, NY"
+      "address": "131 West 33rd Street, New York, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_26",
       "name": "Finnerty's (CLOSED)",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Golden State Warriors"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Manhattan (CLOSED)"
+      "team_affiliations": [
+        "Golden State Warriors"
+      ],
+      "address": "Manhattan (CLOSED)",
+      "notes": "Golden State Warriors fans gather here"
     },
     {
-      "id": "venue_27",
       "name": "Flying Puck",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New York Rangers"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "New York Rangers"
+      ],
+      "address": "TBD",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_28",
       "name": "Foley's NY (CLOSED)",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "MLB"
+      ],
+      "team_affiliations": [
         "Pittsburgh Pirates",
         "St. Louis Cardinals"
       ],
-      "sports": [
-        "MLB"
-      ],
-      "address": "18 W 33rd St (CLOSED 2020)"
+      "address": "18 W 33rd St (CLOSED 2020)",
+      "notes": "St. Louis Cardinals fans gather here"
     },
     {
-      "id": "venue_29",
       "name": "Fulton Ale House",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "1446 Fulton Street, Brooklyn, NY",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Grasshopper off the Green",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "1446 Fulton Street, Brooklyn, NY"
-    },
-    {
-      "id": "venue_30",
-      "name": "Grasshopper off the Green",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "41-43 Morris Street, Morristown, NJ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Halyards",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "41-43 Morris Street, Morristown, NJ"
-    },
-    {
-      "id": "venue_31",
-      "name": "Halyards",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New England Patriots"
       ],
+      "address": "406 3rd Avenue, Brooklyn, NY",
+      "notes": "New England Patriots fans gather here"
+    },
+    {
+      "name": "Handcraft Kitchen and Cocktails",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "406 3rd Avenue, Brooklyn, NY"
-    },
-    {
-      "id": "venue_32",
-      "name": "Handcraft Kitchen and Cocktails",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "367 3rd Avenue, New York, NY"
+      "address": "367 3rd Avenue, New York, NY",
+      "notes": "New Orleans Saints fans gather here"
     },
     {
-      "id": "venue_33",
       "name": "Haswell Green's",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "TBD",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_34",
       "name": "Hibernia Bar",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "401 West 50th Street, New York, NY"
+      "team_affiliations": [
+        "Pittsburgh Steelers"
+      ],
+      "address": "401 West 50th Street, New York, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_35",
       "name": "Hill Country BBQ",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Dallas Cowboys",
         "Houston Texans"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "30 West 26th Street, New York, NY"
+      "address": "30 West 26th Street, New York, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_36",
       "name": "John Brown BBQ",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Kansas City Chiefs"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "27-20 40th Avenue, Queens, NY"
+      "team_affiliations": [
+        "Kansas City Chiefs"
+      ],
+      "address": "27-20 40th Avenue, Queens, NY",
+      "notes": "Kansas City Chiefs fans gather here"
     },
     {
-      "id": "venue_37",
       "name": "John Brown Smokehouse",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Kansas City Chiefs"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "10-43 44th Drive, Long Island City, NY"
+      "team_affiliations": [
+        "Kansas City Chiefs"
+      ],
+      "address": "10-43 44th Drive, Long Island City, NY",
+      "notes": "Kansas City Chiefs fans gather here"
     },
     {
-      "id": "venue_38",
       "name": "Keats Bar",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
+      "address": "842 Second Avenue, New York, NY",
+      "notes": "Indianapolis Colts fans gather here"
+    },
+    {
+      "name": "Keg and Lantern",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "842 Second Avenue, New York, NY"
-    },
-    {
-      "id": "venue_39",
-      "name": "Keg and Lantern",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "97 Nassau Ave, Brooklyn, NY 11222",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Kelley's Sports Bar",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "97 Nassau Ave, Brooklyn, NY 11222"
-    },
-    {
-      "id": "venue_40",
-      "name": "Kelley's Sports Bar",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Arizona Cardinals"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "12 Avenue A, New York, NY"
+      "address": "12 Avenue A, New York, NY",
+      "notes": "Arizona Cardinals fans gather here"
     },
     {
-      "id": "venue_41",
       "name": "Kelly's Sports Bar",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "12 Avenue A, Manhattan (East Village)"
+      "team_affiliations": [
+        "Chicago Cubs"
+      ],
+      "address": "12 Avenue A, Manhattan (East Village)",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_42",
       "name": "Kent Ale House",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics",
-        "San Francisco 49ers"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "51 Kent Avenue, Brooklyn, NY"
+      "team_affiliations": [
+        "Boston Celtics",
+        "San Francisco 49ers"
+      ],
+      "address": "51 Kent Avenue, Brooklyn, NY",
+      "notes": "Shows NBA, NFL games"
     },
     {
-      "id": "venue_43",
       "name": "Kettle of Fish",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "59 Christopher Street, New York, NY",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Legends",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "59 Christopher Street, New York, NY"
-    },
-    {
-      "id": "venue_44",
-      "name": "Legends",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "6 West 33rd Street, New York, NY"
+      "address": "6 West 33rd Street, New York, NY",
+      "notes": "Indianapolis Colts fans gather here"
     },
     {
-      "id": "venue_45",
       "name": "Merrion Square",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1840 Second Avenue, New York, NY"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "1840 Second Avenue, New York, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_46",
       "name": "Mulligan's Pub",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "159 1st Street, Hoboken, NJ"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "159 1st Street, Hoboken, NJ",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_47",
       "name": "Multiple MSG-area bars",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New York Rangers"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Around Madison Square Garden"
+      "team_affiliations": [
+        "New York Rangers"
+      ],
+      "address": "Around Madison Square Garden",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_48",
       "name": "Multiple citywide",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Brooklyn Nets",
-        "New Jersey Devils",
-        "New York Islanders",
-        "New York Knicks",
-        "New York Mets",
-        "New York Yankees"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "Throughout Brooklyn/NYC"
+      "team_affiliations": [
+        "Brooklyn Nets",
+        "New York Knicks",
+        "New Jersey Devils",
+        "New York Islanders",
+        "New York Mets",
+        "New York Yankees"
+      ],
+      "address": "Throughout Brooklyn/NYC",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_49",
       "name": "Mustang Harry's",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Baltimore Ravens",
         "New York Jets",
         "San Francisco 49ers"
       ],
+      "address": "352 7th Avenue, New York, NY",
+      "notes": "Baltimore Ravens fans gather here"
+    },
+    {
+      "name": "O'Keefe's Bar and Grill",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "352 7th Avenue, New York, NY"
-    },
-    {
-      "id": "venue_50",
-      "name": "O'Keefe's Bar and Grill",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "62 Court Street, Brooklyn, NY"
+      "address": "62 Court Street, Brooklyn, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_51",
       "name": "Old Man Hustle Bar",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "308 Bedford Avenue Rear, Brooklyn, NY 11249"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "308 Bedford Avenue Rear, Brooklyn, NY 11249",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_52",
       "name": "Olde City Cheesesteaks & Brew",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "576 9th Avenue, 66 Madison Avenue, and 201 8th Avenue, New York, NY"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "576 9th Avenue, 66 Madison Avenue, and 201 8th Avenue, New York, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_53",
       "name": "One And One",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "76 East 1st Street, New York, NY"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "76 East 1st Street, New York, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_54",
       "name": "Overlook NYC",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "225 East 44th Street, New York, NY",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Park Slope Ale House",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "225 East 44th Street, New York, NY"
-    },
-    {
-      "id": "venue_55",
-      "name": "Park Slope Ale House",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "356 6th Avenue, Brooklyn, NY",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Parkside Lounge",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "356 6th Avenue, Brooklyn, NY"
-    },
-    {
-      "id": "venue_56",
-      "name": "Parkside Lounge",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "317 East Houston Street, New York, NY",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "Pennsylvania 6",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "317 East Houston Street, New York, NY"
-    },
-    {
-      "id": "venue_57",
-      "name": "Pennsylvania 6",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "132 West 31st Street, New York, NY",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Peter Dillon's",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "132 West 31st Street, New York, NY"
-    },
-    {
-      "id": "venue_58",
-      "name": "Peter Dillon's",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "130 East 40th Street, New York, NY",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Phebe's Tavern",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "130 East 40th Street, New York, NY"
-    },
-    {
-      "id": "venue_59",
-      "name": "Phebe's Tavern",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cincinnati Bengals"
       ],
+      "address": "359 Bowery, New York, NY",
+      "notes": "Cincinnati Bengals fans gather here"
+    },
+    {
+      "name": "Plug Uglies (UES)",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "359 Bowery, New York, NY"
-    },
-    {
-      "id": "venue_60",
-      "name": "Plug Uglies (UES)",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "295 3rd Avenue, New York, NY",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Printers Alley",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "295 3rd Avenue, New York, NY"
-    },
-    {
-      "id": "venue_61",
-      "name": "Printers Alley",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "215 West 40th Street, New York, NY"
+      "address": "215 West 40th Street, New York, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_62",
       "name": "Professor Thom's (Status Uncertain)",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Lower East Side"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "Lower East Side",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_63",
       "name": "Redd's Biergarten",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "220 Market Street, 37 Edison Place, Newark, NJ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Redd's Restaurant & Bar",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "220 Market Street, 37 Edison Place, Newark, NJ"
-    },
-    {
-      "id": "venue_64",
-      "name": "Redd's Restaurant & Bar",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "317 Washington Ave, Carlstadt, NJ 07072",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Redd's Tavern",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "317 Washington Ave, Carlstadt, NJ 07072"
-    },
-    {
-      "id": "venue_65",
-      "name": "Redd's Tavern",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "511 Grand St, Brooklyn, NY",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Redemption Bar",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "511 Grand St, Brooklyn, NY"
-    },
-    {
-      "id": "venue_66",
-      "name": "Redemption Bar",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "1003 Second Avenue, New York, NY"
+      "address": "1003 Second Avenue, New York, NY",
+      "notes": "Washington Commanders fans gather here"
     },
     {
-      "id": "venue_67",
       "name": "Riviera Cafe & Sports Bar",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "225 West 4th Street at 7th Avenue, West Village"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "225 West 4th Street at 7th Avenue, West Village",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_68",
       "name": "Sean Og's",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "60-02 Woodside Ave, Queens, NY 11377",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Shades of Green",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "60-02 Woodside Ave, Queens, NY 11377"
-    },
-    {
-      "id": "venue_69",
-      "name": "Shades of Green",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "125 E 15th St, New York, NY 10003",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Slattery's Midtown Pub",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "125 E 15th St, New York, NY 10003"
-    },
-    {
-      "id": "venue_70",
-      "name": "Slattery's Midtown Pub",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Miami Dolphins",
         "Minnesota Vikings"
       ],
+      "address": "8 East 36th Street, New York, NY",
+      "notes": "Minnesota Vikings fans gather here"
+    },
+    {
+      "name": "St. Pat's Bar & Grill NYC",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "8 East 36th Street, New York, NY"
-    },
-    {
-      "id": "venue_71",
-      "name": "St. Pat's Bar & Grill NYC",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Jacksonville Jaguars"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "22 West 46th Street, New York, NY"
+      "address": "22 West 46th Street, New York, NY",
+      "notes": "Jacksonville Jaguars fans gather here"
     },
     {
-      "id": "venue_72",
       "name": "Standings",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox",
-        "New York Giants",
-        "New York Rangers"
-      ],
       "sports": [
         "MLB",
         "NFL",
         "NHL"
       ],
-      "address": "43 E 7th St, New York, NY 10003"
+      "team_affiliations": [
+        "New York Rangers",
+        "New York Giants",
+        "Boston Red Sox"
+      ],
+      "address": "43 E 7th St, New York, NY 10003",
+      "notes": "Shows MLB, NFL, NHL games"
     },
     {
-      "id": "venue_73",
       "name": "Stone & Rail",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "175 Rock Road, Glen Rock, NJ",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Stout (Grand Central)",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "175 Rock Road, Glen Rock, NJ"
-    },
-    {
-      "id": "venue_74",
-      "name": "Stout (Grand Central)",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "60 East 41st St, New York, NY",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Stout NYC",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "60 East 41st St, New York, NY"
-    },
-    {
-      "id": "venue_75",
-      "name": "Stout NYC",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "133 West 33rd Street, New York, NY",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Sweet Spot Astoria",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "133 West 33rd Street, New York, NY"
-    },
-    {
-      "id": "venue_76",
-      "name": "Sweet Spot Astoria",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "2272 31st St, Queens, NY 11105"
+      "address": "2272 31st St, Queens, NY 11105",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_77",
       "name": "TBD",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "team_affiliations": [
+        "Atlanta Hawks",
+        "Charlotte Hornets",
+        "Chicago Bulls",
+        "Cleveland Cavaliers",
+        "Dallas Mavericks",
+        "Denver Nuggets",
+        "Detroit Pistons",
+        "Houston Rockets",
+        "Indiana Pacers",
+        "Los Angeles Clippers",
+        "Memphis Grizzlies",
+        "Miami Heat",
+        "Milwaukee Bucks",
+        "Minnesota Timberwolves",
+        "New Orleans Pelicans",
+        "Oklahoma City Thunder",
+        "Orlando Magic",
+        "Philadelphia 76ers",
+        "Phoenix Suns",
+        "Portland Trail Blazers",
+        "Sacramento Kings",
+        "San Antonio Spurs",
+        "Utah Jazz",
+        "Washington Wizards",
         "Anaheim Ducks",
         "Arizona Coyotes / Utah Hockey Club",
-        "Arizona Diamondbacks",
-        "Atlanta Braves",
-        "Atlanta Falcons",
-        "Atlanta Hawks",
-        "Baltimore Orioles",
         "Boston Bruins",
         "Buffalo Sabres",
         "Calgary Flames",
         "Carolina Hurricanes",
-        "Charlotte Hornets",
         "Chicago Blackhawks",
-        "Chicago Bulls",
-        "Cincinnati Reds",
-        "Cleveland Cavaliers",
-        "Cleveland Guardians",
         "Colorado Avalanche",
-        "Colorado Rockies",
         "Columbus Blue Jackets",
-        "Dallas Mavericks",
         "Dallas Stars",
-        "Denver Nuggets",
-        "Detroit Pistons",
         "Detroit Red Wings",
-        "Detroit Tigers",
         "Edmonton Oilers",
         "Florida Panthers",
-        "Houston Astros",
-        "Houston Rockets",
-        "Indiana Pacers",
-        "Kansas City Royals",
-        "Los Angeles Angels",
-        "Los Angeles Chargers",
-        "Los Angeles Clippers",
-        "Los Angeles Dodgers",
         "Los Angeles Kings",
-        "Memphis Grizzlies",
-        "Miami Heat",
-        "Miami Marlins",
-        "Milwaukee Brewers",
-        "Milwaukee Bucks",
-        "Minnesota Timberwolves",
-        "Minnesota Twins",
         "Minnesota Wild",
         "Nashville Predators",
-        "New Orleans Pelicans",
-        "Oakland Athletics",
-        "Oklahoma City Thunder",
-        "Orlando Magic",
         "Ottawa Senators",
-        "Philadelphia 76ers",
         "Philadelphia Flyers",
-        "Philadelphia Phillies",
-        "Phoenix Suns",
         "Pittsburgh Penguins",
-        "Portland Trail Blazers",
-        "Sacramento Kings",
-        "San Antonio Spurs",
-        "San Diego Padres",
-        "San Francisco Giants",
         "San Jose Sharks",
         "Seattle Kraken",
-        "Seattle Mariners",
         "St. Louis Blues",
         "Tampa Bay Lightning",
-        "Tampa Bay Rays",
-        "Tennessee Titans",
-        "Texas Rangers",
-        "Toronto Blue Jays",
-        "Utah Jazz",
         "Vegas Golden Knights",
         "Washington Capitals",
-        "Washington Nationals",
-        "Washington Wizards"
+        "Atlanta Falcons",
+        "Los Angeles Chargers",
+        "Tennessee Titans",
+        "Arizona Diamondbacks",
+        "Atlanta Braves",
+        "Baltimore Orioles",
+        "Cincinnati Reds",
+        "Cleveland Guardians",
+        "Colorado Rockies",
+        "Detroit Tigers",
+        "Houston Astros",
+        "Kansas City Royals",
+        "Los Angeles Angels",
+        "Los Angeles Dodgers",
+        "Miami Marlins",
+        "Milwaukee Brewers",
+        "Minnesota Twins",
+        "Oakland Athletics",
+        "Philadelphia Phillies",
+        "San Diego Padres",
+        "San Francisco Giants",
+        "Seattle Mariners",
+        "Tampa Bay Rays",
+        "Texas Rangers",
+        "Toronto Blue Jays",
+        "Washington Nationals"
       ],
-      "sports": [
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_78",
       "name": "TBD (Actively Sought)",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NBA"
+      ],
+      "team_affiliations": [
         "Los Angeles Lakers"
       ],
+      "address": "TBD",
+      "notes": "Los Angeles Lakers fans gather here"
+    },
+    {
+      "name": "TBD (Seeking Replacement)",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_79",
-      "name": "TBD (Seeking Replacement)",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Golden State Warriors"
       ],
-      "sports": [
-        "NBA"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Golden State Warriors fans gather here"
     },
     {
-      "id": "venue_80",
       "name": "The Canuck",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NBA",
+        "NHL"
+      ],
+      "team_affiliations": [
+        "Toronto Raptors",
         "Montreal Canadiens",
         "New York Rangers",
         "Toronto Maple Leafs",
-        "Toronto Raptors",
         "Vancouver Canucks",
         "Winnipeg Jets"
       ],
-      "sports": [
-        "NBA",
-        "NHL"
-      ],
-      "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan"
+      "address": "9th Avenue between 22nd and 23rd streets, Chelsea, Manhattan",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_81",
       "name": "The Dram Shop",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "339 9th St, Brooklyn, NY",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "The Exchange",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "339 9th St, Brooklyn, NY"
-    },
-    {
-      "id": "venue_82",
-      "name": "The Exchange",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "160 East Main Street, Rockaway, NJ",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Gaf West",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "160 East Main Street, Rockaway, NJ"
-    },
-    {
-      "id": "venue_83",
-      "name": "The Gaf West",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "401 W 48th Street, New York, NY",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "The Horseshoe Tavern",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "401 W 48th Street, New York, NY"
-    },
-    {
-      "id": "venue_84",
-      "name": "The Horseshoe Tavern",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "36 Speedwell Avenue, Morristown, NJ 07960",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Joyce Public House",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "36 Speedwell Avenue, Morristown, NJ 07960"
-    },
-    {
-      "id": "venue_85",
-      "name": "The Joyce Public House",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New England Patriots"
       ],
+      "address": "315 West 39th Street, New York, NY",
+      "notes": "New England Patriots fans gather here"
+    },
+    {
+      "name": "The Liberty",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "315 West 39th Street, New York, NY"
-    },
-    {
-      "id": "venue_86",
-      "name": "The Liberty",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "29 West 35th Street, New York, NY",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Playwright Irish Pub",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "29 West 35th Street, New York, NY"
-    },
-    {
-      "id": "venue_87",
-      "name": "The Playwright Irish Pub",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "27 West 35th Street, New York, NY"
+      "address": "27 West 35th Street, New York, NY",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_88",
       "name": "The Red Lion",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NBA"
+      ],
+      "team_affiliations": [
         "Los Angeles Lakers"
       ],
-      "sports": [
-        "NBA"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Los Angeles Lakers fans gather here"
     },
     {
-      "id": "venue_89",
       "name": "The Shannon",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "106 1st Street, Hoboken, NJ",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "The Three Monkeys",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "106 1st Street, Hoboken, NJ"
-    },
-    {
-      "id": "venue_90",
-      "name": "The Three Monkeys",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New England Patriots"
       ],
+      "address": "236 West 54th St, New York, NY",
+      "notes": "New England Patriots fans gather here"
+    },
+    {
+      "name": "The Waylon",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "236 West 54th St, New York, NY"
-    },
-    {
-      "id": "venue_91",
-      "name": "The Waylon",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "736 10th Avenue, New York, NY"
+      "address": "736 10th Avenue, New York, NY",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_92",
       "name": "Three Monkies",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "236 West 54th St"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "236 West 54th St",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_93",
       "name": "Tom and Jerry's",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "288 Elizabeth St, New York, NY",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Wicked Willy's",
+      "type": "Sports Bar",
+      "city": "New York City",
       "sports": [
         "NFL"
       ],
-      "address": "288 Elizabeth St, New York, NY"
-    },
-    {
-      "id": "venue_94",
-      "name": "Wicked Willy's",
-      "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Tampa Bay Buccaneers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "149 Bleecker Street, New York, NY"
+      "address": "149 Bleecker Street, New York, NY",
+      "notes": "Tampa Bay Buccaneers fans gather here"
     },
     {
-      "id": "venue_95",
       "name": "Windy City Ale House",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "7915 3rd Ave, Brooklyn, NY 11209"
+      "team_affiliations": [
+        "Chicago Cubs"
+      ],
+      "address": "7915 3rd Ave, Brooklyn, NY 11209",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_96",
       "name": "Wogie's",
+      "type": "Sports Bar",
       "city": "New York City",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "39 Greenwich Avenue and 44 Trinity Place, New York, NY"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "39 Greenwich Avenue and 44 Trinity Place, New York, NY",
+      "notes": "Shows NFL games"
     }
   ]
 }

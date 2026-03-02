@@ -1,843 +1,959 @@
 {
   "city": "Minneapolis",
   "total_venues": 60,
+  "venues_with_team_affiliations": 0,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "(List from NHL.com/Wild/fans/wild-watch-bars)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "OFFICIAL WILD WATCH BARS (from NHL.com/Wild)"
+      ],
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_2",
       "name": "8th St. Grill",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "Downtown Minneapolis"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "Downtown Minneapolis",
+      "notes": "Shows NBA, NFL games"
     },
     {
-      "id": "venue_3",
       "name": "Alary's Bar & Barbeque",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "St. Paul (near Xcel Energy Center)"
+      "team_affiliations": [
+        "ST. PAUL VENUES",
+        "ST. PAUL VENUES (ALSO SERVE MINNEAPOLIS AREA)",
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul (near Xcel Energy Center)",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_4",
       "name": "Alary's Bar & Barbeque (St. Paul)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "St. Paul (near Xcel Energy Center)"
+      "team_affiliations": [
+        "Chicago Bears"
+      ],
+      "address": "St. Paul (near Xcel Energy Center)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_5",
       "name": "Black Hart of Saint Paul",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "St. Paul"
+      "team_affiliations": [
+        "ST. PAUL VENUES (ALSO SERVE MINNEAPOLIS AREA)"
+      ],
+      "address": "St. Paul",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_6",
       "name": "Blarney's Pub (University of Minnesota area)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Near University of Minnesota campus"
+      "team_affiliations": [
+        "ALL OTHER NHL TEAMS"
+      ],
+      "address": "Near University of Minnesota campus",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_7",
       "name": "Boardwalk Kitchen & Bar (South Metro)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "South Metro suburbs"
+      "team_affiliations": [
+        "Minnesota Vikings"
+      ],
+      "address": "South Metro suburbs",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_8",
       "name": "Bricksworth",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "North Loop, Minneapolis"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "BREWERIES SHOWING NBA GAMES"
+      ],
+      "address": "North Loop, Minneapolis",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_9",
       "name": "Bunny's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "TBD (Minneapolis)"
+      "team_affiliations": [
+        "ALL OTHER MLB TEAMS",
+        "Minnesota Vikings"
+      ],
+      "address": "TBD (Minneapolis)",
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_10",
       "name": "Burrito Loco (University of Minnesota area)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Near University of Minnesota campus"
+      "team_affiliations": [
+        "ALL OTHER NHL TEAMS"
+      ],
+      "address": "Near University of Minnesota campus",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_11",
       "name": "Cedar Inn",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Minneapolis (different side from Ray J's)"
+      "team_affiliations": [
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "Minneapolis (different side from Ray J's)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_12",
       "name": "Complete List (May 2024):",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "OFFICIAL TIMBERWOLVES WATCH PARTY BARS (2024 Playoffs)"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_13",
       "name": "Cowboy Jack's",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "TBD (Minneapolis - multiple locations possible)"
+      "team_affiliations": [
+        "ALL OTHER NBA TEAMS",
+        "ALL OTHER MLB TEAMS",
+        "ALL OTHER NHL TEAMS",
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "TBD (Minneapolis - multiple locations possible)",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_14",
       "name": "Crooked Pint Ale House",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "501 S Washington Ave, Minneapolis, MN 55415"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "ALL OTHER NBA TEAMS",
+        "Minnesota Twins",
+        "ALL OTHER MLB TEAMS",
+        "Minnesota Wild",
+        "ALL OTHER NHL TEAMS",
+        "Minnesota Vikings",
+        "Arizona Cardinals",
+        "Atlanta Falcons",
+        "Baltimore Ravens"
+      ],
+      "address": "501 S Washington Ave, Minneapolis, MN 55415",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_15",
       "name": "Day Block Brewing Company",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "1105 S Washington Ave, Minneapolis, MN 55415"
+      "team_affiliations": [
+        "ALL OTHER NBA TEAMS",
+        "Minnesota Twins",
+        "ALL OTHER MLB TEAMS",
+        "BREWERIES SHOWING MLB GAMES",
+        "Minnesota Wild",
+        "ALL OTHER NHL TEAMS",
+        "Minnesota Vikings"
+      ],
+      "address": "1105 S Washington Ave, Minneapolis, MN 55415",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_16",
       "name": "Dulono's Sport Bar",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD (Minneapolis)"
+      "team_affiliations": [
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "TBD (Minneapolis)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "Falling Knife Brewing",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD (Minneapolis)"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "BREWERIES SHOWING NBA GAMES"
+      ],
+      "address": "TBD (Minneapolis)",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_18",
       "name": "Fulton Brewing Taproom",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Near Target Field"
+      "team_affiliations": [
+        "Minnesota Twins",
+        "BREWERIES SHOWING MLB GAMES"
+      ],
+      "address": "Near Target Field",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_19",
       "name": "General Notes",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "609 Hennepin Ave, Minneapolis, MN 55403"
+      "team_affiliations": [
+        "Dallas Cowboys",
+        "Philadelphia Eagles"
+      ],
+      "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_20",
       "name": "General Sports Bars",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "609 Hennepin Ave, Minneapolis, MN 55403"
+      "team_affiliations": [
+        "Buffalo Bills"
+      ],
+      "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_21",
       "name": "Gluek's",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "Downtown Minneapolis"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "Downtown Minneapolis",
+      "notes": "Shows NBA, NFL games"
     },
     {
-      "id": "venue_22",
       "name": "Gluek's Restaurant & Bar",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "Downtown Minneapolis"
+      "team_affiliations": [
+        "ALL OTHER NBA TEAMS",
+        "ALL OTHER MLB TEAMS",
+        "ALL OTHER NHL TEAMS"
+      ],
+      "address": "Downtown Minneapolis",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_23",
       "name": "Half Time Rec",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "St. Paul (outside city center)"
+      "team_affiliations": [
+        "ST. PAUL VENUES",
+        "ST. PAUL VENUES (ALSO SERVE MINNEAPOLIS AREA)",
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul (outside city center)",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_24",
       "name": "Half Time Rec (St. Paul)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "St. Paul (outside city center)"
+      "team_affiliations": [
+        "Minnesota Vikings"
+      ],
+      "address": "St. Paul (outside city center)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_25",
       "name": "Indeed Brewing Company",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "Northeast Minneapolis"
+      "team_affiliations": [
+        "BREWERIES SHOWING NBA GAMES",
+        "BREWERIES SHOWING MLB GAMES",
+        "BREWERIES SHOWING NHL GAMES"
+      ],
+      "address": "Northeast Minneapolis",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_26",
       "name": "Jackson's Hole",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "106 N 3rd St, Minneapolis, MN 55401"
+      "team_affiliations": [
+        "Minnesota Timberwolves"
+      ],
+      "address": "106 N 3rd St, Minneapolis, MN 55401",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_27",
       "name": "Jackson's Hole Bar & Grill",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "106 N 3rd St, Minneapolis, MN 55401"
+      "team_affiliations": [
+        "ALL OTHER NBA TEAMS",
+        "Minnesota Twins",
+        "ALL OTHER MLB TEAMS",
+        "Minnesota Wild",
+        "ALL OTHER NHL TEAMS",
+        "Minnesota Vikings"
+      ],
+      "address": "106 N 3rd St, Minneapolis, MN 55401",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_28",
       "name": "Joe & Stan's Pub & Grill",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "St. Paul"
+      "team_affiliations": [
+        "ST. PAUL VENUES",
+        "ST. PAUL VENUES (ALSO SERVE MINNEAPOLIS AREA)",
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_29",
       "name": "Joe Senser's",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD (Minneapolis area)"
+      "team_affiliations": [
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "TBD (Minneapolis area)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_30",
       "name": "Kieran's",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Downtown Minneapolis"
+      "team_affiliations": [
+        "Minnesota Timberwolves"
+      ],
+      "address": "Downtown Minneapolis",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_31",
       "name": "Kieran's Irish Pub",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "Downtown Minneapolis"
+      "team_affiliations": [
+        "ALL OTHER NBA TEAMS",
+        "ALL OTHER MLB TEAMS",
+        "ALL OTHER NHL TEAMS",
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "Downtown Minneapolis",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_32",
       "name": "Lyon's Pub",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "Downtown Minneapolis"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "ALL OTHER NBA TEAMS",
+        "ALL OTHER MLB TEAMS",
+        "ALL OTHER NHL TEAMS",
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "Downtown Minneapolis",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_33",
       "name": "Mac's Industrial Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "Northeast Minneapolis"
+      "team_affiliations": [
+        "ALL OTHER NBA TEAMS",
+        "Minnesota Wild",
+        "ALL OTHER NHL TEAMS"
+      ],
+      "address": "Northeast Minneapolis",
+      "notes": "Shows NBA, NHL games"
     },
     {
-      "id": "venue_34",
       "name": "Mackenzie Pub",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "ALL OTHER NBA TEAMS"
+      ],
+      "address": "TBD",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_35",
       "name": "Nickel Sports Bar",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "St. Paul"
+      "team_affiliations": [
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_36",
       "name": "Northern Taphouse",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "TBD (Minneapolis)"
+      "team_affiliations": [
+        "ALL OTHER MLB TEAMS",
+        "Minnesota Vikings"
+      ],
+      "address": "TBD (Minneapolis)",
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_37",
       "name": "Obb's Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "St. Paul (5 minutes from downtown)"
+      "team_affiliations": [
+        "ST. PAUL VENUES",
+        "ST. PAUL VENUES (ALSO SERVE MINNEAPOLIS AREA)",
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul (5 minutes from downtown)",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_38",
       "name": "Outpost",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Minnesota Wild"
+      ],
+      "address": "TBD",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_39",
       "name": "Palace NE",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Northeast Minneapolis"
+      "team_affiliations": [
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "Northeast Minneapolis",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_40",
       "name": "Pillbox Tavern",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "St. Paul"
+      "team_affiliations": [
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_41",
       "name": "Ray J's American Grill",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "TBD (Minneapolis)"
+      "team_affiliations": [
+        "ALL OTHER MLB TEAMS",
+        "Minnesota Vikings"
+      ],
+      "address": "TBD (Minneapolis)",
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_42",
       "name": "Sneaky Pete's",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "Downtown Minneapolis"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "ALL OTHER NBA TEAMS",
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "Downtown Minneapolis",
+      "notes": "Shows NBA, NFL games"
     },
     {
-      "id": "venue_43",
       "name": "Surly Brewing",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "TBD (Minneapolis)"
+      "team_affiliations": [
+        "BREWERIES SHOWING NBA GAMES",
+        "BREWERIES SHOWING MLB GAMES",
+        "BREWERIES SHOWING NHL GAMES",
+        "Minnesota Vikings"
+      ],
+      "address": "TBD (Minneapolis)",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_44",
       "name": "Tailgate Sports Café",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "TBD (Minneapolis)"
+      "team_affiliations": [
+        "ALL OTHER MLB TEAMS",
+        "Minnesota Vikings"
+      ],
+      "address": "TBD (Minneapolis)",
+      "notes": "Shows MLB, NFL games"
     },
     {
-      "id": "venue_45",
       "name": "The Dugout Bar",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "St. Paul"
+      "team_affiliations": [
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_46",
       "name": "The Library Bar (University of Minnesota area)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Near University of Minnesota campus"
+      "team_affiliations": [
+        "ALL OTHER NHL TEAMS"
+      ],
+      "address": "Near University of Minnesota campus",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_47",
       "name": "The Local",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "Downtown Minneapolis"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "ALL OTHER NBA TEAMS",
+        "Minnesota Wild",
+        "ADDITIONAL VENUES - GENERAL NFL VIEWING"
+      ],
+      "address": "Downtown Minneapolis",
+      "notes": "Shows NBA, NFL, NHL games"
     },
     {
-      "id": "venue_48",
       "name": "The Loon Cafe",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "500 1st Ave N, Minneapolis, MN 55403"
+      "team_affiliations": [
+        "ALL OTHER NBA TEAMS",
+        "Minnesota Twins",
+        "ALL OTHER MLB TEAMS",
+        "Minnesota Wild",
+        "ALL OTHER NHL TEAMS",
+        "Minnesota Vikings"
+      ],
+      "address": "500 1st Ave N, Minneapolis, MN 55403",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_49",
       "name": "The Pourhouse",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Minnesota Timberwolves"
+      ],
+      "address": "TBD",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_50",
       "name": "The Rabbit Hole",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "Near Minneapolis Sculpture Garden (North Loop)"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "Minnesota Twins",
+        "Minnesota Wild",
+        "Minnesota Vikings"
+      ],
+      "address": "Near Minneapolis Sculpture Garden (North Loop)",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_51",
       "name": "Tiff's Sports Lounge (East of river)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD (East of Mississippi River)"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "TBD (East of Mississippi River)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_52",
       "name": "Tiffany Sports Lounge",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "St. Paul"
+      "team_affiliations": [
+        "ST. PAUL VENUES",
+        "ST. PAUL VENUES (ALSO SERVE MINNEAPOLIS AREA)",
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_53",
       "name": "Tom Reid's Hockey City Pub",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "Near Xcel Energy Center, St. Paul"
+      "team_affiliations": [
+        "ST. PAUL VENUES",
+        "ST. PAUL VENUES (ALSO SERVE MINNEAPOLIS AREA)",
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "Near Xcel Energy Center, St. Paul",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_54",
       "name": "Tom Reid's Hockey City Pub (St. Paul)",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Near Xcel Energy Center, St. Paul"
+      "team_affiliations": [
+        "Minnesota Wild"
+      ],
+      "address": "Near Xcel Energy Center, St. Paul",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_55",
       "name": "Tom's Watch Bar",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "609 Hennepin Ave, Minneapolis, MN 55403"
+      "team_affiliations": [
+        "Minnesota Timberwolves",
+        "ALL OTHER NBA TEAMS",
+        "Minnesota Twins",
+        "ALL OTHER MLB TEAMS",
+        "Minnesota Wild",
+        "ALL OTHER NHL TEAMS",
+        "Minnesota Vikings",
+        "Arizona Cardinals",
+        "Atlanta Falcons",
+        "Baltimore Ravens",
+        "Buffalo Bills",
+        "Carolina Panthers",
+        "Chicago Bears",
+        "Cincinnati Bengals",
+        "Cleveland Browns",
+        "Dallas Cowboys",
+        "Denver Broncos",
+        "Detroit Lions",
+        "Green Bay Packers",
+        "Houston Texans",
+        "Indianapolis Colts",
+        "Jacksonville Jaguars",
+        "Kansas City Chiefs",
+        "Las Vegas Raiders",
+        "Los Angeles Chargers",
+        "Los Angeles Rams",
+        "Miami Dolphins",
+        "New England Patriots",
+        "New Orleans Saints",
+        "New York Giants",
+        "New York Jets",
+        "Philadelphia Eagles",
+        "Pittsburgh Steelers",
+        "San Francisco 49ers",
+        "Seattle Seahawks",
+        "Tampa Bay Buccaneers",
+        "Tennessee Titans",
+        "Washington Commanders"
+      ],
+      "address": "609 Hennepin Ave, Minneapolis, MN 55403",
+      "notes": "Shows MLB, NBA, NFL, NHL games"
     },
     {
-      "id": "venue_56",
       "name": "Truck Park",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Down the block from Tom Reid's, St. Paul"
+      "team_affiliations": [
+        "Minnesota Wild",
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "Down the block from Tom Reid's, St. Paul",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_57",
       "name": "Wild Bill's Sports Saloon",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NHL"
       ],
-      "address": "St. Paul"
+      "team_affiliations": [
+        "ST. PAUL VENUES",
+        "ST. PAUL VENUES (ALSO SERVE MINNEAPOLIS AREA)",
+        "ST. PAUL VENUES (CLOSE TO XCEL ENERGY CENTER)"
+      ],
+      "address": "St. Paul",
+      "notes": "Shows MLB, NBA, NHL games"
     },
     {
-      "id": "venue_58",
       "name": "Wildcats Bar & Grill",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Minnesota Wild"
+      ],
+      "address": "TBD",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_59",
       "name": "Willy McCoy's",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Minnesota Wild"
+      ],
+      "address": "TBD",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_60",
       "name": "Willy McCoys",
+      "type": "Sports Bar",
       "city": "Minneapolis",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Minneapolis"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Minnesota Timberwolves"
+      ],
+      "address": "TBD",
+      "notes": "Shows NBA games"
     }
   ]
 }

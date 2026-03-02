@@ -1,941 +1,920 @@
 {
   "city": "Miami",
   "total_venues": 74,
+  "venues_with_team_affiliations": 43,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "305 Sports Bar",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Brickell Sports Bars",
+        "Downtown / Brickell Venues"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_2",
       "name": "American Social",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers",
-        "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Top-Rated Heat Watch Party Locations",
+        "Downtown / Brickell Venues",
+        "Brickell Sports Bars"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_3",
       "name": "American Social Boca Raton",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_4",
       "name": "American Social Fort Lauderdale",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_5",
       "name": "BRGR STOP",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Notable Locations"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_6",
       "name": "Ball & Chain",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Little Havana (Near loanDepot Park)"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_7",
       "name": "Batch Gastropub",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Brickell Sports Bars",
+        "Downtown / Brickell Venues"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_8",
       "name": "Batting Cage Sports Bar & Lounge",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Little Havana (Near loanDepot Park)"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_9",
       "name": "Biscayne Bay Brewing Company",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_10",
       "name": "Black Market Miami",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Brickell Sports Bars",
+        "Downtown / Brickell Venues"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_11",
       "name": "Bokampers Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Top GameWatch.info Locations"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_12",
       "name": "Bounce Sporting Club",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_13",
       "name": "Briny Irish Pub",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_14",
       "name": "CJ Blacks",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_15",
       "name": "Casa D Miami",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Heat"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Heat-Friendly Locations"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_16",
       "name": "Casa Tiki (The Dead Flamingo)",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_17",
       "name": "Cerveceria La Tropical",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Wynwood / Edgewater Area"
+      ],
+      "notes": "Shows MLB, NBA games"
     },
     {
-      "id": "venue_18",
       "name": "Cheers Bar",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Heat"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Heat-Friendly Locations"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_19",
       "name": "Clevelander Sports Bar (Kush at Clevelander)",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins",
-        "Miami Heat"
-      ],
       "sports": [
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Miami Beach / South Beach"
+      ],
+      "notes": "Shows NBA, NFL games"
     },
     {
-      "id": "venue_20",
       "name": "Coconut Grove",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_21",
       "name": "Con Murphys",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_22",
       "name": "Davie / Cooper City",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Fort Lauderdale / Broward County (Cats on Tap)"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_23",
       "name": "Doral",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_24",
       "name": "Duffy's Sports Grill",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers",
-        "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Chain Options (Reliable Heat Coverage)",
+        "North Miami / North Miami Beach"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_25",
       "name": "Duffy's Sports Grill Boca/Coconut Creek",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_26",
       "name": "Duffy's Sports Grill Plantation",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_27",
       "name": "ER Bradley's",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_28",
       "name": "Elbo Room",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_29",
       "name": "Fatty Crab",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Heat"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "West Miami / Doral"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_30",
       "name": "Flanigan's Seafood Bar and Grill",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Chain Options (Reliable Heat Coverage)",
+        "Official Team Bar Network Locations"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_31",
       "name": "Fort Lauderdale Area",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Fort Lauderdale / Broward County (Cats on Tap)"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_32",
       "name": "Funky Buddha Brewery",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Notable Locations"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_33",
       "name": "Geronimo's",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_34",
       "name": "Grails",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_35",
       "name": "Grails Miami - Restaurant & Sports Bar",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Top-Rated Heat Watch Party Locations",
+        "Wynwood / Edgewater"
+      ],
+      "notes": "Shows MLB, NBA, NFL games"
     },
     {
-      "id": "venue_36",
       "name": "Hallandale Beach",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_37",
       "name": "Hott Leggz",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_38",
       "name": "Irish Brigade Pub",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_39",
       "name": "Irishmen",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Notable Locations"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_40",
       "name": "Islander Bar and Grill",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Heat"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Heat-Friendly Locations"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_41",
       "name": "Kirby's",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_42",
       "name": "McSorely's FTL",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_43",
       "name": "Miccosukee Resort & Gaming",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Heat"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Heat-Friendly Locations"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_44",
       "name": "Mickey Burkes",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins",
-        "Miami Heat"
-      ],
       "sports": [
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Miami Beach / South Beach"
+      ],
+      "notes": "Shows NBA, NFL games"
     },
     {
-      "id": "venue_45",
       "name": "Mike's at Venetia",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins",
-        "Miami Heat"
-      ],
       "sports": [
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Downtown Miami"
+      ],
+      "notes": "Shows NBA, NFL games"
     },
     {
-      "id": "venue_46",
       "name": "Mis-Cue Lounge",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_47",
       "name": "O'Brian's Pub",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_48",
       "name": "O'Connors Irish Pub",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_49",
       "name": "O'Shea's Pub",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_50",
       "name": "Oakland Park / Pompano Beach",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Fort Lauderdale / Broward County (Cats on Tap)"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_51",
       "name": "Old Tom's (formerly Tom's NFL)",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Dolphins"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Near Airport / Miami Springs"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_52",
       "name": "PINCHO",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Participating Restaurants (Marlins Network)"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_53",
       "name": "Panthers Point Bar & Grill",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Notable Locations"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_54",
       "name": "Pig Beach",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_55",
       "name": "Plantation",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Fort Lauderdale / Broward County (Cats on Tap)"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_56",
       "name": "Recess Sports Lounge",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "At the Stadium (loanDepot Park)"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_57",
       "name": "Round Up",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_58",
       "name": "Sandbar Cutler Bay",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_59",
       "name": "Sandbar Sports Grill",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers",
-        "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Coral Gables",
+        "Coconut Grove",
+        "Official Team Bar Network Locations",
+        "Top GameWatch.info Locations"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_60",
       "name": "Sports & Social Sports Bar",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "West Miami / Doral"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_61",
       "name": "Sports Grill",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_62",
       "name": "SuViche",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Participating Restaurants (Marlins Network)"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_63",
       "name": "Texas Roadhouse",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Official Partners"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_64",
       "name": "Thank You Miami",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Official Partners"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_65",
       "name": "The Bamboo Room (Esme Hotel lobby bar)",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Heat"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Hotel Bars"
+      ],
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_66",
       "name": "The Bend",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_67",
       "name": "The Brightside",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Official Partners"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_68",
       "name": "The Clevelander at Marlins Park",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Miami Marlins"
-      ],
       "sports": [
         "MLB"
-      ]
+      ],
+      "team_affiliations": [
+        "At the Stadium (loanDepot Park)"
+      ],
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_69",
       "name": "The Inn Field",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Additional Notable Locations"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_70",
       "name": "Tin Cup",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_71",
       "name": "Tin Roof Delray Beach",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_72",
       "name": "Tin Roof FTL",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_73",
       "name": "Townies Tavern",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Florida Panthers"
+      ],
+      "notes": "Florida Panthers fans gather here"
     },
     {
-      "id": "venue_74",
       "name": "Whistle Stop",
+      "type": "Sports Bar",
       "city": "Miami",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Florida Panthers"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Top GameWatch.info Locations"
+      ],
+      "notes": "Florida Panthers fans gather here"
     }
   ]
 }

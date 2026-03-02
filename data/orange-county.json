@@ -1,465 +1,495 @@
 {
   "city": "Orange County",
   "total_venues": 38,
+  "venues_with_team_affiliations": 9,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "Avenue Restaurant and Music Lounge",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Dallas Cowboys"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_2",
       "name": "BWW (Buffalo Wild Wings)",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL SPORTS BARS (All NFL Games)"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_3",
       "name": "Bowlero Orange County",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "New England Patriots"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_4",
       "name": "Brewery X",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Dodgers",
+        "Anaheim Ducks"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_5",
       "name": "Classic Q",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL SPORTS BARS (All NFL Games)",
+        "Lakers",
+        "Clippers",
+        "Warriors",
+        "Celtics",
+        "Nets",
+        "Knicks",
+        "76ers",
+        "Raptors",
+        "Pistons",
+        "Pacers",
+        "Hawks",
+        "Hornets",
+        "Magic",
+        "Wizards",
+        "Nuggets",
+        "Thunder",
+        "Jazz",
+        "Suns",
+        "Kings",
+        "Rockets",
+        "Pelicans"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_6",
       "name": "Costa Mesa 55 Tavern+Bowl",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Seattle Seahawks"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_7",
       "name": "Cruisers Pizza Bar & Grill",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_8",
       "name": "Cruisers Pizza Bar Grill (Huntington Beach)",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Chicago Bears"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_9",
       "name": "Cruisers Pizza Bar Grill (Newport Beach)",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Buffalo Bills",
+        "Chicago Bears",
+        "Green Bay Packers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_10",
       "name": "Danny K's Billiards & Sports Bar",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars",
-        "Orange County"
-      ],
       "sports": [
         "NFL",
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL SPORTS BARS (All NFL Games)",
+        "Angels",
+        "Anaheim Ducks",
+        "Los Angeles Kings"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_11",
       "name": "Dave & Buster's Orange",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Chargers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_12",
       "name": "Golden Road Brewing Anaheim",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Anaheim Ducks"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_13",
       "name": "Hollingshead's Delicatessen",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_14",
       "name": "InCahoots",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Dallas Cowboys"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_15",
       "name": "JT Schmid's Restaurant & Brewery",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Angels",
+        "Anaheim Ducks"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_16",
       "name": "Killarney's Irish Pub",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Las Vegas Raiders"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "Marlin Bar & Grill",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_18",
       "name": "Michael's Sports Pub and Grill",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_19",
       "name": "Mutt Lynch's",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL SPORTS BARS (All NFL Games)",
+        "Angels"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_20",
       "name": "My Place Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Kansas City Chiefs"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_21",
       "name": "Newport Rib Company",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Chargers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_22",
       "name": "Next Round Bar & Grill",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Las Vegas Raiders"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_23",
       "name": "O'Connell's Sports Pub & Grille",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "Red Sox",
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_24",
       "name": "OC Local Tap Room",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL SPORTS BARS (All NFL Games)"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_25",
       "name": "Oggi's Sports Brewhouse Pizza",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Denver Broncos"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_26",
       "name": "Old Crow Smokehouse",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "San Francisco 49ers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_27",
       "name": "Palapa Grill",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Rams"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_28",
       "name": "Patrick's Pub",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Cleveland Browns"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_29",
       "name": "Patsy's Irish Pub",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Cleveland Browns"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_30",
       "name": "Players Sports Grill",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Pittsburgh Steelers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_31",
       "name": "Stag Bar + Kitchen",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL SPORTS BARS (All NFL Games)"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_32",
       "name": "The Black Marlin",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Cleveland Browns"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_33",
       "name": "The Classic Q",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_34",
       "name": "The Hub Kitchen & Taps",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Chargers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_35",
       "name": "The Huddle",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_36",
       "name": "The Irishman",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NHL Team Bars"
-      ],
       "sports": [
         "NHL"
-      ]
+      ],
+      "team_affiliations": [
+        "GENERAL ORANGE COUNTY SPORTS BARS"
+      ],
+      "notes": "NHL Team Bars fans gather here"
     },
     {
-      "id": "venue_37",
       "name": "The Starting Gate",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Pittsburgh Steelers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_38",
       "name": "Wings 'N Things Grill",
+      "type": "Sports Bar",
       "city": "Orange County",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Orange County"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Buffalo Bills"
+      ],
+      "notes": "Shows NFL games"
     }
   ]
 }

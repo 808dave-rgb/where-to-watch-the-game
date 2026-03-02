@@ -1,1124 +1,1125 @@
 {
   "city": "Chicago",
   "total_venues": 78,
+  "venues_with_team_affiliations": 29,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "Avenue Tavern",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Bad Dog Tavern",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_2",
-      "name": "Bad Dog Tavern",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Beck's Chicago",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_3",
-      "name": "Beck's Chicago",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "2201 N Clybourn Ave, Chicago, IL 60614",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Brendan's",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "2201 N Clybourn Ave, Chicago, IL 60614"
-    },
-    {
-      "id": "venue_4",
-      "name": "Brendan's",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New England Patriots"
       ],
+      "address": "TBD",
+      "notes": "New England Patriots fans gather here"
+    },
+    {
+      "name": "Brownstone Tavern",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_5",
-      "name": "Brownstone Tavern",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3937 N Lincoln Ave, Chicago, IL 60613"
+      "address": "3937 N Lincoln Ave, Chicago, IL 60613",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_6",
       "name": "Bulls Bar Network (Official)",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Bulls"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Multiple locations across Chicagoland"
+      "team_affiliations": [
+        "Chicago Bulls"
+      ],
+      "address": "Multiple locations across Chicagoland",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_7",
       "name": "Burke's Public House",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "5401 N Broadway, Chicago, IL 60640",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Butch McGuire's",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "5401 N Broadway, Chicago, IL 60640"
-    },
-    {
-      "id": "venue_8",
-      "name": "Butch McGuire's",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Cheesie's",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_9",
-      "name": "Cheesie's",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Commonwealth Tavern",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_10",
-      "name": "Commonwealth Tavern",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "North Center neighborhood near Roscoe Village"
+      "address": "North Center neighborhood near Roscoe Village",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_11",
       "name": "Cubby Bear",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Across from Wrigley Field"
+      "team_affiliations": [
+        "Chicago Cubs"
+      ],
+      "address": "Across from Wrigley Field",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_12",
       "name": "Dante's Tavern",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
+      "address": "1936 W Chicago Ave, Chicago, IL 60622",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Dark Horse",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "1936 W Chicago Ave, Chicago, IL 60622"
-    },
-    {
-      "id": "venue_13",
-      "name": "Dark Horse",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Delilah's Bar",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_14",
-      "name": "Delilah's Bar",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "2771 N. Lincoln, Chicago, IL 60614",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "Dram Shop",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "2771 N. Lincoln, Chicago, IL 60614"
-    },
-    {
-      "id": "venue_15",
-      "name": "Dram Shop",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "TBD",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "Duffy's Tavern & Grille",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_16",
-      "name": "Duffy's Tavern & Grille",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "420 W Diversey Pkwy, Chicago, IL 60614"
+      "address": "420 W Diversey Pkwy, Chicago, IL 60614",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "Durkin's",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL",
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Pittsburgh Steelers",
+        "Pittsburgh Penguins"
+      ],
+      "address": "TBD",
+      "notes": "Shows NFL, NHL games"
     },
     {
-      "id": "venue_18",
       "name": "Every bar in Chicago with a TV",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "Various",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Fizz Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "Various"
-    },
-    {
-      "id": "venue_19",
-      "name": "Fizz Bar & Grill",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "TBD",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "George Street Pub",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_20",
-      "name": "George Street Pub",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Baltimore Ravens"
       ],
+      "address": "2858 N Halsted St, Chicago, IL 60657",
+      "notes": "Baltimore Ravens fans gather here"
+    },
+    {
+      "name": "Gold Star Bar",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "2858 N Halsted St, Chicago, IL 60657"
-    },
-    {
-      "id": "venue_21",
-      "name": "Gold Star Bar",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_22",
       "name": "Gracie O'Malley's – Wicker Park",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "San Francisco 49ers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1635 N Milwaukee Ave, Chicago, IL 60647"
+      "team_affiliations": [
+        "San Francisco 49ers"
+      ],
+      "address": "1635 N Milwaukee Ave, Chicago, IL 60647",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_23",
       "name": "Grand River Bar & Grill",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "San Francisco 49ers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "San Francisco 49ers"
+      ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_24",
       "name": "Hidden Shamrock",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New England Patriots"
       ],
+      "address": "TBD",
+      "notes": "New England Patriots fans gather here"
+    },
+    {
+      "name": "Joe's on Weed St.",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_25",
-      "name": "Joe's on Weed St.",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "John Barleycorn",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_26",
-      "name": "John Barleycorn",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Cleveland Browns"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Clark St (exact address TBD)"
+      "address": "Clark St (exact address TBD)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_27",
       "name": "John Barleycorn Wrigleyville",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Cavaliers"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "3524 N Clark St, Chicago, 60657"
+      "team_affiliations": [
+        "Cleveland Cavaliers"
+      ],
+      "address": "3524 N Clark St, Chicago, 60657",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_28",
       "name": "Kincade's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cincinnati Bengals"
       ],
+      "address": "950 W Armitage Ave, Chicago, IL 60614",
+      "notes": "Cincinnati Bengals fans gather here"
+    },
+    {
+      "name": "Kroll's South Loop",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "950 W Armitage Ave, Chicago, IL 60614"
-    },
-    {
-      "id": "venue_29",
-      "name": "Kroll's South Loop",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "TBD",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Lincoln Tap Room",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_30",
-      "name": "Lincoln Tap Room",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "3010 N Lincoln Ave, Chicago, IL 60657",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Lottie's Pub",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "3010 N Lincoln Ave, Chicago, IL 60657"
-    },
-    {
-      "id": "venue_31",
-      "name": "Lottie's Pub",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "1925 W Cortland St, Chicago, IL 60622",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Mad River",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "1925 W Cortland St, Chicago, IL 60622"
-    },
-    {
-      "id": "venue_32",
-      "name": "Mad River",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Maeve",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_33",
-      "name": "Maeve",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Washington Commanders"
       ],
+      "address": "TBD",
+      "notes": "Washington Commanders fans gather here"
+    },
+    {
+      "name": "McGee's Tavern & Grille",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_34",
-      "name": "McGee's Tavern & Grille",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "950 W Webster Ave, Chicago, IL 60614",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Monti's",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "950 W Webster Ave, Chicago, IL 60614"
-    },
-    {
-      "id": "venue_35",
-      "name": "Monti's",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "4757 N Talman Ave, Chicago, IL 60625",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Mullen's Wrigleyville",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "4757 N Talman Ave, Chicago, IL 60625"
-    },
-    {
-      "id": "venue_36",
-      "name": "Mullen's Wrigleyville",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Indianapolis Colts fans gather here"
     },
     {
-      "id": "venue_37",
       "name": "Murphy's Bleachers",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "MLB"
+      ],
+      "team_affiliations": [
         "Chicago Cubs"
       ],
-      "sports": [
-        "MLB"
-      ],
-      "address": "3655 N Sheffield Ave, Chicago, IL 60613"
+      "address": "3655 N Sheffield Ave, Chicago, IL 60613",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_38",
       "name": "My Buddy's",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "4416 N Clark St, Chicago, IL 60640"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "4416 N Clark St, Chicago, IL 60640",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_39",
       "name": "Newport Bar & Grill",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_40",
       "name": "Nine Bar",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago White Sox"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Near Guaranteed Rate Field"
+      "team_affiliations": [
+        "Chicago White Sox"
+      ],
+      "address": "Near Guaranteed Rate Field",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_41",
       "name": "O'Leary's Public House",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "541 N Wells St, Chicago, IL 60654"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "541 N Wells St, Chicago, IL 60654",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_42",
       "name": "Old Crow Wrigleyville",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "3506 N Clark St, Chicago, IL 60657",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Racine Plumbing",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "3506 N Clark St, Chicago, IL 60657"
-    },
-    {
-      "id": "venue_43",
-      "name": "Racine Plumbing",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
+      "address": "2642 N Lincoln Ave, Chicago, IL 60614",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Ranalli's",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "2642 N Lincoln Ave, Chicago, IL 60614"
-    },
-    {
-      "id": "venue_44",
-      "name": "Ranalli's",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
+      "address": "1925 N Lincoln Ave, Chicago, IL 60614",
+      "notes": "Green Bay Packers fans gather here"
+    },
+    {
+      "name": "Rebel & Rye",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "1925 N Lincoln Ave, Chicago, IL 60614"
-    },
-    {
-      "id": "venue_45",
-      "name": "Rebel & Rye",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
+      "address": "726 W Grand Ave, Chicago, IL 60654",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Rebel Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "726 W Grand Ave, Chicago, IL 60654"
-    },
-    {
-      "id": "venue_46",
-      "name": "Rebel Bar & Grill",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Redmond's",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_47",
-      "name": "Redmond's",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Minnesota Vikings"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Minnesota Vikings fans gather here"
     },
     {
-      "id": "venue_48",
       "name": "Reggie's Rock Club",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago White Sox"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Near Chinatown Red Line"
+      "team_affiliations": [
+        "Chicago White Sox"
+      ],
+      "address": "Near Chinatown Red Line",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_49",
       "name": "Riverview Tavern",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Roadhouse 66 Gas n Grill",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_50",
-      "name": "Roadhouse 66 Gas n Grill",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Minnesota Vikings"
       ],
+      "address": "3478 N Clark St, Chicago, IL 60657",
+      "notes": "Minnesota Vikings fans gather here"
+    },
+    {
+      "name": "Scot's",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "3478 N Clark St, Chicago, IL 60657"
-    },
-    {
-      "id": "venue_51",
-      "name": "Scot's",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Seattle Seahawks"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_52",
       "name": "Sedgwick's",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "St. Louis Blues"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "1935 N Sedgwick St 1, Chicago, 60614"
+      "team_affiliations": [
+        "St. Louis Blues"
+      ],
+      "address": "1935 N Sedgwick St 1, Chicago, 60614",
+      "notes": "St. Louis Blues fans gather here"
     },
     {
-      "id": "venue_53",
       "name": "Sports Corner Wrigleyville",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "956 W Addison St, Chicago, IL 60613"
+      "team_affiliations": [
+        "Chicago Cubs"
+      ],
+      "address": "956 W Addison St, Chicago, IL 60613",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_54",
       "name": "TBD",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Anaheim Ducks",
-        "Arizona Cardinals",
-        "Arizona Coyotes",
-        "Arizona Diamondbacks",
-        "Atlanta Braves",
-        "Atlanta Falcons",
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "team_affiliations": [
         "Atlanta Hawks",
-        "Baltimore Orioles",
-        "Boston Bruins",
         "Brooklyn Nets",
+        "Charlotte Hornets",
+        "Dallas Mavericks",
+        "Denver Nuggets",
+        "Golden State Warriors",
+        "Houston Rockets",
+        "Indiana Pacers",
+        "Los Angeles Clippers",
+        "Los Angeles Lakers",
+        "Memphis Grizzlies",
+        "Miami Heat",
+        "Minnesota Timberwolves",
+        "New Orleans Pelicans",
+        "New York Knicks",
+        "Oklahoma City Thunder",
+        "Orlando Magic",
+        "Philadelphia 76ers",
+        "Phoenix Suns",
+        "Portland Trail Blazers",
+        "Sacramento Kings",
+        "San Antonio Spurs",
+        "Toronto Raptors",
+        "Utah Jazz",
+        "Washington Wizards",
+        "Arizona Cardinals",
+        "Atlanta Falcons",
+        "Carolina Panthers",
+        "Houston Texans",
+        "Jacksonville Jaguars",
+        "Los Angeles Rams",
+        "Tampa Bay Buccaneers",
+        "Tennessee Titans",
+        "Anaheim Ducks",
+        "Arizona Coyotes",
+        "Boston Bruins",
         "Buffalo Sabres",
         "Calgary Flames",
         "Carolina Hurricanes",
-        "Carolina Panthers",
-        "Charlotte Hornets",
-        "Cincinnati Reds",
-        "Cleveland Guardians",
         "Colorado Avalanche",
-        "Colorado Rockies",
         "Columbus Blue Jackets",
-        "Dallas Mavericks",
         "Dallas Stars",
-        "Denver Nuggets",
         "Detroit Red Wings",
-        "Detroit Tigers",
         "Edmonton Oilers",
         "Florida Panthers",
-        "Golden State Warriors",
-        "Houston Astros",
-        "Houston Rockets",
-        "Houston Texans",
-        "Indiana Pacers",
-        "Jacksonville Jaguars",
-        "Los Angeles Angels",
-        "Los Angeles Clippers",
-        "Los Angeles Dodgers",
         "Los Angeles Kings",
-        "Los Angeles Lakers",
-        "Los Angeles Rams",
-        "Memphis Grizzlies",
-        "Miami Heat",
-        "Miami Marlins",
-        "Milwaukee Brewers",
-        "Minnesota Timberwolves",
-        "Minnesota Twins",
         "Minnesota Wild",
         "Montreal Canadiens",
         "Nashville Predators",
         "New Jersey Devils",
-        "New Orleans Pelicans",
         "New York Islanders",
-        "New York Knicks",
-        "New York Mets",
         "New York Rangers",
-        "New York Yankees",
-        "Oakland Athletics",
-        "Oklahoma City Thunder",
-        "Orlando Magic",
         "Ottawa Senators",
-        "Philadelphia 76ers",
         "Philadelphia Flyers",
-        "Philadelphia Phillies",
-        "Phoenix Suns",
-        "Pittsburgh Pirates",
-        "Portland Trail Blazers",
-        "Sacramento Kings",
-        "San Antonio Spurs",
-        "San Diego Padres",
-        "San Francisco Giants",
         "San Jose Sharks",
         "Seattle Kraken",
-        "Seattle Mariners",
-        "St. Louis Cardinals",
-        "Tampa Bay Buccaneers",
         "Tampa Bay Lightning",
-        "Tampa Bay Rays",
-        "Tennessee Titans",
-        "Texas Rangers",
-        "Toronto Blue Jays",
         "Toronto Maple Leafs",
-        "Toronto Raptors",
         "Utah Hockey Club",
-        "Utah Jazz",
         "Vancouver Canucks",
         "Vegas Golden Knights",
         "Washington Capitals",
-        "Washington Nationals",
-        "Washington Wizards",
-        "Winnipeg Jets"
+        "Winnipeg Jets",
+        "Arizona Diamondbacks",
+        "Atlanta Braves",
+        "Baltimore Orioles",
+        "Cincinnati Reds",
+        "Cleveland Guardians",
+        "Colorado Rockies",
+        "Detroit Tigers",
+        "Houston Astros",
+        "Los Angeles Angels",
+        "Los Angeles Dodgers",
+        "Miami Marlins",
+        "Milwaukee Brewers",
+        "Minnesota Twins",
+        "New York Mets",
+        "New York Yankees",
+        "Oakland Athletics",
+        "Philadelphia Phillies",
+        "Pittsburgh Pirates",
+        "San Diego Padres",
+        "San Francisco Giants",
+        "Seattle Mariners",
+        "St. Louis Cardinals",
+        "Tampa Bay Rays",
+        "Texas Rangers",
+        "Toronto Blue Jays",
+        "Washington Nationals"
       ],
-      "sports": [
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_55",
       "name": "Temple Bar",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New Orleans Saints"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "New Orleans Saints fans gather here"
     },
     {
-      "id": "venue_56",
       "name": "The Barn Hockey Bar",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Blackhawks"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Near United Center"
+      "team_affiliations": [
+        "Chicago Blackhawks"
+      ],
+      "address": "Near United Center",
+      "notes": "Shows NHL games"
     },
     {
-      "id": "venue_57",
       "name": "The Butcher's Tap",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Buffalo Bills"
       ],
+      "address": "3553 N Southport Ave, Chicago, IL 60657",
+      "notes": "Buffalo Bills fans gather here"
+    },
+    {
+      "name": "The Corner Bar",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "3553 N Southport Ave, Chicago, IL 60657"
-    },
-    {
-      "id": "venue_58",
-      "name": "The Corner Bar",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Chicago Bears"
       ],
+      "address": "2224 N Leavitt St, Chicago, IL 60647",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Country Club",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "2224 N Leavitt St, Chicago, IL 60647"
-    },
-    {
-      "id": "venue_59",
-      "name": "The Country Club",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Jets"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3462 N Clark St, Chicago, IL 60657"
+      "address": "3462 N Clark St, Chicago, IL 60657",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_60",
       "name": "The Gingerman Tavern",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "3740 N Clark St, Chicago, IL 60613"
+      "team_affiliations": [
+        "Chicago Cubs"
+      ],
+      "address": "3740 N Clark St, Chicago, IL 60613",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_61",
       "name": "The Pitch",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Miami Dolphins"
       ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Reveler",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_62",
-      "name": "The Reveler",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Philadelphia Eagles"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "3403 N Damen Ave, Chicago, IL 60657"
+      "address": "3403 N Damen Ave, Chicago, IL 60657",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_63",
       "name": "The Tin Lizzie",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit Pistons"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "2483 N Clark St, Chicago, 60614"
+      "team_affiliations": [
+        "Detroit Pistons"
+      ],
+      "address": "2483 N Clark St, Chicago, 60614",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_64",
       "name": "The Warehouse Bar & Pizzeria",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Cowboys"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1419 W Fullerton Ave, Chicago, IL 60614"
+      "team_affiliations": [
+        "Dallas Cowboys"
+      ],
+      "address": "1419 W Fullerton Ave, Chicago, IL 60614",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_65",
       "name": "Theory",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics",
-        "Boston Red Sox",
-        "New England Patriots"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
       ],
-      "address": "9 W Hubbard St, Chicago, IL 60654"
+      "team_affiliations": [
+        "Boston Celtics",
+        "New England Patriots",
+        "Boston Red Sox"
+      ],
+      "address": "9 W Hubbard St, Chicago, IL 60654",
+      "notes": "New England Patriots fans gather here"
     },
     {
-      "id": "venue_66",
       "name": "Tin Lizzie",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Detroit Lions"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "2483 N Clark St, Chicago, IL 60614"
+      "team_affiliations": [
+        "Detroit Lions"
+      ],
+      "address": "2483 N Clark St, Chicago, IL 60614",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_67",
       "name": "Toons Bar & Grill",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "MLB",
+        "NFL"
+      ],
+      "team_affiliations": [
         "Kansas City Chiefs",
         "Kansas City Royals"
       ],
-      "sports": [
-        "MLB",
-        "NFL"
-      ],
-      "address": "3857 North Southport Avenue, Chicago, IL 60613"
+      "address": "3857 North Southport Avenue, Chicago, IL 60613",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_68",
       "name": "Trace",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Indianapolis Colts"
       ],
+      "address": "3714 N Clark St, Chicago, IL 60613",
+      "notes": "Indianapolis Colts fans gather here"
+    },
+    {
+      "name": "Trinity",
+      "type": "Sports Bar",
+      "city": "Chicago",
       "sports": [
         "NFL"
       ],
-      "address": "3714 N Clark St, Chicago, IL 60613"
-    },
-    {
-      "id": "venue_69",
-      "name": "Trinity",
-      "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New York Giants"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_70",
       "name": "Tripoli Tap",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox",
-        "New England Patriots"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "1147 W Armitage Ave, Chicago, IL 60614"
+      "team_affiliations": [
+        "New England Patriots",
+        "Boston Red Sox"
+      ],
+      "address": "1147 W Armitage Ave, Chicago, IL 60614",
+      "notes": "New England Patriots fans gather here"
     },
     {
-      "id": "venue_71",
       "name": "Tripoli Tavern",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "1147 W Armitage Ave, Chicago, 60614"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "1147 W Armitage Ave, Chicago, 60614",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_72",
       "name": "Turtles Bar & Grill",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago White Sox"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Near Guaranteed Rate Field"
+      "team_affiliations": [
+        "Chicago White Sox"
+      ],
+      "address": "Near Guaranteed Rate Field",
+      "notes": "Shows MLB games"
     },
     {
-      "id": "venue_73",
       "name": "Union",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Indianapolis Colts"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Indianapolis Colts"
+      ],
+      "address": "TBD",
+      "notes": "Indianapolis Colts fans gather here"
     },
     {
-      "id": "venue_74",
       "name": "United Center corner bars",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Bulls"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Inside United Center (300-level concourse)"
+      "team_affiliations": [
+        "Chicago Bulls"
+      ],
+      "address": "Inside United Center (300-level concourse)",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_75",
       "name": "Waterhouse",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "TBD",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_76",
       "name": "Will's Northwoods Inn",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers",
-        "Milwaukee Bucks"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "3030 N Racine Ave, Chicago, IL 60657"
+      "team_affiliations": [
+        "Milwaukee Bucks",
+        "Green Bay Packers"
+      ],
+      "address": "3030 N Racine Ave, Chicago, IL 60657",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_77",
       "name": "Woodie's Flat",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cincinnati Bengals"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1535 N Wells St, Chicago, IL 60610"
+      "team_affiliations": [
+        "Cincinnati Bengals"
+      ],
+      "address": "1535 N Wells St, Chicago, IL 60610",
+      "notes": "Cincinnati Bengals fans gather here"
     },
     {
-      "id": "venue_78",
       "name": "Wrigleyville bars (general area)",
+      "type": "Sports Bar",
       "city": "Chicago",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Cubs"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Clark St / Addison area around Wrigley Field"
+      "team_affiliations": [
+        "Chicago Cubs"
+      ],
+      "address": "Clark St / Addison area around Wrigley Field",
+      "notes": "Shows MLB games"
     }
   ]
 }

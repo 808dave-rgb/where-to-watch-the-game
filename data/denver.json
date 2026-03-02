@@ -1,1129 +1,1037 @@
 {
   "city": "Denver",
   "total_venues": 116,
+  "venues_with_team_affiliations": 0,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_398",
       "name": "Tom's Watch Bar Coors Field",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1601 19th St Unit 100, Denver, CO 80202",
-      "notes": "150+ screens, 20,000 sq ft space, app-enabled audio at every table, outdoor patio with giant screen, 40-oz beer steins, game-friendly menu, 3 simulator bays for golf/games",
-      "source": "Eater Denver, Westword, Tom's Watch Bar website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_399",
       "name": "ViewHouse Ballpark",
+      "type": "Sports Bar / Restaurant / Rooftop",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant / Rooftop",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Near Coors Field, Denver (exact address varies by location)",
-      "notes": "180-inch LED TV in courtyard, massive rooftop, multiple Denver locations (Ballpark, Centennial, Littleton, Colorado Springs), open 11am-1am+ most days",
-      "source": "TripAdvisor, ViewHouse website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_400",
       "name": "Chicken N Pickle Denver",
+      "type": "Restaurant / Sports & Games Venue",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Sports & Games Venue",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver location (check website for exact address)",
-      "notes": "20+ screens, pickleball courts, indoor/outdoor games, family-friendly, game day specials, chef-driven restaurant",
-      "source": "Chicken N Pickle website, Visit Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_401",
       "name": "5 on Lawrence",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2020 Lawrence Street, Denver, CO",
-      "notes": "Opened late 2023, next to Max Market, arcade room, TVs for all Denver teams + Arsenal soccer, affordable prices (wings, smashburgers, hot dogs)",
-      "source": "Westword"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_402",
       "name": "The 99ers",
+      "type": "Sports Bar (Women's Sports Focus)",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar (Women's Sports Focus)",
+      "sports": [],
+      "team_affiliations": [],
       "address": "909 East Colfax Avenue, Denver, CO",
-      "notes": "Denver's first women's sports bar, 8 TVs upstairs + 1 basement, pool table, partnership with Pita & Grill next door for food discounts",
-      "source": "Westword"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_403",
       "name": "Chopper's Sports Grill",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "80 South Madison Street, Denver, CO (Cherry Creek)",
-      "notes": "Named after Bob \"Chopper\" Travaglini (Nuggets trainer), TVs in every nook (including bathrooms), upgraded menu under Tavern Hospitality Group, home to multiple team fan clubs",
-      "source": "Westword, Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_404",
       "name": "The Dark Horse",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2922 Baseline Road, Boulder, CO",
-      "notes": "Unique memorabilia, high ceilings, fireplace, 51+ years old (closing soon for redevelopment), Colorado teams focus",
-      "source": "Westword"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_405",
       "name": "JD's Bait Shop Sports Grill",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "9555 East Arapahoe Road, Greenwood Village, CO",
-      "notes": "Open since 1995, fishing theme, Bait Shop Bobbers (bacon-wrapped jalapeños), breaded catfish, great service",
-      "source": "Westword"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_406",
       "name": "Society Sports and Spirits",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1434 Blake Street, Denver, CO (LoDo)",
-      "notes": "Pool tables on 2nd floor, large Colorado whiskey selection, group event space, home to Steelers/Texans/Chargers fans",
-      "source": "Westword, Eater Denver, Society website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_407",
       "name": "Stoney's Bar & Grill - Lincoln Street",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1111 Lincoln Street, Denver, CO",
-      "notes": "Ski-lift chair from Keystone, large outdoor patio, Colorado beers, host to 10+ pro/college team fan clubs, sprawling space",
-      "source": "Westword, Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_408",
       "name": "Stoney's Uptown Joint",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1035 East 17th Avenue, Denver, CO",
-      "notes": "30+ TVs, 11:30am-6pm happy hour on weekdays, extensive menu and cocktail list",
-      "source": "Westword, Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_409",
       "name": "Tight End",
+      "type": "Sports Bar (LGBTQ+ Friendly)",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar (LGBTQ+ Friendly)",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1501 East Colfax Avenue, Denver, CO",
-      "notes": "Denver's first gay sports bar, 9 TVs, sound-equipped patio, karaoke and drag bingo on non-game nights, great happy hour",
-      "source": "Westword"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_410",
       "name": "Westrail Tap and Grill",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "195 South Union Boulevard, Lakewood, CO",
-      "notes": "Railroad theme, generous portions, local beers on tap, happy hour available even on NFL Sundays, wings and burgers",
-      "source": "Westword"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_411",
       "name": "Cerebral Brewing",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO (check website for exact location)",
-      "notes": "Shows sports games, appears on Yelp \"bars to watch football\" list",
-      "source": "Yelp search results"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_412",
       "name": "JoyRide Brewing",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO",
-      "notes": "Official Bears bar as of 2024, also Vikings fans gather here",
-      "source": "Reddit r/Denver NFL bars thread"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_413",
       "name": "Bierstadt Lagerhaus",
+      "type": "Brewery / Taproom",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery / Taproom",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2875 Blake Street, Denver, CO (RiNo)",
-      "notes": "Hosted Broncos AFC Championship watch party, purist's paradise for lagers, RiNo district location",
-      "source": "KDVR news, Metropolitan Shuttle guide"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_414",
       "name": "Windfall Brewing Company",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver area (check website)",
-      "notes": "4 TVs outside, 13 TVs inside, heated/covered patio, dining and bar areas, ready for sports fans, Packers bar",
-      "source": "Windfall Brewing website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_415",
       "name": "Lowry Beer Garden",
+      "type": "Brewery / Beer Garden",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery / Beer Garden",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO",
-      "notes": "Shows sports on TVs, appears on \"bars with TV\" Yelp list",
-      "source": "Yelp"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_416",
       "name": "Ratio Beerworks",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO",
-      "notes": "Has TVs for sports viewing",
-      "source": "Yelp"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_417",
       "name": "Zuni Street Brewing",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO",
-      "notes": "TVs available for sports",
-      "source": "Yelp"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_418",
       "name": "Odell Brewing Co - Five Points Brewhouse",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Five Points, Denver, CO",
-      "notes": "Shows sports, has TV setup",
-      "source": "Yelp"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_419",
       "name": "Number 38",
+      "type": "Brewery / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "RiNo, Denver, CO",
-      "notes": "More TVs than any bar in RiNo, staff accommodating about putting on requested games",
-      "source": "Reddit r/denverfood"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_420",
       "name": "10 Barrel Brewing",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO",
-      "notes": "Multiple TVs, lots of beers",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_421",
       "name": "Blue Moon Brewery",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "RiNo area, Denver, CO",
-      "notes": "Multiple TVs for sports",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_422",
       "name": "Cheluna Brewing Company",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2501 Dallas St #148, Aurora, CO 80010 (Stanley Marketplace)",
-      "notes": "Giant projection screen + TVs, Latin beers (Coco Xoco Porter, Chupa Guava Blonde Ale), family-friendly Stanley Marketplace location",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_423",
       "name": "RiNo Beer Garden",
+      "type": "Beer Garden / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Beer Garden / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "3800 Walnut Street, Denver, CO 80205 (RiNo)",
-      "notes": "Nearly 20 TVs inside and out, 4,000 sq ft heated patio, 60 brews on tap, sprawling menu (pickles to burgers to tuna salad to brunch burritos)",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_424",
       "name": "Highland Tavern",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "3400 Navajo Street, Denver, CO 80211 (LoHi)",
-      "notes": "TVs aplenty, affordably priced drinks, borderline fancy scratch-made bar fare (pork rinds, pastrami, falafel, veggie burgers), mixed crowd",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_425",
       "name": "Occidental",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1950 W 32nd Avenue, Denver, CO 80211 (LoHi)",
-      "notes": "Sister bar to Williams & Graham, killer drinks and snacks (deviled eggs, chopped cheese, hot dogs), several screens, home to NY Giants fans",
-      "source": "Eater Denver, Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_426",
       "name": "Tap & Burger - Highland",
+      "type": "Restaurant / Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2219 West 32nd Avenue, Denver, CO 80211 (LoHi)",
-      "notes": "~50 beers, burgers like Shroom Luva's (truffle aioli) and Black and Bleu (bacon-whiskey jam), NFL to UFC to air guitar championships",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_427",
       "name": "Rhein Haus Denver",
+      "type": "Bavarian Pub / Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bavarian Pub / Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1415 Market Street, Denver, CO 80202 (LoDo)",
-      "notes": "Projection screen + TVs, Seattle Seahawks fans HQ (Mile High Sea Hawkers), indoor bocce courts, giant pretzels, bacon-wrapped kielbasa, jagerschnitzel",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_428",
       "name": "Wally's Wisconsin Tavern",
+      "type": "Sports Bar (Packers Focus)",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar (Packers Focus)",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1417 Market Street, Denver, CO 80202 (LoDo)",
-      "notes": "Adjacent to Rhein Haus, Midwest watering hole vibe, lawnmower beer, brats and cheese curds, Packers games (except when Broncos play)",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_429",
       "name": "Jackson's LoDo",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1520 20th Street, Denver, CO (LoDo)",
-      "notes": "Steelers/Bucs/Bills bar, ultimate sports bar experience, Colorado Bills Backers meetup spot",
-      "source": "Eater, Uncover Colorado, Jackson's LoDo website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_430",
       "name": "The Tavern on Blake Street (formerly Blake Street Tavern)",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2301 Blake Street, Denver, CO (LoDo)",
-      "notes": "Reopened April 2025 with new owners, iconic LoDo spot, home to Lions/Falcons/Chiefs/Patriots fans",
-      "source": "Denver Post, Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_431",
       "name": "Falling Rock Tap House",
+      "type": "Craft Beer Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Craft Beer Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1919 Blake Street, Denver, CO (LoDo)",
-      "notes": "Near Coors Field, extensive beer selection, Texans bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_432",
       "name": "Sports Column",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1930 Blake Street, Denver, CO (LoDo)",
-      "notes": "Cardinals, Texans, Colts bar, near Coors Field",
-      "source": "TripAdvisor, Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_433",
       "name": "Rocky Top Tavern",
+      "type": "Restaurant / Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "4907 Lowell Boulevard, Denver, CO 80221 (Regis)",
-      "notes": "$2 tacos Tuesdays, $13 all-you-can-eat wings Wednesdays, daily drink deals, Cheers-esque atmosphere, TV-filled",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_434",
       "name": "King of Wings Taphouse",
+      "type": "Restaurant / Taphouse",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Taphouse",
+      "sports": [],
+      "team_affiliations": [],
       "address": "7741 W 44th Ave, Wheat Ridge, CO 80033 (also Golden location)",
-      "notes": "4 TVs (plenty for small square footage), best pub grub (slow-cooked wings, hand-breaded tenders, Cajun-Parm onion rings), craft suds from local breweries only",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_435",
       "name": "The British Bulldog",
+      "type": "Pub / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Pub / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2052 Stout Street, Denver, CO 80205",
-      "notes": "Soccer fans HQ, opens 5am for English Premier League, bangers and mash, shepherd's pie, imports on tap",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_436",
       "name": "Culinary Dropout - 9+CO",
+      "type": "Restaurant / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "4141 East 9th Avenue, Denver, CO 80220",
-      "notes": "Strategically placed TVs throughout, upscale-casual, inventive cocktails, charcuterie, black truffle pizza, roasted salmon",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_437",
       "name": "Sobo 151 Bar & Grill",
+      "type": "Czech Tavern / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Czech Tavern / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "151 South Broadway, Denver, CO 80209",
-      "notes": "Soccer and hockey fans favorite, rustic Czech atmosphere, schnitzel and goulash, pool tables",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_438",
       "name": "Candlelight Tavern",
+      "type": "Dive Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Dive Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "383 S Pearl Street, Denver, CO 80209",
-      "notes": "All-time great dive bar, cheap drinks, cult-following burgers, pool/darts, Detroit Lions fans HQ",
-      "source": "Eater Denver, Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_439",
       "name": "Esters",
+      "type": "Pizza Parlor / Pub",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Pizza Parlor / Pub",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1950 South Holly Street, Denver, CO 80222 (Virginia Village, also Park Hill & Wheat Ridge)",
-      "notes": "Copious beers on tap, neighborhood hub, Avs/Tottenham/Bills-Broncos games, 90 Shilling beer, French dip calzones",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_440",
       "name": "Wyman's No. 5",
+      "type": "Dive Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Dive Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2033 East 13th Avenue, Denver, CO 80206 (Cheesman Park)",
-      "notes": "Twice-daily happy hours, Chicago-centric menu (deep-dish pizza, hot dogs), Cubs/Bulls/Bears fans, pool tables, chill atmosphere",
-      "source": "Eater Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_441",
       "name": "Origins Sports Bar & Grill (formerly Sportsbook Bar & Grill)",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "266 South Downing Street, Denver, CO (Wash Park)",
-      "notes": "Joe Burrow print greets you, Bengals bar, hidden alleyway entrance, best food/drink deals, spot-on waitstaff, local brews on tap",
-      "source": "Westword, Eater Denver, Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_442",
       "name": "Blackbird Public House",
+      "type": "Restaurant / Pub",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Pub",
+      "sports": [],
+      "team_affiliations": [],
       "address": "305 S Downing Street, Denver, CO (West Wash Park)",
-      "notes": "Shows all major soccer matches and football games, big screen projector, family movie nights, comfort food, Colorado State watch parties",
-      "source": "OpenTable, Blackbird website, Colorado State Alumni"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_443",
       "name": "Hayter's & Co",
+      "type": "Restaurant / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1920 Blake Street, Denver, CO (LoDo)",
-      "notes": "Official Chicago Bears bar",
-      "source": "Uncover Colorado, Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_444",
       "name": "Buffalo Wild Wings - Stapleton",
+      "type": "Chain Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Chain Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "7607 E 36th Avenue, Suite 830, Denver, CO",
-      "notes": "Wings, beer, sports, 12 locations in Denver metro area",
-      "source": "Buffalo Wild Wings website, Foursquare"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_445",
       "name": "Buffalo Wild Wings - Aurora (Havana Street)",
+      "type": "Chain Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Chain Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Havana Street, Aurora, CO",
-      "notes": "Multiple TVs, game day atmosphere",
-      "source": "On Havana Street website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_446",
       "name": "Applebee's - Cherry Creek",
+      "type": "Chain Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Chain Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Cherry Creek area, Denver, CO 80206",
-      "notes": "12 locations in Denver area, TVs for sports, game day hours extended",
-      "source": "Yelp, Foursquare"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_447",
       "name": "Applebee's - Multiple Locations",
+      "type": "Chain Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Chain Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Various (Youngfield St, I-225, 16th St Mall areas)",
-      "notes": "Show sporting events, peak game day hours",
-      "source": "Applebee's website, Yelp"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_448",
       "name": "Twin Peaks - Colorado Mills (Lakewood)",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Southeast corner of Denver West Colorado Mills Parkway and West Colfax Avenue, Lakewood, CO",
-      "notes": "Lodge atmosphere, made-from-scratch food, 29° draft beer, all major sports",
-      "source": "Twin Peaks website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_449",
       "name": "Twin Peaks - Arapahoe (Centennial)",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "8840 E Arapahoe Road, Centennial, CO",
-      "notes": "Near intersection E Arapahoe Rd & Hwy 25, all UFC fights, knockout views from every seat",
-      "source": "Twin Peaks website, Yelp"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_450",
       "name": "Twin Peaks - Flatirons Crossing",
+      "type": "Sports Bar / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Broomfield, CO",
-      "notes": "Sports lodge atmosphere, TVs throughout",
-      "source": "Retro 102.5 article"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_451",
       "name": "Hooters - Denver Area",
+      "type": "Chain Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Chain Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Multiple locations (check website)",
-      "notes": "Traditional sports bar atmosphere",
-      "source": "Yelp mentions, general searches"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_452",
       "name": "Rally Hotel Terrace (3rd Floor)",
+      "type": "Hotel Bar / Event Space",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Hotel Bar / Event Space",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1901 Wazee Street, Denver, CO",
-      "notes": "VIP watch parties ($80), prime viewing spot, special menu, shorter lines, near Coors Field",
-      "source": "5280 Magazine, Denverite"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_453",
       "name": "DNVR Bar",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO (check website)",
-      "notes": "33 TVs, comfortable seating, great sightlines, game sound on request, Denver-focused sports",
-      "source": "DNVR Bar website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_454",
       "name": "Hangar Club",
+      "type": "Sports Bar / Indoor Golf / Event Venue",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar / Indoor Golf / Event Venue",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO",
-      "notes": "10 TrackMan golf simulators, sports bar, event venue, food and drink specials, game watch parties",
-      "source": "Hangar Club website"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_455",
       "name": "The Fainting Goat Pub",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "846 Broadway, Denver, CO",
-      "notes": "Self-professed Atlanta Falcons bar",
-      "source": "Uncover Colorado, Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_456",
       "name": "Chopper's Sports Grill (see above)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "notes": "Rocky Mountain Ravens fan club gathers here",
-      "source": "Thirst Colorado",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_457",
       "name": "Lodo's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1946 Market Street, Denver, CO",
-      "notes": "Bills bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_458",
       "name": "WestFax Brewing Co.",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Lakewood & Colorado Springs locations",
-      "notes": "\"The Pillieve\" beer (pilsner + Billieve), Buffalo Bills supporters",
-      "source": "Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_459",
       "name": "Will Call",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver, CO",
-      "notes": "Mile High Cats fan club home",
-      "source": "Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_460",
       "name": "Shelby's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "519 18th Street, Denver, CO",
-      "notes": "Panthers bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_461",
       "name": "Wyman's No. 5 (see above)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_462",
       "name": "Players Pub",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver area",
-      "notes": "Bears bar",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_463",
       "name": "Wrigley's",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Golden, CO",
-      "notes": "Bears bar",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_464",
       "name": "The Thirsty Bear",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Lakewood, CO",
-      "notes": "Bears bar",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_465",
       "name": "Origins Sports Bar & Grill (see above - detailed above)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_466",
       "name": "Esters (Park Hill location)",
+      "type": "Pizza Parlor / Pub",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Pizza Parlor / Pub",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Park Hill, Denver, CO",
-      "notes": "Bengals fans gather here",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_468",
       "name": "Ice House Tavern",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1801 Wynkoop Street, Denver, CO",
-      "notes": "Bengals viewing",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_469",
       "name": "Retreat Grill & Sports Tavern",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2186 S Colorado Boulevard, Denver, CO",
-      "notes": "Browns bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_470",
       "name": "Stoney's Bar & Grill (see above)",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "notes": "Mile High Browns Backers meetup spot",
-      "source": "Thirst Colorado",
-      "venue_type": "Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_471",
       "name": "Spot Bar & Grill",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "98 S Pennsylvania Street, Denver, CO",
-      "notes": "Cowboys bar",
-      "source": "Uncover Colorado, Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_472",
       "name": "A Bit Twisted Brewpub & BBQ",
+      "type": "Brewpub / Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewpub / Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Aurora, CO",
-      "notes": "Big-time Cowboys spot",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_473",
       "name": "Roo Bar",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "3480 Park Ave W, Denver, CO",
-      "notes": "Packers bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_474",
       "name": "Swanky's",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1938 Blake Street, Denver, CO",
-      "notes": "Packers and Steelers bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_475",
       "name": "Rocky Flats Lounge",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "11229 Highway 93, Boulder, CO",
-      "notes": "Packers bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_476",
       "name": "Badger's Pub",
+      "type": "Pub",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Pub",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver area",
-      "notes": "Packers/Wisconsin bar",
-      "source": "Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_477",
       "name": "Windfall Brewing Co. (see above in Breweries section)",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_478",
       "name": "Falling Rock Tap House (see above)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_479",
       "name": "Sports Column (see above)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_480",
       "name": "Society Sports and Spirits (see above)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_481",
       "name": "Draft Sports Grill",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "9150 W Cross Drive, Littleton, CO",
-      "notes": "Colts bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_483",
       "name": "Don's Club Tavern",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "723 E 6th Avenue, Denver, CO",
-      "notes": "Chiefs Kingdom HQ in Denver",
-      "source": "Uncover Colorado, Thirst Colorado, Facebook"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_484",
       "name": "The Elm",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "5001 E Colfax Avenue, Denver, CO",
-      "notes": "Patriots bar (also Bruins, Celtics, Red Sox, Revolution)",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_485",
       "name": "Historians Ale House",
+      "type": "Ale House",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Ale House",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Broadway, Denver, CO",
-      "notes": "Some Patriots fans gather here",
-      "source": "Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_486",
       "name": "Bayou Bob's",
+      "type": "Restaurant / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1635 Glenarm Place, Denver, CO",
-      "notes": "Saints bar, NOLA theme",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_487",
       "name": "Krewe BBQ",
+      "type": "Restaurant / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1109 Lincoln Street, Denver, CO",
-      "notes": "Saints bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_488",
       "name": "Nola Voodoo Tavern",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Cole neighborhood, Denver, CO",
-      "notes": "Owner is New Orleans native, Who Dat Nation represented",
-      "source": "Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_489",
       "name": "Tavern Uptown",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "538 E 17th Avenue, Denver, CO",
-      "notes": "Giants bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_490",
       "name": "Occidental (see above in RiNo/LoDo section)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "notes": "Home of Big Blue Denver Crew",
-      "source": "Thirst Colorado",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_492",
       "name": "Cowboy Lounge",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1941 Market Street, Denver, CO",
-      "notes": "Raiders bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_493",
       "name": "Tavern Lowry",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "7401 E 1st Avenue, Denver, CO",
-      "notes": "Raiders bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_494",
       "name": "Dillinger's Food & Spirits",
+      "type": "Restaurant / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1202 Centaur Village Drive, Lafayette, CO",
-      "notes": "Eagles bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_495",
       "name": "Larimer Beer Hall",
+      "type": "Beer Hall",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Beer Hall",
+      "sports": [],
+      "team_affiliations": [],
       "address": "2012 Larimer Street, Denver, CO",
-      "notes": "Eagles bar",
-      "source": "Uncover Colorado, Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_496",
       "name": "Mirror Image Brewing",
+      "type": "Brewery",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Brewery",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Frederick, CO",
-      "notes": "Eagles bar",
-      "source": "Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_497",
       "name": "The Rusty Bucket",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "3355 S Wadsworth Boulevard, Lakewood, CO",
-      "notes": "Black and yellow HQ in Denver",
-      "source": "Uncover Colorado, Reddit, Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_498",
       "name": "Lodo's Bar & Grill - Highlands Ranch",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "8545 S Quebec Street, Highlands Ranch, CO",
-      "notes": "Steelers bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_499",
       "name": "W.T. Shorty's",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "990 S Oneida Street, Denver, CO",
-      "notes": "Steelers bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_500",
       "name": "Hoffbrau",
+      "type": "Restaurant / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Westminster, CO",
-      "notes": "Steelers bar",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_501",
       "name": "Pitchers",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Aurora, CO",
-      "notes": "Steelers bar",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_502",
       "name": "JJ Madwell's",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Conifer, CO",
-      "notes": "Steelers bar",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_503",
       "name": "Benders Bar and Grill",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Westminster, CO",
-      "notes": "Steelers bar",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_506",
       "name": "Tony Tenderonis",
+      "type": "Restaurant / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1937 Market Street, Denver, CO",
-      "notes": "5280-The Mile High 49ers official location",
-      "source": "Thirst Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_507",
       "name": "Ice House Tavern (see above)",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_508",
       "name": "Big Hoss Bar-B-Q Steakhouse",
+      "type": "Restaurant",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant",
+      "sports": [],
+      "team_affiliations": [],
       "address": "3961 Tennyson Street, Denver, CO",
-      "notes": "Seahawks bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_509",
       "name": "Chinook Bar & Grill",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1950 S Holly, Denver, CO",
-      "notes": "Seahawks bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_510",
       "name": "Rhein Haus Denver (see above in RiNo/LoDo section)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "notes": "Mile High Sea Hawkers fan group headquarters",
-      "source": "Thirst Colorado",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_511",
       "name": "Stoney's Bar (see above - Lincoln Street location)",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_512",
       "name": "Jackson's LoDo (see above)",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_514",
       "name": "Tavern Uptown (see above)",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_516",
       "name": "Cap City Tavern",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "1247 Bannock Street, Denver, CO",
-      "notes": "Vikings bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_517",
       "name": "JoyRide Brewing (see above in Breweries)",
+      "type": "Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "notes": "Vikings fans gather here (also Bears bar)",
-      "venue_type": "Bar"
+      "sports": [],
+      "team_affiliations": [],
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_518",
       "name": "Stoney's Cantina",
+      "type": "Restaurant / Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Restaurant / Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "90 South Broadway, Denver, CO",
-      "notes": "Dolphins bar",
-      "source": "Uncover Colorado"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_520",
       "name": "College Inn",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
+      "sports": [],
+      "team_affiliations": [],
       "address": "Denver area",
-      "notes": "Shows all games, no team affiliation",
-      "source": "Reddit r/Denver"
+      "notes": "General sports venue"
     },
     {
-      "id": "venue_521",
       "name": "Joe Willy's",
+      "type": "Sports Bar",
       "city": "Denver",
-      "source_file": "denver-additional-venues.md",
-      "venue_type": "Sports Bar",
-      "address": "Denver"
+      "sports": [],
+      "team_affiliations": [],
+      "address": "Denver",
+      "notes": "General sports venue"
     }
   ]
 }

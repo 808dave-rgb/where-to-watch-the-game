@@ -1,636 +1,637 @@
 {
   "city": "Houston",
   "total_venues": 46,
+  "venues_with_team_affiliations": 36,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "8th Wonder Brewery",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Astros (Home Team)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Astros (Home Team)"
+      ],
+      "address": "TBD",
+      "notes": "Houston Astros (Home Team) fans gather here"
     },
     {
-      "id": "venue_2",
       "name": "Ace of Clubs Sports Lounge",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New Orleans Saints"
       ],
+      "address": "3230 S Main St, Stafford",
+      "notes": "New Orleans Saints fans gather here"
+    },
+    {
+      "name": "Big City Wings",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "3230 S Main St, Stafford"
-    },
-    {
-      "id": "venue_3",
-      "name": "Big City Wings",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "5324 Atascocita Road, Humble"
+      "address": "5324 Atascocita Road, Humble",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_4",
       "name": "Biggio's",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Astros (Home Team)",
-        "Houston Rockets (Home Team)",
-        "Houston Texans (Home Team)"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL"
       ],
-      "address": "Downtown Houston area"
+      "team_affiliations": [
+        "Houston Texans (Home Team)",
+        "Houston Astros (Home Team)",
+        "Houston Rockets (Home Team)"
+      ],
+      "address": "Downtown Houston area",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_5",
       "name": "Bigs Sports Bar (BIGGles Lounge Sports Cafe)",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "6150 Wilcrest Dr (Near Westchase)"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "6150 Wilcrest Dr (Near Westchase)",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_6",
       "name": "Buffalo Wild Wings",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Rockets (Home Team)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Multiple locations"
+      "team_affiliations": [
+        "Houston Rockets (Home Team)"
+      ],
+      "address": "Multiple locations",
+      "notes": "Houston Rockets (Home Team) fans gather here"
     },
     {
-      "id": "venue_7",
       "name": "Cactus Cove",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "New England Patriots"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3333 W 11th St, Houston (Lazybrook/Timbergrove)"
+      "team_affiliations": [
+        "New England Patriots"
+      ],
+      "address": "3333 W 11th St, Houston (Lazybrook/Timbergrove)",
+      "notes": "New England Patriots fans gather here"
     },
     {
-      "id": "venue_8",
       "name": "Christian's Tailgate (Multiple Locations)",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Rockets (Home Team)",
-        "Houston Texans (Home Team)"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "2000 Bagby St #105/106, Houston (Midtown) and other locations"
+      "team_affiliations": [
+        "Houston Texans (Home Team)",
+        "Houston Rockets (Home Team)"
+      ],
+      "address": "2000 Bagby St #105/106, Houston (Midtown) and other locations",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_9",
       "name": "Christians Tailgate Bar & Grill",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Baltimore Ravens",
-        "Buffalo Bills",
-        "New York Jets",
-        "Washington Commanders"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1010 Hwy 6, Houston (Energy Corridor)"
+      "team_affiliations": [
+        "Buffalo Bills",
+        "New York Jets",
+        "Baltimore Ravens",
+        "Washington Commanders"
+      ],
+      "address": "1010 Hwy 6, Houston (Energy Corridor)",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_10",
       "name": "Doghouse Tavern",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NHL Viewing"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General NHL Viewing"
+      ],
+      "address": "TBD",
+      "notes": "General NHL Viewing fans gather here"
     },
     {
-      "id": "venue_11",
       "name": "Drift Bar",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Astros (Home Team)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Astros (Home Team)"
+      ],
+      "address": "TBD",
+      "notes": "Houston Astros (Home Team) fans gather here"
     },
     {
-      "id": "venue_12",
       "name": "Ducky McShweeney's Pub",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "2025 Post Oak Blvd, Houston",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Frank N Stein's Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "2025 Post Oak Blvd, Houston"
-    },
-    {
-      "id": "venue_13",
-      "name": "Frank N Stein's Bar & Grill",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Pittsburgh Steelers"
       ],
+      "address": "9907 S Texas 6, Sugar Land",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Frost Town Brewing",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "9907 S Texas 6, Sugar Land"
-    },
-    {
-      "id": "venue_14",
-      "name": "Frost Town Brewing",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Houston Texans (Home Team)"
       ],
+      "address": "TBD",
+      "notes": "Houston Texans (Home Team) fans gather here"
+    },
+    {
+      "name": "Gridiron Bar & Grill",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
-    },
-    {
-      "id": "venue_15",
-      "name": "Gridiron Bar & Grill",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "New Orleans Saints"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "4524 Hwy 6, Sugar Land"
+      "address": "4524 Hwy 6, Sugar Land",
+      "notes": "New Orleans Saints fans gather here"
     },
     {
-      "id": "venue_16",
       "name": "Highline Park",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Astros (Home Team)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Astros (Home Team)"
+      ],
+      "address": "TBD",
+      "notes": "Houston Astros (Home Team) fans gather here"
     },
     {
-      "id": "venue_17",
       "name": "Hugh O'Connors",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Denver Broncos"
       ],
+      "address": "7620 Katy Fwy #350, Houston (Spring Branch East)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Kirby Ice House",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "7620 Katy Fwy #350, Houston (Spring Branch East)"
-    },
-    {
-      "id": "venue_18",
-      "name": "Kirby Ice House",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Houston Texans (Home Team)"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Houston Texans (Home Team) fans gather here"
     },
     {
-      "id": "venue_19",
       "name": "Lavaca Street Bar",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Rockets (Home Team)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD (Austin-based chain, may have Houston location)"
+      "team_affiliations": [
+        "Houston Rockets (Home Team)"
+      ],
+      "address": "TBD (Austin-based chain, may have Houston location)",
+      "notes": "Houston Rockets (Home Team) fans gather here"
     },
     {
-      "id": "venue_20",
       "name": "Little Woodrow's (Multiple Locations)",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Rockets (Home Team)",
-        "Houston Texans (Home Team)"
-      ],
       "sports": [
         "NBA",
         "NFL"
       ],
-      "address": "Various Houston locations"
-    },
-    {
-      "id": "venue_21",
-      "name": "Little Woodrow's Babcock",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "Houston Texans (Home Team)",
         "Houston Rockets (Home Team)"
       ],
+      "address": "Various Houston locations",
+      "notes": "Multiple team fan communities"
+    },
+    {
+      "name": "Little Woodrow's Babcock",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Rockets (Home Team)"
+      ],
+      "address": "TBD",
+      "notes": "Houston Rockets (Home Team) fans gather here"
     },
     {
-      "id": "venue_22",
       "name": "Little Woodrow's Heights",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "New York Giants",
         "Seattle Seahawks"
       ],
+      "address": "2631 White Oak Dr (Woodland Heights)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Little Woodrow's Midtown",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "2631 White Oak Dr (Woodland Heights)"
-    },
-    {
-      "id": "venue_23",
-      "name": "Little Woodrow's Midtown",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Kansas City Chiefs"
       ],
+      "address": "2306 Brazos St, Houston",
+      "notes": "Kansas City Chiefs fans gather here"
+    },
+    {
+      "name": "Loft18 Houston",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "2306 Brazos St, Houston"
-    },
-    {
-      "id": "venue_24",
-      "name": "Loft18 Houston",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Detroit Lions"
       ],
+      "address": "2313 Edwards St Suite #200 (Washington Avenue Coalition/Memorial Park)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Multiple Official Locations",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "2313 Edwards St Suite #200 (Washington Avenue Coalition/Memorial Park)"
-    },
-    {
-      "id": "venue_25",
-      "name": "Multiple Official Locations",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Houston Texans (Home Team)"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Various locations (see Texans official website for themed away game watch parties)"
+      "address": "Various locations (see Texans official website for themed away game watch parties)",
+      "notes": "Houston Texans (Home Team) fans gather here"
     },
     {
-      "id": "venue_26",
       "name": "Nick's Place",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Rockets (Home Team)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Rockets (Home Team)"
+      ],
+      "address": "TBD",
+      "notes": "Houston Rockets (Home Team) fans gather here"
     },
     {
-      "id": "venue_27",
       "name": "Patterson Park",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Astros (Home Team)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "2205 Patterson St (Washington Avenue Coalition/Memorial Park)"
+      "team_affiliations": [
+        "Houston Astros (Home Team)"
+      ],
+      "address": "2205 Patterson St (Washington Avenue Coalition/Memorial Park)",
+      "notes": "Houston Astros (Home Team) fans gather here"
     },
     {
-      "id": "venue_28",
       "name": "Patterson Park Patio Bar",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "2205 Patterson St (Washington Avenue Coalition/Memorial Park)"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "2205 Patterson St (Washington Avenue Coalition/Memorial Park)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_29",
       "name": "Pitch 25",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NHL Viewing",
-        "Houston Texans (Home Team)"
-      ],
       "sports": [
         "NFL",
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Texans (Home Team)",
+        "General NHL Viewing"
+      ],
+      "address": "TBD",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_30",
       "name": "Social Beer Garden",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Texans (Home Team)"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3101 San Jacinto St (Midtown)"
+      "team_affiliations": [
+        "Houston Texans (Home Team)"
+      ],
+      "address": "3101 San Jacinto St (Midtown)",
+      "notes": "Houston Texans (Home Team) fans gather here"
     },
     {
-      "id": "venue_31",
       "name": "Social Beer Garden HTX",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Closest Geographic Team)",
-        "Houston Astros (Home Team)",
-        "Houston Rockets (Home Team)",
-        "San Francisco 49ers"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "3101 San Jacinto St (Midtown)"
-    },
-    {
-      "id": "venue_32",
-      "name": "Society Sports and Spirits",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
+        "San Francisco 49ers",
+        "Dallas Stars (Closest Geographic Team)",
+        "Houston Astros (Home Team)",
         "Houston Rockets (Home Team)"
       ],
+      "address": "3101 San Jacinto St (Midtown)",
+      "notes": "Multiple team fan communities"
+    },
+    {
+      "name": "Society Sports and Spirits",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Rockets (Home Team)"
+      ],
+      "address": "TBD",
+      "notes": "Houston Rockets (Home Team) fans gather here"
     },
     {
-      "id": "venue_33",
       "name": "St. Arnold's Brewery",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Houston Texans (Home Team)"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Texans (Home Team)"
+      ],
+      "address": "TBD",
+      "notes": "Houston Texans (Home Team) fans gather here"
     },
     {
-      "id": "venue_34",
       "name": "Stats Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Cleveland Browns"
       ],
+      "address": "10850 Louetta Rd Ste 1700, Houston",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "T-Bones Sports Pub",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "10850 Louetta Rd Ste 1700, Houston"
-    },
-    {
-      "id": "venue_35",
-      "name": "T-Bones Sports Pub",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Houston Texans (Home Team)"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "1971 W T C Jester Blvd, Houston, TX 77008"
+      "address": "1971 W T C Jester Blvd, Houston, TX 77008",
+      "notes": "Houston Texans (Home Team) fans gather here"
     },
     {
-      "id": "venue_36",
       "name": "TBD",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Arizona Cardinals",
-        "Chicago Bears",
-        "Miami Dolphins",
-        "Tennessee Titans"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Tennessee Titans",
+        "Miami Dolphins",
+        "Arizona Cardinals",
+        "Chicago Bears"
+      ],
+      "address": "TBD",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_37",
       "name": "Texas T Tavern",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Las Vegas Raiders"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "1535 Brittmoore Rd, Houston, TX 77043 (Northwest Houston)"
+      "address": "1535 Brittmoore Rd, Houston, TX 77043 (Northwest Houston)",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_38",
       "name": "The Decoy",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NHL Viewing",
-        "Houston Texans (Home Team)"
-      ],
       "sports": [
         "NFL",
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Houston Texans (Home Team)",
+        "General NHL Viewing"
+      ],
+      "address": "TBD",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_39",
       "name": "The Maple Leaf Pub",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NHL Viewing"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General NHL Viewing"
+      ],
+      "address": "TBD",
+      "notes": "General NHL Viewing fans gather here"
     },
     {
-      "id": "venue_40",
       "name": "The Phoenix",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "General NHL Viewing"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "General NHL Viewing"
+      ],
+      "address": "TBD",
+      "notes": "General NHL Viewing fans gather here"
     },
     {
-      "id": "venue_41",
       "name": "Timeout Sports Bar #4",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Green Bay Packers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "3338 E FM528 Rd, Friendswood"
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "address": "3338 E FM528 Rd, Friendswood",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_42",
       "name": "Tom's Watch Bar",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Stars (Closest Geographic Team)",
-        "Houston Astros (Home Team)",
-        "Houston Rockets (Home Team)",
-        "Houston Texans (Home Team)"
-      ],
       "sports": [
         "MLB",
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "Downtown Houston"
+      "team_affiliations": [
+        "Houston Texans (Home Team)",
+        "Dallas Stars (Closest Geographic Team)",
+        "Houston Astros (Home Team)",
+        "Houston Rockets (Home Team)"
+      ],
+      "address": "Downtown Houston",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_43",
       "name": "Various Locations",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "Multiple (The Decoy, Little Woodrow's, Big City Wings mentioned)",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Velvet Oak Tavern",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "Multiple (The Decoy, Little Woodrow's, Big City Wings mentioned)"
-    },
-    {
-      "id": "venue_44",
-      "name": "Velvet Oak Tavern",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Los Angeles Chargers"
       ],
+      "address": "2221 W Alabama St, Houston (Near Montrose)",
+      "notes": "Los Angeles Chargers fans gather here"
+    },
+    {
+      "name": "Wakefield Crowbar",
+      "type": "Sports Bar",
+      "city": "Houston",
       "sports": [
         "NFL"
       ],
-      "address": "2221 W Alabama St, Houston (Near Montrose)"
-    },
-    {
-      "id": "venue_45",
-      "name": "Wakefield Crowbar",
-      "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Minnesota Vikings"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "954 Wakefield Dr (Central Northwest)"
+      "address": "954 Wakefield Dr (Central Northwest)",
+      "notes": "Minnesota Vikings fans gather here"
     },
     {
-      "id": "venue_46",
       "name": "Walk-On's Sports Bistreaux",
+      "type": "Sports Bar",
       "city": "Houston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Cleveland Browns"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "1000 Outpost Dr, Conroe"
+      "team_affiliations": [
+        "Cleveland Browns"
+      ],
+      "address": "1000 Outpost Dr, Conroe",
+      "notes": "Shows NFL games"
     }
   ]
 }

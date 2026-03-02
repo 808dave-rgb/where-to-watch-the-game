@@ -1,587 +1,605 @@
 {
   "city": "Las Vegas",
   "total_venues": 48,
+  "venues_with_team_affiliations": 5,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "7-11 Bar",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "New Orleans Saints"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_2",
       "name": "Big Dog's Draft House",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_3",
       "name": "Blondies Sports Bar & Grill",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "General Sports Bars Recommended for MLB Games",
+        "Vegas Golden Knights",
+        "Tennessee Titans",
+        "Carolina Panthers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_4",
       "name": "Blue Diamond Saloon",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Kansas City Chiefs"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_5",
       "name": "Blue Ox Central",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Minnesota Vikings"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_6",
       "name": "Blue Ox Tavern",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Minnesota Vikings"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_7",
       "name": "Brooksy's",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Washington Capitals",
+        "Winnipeg Jets",
+        "Vegas Golden Knights",
+        "Tampa Bay Buccaneers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_8",
       "name": "Buffalo Wild Wings",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Chargers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_9",
       "name": "Chickie's & Pete's Las Vegas",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_10",
       "name": "Crab Corner Maryland Seafood House",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Washington Commanders"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_11",
       "name": "Crowbar (Flamingo)",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Detroit Lions"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_12",
       "name": "E-String (Historical)",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "New York Giants"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_13",
       "name": "Eclipse Theatres",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NBA Team Bars"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Lakers"
+      ],
+      "notes": "NBA Team Bars fans gather here"
     },
     {
-      "id": "venue_14",
       "name": "Flowing Tide Pub",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Miami Dolphins"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_15",
       "name": "Flowing Tide Pub 6",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Detroit Lions"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_16",
       "name": "Flowing Tide Pub on Rainbow",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "San Francisco 49ers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "G.O.A.T Sports Bar",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Carolina Panthers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_18",
       "name": "Jackpot Bar and Grill",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Kansas City Chiefs"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_19",
       "name": "Jake's Bar",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Denver Broncos"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_20",
       "name": "Joe's Bar",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Chicago Bears"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_21",
       "name": "Joey's Tavern",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "San Francisco 49ers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_22",
       "name": "Johnny Mac's Bar and Restaurant",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Buffalo Bills",
+        "Washington Commanders"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_23",
       "name": "Madison Ave (Historical)",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_24",
       "name": "Michael's Pub",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Chargers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_25",
       "name": "Moon Doggie's",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Buffalo Bills"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_26",
       "name": "Mr. D's Sportsbar & Grill",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Dallas Cowboys"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_27",
       "name": "Mulligan's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Chicago Bears"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_28",
       "name": "PKWY Tavern",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_29",
       "name": "PKWY Tavern Flamingo",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NBA Team Bars"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Golden State Warriors"
+      ],
+      "notes": "NBA Team Bars fans gather here"
     },
     {
-      "id": "venue_30",
       "name": "PKWY Tavern Tivoli",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "NBA Team Bars"
-      ],
       "sports": [
         "NBA"
-      ]
+      ],
+      "team_affiliations": [
+        "Toronto Raptors",
+        "Golden State Warriors"
+      ],
+      "notes": "NBA Team Bars fans gather here"
     },
     {
-      "id": "venue_31",
       "name": "PT's Ranch",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Chicago Bears"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_32",
       "name": "Roadrunner Saloon",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Denver Broncos"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_33",
       "name": "Rum Runner Lounge",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Green Bay Packers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_34",
       "name": "Scooter's Pub",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Seattle Seahawks"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_35",
       "name": "Shooters Bar & Grill",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Chargers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_36",
       "name": "Status: HOME TEAM",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Las Vegas Raiders"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_37",
       "name": "Steiner's Pub",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Washington Commanders"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_38",
       "name": "TAP Sports Bar at Excalibur",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Tampa Bay Buccaneers"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_39",
       "name": "The Standard Tavern",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Baltimore Ravens"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_40",
       "name": "The Still Crafts, Drafts & Eats",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas",
-        "NBA Team Bars"
-      ],
       "sports": [
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "General Sports Bars (Show All NBA Games)",
+        "Atlanta Falcons"
+      ],
+      "notes": "NBA Team Bars fans gather here"
     },
     {
-      "id": "venue_41",
       "name": "The Tavern",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Vegas Golden Knights",
+        "Cleveland Browns",
+        "Los Angeles Rams"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_42",
       "name": "Timbers Bar and Grill",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Pittsburgh Steelers",
+        "Arizona Cardinals"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_43",
       "name": "Tom's Watch Bar",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas",
-        "NBA Team Bars"
-      ],
       "sports": [
         "NBA",
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Lakers",
+        "General Sports Bars (Show All NBA Games)",
+        "General Sports Bars Recommended for MLB Games",
+        "Vegas Golden Knights",
+        "San Francisco 49ers"
+      ],
+      "notes": "NBA Team Bars fans gather here"
     },
     {
-      "id": "venue_44",
       "name": "Torrey Pines Pub",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Philadelphia Phillies",
+        "New England Patriots",
+        "New York Giants",
+        "Philadelphia Eagles"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_45",
       "name": "Twin Peaks",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "Los Angeles Rams"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_46",
       "name": "Walk-On's Sports Bistreaux",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "New Orleans Saints"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_47",
       "name": "Wildfire Sports Bar",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "New York Jets"
+      ],
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_48",
       "name": "Wildfire Valley View",
+      "type": "Sports Bar",
       "city": "Las Vegas",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Las Vegas"
-      ],
       "sports": [
         "NFL"
-      ]
+      ],
+      "team_affiliations": [
+        "New York Giants"
+      ],
+      "notes": "Shows NFL games"
     }
   ]
 }

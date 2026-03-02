@@ -1,686 +1,690 @@
 {
   "city": "Boston",
   "total_venues": 42,
+  "venues_with_team_affiliations": 30,
   "last_updated": "2026-03-02",
   "venues": [
     {
-      "id": "venue_1",
       "name": "BOXCAR",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox (HOME TEAM)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "TBD",
+      "notes": "Boston Red Sox (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_2",
       "name": "Banners Kitchen & Tap",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)",
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "82 Causeway St, Boston, MA 02114"
+      "team_affiliations": [
+        "Boston Celtics",
+        "Boston Bruins"
+      ],
+      "address": "82 Causeway St, Boston, MA 02114",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_3",
       "name": "Batter'd & Fried",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox (HOME TEAM)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "TBD",
+      "notes": "Boston Red Sox (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_4",
       "name": "Bills bar (specific name TBD)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Buffalo Bills"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Buffalo Bills fans gather here"
     },
     {
-      "id": "venue_5",
       "name": "Bleacher Bar",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox (HOME TEAM)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "82A Lansdowne St, Boston, MA 02215"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "82A Lansdowne St, Boston, MA 02215",
+      "notes": "Boston Red Sox (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_6",
       "name": "Brack's Grille & Tap",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "TBD",
+      "notes": "Boston Celtics (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_7",
       "name": "Brick & Beam",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "705 Adams St, Quincy, MA"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "705 Adams St, Quincy, MA",
+      "notes": "Boston Celtics (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_8",
       "name": "Brickhouse Sports Pub",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox (HOME TEAM)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "TBD (appears in multiple cities)"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "TBD (appears in multiple cities)",
+      "notes": "Boston Red Sox (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_9",
       "name": "Cask 'n Flagon",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox (HOME TEAM)",
-        "New England Patriots (HOME TEAM)"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "62 Brookline Ave, Boston, MA 02215"
+      "team_affiliations": [
+        "Boston Red Sox",
+        "New England Patriots"
+      ],
+      "address": "62 Brookline Ave, Boston, MA 02215",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_10",
       "name": "Causeway (area bars)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Baltimore Ravens"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "Causeway Street area, Boston, MA"
+      "address": "Causeway Street area, Boston, MA",
+      "notes": "Baltimore Ravens fans gather here"
     },
     {
-      "id": "venue_11",
       "name": "Cheers",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "84 Beacon St, Beacon Hill, Boston, MA"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "84 Beacon St, Beacon Hill, Boston, MA",
+      "notes": "Boston Celtics (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_12",
       "name": "Cityside Bar",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Pittsburgh Steelers"
+      ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_13",
       "name": "Coogan's",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)",
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "Near TD Garden"
+      "team_affiliations": [
+        "Boston Celtics",
+        "Boston Bruins"
+      ],
+      "address": "Near TD Garden",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_14",
       "name": "Eagles bar (specific name TBD)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Philadelphia Eagles"
+      ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_15",
       "name": "Foxboro Sports Tavern",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Foxboro, MA (south of Boston)"
+      "team_affiliations": [
+        "Boston Bruins"
+      ],
+      "address": "Foxboro, MA (south of Boston)",
+      "notes": "Boston Bruins (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_16",
       "name": "Game On Fenway",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Cowboys"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "82 Lansdowne St, Boston, MA 02215"
+      "team_affiliations": [
+        "Dallas Cowboys"
+      ],
+      "address": "82 Lansdowne St, Boston, MA 02215",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_17",
       "name": "Game On!",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox (HOME TEAM)",
-        "New England Patriots (HOME TEAM)"
-      ],
       "sports": [
         "MLB",
         "NFL"
       ],
-      "address": "82 Lansdowne St, Boston, MA 02215"
+      "team_affiliations": [
+        "Boston Red Sox",
+        "New England Patriots"
+      ],
+      "address": "82 Lansdowne St, Boston, MA 02215",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_18",
       "name": "Harpoon Brewery (TD Garden location)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "Near TD Garden"
+      "team_affiliations": [
+        "Boston Bruins"
+      ],
+      "address": "Near TD Garden",
+      "notes": "Boston Bruins (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_19",
       "name": "Hurricane's (Hurricane O'Reilly's)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)",
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "150 Canal St, Boston, MA 02114"
+      "team_affiliations": [
+        "Boston Celtics",
+        "Boston Bruins"
+      ],
+      "address": "150 Canal St, Boston, MA 02114",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_20",
       "name": "Jake n JOES Sports Grille - Waltham",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Waltham, MA"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "Waltham, MA",
+      "notes": "Boston Celtics (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_21",
       "name": "Lansdowne Pub",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox (HOME TEAM)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "9 Lansdowne St, Boston, MA 02215"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "9 Lansdowne St, Boston, MA 02215",
+      "notes": "Boston Red Sox (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_22",
       "name": "Libby's Bar & Grill",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "TBD",
+      "notes": "Boston Celtics (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_23",
       "name": "M.J. O'Connor's",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Dallas Cowboys",
         "New York Jets"
       ],
+      "address": "27 Columbus Ave, Boston, MA",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "Packers bar (specific name TBD)",
+      "type": "Sports Bar",
+      "city": "Boston",
       "sports": [
         "NFL"
       ],
-      "address": "27 Columbus Ave, Boston, MA"
-    },
-    {
-      "id": "venue_24",
-      "name": "Packers bar (specific name TBD)",
-      "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "Green Bay Packers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Green Bay Packers fans gather here"
     },
     {
-      "id": "venue_25",
       "name": "Parlor Sports",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "1 Beacon St, Somerville, MA"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "1 Beacon St, Somerville, MA",
+      "notes": "Boston Celtics (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_26",
       "name": "Research needed",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Anaheim Ducks",
-        "Arizona Cardinals",
-        "Arizona Coyotes",
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "team_affiliations": [
         "Arizona Diamondbacks",
         "Atlanta Braves",
-        "Atlanta Falcons",
-        "Atlanta Hawks",
         "Baltimore Orioles",
-        "Brooklyn Nets",
-        "Calgary Flames",
-        "Carolina Hurricanes",
-        "Carolina Panthers",
-        "Charlotte Hornets",
-        "Chicago Bears",
-        "Chicago Blackhawks",
         "Chicago Cubs",
         "Chicago White Sox",
-        "Cincinnati Bengals",
         "Cincinnati Reds",
-        "Cleveland Browns",
-        "Cleveland Cavaliers",
         "Cleveland Guardians",
-        "Colorado Avalanche",
         "Colorado Rockies",
-        "Columbus Blue Jackets",
-        "Dallas Mavericks",
-        "Dallas Stars",
-        "Denver Broncos",
-        "Denver Nuggets",
-        "Detroit Pistons",
-        "Detroit Red Wings",
         "Detroit Tigers",
-        "Edmonton Oilers",
-        "Florida Panthers",
-        "Golden State Warriors",
         "Houston Astros",
-        "Houston Rockets",
+        "Kansas City Royals",
+        "Los Angeles Angels",
+        "Los Angeles Dodgers",
+        "Miami Marlins",
+        "Milwaukee Brewers",
+        "Minnesota Twins",
+        "New York Mets",
+        "New York Yankees",
+        "Oakland Athletics",
+        "Philadelphia Phillies",
+        "San Diego Padres",
+        "San Francisco Giants",
+        "Seattle Mariners",
+        "St. Louis Cardinals",
+        "Tampa Bay Rays",
+        "Texas Rangers",
+        "Toronto Blue Jays",
+        "Washington Nationals",
+        "Arizona Cardinals",
+        "Atlanta Falcons",
+        "Carolina Panthers",
+        "Chicago Bears",
+        "Cincinnati Bengals",
+        "Cleveland Browns",
+        "Denver Broncos",
         "Houston Texans",
-        "Indiana Pacers",
         "Indianapolis Colts",
         "Jacksonville Jaguars",
         "Kansas City Chiefs",
-        "Kansas City Royals",
         "Las Vegas Raiders",
-        "Los Angeles Angels",
         "Los Angeles Chargers",
-        "Los Angeles Clippers",
-        "Los Angeles Dodgers",
-        "Los Angeles Kings",
-        "Los Angeles Lakers",
         "Los Angeles Rams",
-        "Memphis Grizzlies",
         "Miami Dolphins",
-        "Miami Heat",
-        "Miami Marlins",
-        "Milwaukee Brewers",
-        "Milwaukee Bucks",
-        "Minnesota Timberwolves",
-        "Minnesota Twins",
         "Minnesota Vikings",
-        "Minnesota Wild",
-        "Montreal Canadiens",
-        "Nashville Predators",
-        "New Jersey Devils",
-        "New Orleans Pelicans",
         "New Orleans Saints",
         "New York Giants",
-        "New York Islanders",
+        "Seattle Seahawks",
+        "Tampa Bay Buccaneers",
+        "Tennessee Titans",
+        "Washington Commanders",
+        "Atlanta Hawks",
+        "Brooklyn Nets",
+        "Charlotte Hornets",
+        "Cleveland Cavaliers",
+        "Dallas Mavericks",
+        "Denver Nuggets",
+        "Detroit Pistons",
+        "Golden State Warriors",
+        "Houston Rockets",
+        "Indiana Pacers",
+        "Los Angeles Clippers",
+        "Los Angeles Lakers",
+        "Memphis Grizzlies",
+        "Miami Heat",
+        "Milwaukee Bucks",
+        "Minnesota Timberwolves",
+        "New Orleans Pelicans",
         "New York Knicks",
-        "New York Mets",
-        "New York Rangers",
-        "New York Yankees",
-        "Oakland Athletics",
         "Oklahoma City Thunder",
         "Orlando Magic",
-        "Ottawa Senators",
         "Philadelphia 76ers",
-        "Philadelphia Flyers",
-        "Philadelphia Phillies",
         "Phoenix Suns",
         "Portland Trail Blazers",
         "Sacramento Kings",
         "San Antonio Spurs",
-        "San Diego Padres",
-        "San Francisco Giants",
-        "San Jose Sharks",
-        "Seattle Kraken",
-        "Seattle Mariners",
-        "Seattle Seahawks",
-        "St. Louis Blues",
-        "St. Louis Cardinals",
-        "Tampa Bay Buccaneers",
-        "Tampa Bay Lightning",
-        "Tampa Bay Rays",
-        "Tennessee Titans",
-        "Texas Rangers",
-        "Toronto Blue Jays",
-        "Toronto Maple Leafs",
         "Toronto Raptors",
         "Utah Jazz",
+        "Washington Wizards",
+        "Anaheim Ducks",
+        "Arizona Coyotes",
+        "Calgary Flames",
+        "Carolina Hurricanes",
+        "Chicago Blackhawks",
+        "Colorado Avalanche",
+        "Columbus Blue Jackets",
+        "Dallas Stars",
+        "Detroit Red Wings",
+        "Edmonton Oilers",
+        "Florida Panthers",
+        "Los Angeles Kings",
+        "Minnesota Wild",
+        "Montreal Canadiens",
+        "Nashville Predators",
+        "New Jersey Devils",
+        "New York Islanders",
+        "New York Rangers",
+        "Ottawa Senators",
+        "Philadelphia Flyers",
+        "San Jose Sharks",
+        "Seattle Kraken",
+        "St. Louis Blues",
+        "Tampa Bay Lightning",
+        "Toronto Maple Leafs",
         "Vancouver Canucks",
         "Vegas Golden Knights",
         "Washington Capitals",
-        "Washington Commanders",
-        "Washington Nationals",
-        "Washington Wizards",
         "Winnipeg Jets"
       ],
-      "sports": [
-        "MLB",
-        "NBA",
-        "NFL",
-        "NHL"
-      ],
-      "address": "TBD"
+      "address": "TBD",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_27",
       "name": "Scores",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Detroit Lions"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "166 Canal St, Boston, MA 02114"
+      "address": "166 Canal St, Boston, MA 02114",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_28",
       "name": "SideBar",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "14 Bromfield St, Downtown Boston, MA"
+      "team_affiliations": [
+        "Boston Bruins"
+      ],
+      "address": "14 Bromfield St, Downtown Boston, MA",
+      "notes": "Boston Bruins (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_29",
       "name": "Sports Grille Boston",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Dallas Cowboys"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Canal Street, Boston, MA"
+      "team_affiliations": [
+        "Dallas Cowboys"
+      ],
+      "address": "Canal Street, Boston, MA",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_30",
       "name": "Sullivan's Tap",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)",
-        "Boston Celtics (HOME TEAM)",
-        "New England Patriots (HOME TEAM)"
-      ],
       "sports": [
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "168 Canal St, Boston, MA 02114"
+      "team_affiliations": [
+        "New England Patriots",
+        "Boston Celtics",
+        "Boston Bruins"
+      ],
+      "address": "168 Canal St, Boston, MA 02114",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_31",
       "name": "Sullivan's Tap (listed multiple times as TOP Bruins bar)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Boston Bruins"
+      ],
+      "address": "TBD",
+      "notes": "Boston Bruins (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_32",
       "name": "Sunset Cantina",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Pittsburgh Steelers"
+      ],
+      "address": "TBD",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_33",
       "name": "The Blackmore (Charlestown)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Charlestown, Boston, MA"
+      "team_affiliations": [
+        "Boston Celtics"
+      ],
+      "address": "Charlestown, Boston, MA",
+      "notes": "Boston Celtics (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_34",
       "name": "The Burren (sister pub: The Bebop)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Red Sox (HOME TEAM)"
-      ],
       "sports": [
         "MLB"
       ],
-      "address": "Somerville, MA (0.5 miles from Fenway)"
+      "team_affiliations": [
+        "Boston Red Sox"
+      ],
+      "address": "Somerville, MA (0.5 miles from Fenway)",
+      "notes": "Boston Red Sox (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_35",
       "name": "The Greatest Bar",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)",
-        "Boston Celtics (HOME TEAM)"
-      ],
       "sports": [
         "NBA",
         "NHL"
       ],
-      "address": "262 Friend St, Boston, MA 02114"
+      "team_affiliations": [
+        "Boston Celtics",
+        "Boston Bruins"
+      ],
+      "address": "262 Friend St, Boston, MA 02114",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_36",
       "name": "The Harp",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)",
-        "Boston Celtics (HOME TEAM)",
-        "Buffalo Bills",
-        "New England Patriots (HOME TEAM)"
-      ],
       "sports": [
         "NBA",
         "NFL",
         "NHL"
       ],
-      "address": "85 Causeway St, Boston, MA 02114"
+      "team_affiliations": [
+        "New England Patriots",
+        "Buffalo Bills",
+        "Boston Celtics",
+        "Boston Bruins"
+      ],
+      "address": "85 Causeway St, Boston, MA 02114",
+      "notes": "Multiple team fan communities"
     },
     {
-      "id": "venue_37",
       "name": "The Point",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "sports": [
+        "NFL"
+      ],
+      "team_affiliations": [
         "Dallas Cowboys"
       ],
+      "address": "147 Hanover St, Boston, MA 02108",
+      "notes": "Shows NFL games"
+    },
+    {
+      "name": "The Point Boston",
+      "type": "Sports Bar",
+      "city": "Boston",
       "sports": [
         "NFL"
       ],
-      "address": "147 Hanover St, Boston, MA 02108"
-    },
-    {
-      "id": "venue_38",
-      "name": "The Point Boston",
-      "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
+      "team_affiliations": [
         "San Francisco 49ers"
       ],
-      "sports": [
-        "NFL"
-      ],
-      "address": "147 Hanover St, Boston, MA 02108"
+      "address": "147 Hanover St, Boston, MA 02108",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_39",
       "name": "Tripoli Tavern (Chicago-based)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Chicago Bulls"
-      ],
       "sports": [
         "NBA"
       ],
-      "address": "Chicago, IL"
+      "team_affiliations": [
+        "Chicago Bulls"
+      ],
+      "address": "Chicago, IL",
+      "notes": "Shows NBA games"
     },
     {
-      "id": "venue_40",
       "name": "Tupelo",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Boston Bruins (HOME TEAM)"
-      ],
       "sports": [
         "NHL"
       ],
-      "address": "TBD"
+      "team_affiliations": [
+        "Boston Bruins"
+      ],
+      "address": "TBD",
+      "notes": "Boston Bruins (HOME TEAM) fans gather here"
     },
     {
-      "id": "venue_41",
       "name": "Yinz in Boston (organizes events)",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
       "sports": [
         "NFL"
       ],
-      "address": "Various locations"
+      "team_affiliations": [
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers",
+        "Pittsburgh Penguins"
+      ],
+      "address": "Various locations",
+      "notes": "Shows NFL games"
     },
     {
-      "id": "venue_42",
       "name": "Yinz in Boston organizes events",
+      "type": "Sports Bar",
       "city": "Boston",
-      "venue_type": "Sports Bar",
-      "teams": [
-        "Pittsburgh Penguins",
-        "Pittsburgh Pirates"
-      ],
       "sports": [
         "MLB",
         "NHL"
       ],
-      "address": "Various locations"
+      "team_affiliations": [
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers",
+        "Pittsburgh Penguins"
+      ],
+      "address": "Various locations",
+      "notes": "Shows MLB, NHL games"
     }
   ]
 }
