@@ -1,623 +1,941 @@
 {
-  "NFL": {
-    "Official Team Bar Network Locations": [
-      {
-        "name": "Sports Grill (Multiple Locations)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Flanigan's Seafood Bar and Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Brickell Sports Bars": [
-      {
-        "name": "Sandbar Sports Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Batch Gastropub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "American Social",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "305 Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Black Market Miami",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Wynwood / Edgewater": [
-      {
-        "name": "CMX Stone Sports Bar Brickell",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Miami Beach / South Beach": [
-      {
-        "name": "Grails Miami - Restaurant & Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mickey Burkes",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Downtown Miami": [
-      {
-        "name": "Clevelander Sports Bar (Kush at Clevelander)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Near Airport / Miami Springs": [
-      {
-        "name": "Mike's at Venetia",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "North Miami / North Miami Beach": [
-      {
-        "name": "Old Tom's (formerly Tom's NFL)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Additional GameWatch.info Listings": [
-      {
-        "name": "Duffy's Sports Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Reddit Recommendations": [],
-    "Watch Party Info": [],
-    "Summary Statistics": []
-  },
-  "MLB": {
-    "Official Marlins Bar Network": [
-      {
-        "name": "Participating Bars (Official Program)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Downtown / Brickell Venues": [
-      {
-        "name": "Breweries (Official Partners)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Black Market Miami",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "American Social",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "305 Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Wynwood / Edgewater": [
-      {
-        "name": "Batch Gastropub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Coconut Grove": [
-      {
-        "name": "Grails Miami - Restaurant & Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Little Havana": [
-      {
-        "name": "Sandbar Sports Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Batting Cage Sports Bar & Lounge",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "At the Stadium": [
-      {
-        "name": "Ball & Chain",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Recess Sports Lounge",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "West Miami / Doral": [
-      {
-        "name": "The Clevelander at Marlins Park",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Additional Official Partners": [
-      {
-        "name": "Sports & Social Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Brightside",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Texas Roadhouse",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Participating Restaurants": [
-      {
-        "name": "Thank You Miami",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "PINCHO",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "SuViche",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Reddit Recommendations": [
-      {
-        "name": "Miami's Best Pizza",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Watch Party Schedule Info": [],
-    "Summary Statistics": [],
-    "Notes": []
-  },
-  "NBA": {
-    "Top-Rated Heat Watch Party Locations": [
-      {
-        "name": "Grails Miami - Restaurant & Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Wynwood / Edgewater Area": [
-      {
-        "name": "American Social",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Brickell Sports Bars": [
-      {
-        "name": "Cerveceria La Tropical",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Batch Gastropub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "305 Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Black Market Miami",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Miami Beach / South Beach": [
-      {
-        "name": "CMX Stone Sports Bar Brickell",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Clevelander Sports Bar (Kush at Clevelander)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "West Miami / Doral": [
-      {
-        "name": "Mickey Burkes",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Additional Heat-Friendly Locations": [
-      {
-        "name": "Fatty Crab",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Miccosukee Resort & Gaming",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cheers Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Islander Bar and Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Coral Gables": [
-      {
-        "name": "Casa D Miami",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Downtown Miami": [
-      {
-        "name": "Sandbar Sports Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Chain Options": [
-      {
-        "name": "Mike's at Venetia",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Duffy's Sports Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Hotel Bars": [
-      {
-        "name": "Flanigan's Seafood Bar and Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Specialty Venues": [
-      {
-        "name": "The Bamboo Room (Esme Hotel lobby bar)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Watch Party Events & Fan Clubs": [
-      {
-        "name": "Wynwood Brewing Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Summary Statistics": [],
-    "Heat Season Info": [],
-    "Best Bets by Vibe": []
-  },
-  "NHL": {
-    "Official \"Cats on Tap\" Program Locations": [],
-    "Fort Lauderdale / Broward County": [
-      {
-        "name": "Miami Locations",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Fort Lauderdale Area",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Davie / Cooper City",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Plantation",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Delray Beach / Boca Raton": [
-      {
-        "name": "Oakland Park / Pompano Beach",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "West Palm Beach / Palm Beach County": [],
-    "Top GameWatch.info Locations": [
-      {
-        "name": "Bokampers Sports Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Sandbar Sports Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Additional Notable Locations": [
-      {
-        "name": "Whistle Stop",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Panthers Point Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "BRGR STOP",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Irishmen",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Inn Field",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Official Watch Parties at Amerant Bank Arena": [
-      {
-        "name": "Funky Buddha Brewery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Recent Championship Context": [],
-    "Summary Statistics": [],
-    "Best Bets by Location": [],
-    "Panthers Season Info": []
-  }
+  "city": "Miami",
+  "total_venues": 74,
+  "last_updated": "2026-03-02",
+  "venues": [
+    {
+      "id": "venue_1",
+      "name": "305 Sports Bar",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins",
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_2",
+      "name": "American Social",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers",
+        "Miami Dolphins",
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_3",
+      "name": "American Social Boca Raton",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_4",
+      "name": "American Social Fort Lauderdale",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_5",
+      "name": "BRGR STOP",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_6",
+      "name": "Ball & Chain",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_7",
+      "name": "Batch Gastropub",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins",
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_8",
+      "name": "Batting Cage Sports Bar & Lounge",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_9",
+      "name": "Biscayne Bay Brewing Company",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_10",
+      "name": "Black Market Miami",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins",
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_11",
+      "name": "Bokampers Sports Bar & Grill",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_12",
+      "name": "Bounce Sporting Club",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_13",
+      "name": "Briny Irish Pub",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_14",
+      "name": "CJ Blacks",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_15",
+      "name": "Casa D Miami",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_16",
+      "name": "Casa Tiki (The Dead Flamingo)",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_17",
+      "name": "Cerveceria La Tropical",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_18",
+      "name": "Cheers Bar",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_19",
+      "name": "Clevelander Sports Bar (Kush at Clevelander)",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins",
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_20",
+      "name": "Coconut Grove",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_21",
+      "name": "Con Murphys",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_22",
+      "name": "Davie / Cooper City",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_23",
+      "name": "Doral",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_24",
+      "name": "Duffy's Sports Grill",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers",
+        "Miami Dolphins",
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_25",
+      "name": "Duffy's Sports Grill Boca/Coconut Creek",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_26",
+      "name": "Duffy's Sports Grill Plantation",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_27",
+      "name": "ER Bradley's",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_28",
+      "name": "Elbo Room",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_29",
+      "name": "Fatty Crab",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_30",
+      "name": "Flanigan's Seafood Bar and Grill",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins",
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_31",
+      "name": "Fort Lauderdale Area",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_32",
+      "name": "Funky Buddha Brewery",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_33",
+      "name": "Geronimo's",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_34",
+      "name": "Grails",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_35",
+      "name": "Grails Miami - Restaurant & Sports Bar",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins",
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_36",
+      "name": "Hallandale Beach",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_37",
+      "name": "Hott Leggz",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_38",
+      "name": "Irish Brigade Pub",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_39",
+      "name": "Irishmen",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_40",
+      "name": "Islander Bar and Grill",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_41",
+      "name": "Kirby's",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_42",
+      "name": "McSorely's FTL",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_43",
+      "name": "Miccosukee Resort & Gaming",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_44",
+      "name": "Mickey Burkes",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins",
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_45",
+      "name": "Mike's at Venetia",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins",
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_46",
+      "name": "Mis-Cue Lounge",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_47",
+      "name": "O'Brian's Pub",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_48",
+      "name": "O'Connors Irish Pub",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_49",
+      "name": "O'Shea's Pub",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_50",
+      "name": "Oakland Park / Pompano Beach",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_51",
+      "name": "Old Tom's (formerly Tom's NFL)",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_52",
+      "name": "PINCHO",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_53",
+      "name": "Panthers Point Bar & Grill",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_54",
+      "name": "Pig Beach",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_55",
+      "name": "Plantation",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_56",
+      "name": "Recess Sports Lounge",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_57",
+      "name": "Round Up",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_58",
+      "name": "Sandbar Cutler Bay",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_59",
+      "name": "Sandbar Sports Grill",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers",
+        "Miami Dolphins",
+        "Miami Heat",
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_60",
+      "name": "Sports & Social Sports Bar",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_61",
+      "name": "Sports Grill",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_62",
+      "name": "SuViche",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_63",
+      "name": "Texas Roadhouse",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_64",
+      "name": "Thank You Miami",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_65",
+      "name": "The Bamboo Room (Esme Hotel lobby bar)",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Heat"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_66",
+      "name": "The Bend",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_67",
+      "name": "The Brightside",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_68",
+      "name": "The Clevelander at Marlins Park",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Marlins"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_69",
+      "name": "The Inn Field",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_70",
+      "name": "Tin Cup",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_71",
+      "name": "Tin Roof Delray Beach",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_72",
+      "name": "Tin Roof FTL",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_73",
+      "name": "Townies Tavern",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_74",
+      "name": "Whistle Stop",
+      "city": "Miami",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Florida Panthers"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    }
+  ]
 }

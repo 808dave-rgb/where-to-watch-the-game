@@ -1,2346 +1,1124 @@
 {
-  "city": "chicago",
-  "total_bars": 83,
-  "sports": [
-    "MLB",
-    "NBA",
-    "NFL",
-    "NHL"
-  ],
-  "bars": [
+  "city": "Chicago",
+  "total_venues": 78,
+  "last_updated": "2026-03-02",
+  "venues": [
     {
-      "name": "George Street Pub",
-      "address": "2858 N Halsted St, Chicago, IL 60657",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Baltimore Ravens"
-      ],
-      "notes": "Home of Ravens Club of Chicago. Game sound, food, and drinks for all gamedays.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Delilah's Bar",
-      "address": "2771 N. Lincoln, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Buffalo Bills"
-      ],
-      "notes": "Home of Bills Backers Delilah's Chicago.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "The Butcher's Tap",
-      "address": "3553 N Southport Ave, Chicago, IL 60657",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Buffalo Bills (Additional)"
-      ],
-      "notes": "Excellent venue for Bills fans to gather.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Lottie's Pub",
-      "address": "1925 W Cortland St, Chicago, IL 60622",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Bears"
-      ],
-      "notes": "Historic sports bar established in 1932 with pizza, pub grub, 20+ taps, vintage vibe. NFL Sunday Ticket.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "The Corner Bar",
-      "address": "2224 N Leavitt St, Chicago, IL 60647",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Bears (Additional)"
-      ],
-      "notes": "Friendly spot for Bears fans on game days.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Every bar in Chicago with a TV",
-      "address": "Various",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Bears (Additional)"
-      ],
-      "notes": "Bears games shown at virtually every bar in the city.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Woodie's Flat",
-      "address": "1535 N Wells St, Chicago, IL 60610",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cincinnati Bengals"
-      ],
-      "notes": "Game sound, DJ playing videos during commercials, giveaways, Skyline Chili specials.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Kincade's Bar & Grill",
-      "address": "950 W Armitage Ave, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cincinnati Bengals (Additional)"
-      ],
-      "notes": "Welcoming environment for Bengals fans.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Burke's Public House",
-      "address": "5401 N Broadway, Chicago, IL 60640",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cleveland Browns"
-      ],
-      "notes": "Home to Chicagoland Browns Backers on gamedays.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Old Crow Wrigleyville",
-      "address": "3506 N Clark St, Chicago, IL 60657",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cleveland Browns (Additional)"
-      ],
-      "notes": "Chi-Town Dawg Pound hosts massive Browns watch parties with giveaways and big game-day energy.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "John Barleycorn",
-      "address": "Clark St (exact address TBD)",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cleveland Browns (Additional)"
-      ],
-      "notes": "Browns Backers club watches every Sunday, usually 150+ Browns fans.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "The Warehouse Bar & Pizzeria",
-      "address": "1419 W Fullerton Ave, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Dallas Cowboys"
-      ],
-      "notes": "Home of Dallas Cowboys Fans Chicago (established 2007). Welcoming atmosphere.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Commonwealth Tavern",
-      "address": "North Center neighborhood near Roscoe Village",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Dallas Cowboys (Additional)"
-      ],
-      "notes": "Purported Dallas Cowboys bar of Chicago. Also hosts Cubs and Marquette watch parties.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Riverview Tavern",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Denver Broncos"
-      ],
-      "notes": "Broncos game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Tin Lizzie",
-      "address": "2483 N Clark St, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
+      "id": "venue_1",
+      "name": "Avenue Tavern",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
         "Detroit Lions"
       ],
-      "notes": "Lincoln Park sports pub with flat-screens, comfort food, garage-door storefront. Can get rowdy on game days.",
       "sports": [
         "NFL"
       ],
-      "city": "chicago"
+      "address": "TBD"
     },
     {
-      "name": "Duffy's Tavern & Grille",
-      "address": "420 W Diversey Pkwy, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Detroit Lions (Additional)"
-      ],
-      "notes": "Wide range of bar food, daily specials, sports-bar setting with live music.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Avenue Tavern",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Detroit Lions (Additional)"
-      ],
-      "notes": "Detroit Lions bar.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Will's Northwoods Inn",
-      "address": "3030 N Racine Ave, Chicago, IL 60657",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers"
-      ],
-      "notes": "Home of Chicago Packers Backers. Most storied Packers bar outside Wisconsin. Hosts annual \"Packerpalooza\" event with player appearances.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "O'Leary's Public House",
-      "address": "541 N Wells St, Chicago, IL 60654",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers (Additional)"
-      ],
-      "notes": "Home of O'Learys Packer House for game days with green-and-gold energy.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "My Buddy's",
-      "address": "4416 N Clark St, Chicago, IL 60640",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers (Additional)"
-      ],
-      "notes": "Packers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Ranalli's",
-      "address": "1925 N Lincoln Ave, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers (Additional)"
-      ],
-      "notes": "Packers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Gold Star Bar",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers (Additional)"
-      ],
-      "notes": "Packers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Kroll's South Loop",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers (Additional)"
-      ],
-      "notes": "Packers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Waterhouse",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers (Additional)"
-      ],
-      "notes": "Packers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Trace",
-      "address": "3714 N Clark St, Chicago, IL 60613",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Indianapolis Colts"
-      ],
-      "notes": "New Colts bar as of 2024, coordinated by r/Colts Redditors with bar GM. Welcoming atmosphere for all Colts supporters.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Mullen's Wrigleyville",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Indianapolis Colts (Additional)"
-      ],
-      "notes": "Colts game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Union",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Indianapolis Colts (Additional)"
-      ],
-      "notes": "Colts game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Toons Bar & Grill",
-      "address": "3857 North Southport Avenue, Chicago, IL 60613",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Kansas City Chiefs"
-      ],
-      "notes": "Home of Chiefs Chicago club. Neighborhood joint with shuffleboard, pool, daily specials, BBQ-focused menu. Also Kansas City Royals games.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Beck's Chicago",
-      "address": "2201 N Clybourn Ave, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Kansas City Chiefs (Additional)"
-      ],
-      "notes": "Lincoln Park favorite with two rooms, multiple HDTVs, World Famous Wings. Hosted 2024 Super Bowl special events.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Dante's Tavern",
-      "address": "1936 W Chicago Ave, Chicago, IL 60622",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Las Vegas Raiders"
-      ],
-      "notes": "Home of energetic Chicago Raider Nation. Perfect spot for Raiders gamedays.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Dram Shop",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Los Angeles Chargers"
-      ],
-      "notes": "Chargers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "The Pitch",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Miami Dolphins"
-      ],
-      "notes": "Dolphins game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Roadhouse 66 Gas n Grill",
-      "address": "3478 N Clark St, Chicago, IL 60657",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Minnesota Vikings"
-      ],
-      "notes": "Home of CookCounty Vikings fans. Game sound, food, plenty of TVs.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Redmond's",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Minnesota Vikings (Additional)"
-      ],
-      "notes": "Vikings game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Theory",
-      "address": "9 W Hubbard St, Chicago, IL 60654",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New England Patriots"
-      ],
-      "notes": "Upscale sports bar, eclectic menu, slick loungey space with plentiful plasma TVs. Home of Chicago Patriots Nation fan group.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Tripoli Tap",
-      "address": "1147 W Armitage Ave, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New England Patriots (Additional)"
-      ],
-      "notes": "Neighborhood bar with typical pub grub, draws homesick Bostonians, TVs tuned to the game.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Brendan's",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New England Patriots (Additional)"
-      ],
-      "notes": "Patriots game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Hidden Shamrock",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New England Patriots (Additional)"
-      ],
-      "notes": "Patriots game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Fizz Bar & Grill",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New Orleans Saints"
-      ],
-      "notes": "Official Saints Nation Chicago bar.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Temple Bar",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New Orleans Saints (Additional)"
-      ],
-      "notes": "Saints game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Racine Plumbing",
-      "address": "2642 N Lincoln Ave, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
+      "id": "venue_2",
+      "name": "Bad Dog Tavern",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
         "New York Giants"
       ],
-      "notes": "Unique sports bar with wood and copper tubing decor, craft beers, American menu. Cozy atmosphere for Giants fans.",
       "sports": [
         "NFL"
       ],
-      "city": "chicago"
+      "address": "TBD"
     },
     {
-      "name": "Bad Dog Tavern",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
+      "id": "venue_3",
+      "name": "Beck's Chicago",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
-        "New York Giants (Additional)"
+        "Kansas City Chiefs"
       ],
-      "notes": "Giants game watch location.",
       "sports": [
         "NFL"
       ],
-      "city": "chicago"
+      "address": "2201 N Clybourn Ave, Chicago, IL 60614"
     },
     {
-      "name": "Trinity",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
+      "id": "venue_4",
+      "name": "Brendan's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
-        "New York Giants (Additional)"
+        "New England Patriots"
       ],
-      "notes": "Giants game watch location.",
       "sports": [
         "NFL"
       ],
-      "city": "chicago"
+      "address": "TBD"
     },
     {
-      "name": "The Country Club",
-      "address": "3462 N Clark St, Chicago, IL 60657",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New York Jets"
-      ],
-      "notes": "Funky country-western bar with rustic decor, Southern pub grub. Home of Chicago Jets Fans.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Butch McGuire's",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New York Jets (Additional)"
-      ],
-      "notes": "Jets game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Rebel Bar & Grill",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "New York Jets (Additional)"
-      ],
-      "notes": "Jets game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "The Reveler",
-      "address": "3403 N Damen Ave, Chicago, IL 60657",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
-      "notes": "True Eagles bar with game sound, raffles, $6 Eagles Bombs. Home of Philadelphia Eagles Fans in Chicago.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Rebel & Rye",
-      "address": "726 W Grand Ave, Chicago, IL 60654",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Philadelphia Eagles (Additional)"
-      ],
-      "notes": "Relaxed lounge specializing in brown spirits & craft cocktails. Stylish Eagles watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Monti's",
-      "address": "4757 N Talman Ave, Chicago, IL 60625",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Philadelphia Eagles (Additional)"
-      ],
-      "notes": "Cozy north-side cheesesteak spot, Philly through and through for game day.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Mad River",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Philadelphia Eagles (Additional)"
-      ],
-      "notes": "Eagles game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "McGee's Tavern & Grille",
-      "address": "950 W Webster Ave, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
-      "notes": "Lincoln Park mainstay with full sports-bar menu and big Steelers following. Home of Chicago Steelers Club.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Lincoln Tap Room",
-      "address": "3010 N Lincoln Ave, Chicago, IL 60657",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Pittsburgh Steelers (Additional)"
-      ],
-      "notes": "Neighborhood bar with daily drink specials, darts, pool, TVs tuned for Steelers Sundays.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Dark Horse",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Pittsburgh Steelers (Additional)"
-      ],
-      "notes": "Steelers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Durkin's",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Pittsburgh Steelers (Additional)"
-      ],
-      "notes": "Steelers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Joe's on Weed St.",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Pittsburgh Steelers (Additional)"
-      ],
-      "notes": "Steelers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Gracie O'Malley's – Wicker Park",
-      "address": "1635 N Milwaukee Ave, Chicago, IL 60647",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "San Francisco 49ers"
-      ],
-      "notes": "Home of San Francisco 49ers Fans of Chicago. Great setting for game days.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Cheesie's",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "San Francisco 49ers (Additional)"
-      ],
-      "notes": "49ers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Grand River Bar & Grill",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "San Francisco 49ers (Additional)"
-      ],
-      "notes": "49ers game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
+      "id": "venue_5",
       "name": "Brownstone Tavern",
-      "address": "3937 N Lincoln Ave, Chicago, IL 60613",
-      "phone": "",
-      "website": "",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
         "Seattle Seahawks"
       ],
-      "notes": "Home of Chicago 12's. Neighborhood bar with craft beer and outdoor seating. Hawks Nest Chicago fan club.",
       "sports": [
         "NFL"
       ],
-      "city": "chicago"
+      "address": "3937 N Lincoln Ave, Chicago, IL 60613"
     },
     {
-      "name": "Newport Bar & Grill",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Seattle Seahawks (Additional)"
-      ],
-      "notes": "Seahawks game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Scot's",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Seattle Seahawks (Additional)"
-      ],
-      "notes": "Seahawks game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Maeve",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Washington Commanders"
-      ],
-      "notes": "Commanders (formerly Redskins) game watch location.",
-      "sports": [
-        "NFL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Theory",
-      "address": "9 W Hubbard St, Chicago, IL 60654",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Boston Red Sox"
-      ],
-      "notes": "Also a Celtics/Patriots bar. Upscale sports bar with plentiful plasma TVs.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Tripoli Tap",
-      "address": "1147 W Armitage Ave, Chicago, IL 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Boston Red Sox (Additional)"
-      ],
-      "notes": "Neighborhood bar, draws homesick Bostonians.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Wrigleyville bars (general area)",
-      "address": "Clark St / Addison area around Wrigley Field",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Cubs"
-      ],
-      "notes": "Hundreds of bars surround Wrigley Field. Nearly every bar in Wrigleyville shows Cubs games. Too many to list individually.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Sports Corner Wrigleyville",
-      "address": "956 W Addison St, Chicago, IL 60613",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Cubs (Notable locations)"
-      ],
-      "notes": "Multi-level sports bar in heart of Wrigleyville.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Cubby Bear",
-      "address": "Across from Wrigley Field",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Cubs (Additional)"
-      ],
-      "notes": "Iconic Cubs bar directly across from stadium.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Murphy's Bleachers",
-      "address": "3655 N Sheffield Ave, Chicago, IL 60613",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Cubs (Additional)"
-      ],
-      "notes": "Classic Cubs bar, bleacher crowd hangout.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "The Gingerman Tavern",
-      "address": "3740 N Clark St, Chicago, IL 60613",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Cubs (Additional)"
-      ],
-      "notes": "Neighborhood Cubs bar with craft beer selection.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Turtles Bar & Grill",
-      "address": "Near Guaranteed Rate Field",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago White Sox"
-      ],
-      "notes": "Awesome neighbor's patio vibe, close to stadium.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Reggie's Rock Club",
-      "address": "Near Chinatown Red Line",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago White Sox (Additional)"
-      ],
-      "notes": "Bar with live music, shuttle service to/from games.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Nine Bar",
-      "address": "Near Guaranteed Rate Field",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago White Sox (Additional)"
-      ],
-      "notes": "Pre/post-game spot for White Sox fans.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Toons Bar & Grill",
-      "address": "3857 North Southport Avenue, Chicago, IL 60613",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Kansas City Royals"
-      ],
-      "notes": "Kansas City bar (also shows Chiefs games). BBQ-focused menu appropriate for KC teams.",
-      "sports": [
-        "MLB"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "The Barn Hockey Bar",
-      "address": "Near United Center",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Blackhawks"
-      ],
-      "notes": "Premier hockey bar near the arena. Always has hockey on. Recommended for any NHL game viewing.",
-      "sports": [
-        "NHL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Durkin's",
-      "address": "Lakeview",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Pittsburgh Penguins"
-      ],
-      "notes": "Steelers bar that shows Penguins games during playoffs. Regular season uncertain.",
-      "sports": [
-        "NHL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Sedgwick's",
-      "address": "1935 N Sedgwick St 1, Chicago, 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "St. Louis Blues"
-      ],
-      "notes": "Blues bar in Chicago. Also shows Chiefs, Colts, Cardinals (MLB).",
-      "sports": [
-        "NHL"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Tripoli Tavern",
-      "address": "1147 W Armitage Ave, Chicago, 60614",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Boston Celtics"
-      ],
-      "notes": "Boston sports bar (Celtics, Red Sox, Bruins, Patriots). Good for all Boston teams.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "chicago"
-    },
-    {
-      "name": "Theory",
-      "address": "9 W Hubbard St, Chicago, IL 60654",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Boston Celtics (Additional)"
-      ],
-      "notes": "Also shows Celtics games. Upscale sports bar.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "chicago"
-    },
-    {
+      "id": "venue_6",
       "name": "Bulls Bar Network (Official)",
-      "address": "Multiple locations across Chicagoland",
-      "phone": "",
-      "website": "",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
         "Chicago Bulls"
       ],
-      "notes": "Official Bulls Bar Network presented by Corona. See full list at NBA.com/bulls/barnetwork. Bars show every Bulls game.",
       "sports": [
         "NBA"
       ],
-      "city": "chicago"
+      "address": "Multiple locations across Chicagoland"
     },
     {
-      "name": "United Center corner bars",
-      "address": "Inside United Center (300-level concourse)",
-      "phone": "",
-      "website": "",
+      "id": "venue_7",
+      "name": "Burke's Public House",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Chicago Bulls (Additional)"
+        "Cleveland Browns"
       ],
-      "notes": "Standing-room ticket gives access to four corner bars at 300-level. Good for watching other games too.",
       "sports": [
-        "NBA"
+        "NFL"
       ],
-      "city": "chicago"
+      "address": "5401 N Broadway, Chicago, IL 60640"
     },
     {
+      "id": "venue_8",
+      "name": "Butch McGuire's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New York Jets"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_9",
+      "name": "Cheesie's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_10",
+      "name": "Commonwealth Tavern",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Dallas Cowboys"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "North Center neighborhood near Roscoe Village"
+    },
+    {
+      "id": "venue_11",
+      "name": "Cubby Bear",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "Across from Wrigley Field"
+    },
+    {
+      "id": "venue_12",
+      "name": "Dante's Tavern",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Las Vegas Raiders"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "1936 W Chicago Ave, Chicago, IL 60622"
+    },
+    {
+      "id": "venue_13",
+      "name": "Dark Horse",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_14",
+      "name": "Delilah's Bar",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2771 N. Lincoln, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_15",
+      "name": "Dram Shop",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_16",
+      "name": "Duffy's Tavern & Grille",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Detroit Lions"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "420 W Diversey Pkwy, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_17",
+      "name": "Durkin's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_18",
+      "name": "Every bar in Chicago with a TV",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Various"
+    },
+    {
+      "id": "venue_19",
+      "name": "Fizz Bar & Grill",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New Orleans Saints"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_20",
+      "name": "George Street Pub",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Baltimore Ravens"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2858 N Halsted St, Chicago, IL 60657"
+    },
+    {
+      "id": "venue_21",
+      "name": "Gold Star Bar",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_22",
+      "name": "Gracie O'Malley's – Wicker Park",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "1635 N Milwaukee Ave, Chicago, IL 60647"
+    },
+    {
+      "id": "venue_23",
+      "name": "Grand River Bar & Grill",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_24",
+      "name": "Hidden Shamrock",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New England Patriots"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_25",
+      "name": "Joe's on Weed St.",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_26",
+      "name": "John Barleycorn",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Clark St (exact address TBD)"
+    },
+    {
+      "id": "venue_27",
       "name": "John Barleycorn Wrigleyville",
-      "address": "3524 N Clark St, Chicago, 60657",
-      "phone": "",
-      "website": "",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
         "Cleveland Cavaliers"
       ],
-      "notes": "Cleveland sports bar (Browns, Cavaliers, Guardians/Indians). Open Fri-Sat evenings only.",
       "sports": [
         "NBA"
       ],
-      "city": "chicago"
+      "address": "3524 N Clark St, Chicago, 60657"
     },
     {
+      "id": "venue_28",
+      "name": "Kincade's Bar & Grill",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cincinnati Bengals"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "950 W Armitage Ave, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_29",
+      "name": "Kroll's South Loop",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_30",
+      "name": "Lincoln Tap Room",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "3010 N Lincoln Ave, Chicago, IL 60657"
+    },
+    {
+      "id": "venue_31",
+      "name": "Lottie's Pub",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "1925 W Cortland St, Chicago, IL 60622"
+    },
+    {
+      "id": "venue_32",
+      "name": "Mad River",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_33",
+      "name": "Maeve",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Washington Commanders"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_34",
+      "name": "McGee's Tavern & Grille",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "950 W Webster Ave, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_35",
+      "name": "Monti's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "4757 N Talman Ave, Chicago, IL 60625"
+    },
+    {
+      "id": "venue_36",
+      "name": "Mullen's Wrigleyville",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Indianapolis Colts"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_37",
+      "name": "Murphy's Bleachers",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "3655 N Sheffield Ave, Chicago, IL 60613"
+    },
+    {
+      "id": "venue_38",
+      "name": "My Buddy's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "4416 N Clark St, Chicago, IL 60640"
+    },
+    {
+      "id": "venue_39",
+      "name": "Newport Bar & Grill",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_40",
+      "name": "Nine Bar",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago White Sox"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "Near Guaranteed Rate Field"
+    },
+    {
+      "id": "venue_41",
+      "name": "O'Leary's Public House",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "541 N Wells St, Chicago, IL 60654"
+    },
+    {
+      "id": "venue_42",
+      "name": "Old Crow Wrigleyville",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "3506 N Clark St, Chicago, IL 60657"
+    },
+    {
+      "id": "venue_43",
+      "name": "Racine Plumbing",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New York Giants"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2642 N Lincoln Ave, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_44",
+      "name": "Ranalli's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "1925 N Lincoln Ave, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_45",
+      "name": "Rebel & Rye",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "726 W Grand Ave, Chicago, IL 60654"
+    },
+    {
+      "id": "venue_46",
+      "name": "Rebel Bar & Grill",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New York Jets"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_47",
+      "name": "Redmond's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Minnesota Vikings"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_48",
+      "name": "Reggie's Rock Club",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago White Sox"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "Near Chinatown Red Line"
+    },
+    {
+      "id": "venue_49",
+      "name": "Riverview Tavern",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Denver Broncos"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_50",
+      "name": "Roadhouse 66 Gas n Grill",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Minnesota Vikings"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "3478 N Clark St, Chicago, IL 60657"
+    },
+    {
+      "id": "venue_51",
+      "name": "Scot's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_52",
+      "name": "Sedgwick's",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "St. Louis Blues"
+      ],
+      "sports": [
+        "NHL"
+      ],
+      "address": "1935 N Sedgwick St 1, Chicago, 60614"
+    },
+    {
+      "id": "venue_53",
+      "name": "Sports Corner Wrigleyville",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "956 W Addison St, Chicago, IL 60613"
+    },
+    {
+      "id": "venue_54",
+      "name": "TBD",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Anaheim Ducks",
+        "Arizona Cardinals",
+        "Arizona Coyotes",
+        "Arizona Diamondbacks",
+        "Atlanta Braves",
+        "Atlanta Falcons",
+        "Atlanta Hawks",
+        "Baltimore Orioles",
+        "Boston Bruins",
+        "Brooklyn Nets",
+        "Buffalo Sabres",
+        "Calgary Flames",
+        "Carolina Hurricanes",
+        "Carolina Panthers",
+        "Charlotte Hornets",
+        "Cincinnati Reds",
+        "Cleveland Guardians",
+        "Colorado Avalanche",
+        "Colorado Rockies",
+        "Columbus Blue Jackets",
+        "Dallas Mavericks",
+        "Dallas Stars",
+        "Denver Nuggets",
+        "Detroit Red Wings",
+        "Detroit Tigers",
+        "Edmonton Oilers",
+        "Florida Panthers",
+        "Golden State Warriors",
+        "Houston Astros",
+        "Houston Rockets",
+        "Houston Texans",
+        "Indiana Pacers",
+        "Jacksonville Jaguars",
+        "Los Angeles Angels",
+        "Los Angeles Clippers",
+        "Los Angeles Dodgers",
+        "Los Angeles Kings",
+        "Los Angeles Lakers",
+        "Los Angeles Rams",
+        "Memphis Grizzlies",
+        "Miami Heat",
+        "Miami Marlins",
+        "Milwaukee Brewers",
+        "Minnesota Timberwolves",
+        "Minnesota Twins",
+        "Minnesota Wild",
+        "Montreal Canadiens",
+        "Nashville Predators",
+        "New Jersey Devils",
+        "New Orleans Pelicans",
+        "New York Islanders",
+        "New York Knicks",
+        "New York Mets",
+        "New York Rangers",
+        "New York Yankees",
+        "Oakland Athletics",
+        "Oklahoma City Thunder",
+        "Orlando Magic",
+        "Ottawa Senators",
+        "Philadelphia 76ers",
+        "Philadelphia Flyers",
+        "Philadelphia Phillies",
+        "Phoenix Suns",
+        "Pittsburgh Pirates",
+        "Portland Trail Blazers",
+        "Sacramento Kings",
+        "San Antonio Spurs",
+        "San Diego Padres",
+        "San Francisco Giants",
+        "San Jose Sharks",
+        "Seattle Kraken",
+        "Seattle Mariners",
+        "St. Louis Cardinals",
+        "Tampa Bay Buccaneers",
+        "Tampa Bay Lightning",
+        "Tampa Bay Rays",
+        "Tennessee Titans",
+        "Texas Rangers",
+        "Toronto Blue Jays",
+        "Toronto Maple Leafs",
+        "Toronto Raptors",
+        "Utah Hockey Club",
+        "Utah Jazz",
+        "Vancouver Canucks",
+        "Vegas Golden Knights",
+        "Washington Capitals",
+        "Washington Nationals",
+        "Washington Wizards",
+        "Winnipeg Jets"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_55",
+      "name": "Temple Bar",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New Orleans Saints"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_56",
+      "name": "The Barn Hockey Bar",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Blackhawks"
+      ],
+      "sports": [
+        "NHL"
+      ],
+      "address": "Near United Center"
+    },
+    {
+      "id": "venue_57",
+      "name": "The Butcher's Tap",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "3553 N Southport Ave, Chicago, IL 60657"
+    },
+    {
+      "id": "venue_58",
+      "name": "The Corner Bar",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2224 N Leavitt St, Chicago, IL 60647"
+    },
+    {
+      "id": "venue_59",
+      "name": "The Country Club",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New York Jets"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "3462 N Clark St, Chicago, IL 60657"
+    },
+    {
+      "id": "venue_60",
+      "name": "The Gingerman Tavern",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "3740 N Clark St, Chicago, IL 60613"
+    },
+    {
+      "id": "venue_61",
+      "name": "The Pitch",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Miami Dolphins"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_62",
+      "name": "The Reveler",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "3403 N Damen Ave, Chicago, IL 60657"
+    },
+    {
+      "id": "venue_63",
       "name": "The Tin Lizzie",
-      "address": "2483 N Clark St, Chicago, 60614",
-      "phone": "",
-      "website": "",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
         "Detroit Pistons"
       ],
-      "notes": "Detroit sports bar (Lions, Pistons, Red Wings, Tigers). Lincoln Park location.",
       "sports": [
         "NBA"
       ],
-      "city": "chicago"
+      "address": "2483 N Clark St, Chicago, 60614"
     },
     {
-      "name": "Will's Northwoods Inn",
-      "address": "3032-3034 N Racine Ave, Chicago, 60657",
-      "phone": "",
-      "website": "",
+      "id": "venue_64",
+      "name": "The Warehouse Bar & Pizzeria",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Milwaukee Bucks"
+        "Dallas Cowboys"
       ],
-      "notes": "Wisconsin sports bar (Packers, Bucks, Brewers, Badgers). Close to Chicago, natural rivalry.",
+      "sports": [
+        "NFL"
+      ],
+      "address": "1419 W Fullerton Ave, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_65",
+      "name": "Theory",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Boston Celtics",
+        "Boston Red Sox",
+        "New England Patriots"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ],
+      "address": "9 W Hubbard St, Chicago, IL 60654"
+    },
+    {
+      "id": "venue_66",
+      "name": "Tin Lizzie",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Detroit Lions"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2483 N Clark St, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_67",
+      "name": "Toons Bar & Grill",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Kansas City Chiefs",
+        "Kansas City Royals"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ],
+      "address": "3857 North Southport Avenue, Chicago, IL 60613"
+    },
+    {
+      "id": "venue_68",
+      "name": "Trace",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Indianapolis Colts"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "3714 N Clark St, Chicago, IL 60613"
+    },
+    {
+      "id": "venue_69",
+      "name": "Trinity",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New York Giants"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_70",
+      "name": "Tripoli Tap",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Boston Red Sox",
+        "New England Patriots"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ],
+      "address": "1147 W Armitage Ave, Chicago, IL 60614"
+    },
+    {
+      "id": "venue_71",
+      "name": "Tripoli Tavern",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Boston Celtics"
+      ],
       "sports": [
         "NBA"
       ],
-      "city": "chicago"
+      "address": "1147 W Armitage Ave, Chicago, 60614"
+    },
+    {
+      "id": "venue_72",
+      "name": "Turtles Bar & Grill",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago White Sox"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "Near Guaranteed Rate Field"
+    },
+    {
+      "id": "venue_73",
+      "name": "Union",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Indianapolis Colts"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_74",
+      "name": "United Center corner bars",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Bulls"
+      ],
+      "sports": [
+        "NBA"
+      ],
+      "address": "Inside United Center (300-level concourse)"
+    },
+    {
+      "id": "venue_75",
+      "name": "Waterhouse",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_76",
+      "name": "Will's Northwoods Inn",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers",
+        "Milwaukee Bucks"
+      ],
+      "sports": [
+        "NBA",
+        "NFL"
+      ],
+      "address": "3030 N Racine Ave, Chicago, IL 60657"
+    },
+    {
+      "id": "venue_77",
+      "name": "Woodie's Flat",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cincinnati Bengals"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "1535 N Wells St, Chicago, IL 60610"
+    },
+    {
+      "id": "venue_78",
+      "name": "Wrigleyville bars (general area)",
+      "city": "Chicago",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Cubs"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "Clark St / Addison area around Wrigley Field"
     }
-  ],
-  "by_sport": {
-    "NFL": [
-      {
-        "name": "George Street Pub",
-        "address": "2858 N Halsted St, Chicago, IL 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Baltimore Ravens"
-        ],
-        "notes": "Home of Ravens Club of Chicago. Game sound, food, and drinks for all gamedays.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Delilah's Bar",
-        "address": "2771 N. Lincoln, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Buffalo Bills"
-        ],
-        "notes": "Home of Bills Backers Delilah's Chicago.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "The Butcher's Tap",
-        "address": "3553 N Southport Ave, Chicago, IL 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Buffalo Bills (Additional)"
-        ],
-        "notes": "Excellent venue for Bills fans to gather.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Lottie's Pub",
-        "address": "1925 W Cortland St, Chicago, IL 60622",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Bears"
-        ],
-        "notes": "Historic sports bar established in 1932 with pizza, pub grub, 20+ taps, vintage vibe. NFL Sunday Ticket.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "The Corner Bar",
-        "address": "2224 N Leavitt St, Chicago, IL 60647",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Bears (Additional)"
-        ],
-        "notes": "Friendly spot for Bears fans on game days.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Every bar in Chicago with a TV",
-        "address": "Various",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Bears (Additional)"
-        ],
-        "notes": "Bears games shown at virtually every bar in the city.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Woodie's Flat",
-        "address": "1535 N Wells St, Chicago, IL 60610",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cincinnati Bengals"
-        ],
-        "notes": "Game sound, DJ playing videos during commercials, giveaways, Skyline Chili specials.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Kincade's Bar & Grill",
-        "address": "950 W Armitage Ave, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cincinnati Bengals (Additional)"
-        ],
-        "notes": "Welcoming environment for Bengals fans.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Burke's Public House",
-        "address": "5401 N Broadway, Chicago, IL 60640",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "notes": "Home to Chicagoland Browns Backers on gamedays.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Old Crow Wrigleyville",
-        "address": "3506 N Clark St, Chicago, IL 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Browns (Additional)"
-        ],
-        "notes": "Chi-Town Dawg Pound hosts massive Browns watch parties with giveaways and big game-day energy.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "John Barleycorn",
-        "address": "Clark St (exact address TBD)",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Browns (Additional)"
-        ],
-        "notes": "Browns Backers club watches every Sunday, usually 150+ Browns fans.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "The Warehouse Bar & Pizzeria",
-        "address": "1419 W Fullerton Ave, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Dallas Cowboys"
-        ],
-        "notes": "Home of Dallas Cowboys Fans Chicago (established 2007). Welcoming atmosphere.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Commonwealth Tavern",
-        "address": "North Center neighborhood near Roscoe Village",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Dallas Cowboys (Additional)"
-        ],
-        "notes": "Purported Dallas Cowboys bar of Chicago. Also hosts Cubs and Marquette watch parties.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Riverview Tavern",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Denver Broncos"
-        ],
-        "notes": "Broncos game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Tin Lizzie",
-        "address": "2483 N Clark St, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Detroit Lions"
-        ],
-        "notes": "Lincoln Park sports pub with flat-screens, comfort food, garage-door storefront. Can get rowdy on game days.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Duffy's Tavern & Grille",
-        "address": "420 W Diversey Pkwy, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Detroit Lions (Additional)"
-        ],
-        "notes": "Wide range of bar food, daily specials, sports-bar setting with live music.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Avenue Tavern",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Detroit Lions (Additional)"
-        ],
-        "notes": "Detroit Lions bar.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Will's Northwoods Inn",
-        "address": "3030 N Racine Ave, Chicago, IL 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers"
-        ],
-        "notes": "Home of Chicago Packers Backers. Most storied Packers bar outside Wisconsin. Hosts annual \"Packerpalooza\" event with player appearances.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "O'Leary's Public House",
-        "address": "541 N Wells St, Chicago, IL 60654",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers (Additional)"
-        ],
-        "notes": "Home of O'Learys Packer House for game days with green-and-gold energy.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "My Buddy's",
-        "address": "4416 N Clark St, Chicago, IL 60640",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers (Additional)"
-        ],
-        "notes": "Packers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Ranalli's",
-        "address": "1925 N Lincoln Ave, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers (Additional)"
-        ],
-        "notes": "Packers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Gold Star Bar",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers (Additional)"
-        ],
-        "notes": "Packers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Kroll's South Loop",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers (Additional)"
-        ],
-        "notes": "Packers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Waterhouse",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers (Additional)"
-        ],
-        "notes": "Packers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Trace",
-        "address": "3714 N Clark St, Chicago, IL 60613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Indianapolis Colts"
-        ],
-        "notes": "New Colts bar as of 2024, coordinated by r/Colts Redditors with bar GM. Welcoming atmosphere for all Colts supporters.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Mullen's Wrigleyville",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Indianapolis Colts (Additional)"
-        ],
-        "notes": "Colts game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Union",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Indianapolis Colts (Additional)"
-        ],
-        "notes": "Colts game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Toons Bar & Grill",
-        "address": "3857 North Southport Avenue, Chicago, IL 60613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Kansas City Chiefs"
-        ],
-        "notes": "Home of Chiefs Chicago club. Neighborhood joint with shuffleboard, pool, daily specials, BBQ-focused menu. Also Kansas City Royals games.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Beck's Chicago",
-        "address": "2201 N Clybourn Ave, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Kansas City Chiefs (Additional)"
-        ],
-        "notes": "Lincoln Park favorite with two rooms, multiple HDTVs, World Famous Wings. Hosted 2024 Super Bowl special events.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Dante's Tavern",
-        "address": "1936 W Chicago Ave, Chicago, IL 60622",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Las Vegas Raiders"
-        ],
-        "notes": "Home of energetic Chicago Raider Nation. Perfect spot for Raiders gamedays.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Dram Shop",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Los Angeles Chargers"
-        ],
-        "notes": "Chargers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "The Pitch",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Miami Dolphins"
-        ],
-        "notes": "Dolphins game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Roadhouse 66 Gas n Grill",
-        "address": "3478 N Clark St, Chicago, IL 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Minnesota Vikings"
-        ],
-        "notes": "Home of CookCounty Vikings fans. Game sound, food, plenty of TVs.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Redmond's",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Minnesota Vikings (Additional)"
-        ],
-        "notes": "Vikings game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Theory",
-        "address": "9 W Hubbard St, Chicago, IL 60654",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New England Patriots"
-        ],
-        "notes": "Upscale sports bar, eclectic menu, slick loungey space with plentiful plasma TVs. Home of Chicago Patriots Nation fan group.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Tripoli Tap",
-        "address": "1147 W Armitage Ave, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New England Patriots (Additional)"
-        ],
-        "notes": "Neighborhood bar with typical pub grub, draws homesick Bostonians, TVs tuned to the game.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Brendan's",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New England Patriots (Additional)"
-        ],
-        "notes": "Patriots game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Hidden Shamrock",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New England Patriots (Additional)"
-        ],
-        "notes": "Patriots game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Fizz Bar & Grill",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New Orleans Saints"
-        ],
-        "notes": "Official Saints Nation Chicago bar.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Temple Bar",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New Orleans Saints (Additional)"
-        ],
-        "notes": "Saints game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Racine Plumbing",
-        "address": "2642 N Lincoln Ave, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Giants"
-        ],
-        "notes": "Unique sports bar with wood and copper tubing decor, craft beers, American menu. Cozy atmosphere for Giants fans.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Bad Dog Tavern",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Giants (Additional)"
-        ],
-        "notes": "Giants game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Trinity",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Giants (Additional)"
-        ],
-        "notes": "Giants game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "The Country Club",
-        "address": "3462 N Clark St, Chicago, IL 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Jets"
-        ],
-        "notes": "Funky country-western bar with rustic decor, Southern pub grub. Home of Chicago Jets Fans.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Butch McGuire's",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Jets (Additional)"
-        ],
-        "notes": "Jets game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Rebel Bar & Grill",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Jets (Additional)"
-        ],
-        "notes": "Jets game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "The Reveler",
-        "address": "3403 N Damen Ave, Chicago, IL 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Philadelphia Eagles"
-        ],
-        "notes": "True Eagles bar with game sound, raffles, $6 Eagles Bombs. Home of Philadelphia Eagles Fans in Chicago.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Rebel & Rye",
-        "address": "726 W Grand Ave, Chicago, IL 60654",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Philadelphia Eagles (Additional)"
-        ],
-        "notes": "Relaxed lounge specializing in brown spirits & craft cocktails. Stylish Eagles watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Monti's",
-        "address": "4757 N Talman Ave, Chicago, IL 60625",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Philadelphia Eagles (Additional)"
-        ],
-        "notes": "Cozy north-side cheesesteak spot, Philly through and through for game day.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Mad River",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Philadelphia Eagles (Additional)"
-        ],
-        "notes": "Eagles game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "McGee's Tavern & Grille",
-        "address": "950 W Webster Ave, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Pittsburgh Steelers"
-        ],
-        "notes": "Lincoln Park mainstay with full sports-bar menu and big Steelers following. Home of Chicago Steelers Club.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Lincoln Tap Room",
-        "address": "3010 N Lincoln Ave, Chicago, IL 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Pittsburgh Steelers (Additional)"
-        ],
-        "notes": "Neighborhood bar with daily drink specials, darts, pool, TVs tuned for Steelers Sundays.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Dark Horse",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Pittsburgh Steelers (Additional)"
-        ],
-        "notes": "Steelers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Durkin's",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Pittsburgh Steelers (Additional)"
-        ],
-        "notes": "Steelers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Joe's on Weed St.",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Pittsburgh Steelers (Additional)"
-        ],
-        "notes": "Steelers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Gracie O'Malley's – Wicker Park",
-        "address": "1635 N Milwaukee Ave, Chicago, IL 60647",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "San Francisco 49ers"
-        ],
-        "notes": "Home of San Francisco 49ers Fans of Chicago. Great setting for game days.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Cheesie's",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "San Francisco 49ers (Additional)"
-        ],
-        "notes": "49ers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Grand River Bar & Grill",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "San Francisco 49ers (Additional)"
-        ],
-        "notes": "49ers game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Brownstone Tavern",
-        "address": "3937 N Lincoln Ave, Chicago, IL 60613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Seattle Seahawks"
-        ],
-        "notes": "Home of Chicago 12's. Neighborhood bar with craft beer and outdoor seating. Hawks Nest Chicago fan club.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Newport Bar & Grill",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Seattle Seahawks (Additional)"
-        ],
-        "notes": "Seahawks game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Scot's",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Seattle Seahawks (Additional)"
-        ],
-        "notes": "Seahawks game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Maeve",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Washington Commanders"
-        ],
-        "notes": "Commanders (formerly Redskins) game watch location.",
-        "sports": [
-          "NFL"
-        ],
-        "city": "chicago"
-      }
-    ],
-    "MLB": [
-      {
-        "name": "Theory",
-        "address": "9 W Hubbard St, Chicago, IL 60654",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Boston Red Sox"
-        ],
-        "notes": "Also a Celtics/Patriots bar. Upscale sports bar with plentiful plasma TVs.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Tripoli Tap",
-        "address": "1147 W Armitage Ave, Chicago, IL 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Boston Red Sox (Additional)"
-        ],
-        "notes": "Neighborhood bar, draws homesick Bostonians.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Wrigleyville bars (general area)",
-        "address": "Clark St / Addison area around Wrigley Field",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Cubs"
-        ],
-        "notes": "Hundreds of bars surround Wrigley Field. Nearly every bar in Wrigleyville shows Cubs games. Too many to list individually.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Sports Corner Wrigleyville",
-        "address": "956 W Addison St, Chicago, IL 60613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Cubs (Notable locations)"
-        ],
-        "notes": "Multi-level sports bar in heart of Wrigleyville.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Cubby Bear",
-        "address": "Across from Wrigley Field",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Cubs (Additional)"
-        ],
-        "notes": "Iconic Cubs bar directly across from stadium.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Murphy's Bleachers",
-        "address": "3655 N Sheffield Ave, Chicago, IL 60613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Cubs (Additional)"
-        ],
-        "notes": "Classic Cubs bar, bleacher crowd hangout.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "The Gingerman Tavern",
-        "address": "3740 N Clark St, Chicago, IL 60613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Cubs (Additional)"
-        ],
-        "notes": "Neighborhood Cubs bar with craft beer selection.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Turtles Bar & Grill",
-        "address": "Near Guaranteed Rate Field",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago White Sox"
-        ],
-        "notes": "Awesome neighbor's patio vibe, close to stadium.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Reggie's Rock Club",
-        "address": "Near Chinatown Red Line",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago White Sox (Additional)"
-        ],
-        "notes": "Bar with live music, shuttle service to/from games.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Nine Bar",
-        "address": "Near Guaranteed Rate Field",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago White Sox (Additional)"
-        ],
-        "notes": "Pre/post-game spot for White Sox fans.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Toons Bar & Grill",
-        "address": "3857 North Southport Avenue, Chicago, IL 60613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Kansas City Royals"
-        ],
-        "notes": "Kansas City bar (also shows Chiefs games). BBQ-focused menu appropriate for KC teams.",
-        "sports": [
-          "MLB"
-        ],
-        "city": "chicago"
-      }
-    ],
-    "NHL": [
-      {
-        "name": "The Barn Hockey Bar",
-        "address": "Near United Center",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Blackhawks"
-        ],
-        "notes": "Premier hockey bar near the arena. Always has hockey on. Recommended for any NHL game viewing.",
-        "sports": [
-          "NHL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Durkin's",
-        "address": "Lakeview",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Pittsburgh Penguins"
-        ],
-        "notes": "Steelers bar that shows Penguins games during playoffs. Regular season uncertain.",
-        "sports": [
-          "NHL"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Sedgwick's",
-        "address": "1935 N Sedgwick St 1, Chicago, 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "St. Louis Blues"
-        ],
-        "notes": "Blues bar in Chicago. Also shows Chiefs, Colts, Cardinals (MLB).",
-        "sports": [
-          "NHL"
-        ],
-        "city": "chicago"
-      }
-    ],
-    "NBA": [
-      {
-        "name": "Tripoli Tavern",
-        "address": "1147 W Armitage Ave, Chicago, 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Boston Celtics"
-        ],
-        "notes": "Boston sports bar (Celtics, Red Sox, Bruins, Patriots). Good for all Boston teams.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Theory",
-        "address": "9 W Hubbard St, Chicago, IL 60654",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Boston Celtics (Additional)"
-        ],
-        "notes": "Also shows Celtics games. Upscale sports bar.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Bulls Bar Network (Official)",
-        "address": "Multiple locations across Chicagoland",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Bulls"
-        ],
-        "notes": "Official Bulls Bar Network presented by Corona. See full list at NBA.com/bulls/barnetwork. Bars show every Bulls game.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "United Center corner bars",
-        "address": "Inside United Center (300-level concourse)",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Bulls (Additional)"
-        ],
-        "notes": "Standing-room ticket gives access to four corner bars at 300-level. Good for watching other games too.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "John Barleycorn Wrigleyville",
-        "address": "3524 N Clark St, Chicago, 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Cavaliers"
-        ],
-        "notes": "Cleveland sports bar (Browns, Cavaliers, Guardians/Indians). Open Fri-Sat evenings only.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "The Tin Lizzie",
-        "address": "2483 N Clark St, Chicago, 60614",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Detroit Pistons"
-        ],
-        "notes": "Detroit sports bar (Lions, Pistons, Red Wings, Tigers). Lincoln Park location.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "chicago"
-      },
-      {
-        "name": "Will's Northwoods Inn",
-        "address": "3032-3034 N Racine Ave, Chicago, 60657",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Milwaukee Bucks"
-        ],
-        "notes": "Wisconsin sports bar (Packers, Bucks, Brewers, Badgers). Close to Chicago, natural rivalry.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "chicago"
-      }
-    ]
-  }
+  ]
 }

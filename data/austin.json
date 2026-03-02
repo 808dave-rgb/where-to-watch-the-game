@@ -1,1895 +1,876 @@
 {
-  "city": "austin",
-  "total_bars": 67,
-  "sports": [
-    "MLB",
-    "NFL",
-    "NHL"
-  ],
-  "bars": [
+  "city": "Austin",
+  "total_venues": 67,
+  "last_updated": "2026-03-02",
+  "venues": [
     {
+      "id": "venue_1",
       "name": "512 Bar",
-      "address": "408 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
         "Arizona Cardinals"
       ],
-      "notes": "Official watch location per team Facebook page",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "408 East 6th Street, Austin, TX 78701"
     },
     {
-      "name": "Burnside's Tavern",
-      "address": "413 East Sixth Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_2",
+      "name": "5280 Burger & Taphouse",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Atlanta Falcons"
+        "Philadelphia Eagles"
       ],
-      "notes": "Facebook group watch parties",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "7032 Wood Hollow Drive, Austin, TX 78731"
     },
     {
-      "name": "Lavaca Street Bar - South Lamar",
-      "address": "3121 South Lamar Blvd, Austin, TX 78704",
-      "phone": "",
-      "website": "",
+      "id": "venue_3",
+      "name": "American League Central",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Baltimore Ravens"
+        "Austin"
       ],
-      "notes": "Raven's Nest 512 fan club, $15 domestic buckets with Ravens gear",
       "sports": [
-        "NFL"
-      ],
-      "city": "austin"
+        "MLB"
+      ]
     },
     {
-      "name": "Parlor & Yard",
-      "address": "601 West 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_4",
+      "name": "American League East",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Buffalo Bills"
+        "Austin"
       ],
-      "notes": "Austin Bills Backers Association",
       "sports": [
-        "NFL"
-      ],
-      "city": "austin"
+        "MLB"
+      ]
     },
     {
-      "name": "Nickel City",
-      "address": "1133 East 11th Street, Austin, TX 78702",
-      "phone": "",
-      "website": "",
+      "id": "venue_5",
+      "name": "American League West",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Buffalo Bills"
+        "Austin"
       ],
-      "notes": "East Side Austin Bills Backers fan club",
       "sports": [
-        "NFL"
-      ],
-      "city": "austin"
+        "MLB"
+      ]
     },
     {
-      "name": "Pour Choices",
-      "address": "401 East Sixth Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_6",
+      "name": "Atlantic Division",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Carolina Panthers"
+        "Austin"
       ],
-      "notes": "Watch parties per Facebook group",
       "sports": [
-        "NFL"
-      ],
-      "city": "austin"
+        "NHL"
+      ]
     },
     {
-      "name": "Buford's Backyard Beer Garden",
-      "address": "700 West 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_7",
+      "name": "Aussies",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Chicago Bears"
+        "Washington Commanders"
       ],
-      "notes": "Massive 180\" TV in beer garden, decorated for Chicago sporting events",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "306 Barton Springs Road, Austin, TX 78704"
     },
     {
-      "name": "Thirsty's",
-      "address": "325 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Chicago Bears"
-      ],
-      "notes": "ATX Bear Down fan club location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Mayfair",
-      "address": "501 West Sixth Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cincinnati Bengals"
-      ],
-      "notes": "Who Dey ATX Facebook group, new location downtown",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Bungalow",
-      "address": "83 Rainey Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cincinnati Bengals"
-      ],
-      "notes": "Alternative watch location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Baker Street Pub",
-      "address": "3003 South Lamar Blvd, Austin, TX 78704",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cleveland Browns"
-      ],
-      "notes": "Texas Capital Area Browns Backers (one of three locations)",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Kung Fu Saloon",
-      "address": "716 West 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cleveland Browns"
-      ],
-      "notes": "Texas Capital Area Browns Backers watch party location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Top Spin",
-      "address": "1851 South Lakeline Blvd, Cedar Park, TX 78613",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cleveland Browns"
-      ],
-      "notes": "Texas Capital Area Browns Backers watch party location (North Austin)",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Green Light Social",
-      "address": "720 West 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cleveland Browns"
-      ],
-      "notes": "Additional watch location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Lou's Austin",
-      "address": "TBD",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Cleveland Browns"
-      ],
-      "notes": "Listed as Browns bar",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Mister Tramps Sports Pub",
-      "address": "8565 Research Blvd, Austin, TX 78758",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Dallas Cowboys"
-      ],
-      "notes": "Silver and Blue Crew fan club, neighborhood pub with local/craft beers",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "The Lodge on 6th",
-      "address": "411 East Sixth Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Dallas Cowboys"
-      ],
-      "notes": "Official Cowboys fan bar",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "The Local - Mockingbird Saloon",
-      "address": "2610 Guadalupe Street, Austin, TX 78705",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Denver Broncos"
-      ],
-      "notes": "Broncoholics fan group meetup",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Black Sheep Lodge",
-      "address": "2108 South Lamar Blvd, Austin, TX 78704",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Denver Broncos"
-      ],
-      "notes": "Fan gathering spot",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Haymaker",
-      "address": "2310 Manor Road, Austin, TX 78722",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Detroit Lions"
-      ],
-      "notes": "Detroit Lions Watch Group, $2 off pitchers, $2 mimosas, $3 bloody marys on Sundays",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Billy's On Burnet",
-      "address": "2105 Hancock Drive, Austin, TX 78756",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers"
-      ],
-      "notes": "Green Bay Packers Fan Club of Austin, Texas",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Star Bar",
-      "address": "600 West 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers"
-      ],
-      "notes": "Hidden back patio, 14 flat-screens, 17 rotating taps, Packers Fan Club",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Shooters Billiards & Sports Bar",
-      "address": "11416 Ranch Rd 620 North, Austin, TX 78726",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers"
-      ],
-      "notes": "True Packers bar, 16 pool tables, shuffleboard, live music stage",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "The Jackalope",
-      "address": "404 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Green Bay Packers"
-      ],
-      "notes": "Additional Packers location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Mister Tramps Sports Pub",
-      "address": "8565 Research Blvd, Austin, TX 78758",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Houston Texans"
-      ],
-      "notes": "Also hosts Texans fans",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "The Blind Pig",
-      "address": "317 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Houston Texans"
-      ],
-      "notes": "Texans watch location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Chupacabra Cantina",
-      "address": "400 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Indianapolis Colts"
-      ],
-      "notes": "Colts fans host watch parties",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Maggie Mae's",
-      "address": "323 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Indianapolis Colts"
-      ],
-      "notes": "Colts watch location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Dogwood",
-      "address": "715 West Sixth Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Jacksonville Jaguars"
-      ],
-      "notes": "2022 watch party location per ATX Jaguars Fans Facebook",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Lavaca Street Bar - South Lamar",
-      "address": "3121 South Lamar Blvd, Austin, TX 78704",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Jacksonville Jaguars"
-      ],
-      "notes": "Also hosts Jaguars fans",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Kung Fu Saloon",
-      "address": "715 West 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Kansas City Chiefs"
-      ],
-      "notes": "Austin Arrowheads fan club",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
+      "id": "venue_8",
       "name": "Austin Garden & Studio at Inn Cahoots",
-      "address": "1209 East 6th Street, Austin, TX 78702",
-      "phone": "",
-      "website": "",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
         "Kansas City Chiefs"
       ],
-      "notes": "Chiefs watch location",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "1209 East 6th Street, Austin, TX 78702"
     },
     {
-      "name": "High 5 Entertainment",
-      "address": "2700 West Anderson Lane, Unit 101, Austin, TX 78757",
-      "phone": "",
-      "website": "",
+      "id": "venue_9",
+      "name": "B.D. Riley's Irish Pub",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Las Vegas Raiders"
+        "New England Patriots"
       ],
-      "notes": "Silver & Black of Central Texas fan club",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "1905 Aldrich Street, Austin, TX 78723 (Mueller location)"
     },
     {
-      "name": "Gnar Bar",
-      "address": "219 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_10",
+      "name": "Baker Street Pub",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Los Angeles Chargers"
+        "Cleveland Browns"
       ],
-      "notes": "Austin Chargers watch parties",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "3003 South Lamar Blvd, Austin, TX 78704"
     },
     {
-      "name": "Dogwood - Domain",
-      "address": "11420 Rock Rose Avenue #130, Austin, TX 78758",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Los Angeles Chargers"
-      ],
-      "notes": "Chargers location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
+      "id": "venue_11",
       "name": "Barzon",
-      "address": "1411 East 7th Street, Austin, TX 78702",
-      "phone": "",
-      "website": "",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
         "Los Angeles Rams"
       ],
-      "notes": "Rams fan club meetup",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "1411 East 7th Street, Austin, TX 78702"
     },
     {
-      "name": "Third Base",
-      "address": "13301 North Highway 183, Austin, TX 78750",
-      "phone": "",
-      "website": "",
+      "id": "venue_12",
+      "name": "Billy's On Burnet",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Miami Dolphins"
+        "Green Bay Packers"
       ],
-      "notes": "Fins Up ATX meets here every game day",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "2105 Hancock Drive, Austin, TX 78756"
     },
     {
-      "name": "Warehouse Billiard Bar",
-      "address": "509 East Ben White Boulevard, Austin, TX 78704",
-      "phone": "",
-      "website": "",
+      "id": "venue_13",
+      "name": "Black Sheep Lodge",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Minnesota Vikings"
+        "Denver Broncos"
       ],
-      "notes": "Official Vikings bar, Minnesota Vikings Austin Texas Fan Club",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "2108 South Lamar Blvd, Austin, TX 78704"
     },
     {
-      "name": "Pour Choices",
-      "address": "401 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_14",
+      "name": "Blind Pig",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Minnesota Vikings"
+        "San Francisco 49ers"
       ],
-      "notes": "Vikings location",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "701 West Sixth Street, Austin, TX 78701"
     },
     {
-      "name": "B.D. Riley's Irish Pub",
-      "address": "1905 Aldrich Street, Austin, TX 78723 (Mueller location)",
-      "phone": "",
-      "website": "",
+      "id": "venue_15",
+      "name": "Buckshots",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "New England Patriots"
+        "New York Jets"
       ],
-      "notes": "\"Where Austin Meets Boston\" - largest Pats fan club in Texas, Austin New England Patriots Fan Club, HDTVs with sound",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "422 East 6th Street, Austin, TX 78701"
     },
     {
+      "id": "venue_16",
+      "name": "Buford's Backyard Beer Garden",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Chicago Bears"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "700 West 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_17",
+      "name": "Bungalow",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cincinnati Bengals"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "83 Rainey Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_18",
+      "name": "Burnside's Tavern",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Falcons",
+        "Tampa Bay Buccaneers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "413 East Sixth Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_19",
+      "name": "Cabana Club",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "San Francisco 49ers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "5012 East 7th Street, Austin, TX 78702"
+    },
+    {
+      "id": "venue_20",
+      "name": "Campus Area",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "NBA"
+      ],
+      "address": "907 West 24th Street, Austin, TX 78705"
+    },
+    {
+      "id": "venue_21",
+      "name": "Central Division",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_22",
+      "name": "Chupacabra Cantina",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Indianapolis Colts"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "400 East 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_23",
+      "name": "Common Interest Karaoke Bar",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "8440 Burnet Road, Austin, TX 78757 (North Austin)"
+    },
+    {
+      "id": "venue_24",
+      "name": "Dogwood",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Jacksonville Jaguars"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "715 West Sixth Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_25",
+      "name": "Dogwood - Domain",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "11420 Rock Rose Avenue #130, Austin, TX 78758"
+    },
+    {
+      "id": "venue_26",
+      "name": "Drifters Social Coffee & Cocktails",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Washington Commanders"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "10630 Menchaca Road, Austin, TX 78748"
+    },
+    {
+      "id": "venue_27",
+      "name": "East Austin",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "NBA"
+      ],
+      "address": "2310 Manor Road, Austin, TX 78722"
+    },
+    {
+      "id": "venue_28",
+      "name": "Eastern Conference",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_29",
+      "name": "Gnar Bar",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Los Angeles Chargers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "219 East 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_30",
+      "name": "Green Light Social",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "720 West 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_31",
+      "name": "Haymaker",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Detroit Lions",
+        "New York Jets"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2310 Manor Road, Austin, TX 78722"
+    },
+    {
+      "id": "venue_32",
+      "name": "High 5 Entertainment",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Las Vegas Raiders"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2700 West Anderson Lane, Unit 101, Austin, TX 78757"
+    },
+    {
+      "id": "venue_33",
+      "name": "Kung Fu Saloon",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns",
+        "Kansas City Chiefs"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "716 West 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_34",
+      "name": "Lavaca Street Bar (downtown)",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD (downtown location)"
+    },
+    {
+      "id": "venue_35",
+      "name": "Lavaca Street Bar - South Lamar",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Baltimore Ravens",
+        "Jacksonville Jaguars"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "3121 South Lamar Blvd, Austin, TX 78704"
+    },
+    {
+      "id": "venue_36",
+      "name": "Little Woodrow's West 6th",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "520 West 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_37",
+      "name": "Lou's Austin",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_38",
       "name": "Maggie Mae's",
-      "address": "323 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
+        "Indianapolis Colts",
         "New England Patriots"
       ],
-      "notes": "Patriots watch location",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "323 East 6th Street, Austin, TX 78701"
     },
     {
-      "name": "Shoal Creek Saloon",
-      "address": "909 North Lamar Blvd, Austin, TX 78703",
-      "phone": "",
-      "website": "",
+      "id": "venue_39",
+      "name": "Mayfair",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "New Orleans Saints"
+        "Cincinnati Bengals"
       ],
-      "notes": "Ice cold Abita beer, amazing Cajun food, close to New Orleans culture",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "501 West Sixth Street, Austin, TX 78701"
     },
     {
+      "id": "venue_40",
+      "name": "Metropolitan Division",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_41",
+      "name": "Mister Tramps Sports Pub",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Dallas Cowboys",
+        "Houston Texans",
+        "Tennessee Titans"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "8565 Research Blvd, Austin, TX 78758"
+    },
+    {
+      "id": "venue_42",
+      "name": "National League Central",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_43",
+      "name": "National League East",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_44",
+      "name": "National League West",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_45",
+      "name": "Nickel City",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "1133 East 11th Street, Austin, TX 78702"
+    },
+    {
+      "id": "venue_46",
+      "name": "North Austin",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "NBA"
+      ],
+      "address": "TBD"
+    },
+    {
+      "id": "venue_47",
+      "name": "Pacific Division",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Austin"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_48",
+      "name": "Parlor & Yard",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Buffalo Bills"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "601 West 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_49",
       "name": "Pluckers Lakeline",
-      "address": "11066 Pecan Park Boulevard, Austin, TX 78613",
-      "phone": "",
-      "website": "",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
         "New Orleans Saints"
       ],
-      "notes": "North Austin Saints location (past years)",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "11066 Pecan Park Boulevard, Austin, TX 78613"
     },
     {
+      "id": "venue_50",
+      "name": "Pour Choices",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Carolina Panthers",
+        "Minnesota Vikings"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "401 East Sixth Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_51",
+      "name": "Shiner's Saloon",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "422 Congress Avenue, Austin, TX 78701"
+    },
+    {
+      "id": "venue_52",
+      "name": "Shoal Creek Saloon",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "New Orleans Saints"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "909 North Lamar Blvd, Austin, TX 78703"
+    },
+    {
+      "id": "venue_53",
+      "name": "Shooters Billiards & Sports Bar",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "11416 Ranch Rd 620 North, Austin, TX 78726"
+    },
+    {
+      "id": "venue_54",
+      "name": "Star Bar",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Green Bay Packers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "600 West 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_55",
+      "name": "The Blind Pig",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Houston Texans"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "317 East 6th Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_56",
+      "name": "The Bon Aire",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "9070 Research Blvd, #101, Austin, TX 78758"
+    },
+    {
+      "id": "venue_57",
+      "name": "The Cat's Pajamas",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Philadelphia Eagles"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "610 Nueces Street, Austin, TX 78701"
+    },
+    {
+      "id": "venue_58",
       "name": "The Dizzy Rooster",
-      "address": "306 East Sixth Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
         "New York Giants"
       ],
-      "notes": "Official ATX Giants Fans watch party location",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "306 East Sixth Street, Austin, TX 78701"
     },
     {
-      "name": "Buckshots",
-      "address": "422 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_59",
+      "name": "The Jackalope",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "New York Jets"
+        "Green Bay Packers"
       ],
-      "notes": "ATX Jets Fan Club location",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "404 East 6th Street, Austin, TX 78701"
     },
     {
-      "name": "Haymaker",
-      "address": "2310 Manor Road, Austin, TX 78722",
-      "phone": "",
-      "website": "",
+      "id": "venue_60",
+      "name": "The Local - Mockingbird Saloon",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "New York Jets"
+        "Denver Broncos"
       ],
-      "notes": "Jets watch location",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "2610 Guadalupe Street, Austin, TX 78705"
     },
     {
-      "name": "5280 Burger & Taphouse",
-      "address": "7032 Wood Hollow Drive, Austin, TX 78731",
-      "phone": "",
-      "website": "",
+      "id": "venue_61",
+      "name": "The Lodge on 6th",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Philadelphia Eagles"
+        "Dallas Cowboys"
       ],
-      "notes": "Austin Eagles Nest fan club, modern sports bar specializing in burgers and beer",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "411 East Sixth Street, Austin, TX 78701"
     },
     {
-      "name": "The Cat's Pajamas",
-      "address": "610 Nueces Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_62",
+      "name": "Third Base",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Philadelphia Eagles"
+        "Miami Dolphins"
       ],
-      "notes": "Austin-Philadelphia Eagles Watch Party",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "13301 North Highway 183, Austin, TX 78750"
     },
     {
-      "name": "Lavaca Street Bar (downtown)",
-      "address": "TBD (downtown location)",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Philadelphia Eagles"
-      ],
-      "notes": "Eagles bar downtown",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "The Bon Aire",
-      "address": "9070 Research Blvd, #101, Austin, TX 78758",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
-      "notes": "Pittsburgh Steelers Fan Club of Austin, 100-200 fans per game, 10+ years",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Shiner's Saloon",
-      "address": "422 Congress Avenue, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Pittsburgh Steelers"
-      ],
-      "notes": "Downtown location for Steelers fans",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Blind Pig",
-      "address": "701 West Sixth Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "San Francisco 49ers"
-      ],
-      "notes": "ATX 49ers Fans meetup",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Cabana Club",
-      "address": "5012 East 7th Street, Austin, TX 78702",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "San Francisco 49ers"
-      ],
-      "notes": "49ers watch location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Warehouse Billiard Bar",
-      "address": "509 East Ben White Boulevard, Austin, TX 78704",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "San Francisco 49ers"
-      ],
-      "notes": "Also a 49ers bar (primarily Vikings)",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Little Woodrow's West 6th",
-      "address": "520 West 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Seattle Seahawks"
-      ],
-      "notes": "\"Full-on Seahawks bar\", The Austin Texas 12s Booster Club",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Common Interest Karaoke Bar",
-      "address": "8440 Burnet Road, Austin, TX 78757 (North Austin)",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Seattle Seahawks"
-      ],
-      "notes": "Entire wall dedicated to Seahawks, Austin 12s location",
-      "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
+      "id": "venue_63",
       "name": "Thirsty's",
-      "address": "325 East Sixth Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
+        "Chicago Bears",
         "Tampa Bay Buccaneers"
       ],
-      "notes": "ATX Bucs watch location",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "325 East 6th Street, Austin, TX 78701"
     },
     {
-      "name": "Burnside's Tavern",
-      "address": "413 East 6th Street, Austin, TX 78701",
-      "phone": "",
-      "website": "",
+      "id": "venue_64",
+      "name": "Top Spin",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Tampa Bay Buccaneers"
+        "Cleveland Browns"
       ],
-      "notes": "Bucs watch location",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "1851 South Lakeline Blvd, Cedar Park, TX 78613"
     },
     {
-      "name": "Mister Tramps Sports Pub",
-      "address": "8565 Research Blvd, Austin, TX 78758",
-      "phone": "",
-      "website": "",
+      "id": "venue_65",
+      "name": "Warehouse Billiard Bar",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Tennessee Titans"
+        "Minnesota Vikings",
+        "San Francisco 49ers"
       ],
-      "notes": "Austin Fans of the Tennessee Titans fan club",
       "sports": [
         "NFL"
       ],
-      "city": "austin"
+      "address": "509 East Ben White Boulevard, Austin, TX 78704"
     },
     {
-      "name": "Aussies",
-      "address": "306 Barton Springs Road, Austin, TX 78704",
-      "phone": "",
-      "website": "",
+      "id": "venue_66",
+      "name": "West 6th",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Washington Commanders"
+        "Austin"
       ],
-      "notes": "HTTR ATX Facebook fan group location",
       "sports": [
-        "NFL"
+        "NBA"
       ],
-      "city": "austin"
+      "address": "520 West 6th Street, Austin, TX 78701"
     },
     {
-      "name": "Drifters Social Coffee & Cocktails",
-      "address": "10630 Menchaca Road, Austin, TX 78748",
-      "phone": "",
-      "website": "",
+      "id": "venue_67",
+      "name": "Western Conference",
+      "city": "Austin",
+      "venue_type": "Sports Bar",
       "teams": [
-        "Washington Commanders"
+        "Austin"
       ],
-      "notes": "Commanders watch location",
       "sports": [
-        "NFL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Shoal Creek Saloon",
-      "address": "909 North Lamar Blvd, Austin, TX 78703",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Houston Astros"
-      ],
-      "notes": "Cajun headquarters of Austin, also home for Saints fans, Abita beer specials",
-      "sports": [
-        "MLB"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Little Woodrow's (Burnet location)",
-      "address": "2105 Hancock Drive (Billy's), Austin, TX",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Houston Astros"
-      ],
-      "notes": "Good Astros fan group gathers here",
-      "sports": [
-        "MLB"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Pluckers",
-      "address": "Multiple locations",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Houston Astros"
-      ],
-      "notes": "Popular spot for Astros fans, also mentioned for other teams",
-      "sports": [
-        "MLB"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Mister Tramps Sports Pub",
-      "address": "8565 Research Blvd, Austin, TX 78758",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "Dallas Stars"
-      ],
-      "notes": "Best Dallas Stars bar and most popular watch party location in Austin",
-      "sports": [
-        "NHL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Billy's On Burnet",
-      "address": "2105 Hancock Drive, Austin, TX 78756",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "St. Louis Blues"
-      ],
-      "notes": "Mentioned in Eater Austin as home base for St. Louis Blues fans",
-      "sports": [
-        "NHL"
-      ],
-      "city": "austin"
-    },
-    {
-      "name": "Black Sheep Lodge",
-      "address": "Off East Riverside",
-      "phone": "",
-      "website": "",
-      "teams": [
-        "General Hockey-Friendly Bars"
-      ],
-      "notes": "During playoffs they put games on big screen",
-      "sports": [
-        "NHL"
-      ],
-      "city": "austin"
+        "NBA"
+      ]
     }
-  ],
-  "by_sport": {
-    "NFL": [
-      {
-        "name": "512 Bar",
-        "address": "408 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Arizona Cardinals"
-        ],
-        "notes": "Official watch location per team Facebook page",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Burnside's Tavern",
-        "address": "413 East Sixth Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Atlanta Falcons"
-        ],
-        "notes": "Facebook group watch parties",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Lavaca Street Bar - South Lamar",
-        "address": "3121 South Lamar Blvd, Austin, TX 78704",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Baltimore Ravens"
-        ],
-        "notes": "Raven's Nest 512 fan club, $15 domestic buckets with Ravens gear",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Parlor & Yard",
-        "address": "601 West 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Buffalo Bills"
-        ],
-        "notes": "Austin Bills Backers Association",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Nickel City",
-        "address": "1133 East 11th Street, Austin, TX 78702",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Buffalo Bills"
-        ],
-        "notes": "East Side Austin Bills Backers fan club",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Pour Choices",
-        "address": "401 East Sixth Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Carolina Panthers"
-        ],
-        "notes": "Watch parties per Facebook group",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Buford's Backyard Beer Garden",
-        "address": "700 West 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Bears"
-        ],
-        "notes": "Massive 180\" TV in beer garden, decorated for Chicago sporting events",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Thirsty's",
-        "address": "325 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Chicago Bears"
-        ],
-        "notes": "ATX Bear Down fan club location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Mayfair",
-        "address": "501 West Sixth Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cincinnati Bengals"
-        ],
-        "notes": "Who Dey ATX Facebook group, new location downtown",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Bungalow",
-        "address": "83 Rainey Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cincinnati Bengals"
-        ],
-        "notes": "Alternative watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Baker Street Pub",
-        "address": "3003 South Lamar Blvd, Austin, TX 78704",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "notes": "Texas Capital Area Browns Backers (one of three locations)",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Kung Fu Saloon",
-        "address": "716 West 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "notes": "Texas Capital Area Browns Backers watch party location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Top Spin",
-        "address": "1851 South Lakeline Blvd, Cedar Park, TX 78613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "notes": "Texas Capital Area Browns Backers watch party location (North Austin)",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Green Light Social",
-        "address": "720 West 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "notes": "Additional watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Lou's Austin",
-        "address": "TBD",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Cleveland Browns"
-        ],
-        "notes": "Listed as Browns bar",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Mister Tramps Sports Pub",
-        "address": "8565 Research Blvd, Austin, TX 78758",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Dallas Cowboys"
-        ],
-        "notes": "Silver and Blue Crew fan club, neighborhood pub with local/craft beers",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "The Lodge on 6th",
-        "address": "411 East Sixth Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Dallas Cowboys"
-        ],
-        "notes": "Official Cowboys fan bar",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "The Local - Mockingbird Saloon",
-        "address": "2610 Guadalupe Street, Austin, TX 78705",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Denver Broncos"
-        ],
-        "notes": "Broncoholics fan group meetup",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Black Sheep Lodge",
-        "address": "2108 South Lamar Blvd, Austin, TX 78704",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Denver Broncos"
-        ],
-        "notes": "Fan gathering spot",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Haymaker",
-        "address": "2310 Manor Road, Austin, TX 78722",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Detroit Lions"
-        ],
-        "notes": "Detroit Lions Watch Group, $2 off pitchers, $2 mimosas, $3 bloody marys on Sundays",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Billy's On Burnet",
-        "address": "2105 Hancock Drive, Austin, TX 78756",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers"
-        ],
-        "notes": "Green Bay Packers Fan Club of Austin, Texas",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Star Bar",
-        "address": "600 West 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers"
-        ],
-        "notes": "Hidden back patio, 14 flat-screens, 17 rotating taps, Packers Fan Club",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Shooters Billiards & Sports Bar",
-        "address": "11416 Ranch Rd 620 North, Austin, TX 78726",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers"
-        ],
-        "notes": "True Packers bar, 16 pool tables, shuffleboard, live music stage",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "The Jackalope",
-        "address": "404 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Green Bay Packers"
-        ],
-        "notes": "Additional Packers location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Mister Tramps Sports Pub",
-        "address": "8565 Research Blvd, Austin, TX 78758",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Houston Texans"
-        ],
-        "notes": "Also hosts Texans fans",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "The Blind Pig",
-        "address": "317 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Houston Texans"
-        ],
-        "notes": "Texans watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Chupacabra Cantina",
-        "address": "400 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Indianapolis Colts"
-        ],
-        "notes": "Colts fans host watch parties",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Maggie Mae's",
-        "address": "323 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Indianapolis Colts"
-        ],
-        "notes": "Colts watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Dogwood",
-        "address": "715 West Sixth Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Jacksonville Jaguars"
-        ],
-        "notes": "2022 watch party location per ATX Jaguars Fans Facebook",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Lavaca Street Bar - South Lamar",
-        "address": "3121 South Lamar Blvd, Austin, TX 78704",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Jacksonville Jaguars"
-        ],
-        "notes": "Also hosts Jaguars fans",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Kung Fu Saloon",
-        "address": "715 West 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Kansas City Chiefs"
-        ],
-        "notes": "Austin Arrowheads fan club",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Austin Garden & Studio at Inn Cahoots",
-        "address": "1209 East 6th Street, Austin, TX 78702",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Kansas City Chiefs"
-        ],
-        "notes": "Chiefs watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "High 5 Entertainment",
-        "address": "2700 West Anderson Lane, Unit 101, Austin, TX 78757",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Las Vegas Raiders"
-        ],
-        "notes": "Silver & Black of Central Texas fan club",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Gnar Bar",
-        "address": "219 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Los Angeles Chargers"
-        ],
-        "notes": "Austin Chargers watch parties",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Dogwood - Domain",
-        "address": "11420 Rock Rose Avenue #130, Austin, TX 78758",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Los Angeles Chargers"
-        ],
-        "notes": "Chargers location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Barzon",
-        "address": "1411 East 7th Street, Austin, TX 78702",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Los Angeles Rams"
-        ],
-        "notes": "Rams fan club meetup",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Third Base",
-        "address": "13301 North Highway 183, Austin, TX 78750",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Miami Dolphins"
-        ],
-        "notes": "Fins Up ATX meets here every game day",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Warehouse Billiard Bar",
-        "address": "509 East Ben White Boulevard, Austin, TX 78704",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Minnesota Vikings"
-        ],
-        "notes": "Official Vikings bar, Minnesota Vikings Austin Texas Fan Club",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Pour Choices",
-        "address": "401 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Minnesota Vikings"
-        ],
-        "notes": "Vikings location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "B.D. Riley's Irish Pub",
-        "address": "1905 Aldrich Street, Austin, TX 78723 (Mueller location)",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New England Patriots"
-        ],
-        "notes": "\"Where Austin Meets Boston\" - largest Pats fan club in Texas, Austin New England Patriots Fan Club, HDTVs with sound",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Maggie Mae's",
-        "address": "323 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New England Patriots"
-        ],
-        "notes": "Patriots watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Shoal Creek Saloon",
-        "address": "909 North Lamar Blvd, Austin, TX 78703",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New Orleans Saints"
-        ],
-        "notes": "Ice cold Abita beer, amazing Cajun food, close to New Orleans culture",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Pluckers Lakeline",
-        "address": "11066 Pecan Park Boulevard, Austin, TX 78613",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New Orleans Saints"
-        ],
-        "notes": "North Austin Saints location (past years)",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "The Dizzy Rooster",
-        "address": "306 East Sixth Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Giants"
-        ],
-        "notes": "Official ATX Giants Fans watch party location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Buckshots",
-        "address": "422 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Jets"
-        ],
-        "notes": "ATX Jets Fan Club location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Haymaker",
-        "address": "2310 Manor Road, Austin, TX 78722",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "New York Jets"
-        ],
-        "notes": "Jets watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "5280 Burger & Taphouse",
-        "address": "7032 Wood Hollow Drive, Austin, TX 78731",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Philadelphia Eagles"
-        ],
-        "notes": "Austin Eagles Nest fan club, modern sports bar specializing in burgers and beer",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "The Cat's Pajamas",
-        "address": "610 Nueces Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Philadelphia Eagles"
-        ],
-        "notes": "Austin-Philadelphia Eagles Watch Party",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Lavaca Street Bar (downtown)",
-        "address": "TBD (downtown location)",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Philadelphia Eagles"
-        ],
-        "notes": "Eagles bar downtown",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "The Bon Aire",
-        "address": "9070 Research Blvd, #101, Austin, TX 78758",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Pittsburgh Steelers"
-        ],
-        "notes": "Pittsburgh Steelers Fan Club of Austin, 100-200 fans per game, 10+ years",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Shiner's Saloon",
-        "address": "422 Congress Avenue, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Pittsburgh Steelers"
-        ],
-        "notes": "Downtown location for Steelers fans",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Blind Pig",
-        "address": "701 West Sixth Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "San Francisco 49ers"
-        ],
-        "notes": "ATX 49ers Fans meetup",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Cabana Club",
-        "address": "5012 East 7th Street, Austin, TX 78702",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "San Francisco 49ers"
-        ],
-        "notes": "49ers watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Warehouse Billiard Bar",
-        "address": "509 East Ben White Boulevard, Austin, TX 78704",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "San Francisco 49ers"
-        ],
-        "notes": "Also a 49ers bar (primarily Vikings)",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Little Woodrow's West 6th",
-        "address": "520 West 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Seattle Seahawks"
-        ],
-        "notes": "\"Full-on Seahawks bar\", The Austin Texas 12s Booster Club",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Common Interest Karaoke Bar",
-        "address": "8440 Burnet Road, Austin, TX 78757 (North Austin)",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Seattle Seahawks"
-        ],
-        "notes": "Entire wall dedicated to Seahawks, Austin 12s location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Thirsty's",
-        "address": "325 East Sixth Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Tampa Bay Buccaneers"
-        ],
-        "notes": "ATX Bucs watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Burnside's Tavern",
-        "address": "413 East 6th Street, Austin, TX 78701",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Tampa Bay Buccaneers"
-        ],
-        "notes": "Bucs watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Mister Tramps Sports Pub",
-        "address": "8565 Research Blvd, Austin, TX 78758",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Tennessee Titans"
-        ],
-        "notes": "Austin Fans of the Tennessee Titans fan club",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Aussies",
-        "address": "306 Barton Springs Road, Austin, TX 78704",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Washington Commanders"
-        ],
-        "notes": "HTTR ATX Facebook fan group location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Drifters Social Coffee & Cocktails",
-        "address": "10630 Menchaca Road, Austin, TX 78748",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Washington Commanders"
-        ],
-        "notes": "Commanders watch location",
-        "sports": [
-          "NFL"
-        ],
-        "city": "austin"
-      }
-    ],
-    "MLB": [
-      {
-        "name": "Shoal Creek Saloon",
-        "address": "909 North Lamar Blvd, Austin, TX 78703",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Houston Astros"
-        ],
-        "notes": "Cajun headquarters of Austin, also home for Saints fans, Abita beer specials",
-        "sports": [
-          "MLB"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Little Woodrow's (Burnet location)",
-        "address": "2105 Hancock Drive (Billy's), Austin, TX",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Houston Astros"
-        ],
-        "notes": "Good Astros fan group gathers here",
-        "sports": [
-          "MLB"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Pluckers",
-        "address": "Multiple locations",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Houston Astros"
-        ],
-        "notes": "Popular spot for Astros fans, also mentioned for other teams",
-        "sports": [
-          "MLB"
-        ],
-        "city": "austin"
-      }
-    ],
-    "NHL": [
-      {
-        "name": "Mister Tramps Sports Pub",
-        "address": "8565 Research Blvd, Austin, TX 78758",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "Dallas Stars"
-        ],
-        "notes": "Best Dallas Stars bar and most popular watch party location in Austin",
-        "sports": [
-          "NHL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Billy's On Burnet",
-        "address": "2105 Hancock Drive, Austin, TX 78756",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "St. Louis Blues"
-        ],
-        "notes": "Mentioned in Eater Austin as home base for St. Louis Blues fans",
-        "sports": [
-          "NHL"
-        ],
-        "city": "austin"
-      },
-      {
-        "name": "Black Sheep Lodge",
-        "address": "Off East Riverside",
-        "phone": "",
-        "website": "",
-        "teams": [
-          "General Hockey-Friendly Bars"
-        ],
-        "notes": "During playoffs they put games on big screen",
-        "sports": [
-          "NHL"
-        ],
-        "city": "austin"
-      }
-    ]
-  }
+  ]
 }

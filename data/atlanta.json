@@ -1,491 +1,449 @@
 {
-  "NFL": {
-    "Official Falcons Bar Network Partners": [
-      {
-        "name": "Official Watch Party Locations (2025 Season)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Top Recommended Falcons Bars": [
-      {
-        "name": "Year-Round Official Partners",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Downtown Atlanta",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Midtown",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Little Five Points / East Atlanta Village",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Buckhead",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Suburban Locations": [
-      {
-        "name": "Other Notable Locations",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "North Atlanta / Suburbs",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "West/Northwest",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Pro Tips": [
-      {
-        "name": "South",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Sources": []
-  },
-  "MLB": {
-    "The Battery Atlanta": [
-      {
-        "name": "Sports Bars at The Battery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Top Recommended Braves Bars": [
-      {
-        "name": "Additional Battery Dining",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Midtown",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Buckhead",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Piedmont / Virginia-Highland",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Decatur",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Breweries That Show Games": [
-      {
-        "name": "Downtown",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "West End",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "West Midtown",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Multi-Location Chains": [
-      {
-        "name": "Other Brewery Locations",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Taco Mac Locations",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "East Atlanta / Little Five Points": [
-      {
-        "name": "Hudson Grille Locations",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Suburban Locations": [
-      {
-        "name": "Sandy Springs",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Clarkston",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "How to Watch Braves Games": [
-      {
-        "name": "Hapeville",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Pro Tips": [
-      {
-        "name": "2026 Streaming Options",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Sources": []
-  },
-  "NBA": {
-    "Official Hawks Bar Network": [],
-    "Top Recommended Hawks Bars": [
-      {
-        "name": "Official Bar Network Locations",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Downtown (Near State Farm Arena)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Decatur",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Midtown",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Buckhead",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Old Fourth Ward",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Piedmont / Virginia-Highland",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Little Five Points",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "East Atlanta Village",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Suburban / OTP Locations": [
-      {
-        "name": "The Battery (Cobb County)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Sandy Springs",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Roswell",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Smyrna",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Clarkston",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hapeville",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Multi-Location Chains": [
-      {
-        "name": "Summerhill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hudson Grille (6 Metro Locations)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Inside State Farm Arena": [
-      {
-        "name": "Taco Mac Locations",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Important Notes from Hawks Fans": [],
-    "How to Watch Hawks Games": [],
-    "Pro Tips": [
-      {
-        "name": "2025-2026 TV/Streaming",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Sources": []
-  },
-  "NHL": {
-    "Important Context": [],
-    "Where to Watch NHL Games in Atlanta": [
-      {
-        "name": "Best Sports Bars for Hockey Viewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Regional NHL Team Bars": [
-      {
-        "name": "East Atlanta / Little Five Points",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Breweries That Show Hockey": [
-      {
-        "name": "Known Team Bars",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Atlanta Gladiators": [],
-    "Tips for Watching NHL in Atlanta": [],
-    "Georgia Hockey Scene": [
-      {
-        "name": "What Channels Carry NHL Games",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Atlanta Hockey History": [
-      {
-        "name": "Youth & Adult Leagues",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Atlanta Thrashers (1999-2011)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Atlanta Flames (1972-1980)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Alternative: Watch at Home": [
-      {
-        "name": "Will NHL Return to Atlanta?",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Sources": [],
-    "Bottom Line": []
-  }
+  "city": "Atlanta",
+  "total_venues": 35,
+  "last_updated": "2026-03-02",
+  "venues": [
+    {
+      "id": "venue_1",
+      "name": "2025-2026 TV/Streaming",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_2",
+      "name": "2026 Streaming Options",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_3",
+      "name": "Additional Battery Dining",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_4",
+      "name": "Atlanta Flames (1972-1980)",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_5",
+      "name": "Atlanta Thrashers (1999-2011)",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_6",
+      "name": "B&W",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Norcross"
+    },
+    {
+      "id": "venue_7",
+      "name": "Buckhead",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves",
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_8",
+      "name": "Clarkston",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves",
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_9",
+      "name": "Decatur",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves",
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_10",
+      "name": "Dillons",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Lawrenceville"
+    },
+    {
+      "id": "venue_11",
+      "name": "East Atlanta / Little Five Points",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_12",
+      "name": "East Atlanta Village",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_13",
+      "name": "Hammerheads",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Suwanee"
+    },
+    {
+      "id": "venue_14",
+      "name": "Hapeville",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves",
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_15",
+      "name": "Hooligans",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Alpharetta"
+    },
+    {
+      "id": "venue_16",
+      "name": "Hudson Grille",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Kennesaw"
+    },
+    {
+      "id": "venue_17",
+      "name": "Joe's",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "John's Creek"
+    },
+    {
+      "id": "venue_18",
+      "name": "Known Team Bars",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_19",
+      "name": "Little Five Points",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_20",
+      "name": "Mazzy's",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Duluth"
+    },
+    {
+      "id": "venue_21",
+      "name": "Old Fourth Ward",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_22",
+      "name": "Paradise Grille",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Marietta"
+    },
+    {
+      "id": "venue_23",
+      "name": "Piedmont / Virginia-Highland",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves",
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_24",
+      "name": "Roswell",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_25",
+      "name": "STATS Brewpub",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Marietta"
+    },
+    {
+      "id": "venue_26",
+      "name": "Sandy Springs",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves",
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_27",
+      "name": "Smyrna",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_28",
+      "name": "Sports Bars at The Battery",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_29",
+      "name": "Summerhill",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_30",
+      "name": "The Battery (Cobb County)",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Hawks"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_31",
+      "name": "Three Dollar Cafe",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Suburban Locations"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "McDonough"
+    },
+    {
+      "id": "venue_32",
+      "name": "West End",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta Braves"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_33",
+      "name": "What Channels Carry NHL Games",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_34",
+      "name": "Will NHL Return to Atlanta?",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_35",
+      "name": "Youth & Adult Leagues",
+      "city": "Atlanta",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Atlanta"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    }
+  ]
 }

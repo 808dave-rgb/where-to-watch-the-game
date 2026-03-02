@@ -1,1651 +1,1181 @@
 {
-  "NFL": {
-    "North Shore": [
-      {
-        "name": "Tom's Watch Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "McFadden's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Tequila Cowboy",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mike's Beer Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Voodoo Brewing Co. - Pittsburgh Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "North Shore Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "South Side": [
-      {
-        "name": "Southern Tier Brewing Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mario's Southside Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Carson City Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cupka's Cafe II",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Piper's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rugger's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Jack's Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Nadine's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Pins Mechanical Co.",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "South Side 86",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Fat Head's Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Strip District": [
-      {
-        "name": "Sly Fox Brewing - Highline",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Primanti Bros. (Strip District)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Roland's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Aslin Beer Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The BeerHive",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cinderlands Beer Co. - Warehouse",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Downtown": [
-      {
-        "name": "Lefty's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "RedBeard's on Sixth",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "City Works Eatery & Pour House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Shadyside": [
-      {
-        "name": "Primanti Bros. Market Square",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "William Penn Tavern (\"The Tav\")",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mario's East Side Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Oakland": [
-      {
-        "name": "Cappy's Cafe",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hemingway's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Mt. Washington": [
-      {
-        "name": "Mario's (Oakland)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Lawrenceville": [
-      {
-        "name": "Bigham Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Pitch on Butler",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Squirrel Hill": [
-      {
-        "name": "Stinky's Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Suburban Locations": [
-      {
-        "name": "Squirrel Hill Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Pub in the Park",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Twin Peaks (Robinson Township)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Other Notable Mentions": [
-      {
-        "name": "Pittsburgh Brewing Co.",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Lot 17",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Silky's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rival",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Yard",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Bocce House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Independent Brewing Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "TOTAL VENUES: 54": [
-      {
-        "name": "The Fire Side Public House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ]
-  },
-  "MLB": {
-    "North Shore": [
-      {
-        "name": "Tom's Watch Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mike's Beer Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "McFadden's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "North Shore Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Voodoo Brewing Co. - Pittsburgh Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Southern Tier Brewing Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Strip District": [
-      {
-        "name": "Tequila Cowboy",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Primanti Bros. (Strip District)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Roland's Seafood Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Aslin Beer Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cinderlands Beer Co. - Warehouse",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The BeerHive",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Helltown Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Wigle Whiskey",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Kingfly Spirits",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Pennsylvania Market",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Downtown": [
-      {
-        "name": "Lucky's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "RedBeard's on Sixth",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "City Works Eatery & Pour House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "South Side": [
-      {
-        "name": "Primanti Bros. Market Square",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mario's Southside Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Carson City Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Piper's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rugger's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cupka's Cafe II",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Fat Head's Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Sly Fox Brewing - Highline",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Shadyside": [
-      {
-        "name": "Pins Mechanical Co.",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "William Penn Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mario's East Side Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cappy's Cafe",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Oakland": [
-      {
-        "name": "Shady Grove",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hemingway's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Mt. Washington": [
-      {
-        "name": "Mario's (Oakland)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Lawrenceville": [
-      {
-        "name": "Bigham Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Pitch on Butler",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Other Neighborhoods": [
-      {
-        "name": "Stinky's Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "SoHo (neighborhood unknown)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Grand Slam Lounge (neighborhood unknown)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Pub in the Park",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Lot 17",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Hotels with Sports Bars/Viewing": [
-      {
-        "name": "Silky's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cambria Hotel Pittsburgh",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Holiday Inn Express & Suites Pittsburgh North Shore",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "SpringHill Suites Pittsburgh North Shore",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Breweries": [
-      {
-        "name": "Hyatt Place Pittsburgh - North Shore",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Church Brew Works",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Grist House Craft Brewery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Eleventh Hour Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Trace Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Penn Brewery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hofbrauhaus Pittsburgh",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "East End Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Dancing Gnome",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Brew Gentlemen",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "TOTAL VENUES: 61": [
-      {
-        "name": "Hitchhiker Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ]
-  },
-  "NBA": {
-    "Primary NBA Viewing Venues": [
-      {
-        "name": "Tom's Watch Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Sports Bars That Show NBA Games": [
-      {
-        "name": "Rugger's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "City Works Eatery & Pour House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Carson City Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mario's Southside Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "McFadden's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Bigham Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "RedBeard's on Sixth",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hemingway's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "William Penn Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Pitch on Butler",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Stinky's Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Twin Peaks (Robinson Township)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mike's Beer Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cupka's Cafe II",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Fat Head's Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Primanti Bros. (Multiple Locations)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Tequila Cowboy",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "North Shore Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rival",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Bocce House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "College Basketball": [
-      {
-        "name": "Silky's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Important Context": [
-      {
-        "name": "Popular Pitt Basketball Bars:",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "TOTAL VENUES: 24": []
-  },
-  "NHL": {
-    "North Shore": [
-      {
-        "name": "Tom's Watch Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mike's Beer Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "McFadden's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Voodoo Brewing Co. - Pittsburgh Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Tequila Cowboy",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Southern Tier Brewing Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Strip District": [
-      {
-        "name": "North Shore Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Primanti Bros. (Strip District)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Roland's Seafood Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cinderlands Beer Co. - Warehouse",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Aslin Beer Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The BeerHive",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Helltown Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Downtown": [
-      {
-        "name": "Wigle Whiskey",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "RedBeard's on Sixth",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "City Works Eatery & Pour House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "South Side": [
-      {
-        "name": "Primanti Bros. Market Square",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Buxy's Salty Dog Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mario's Southside Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Carson City Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Piper's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rugger's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cupka's Cafe II",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Fat Head's Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Sly Fox Brewing - Highline",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Shadyside": [
-      {
-        "name": "Pins Mechanical Co.",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "William Penn Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Mario's East Side Saloon",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Cappy's Cafe",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Shady Grove",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Oakland": [
-      {
-        "name": "The Urban Tap",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hemingway's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Mt. Washington": [
-      {
-        "name": "Mario's (Oakland)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Lawrenceville": [
-      {
-        "name": "Bigham Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Pitch on Butler",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Stinky's Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Church Brew Works",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Other Locations": [
-      {
-        "name": "Eleventh Hour Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Grand Slam Lounge",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Pub in the Park",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Twin Peaks (Robinson Township)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Lot 17",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Silky's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Bocce House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rival",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Independent Brewing Company",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Fire Side Public House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Squirrel Hill Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Breweries": [
-      {
-        "name": "5801 Video Lounge and Café",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Grist House Craft Brewery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Trace Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Penn Brewery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hofbrauhaus Pittsburgh",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "East End Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Dancing Gnome",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Brew Gentlemen",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hitchhiker Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Two Frays Brewery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Roundabout Brewery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "COVEN Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Velum Fermentation",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Allegheny City Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Four Points Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Late Addition Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Burgh'ers Brewing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Hotels Near PPG Paints Arena": [
-      {
-        "name": "Inner Groove",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Holiday Inn Express & Suites Pittsburgh North Shore",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "SpringHill Suites Pittsburgh North Shore",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Hyatt Place Pittsburgh - North Shore",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "TOTAL VENUES: 58": [
-      {
-        "name": "Cambria Hotel Pittsburgh",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ]
-  }
+  "city": "Pittsburgh",
+  "total_venues": 83,
+  "last_updated": "2026-03-02",
+  "venues": [
+    {
+      "id": "venue_1",
+      "name": "5801 Video Lounge and Café",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_2",
+      "name": "Allegheny City Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_3",
+      "name": "Aslin Beer Company",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_4",
+      "name": "Bigham Tavern",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_5",
+      "name": "Brew Gentlemen",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_6",
+      "name": "Burgh'ers Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_7",
+      "name": "Buxy's Salty Dog Saloon",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_8",
+      "name": "COVEN Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_9",
+      "name": "Cambria Hotel Pittsburgh",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_10",
+      "name": "Cappy's Cafe",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_11",
+      "name": "Carson City Saloon",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_12",
+      "name": "Church Brew Works",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_13",
+      "name": "Cinderlands Beer Co. - Warehouse",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_14",
+      "name": "City Works Eatery & Pour House",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_15",
+      "name": "Cupka's Cafe II",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_16",
+      "name": "Dancing Gnome",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_17",
+      "name": "East End Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_18",
+      "name": "Eleventh Hour Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_19",
+      "name": "Fat Head's Saloon",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_20",
+      "name": "Four Points Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_21",
+      "name": "Grand Slam Lounge",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_22",
+      "name": "Grand Slam Lounge (neighborhood unknown)",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_23",
+      "name": "Grist House Craft Brewery",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_24",
+      "name": "Helltown Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_25",
+      "name": "Hemingway's",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_26",
+      "name": "Hitchhiker Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_27",
+      "name": "Hofbrauhaus Pittsburgh",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_28",
+      "name": "Holiday Inn Express & Suites Pittsburgh North Shore",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_29",
+      "name": "Hyatt Place Pittsburgh - North Shore",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_30",
+      "name": "Independent Brewing Company",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_31",
+      "name": "Inner Groove",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_32",
+      "name": "Jack's Bar",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_33",
+      "name": "Kingfly Spirits",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_34",
+      "name": "Late Addition Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_35",
+      "name": "Lefty's",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_36",
+      "name": "Lot 17",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_37",
+      "name": "Lucky's",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_38",
+      "name": "Mario's (Oakland)",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_39",
+      "name": "Mario's East Side Saloon",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_40",
+      "name": "Mario's Southside Saloon",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_41",
+      "name": "McFadden's",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_42",
+      "name": "Mike's Beer Bar",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_43",
+      "name": "Nadine's",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_44",
+      "name": "North Shore Tavern",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_45",
+      "name": "Penn Brewery",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_46",
+      "name": "Pennsylvania Market",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_47",
+      "name": "Pins Mechanical Co.",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_48",
+      "name": "Piper's Pub",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_49",
+      "name": "Pittsburgh Brewing Co.",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_50",
+      "name": "Primanti Bros. (Strip District)",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_51",
+      "name": "Primanti Bros. Market Square",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_52",
+      "name": "Pub in the Park",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_53",
+      "name": "RedBeard's on Sixth",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_54",
+      "name": "Rival",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_55",
+      "name": "Roland's",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_56",
+      "name": "Roland's Seafood Grill",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_57",
+      "name": "Roundabout Brewery",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_58",
+      "name": "Rugger's Pub",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_59",
+      "name": "Shady Grove",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_60",
+      "name": "Silky's Pub",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_61",
+      "name": "Sly Fox Brewing - Highline",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_62",
+      "name": "SoHo (neighborhood unknown)",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_63",
+      "name": "South Side 86",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_64",
+      "name": "Southern Tier Brewing Company",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_65",
+      "name": "SpringHill Suites Pittsburgh North Shore",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_66",
+      "name": "Squirrel Hill Sports Bar",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_67",
+      "name": "Stinky's Bar & Grill",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_68",
+      "name": "Tequila Cowboy",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_69",
+      "name": "The BeerHive",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_70",
+      "name": "The Bocce House",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_71",
+      "name": "The Fire Side Public House",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_72",
+      "name": "The Pitch on Butler",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_73",
+      "name": "The Urban Tap",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_74",
+      "name": "The Yard",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_75",
+      "name": "Tom's Watch Bar",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_76",
+      "name": "Trace Brewing",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_77",
+      "name": "Twin Peaks (Robinson Township)",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_78",
+      "name": "Two Frays Brewery",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_79",
+      "name": "Velum Fermentation",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_80",
+      "name": "Voodoo Brewing Co. - Pittsburgh Pub",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates",
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_81",
+      "name": "Wigle Whiskey",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_82",
+      "name": "William Penn Tavern",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Penguins",
+        "Pittsburgh Pirates"
+      ],
+      "sports": [
+        "MLB",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_83",
+      "name": "William Penn Tavern (\"The Tav\")",
+      "city": "Pittsburgh",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Pittsburgh Steelers"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    }
+  ]
 }

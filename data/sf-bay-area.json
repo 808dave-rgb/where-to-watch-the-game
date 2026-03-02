@@ -1,0 +1,1160 @@
+{
+  "city": "San Francisco Bay Area",
+  "total_venues": 68,
+  "last_updated": "2026-03-02",
+  "venues": [
+    {
+      "id": "venue_1",
+      "name": "(Check general sports bars - LA team, some SoCal transplants)",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "WESTERN CONFERENCE - PACIFIC DIVISION"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_2",
+      "name": "(Check general sports bars - rivalry team, less dedicated bars in SF)",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "NATIONAL LEAGUE WEST"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_3",
+      "name": "(Check general sports bars and Canadian-themed bars)",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ATLANTIC DIVISION"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_4",
+      "name": "(Check general sports bars)",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AMERICAN LEAGUE WEST",
+        "ATLANTIC DIVISION",
+        "CENTRAL DIVISION",
+        "EASTERN CONFERENCE - ATLANTIC DIVISION",
+        "EASTERN CONFERENCE - SOUTHEAST DIVISION",
+        "PACIFIC DIVISION",
+        "WESTERN CONFERENCE - NORTHWEST DIVISION",
+        "WESTERN CONFERENCE - PACIFIC DIVISION",
+        "WESTERN CONFERENCE - SOUTHWEST DIVISION"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_5",
+      "name": "(General sports bars - Orange County team, less representation in Bay Area)",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AMERICAN LEAGUE WEST"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_6",
+      "name": "(General sports bars show games)",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AMERICAN LEAGUE EAST"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_7",
+      "name": "21st Amendment Brewery",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "LOCAL TEAMS"
+      ],
+      "sports": [
+        "MLB"
+      ],
+      "address": "2 blocks from Oracle Park (formerly AT&T Park), SoMa, San Francisco"
+    },
+    {
+      "id": "venue_8",
+      "name": "Ace's",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AMERICAN LEAGUE EAST",
+        "EASTERN CONFERENCE - ATLANTIC DIVISION",
+        "METROPOLITAN DIVISION",
+        "NATIONAL LEAGUE EAST",
+        "NFC EAST"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "998 Sutter St, San Francisco, CA 94109"
+    },
+    {
+      "id": "venue_9",
+      "name": "Black Magic Voodoo Lounge",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "NFC SOUTH",
+        "WESTERN CONFERENCE - SOUTHWEST DIVISION"
+      ],
+      "sports": [
+        "NBA",
+        "NFL"
+      ],
+      "address": "1400 Lombard St, San Francisco, CA 94123"
+    },
+    {
+      "id": "venue_10",
+      "name": "Blue Light",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AMERICAN LEAGUE EAST",
+        "ATLANTIC DIVISION",
+        "NFC SOUTH"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1979 Union St, San Francisco, CA 94123"
+    },
+    {
+      "id": "venue_11",
+      "name": "Britannia Arms (multiple locations)",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ],
+      "address": "Almaden, Cupertino, Downtown San Jose (\"The Brit\")"
+    },
+    {
+      "id": "venue_12",
+      "name": "Bus Stop Bar",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC SOUTH",
+        "EASTERN CONFERENCE - CENTRAL DIVISION"
+      ],
+      "sports": [
+        "NBA",
+        "NFL"
+      ],
+      "address": "1901 Union St, San Francisco, CA 94123"
+    },
+    {
+      "id": "venue_13",
+      "name": "Cali's Sports Bar",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "2367 Telegraph Ave, Berkeley, CA 94704"
+    },
+    {
+      "id": "venue_14",
+      "name": "Connecticut Yankee",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC EAST",
+        "AMERICAN LEAGUE EAST",
+        "ATLANTIC DIVISION",
+        "EASTERN CONFERENCE - ATLANTIC DIVISION"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "100 Connecticut St, San Francisco, CA 94107"
+    },
+    {
+      "id": "venue_15",
+      "name": "Danny Coyle's",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC WEST",
+        "AMERICAN LEAGUE WEST",
+        "EASTERN CONFERENCE - SOUTHEAST DIVISION",
+        "NATIONAL LEAGUE EAST",
+        "NATIONAL LEAGUE WEST",
+        "NFC SOUTH",
+        "NFC WEST",
+        "PACIFIC DIVISION"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "668 Haight St, San Francisco, CA 94117"
+    },
+    {
+      "id": "venue_16",
+      "name": "Doghouse Sports Lounge",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "San Jose"
+    },
+    {
+      "id": "venue_17",
+      "name": "Dolores Corner",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AMERICAN LEAGUE CENTRAL",
+        "CENTRAL DIVISION",
+        "EASTERN CONFERENCE - CENTRAL DIVISION",
+        "NATIONAL LEAGUE CENTRAL",
+        "NFC NORTH"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1600 Dolores St, San Francisco, CA 94110"
+    },
+    {
+      "id": "venue_18",
+      "name": "Fairway Zone Sports Bar and Lounge",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "San Jose"
+    },
+    {
+      "id": "venue_19",
+      "name": "Final Final Sports Bar",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AMERICAN LEAGUE CENTRAL",
+        "CENTRAL DIVISION",
+        "NFC NORTH",
+        "WESTERN CONFERENCE - NORTHWEST DIVISION"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "2990 Baker St, San Francisco, CA 94123"
+    },
+    {
+      "id": "venue_20",
+      "name": "George & Walt's",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM",
+        "LOCAL TEAMS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "5445 College Ave, Oakland, CA 94618"
+    },
+    {
+      "id": "venue_21",
+      "name": "George and Walt's",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "NFC EAST"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "5445 College Ave, Oakland, CA 94618"
+    },
+    {
+      "id": "venue_22",
+      "name": "Giordano Bros.",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC NORTH",
+        "METROPOLITAN DIVISION",
+        "NATIONAL LEAGUE CENTRAL"
+      ],
+      "sports": [
+        "MLB",
+        "NFL",
+        "NHL"
+      ],
+      "address": "3108 16th St, San Francisco, CA"
+    },
+    {
+      "id": "venue_23",
+      "name": "Green's Sports Bar",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "EASTERN CONFERENCE - CENTRAL DIVISION",
+        "EASTERN CONFERENCE - SOUTHEAST DIVISION",
+        "LOCAL TEAMS",
+        "METROPOLITAN DIVISION",
+        "NATIONAL LEAGUE CENTRAL",
+        "NFC NORTH"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "2239 Polk St, San Francisco, CA 94109"
+    },
+    {
+      "id": "venue_24",
+      "name": "Greens Sports Bar",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "NFC SOUTH"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2239 Polk St, San Francisco, CA 94109"
+    },
+    {
+      "id": "venue_25",
+      "name": "Harry's Bar",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC SOUTH"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "2020 Fillmore St, San Francisco, CA 94115"
+    },
+    {
+      "id": "venue_26",
+      "name": "Hi-Tops",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "LOCAL TEAM",
+        "LOCAL TEAMS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ],
+      "address": "Castro District, San Francisco"
+    },
+    {
+      "id": "venue_27",
+      "name": "Hockey Haven",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "3625 Balboa St, San Francisco, CA 94121"
+    },
+    {
+      "id": "venue_28",
+      "name": "Jake's Steaks",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "EASTERN CONFERENCE - ATLANTIC DIVISION",
+        "METROPOLITAN DIVISION",
+        "NATIONAL LEAGUE EAST",
+        "NFC EAST"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "3301 Buchanan St, San Francisco, CA 94123"
+    },
+    {
+      "id": "venue_29",
+      "name": "Kezar Pub",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM",
+        "LOCAL TEAMS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "770 Stanyan St, San Francisco, CA 94117"
+    },
+    {
+      "id": "venue_30",
+      "name": "Kilowatt",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC NORTH",
+        "AMERICAN LEAGUE CENTRAL",
+        "EASTERN CONFERENCE - CENTRAL DIVISION",
+        "METROPOLITAN DIVISION"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "3160 16th St, San Francisco, CA 94103"
+    },
+    {
+      "id": "venue_31",
+      "name": "Knuckles Sports Bar",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "HOTELS WITH SPORTS BARS"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Fisherman's Wharf, San Francisco"
+    },
+    {
+      "id": "venue_32",
+      "name": "Mad Dog in the Fog",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "NHL"
+      ],
+      "address": "Near Kezar Pub, Haight area, San Francisco"
+    },
+    {
+      "id": "venue_33",
+      "name": "Mad Oak Bar 'N' Yard",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "135 12th St, Oakland, CA 94607"
+    },
+    {
+      "id": "venue_34",
+      "name": "McGee's",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1645 Park St, Alameda, CA 94501"
+    },
+    {
+      "id": "venue_35",
+      "name": "McTeague's Saloon",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC SOUTH",
+        "AMERICAN LEAGUE WEST",
+        "WESTERN CONFERENCE - SOUTHWEST DIVISION"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ],
+      "address": "1237 Polk St, San Francisco, CA 94109"
+    },
+    {
+      "id": "venue_36",
+      "name": "Mucky Duck",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC EAST",
+        "ATLANTIC DIVISION",
+        "EASTERN CONFERENCE - SOUTHEAST DIVISION",
+        "NATIONAL LEAGUE EAST"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1315 9th Ave, San Francisco, CA 94122"
+    },
+    {
+      "id": "venue_37",
+      "name": "North Star Cafe",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC EAST",
+        "ATLANTIC DIVISION"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ],
+      "address": "1560 Powell St, San Francisco, CA 94133"
+    },
+    {
+      "id": "venue_38",
+      "name": "O'Brien's Irish Pub",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1940 Taraval St, San Francisco, CA 94116"
+    },
+    {
+      "id": "venue_39",
+      "name": "Pete's Tavern",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "CENTRAL DIVISION",
+        "LOCAL TEAMS",
+        "NFC EAST",
+        "WESTERN CONFERENCE - SOUTHWEST DIVISION"
+      ],
+      "sports": [
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "128 King St, San Francisco, CA 94107"
+    },
+    {
+      "id": "venue_40",
+      "name": "Philosopher's Club",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "LOCAL TEAMS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ],
+      "address": "Near requestor location"
+    },
+    {
+      "id": "venue_41",
+      "name": "Players Sports Grill",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC SOUTH"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "Pier 39, San Francisco, CA 94133"
+    },
+    {
+      "id": "venue_42",
+      "name": "Primo's Pizzeria & Pub",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "298 Hartz Ave, Danville, CA 94526"
+    },
+    {
+      "id": "venue_43",
+      "name": "Red Jack Saloon",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "EASTERN CONFERENCE - SOUTHEAST DIVISION",
+        "METROPOLITAN DIVISION",
+        "NATIONAL LEAGUE EAST",
+        "NFC EAST"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "131 Bay St, San Francisco, CA 94133"
+    },
+    {
+      "id": "venue_44",
+      "name": "Rickey's Sports Lounge",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "LOCAL TEAMS"
+      ],
+      "sports": [
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "15028 Hesperian Blvd, San Leandro, CA 94578"
+    },
+    {
+      "id": "venue_45",
+      "name": "Rocco's Ballpark",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "San Jose"
+    },
+    {
+      "id": "venue_46",
+      "name": "Rocks Den",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "4431 Mission St, San Francisco, CA 94112"
+    },
+    {
+      "id": "venue_47",
+      "name": "Rookies Sports Lodge - Downtown",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "Downtown San Jose"
+    },
+    {
+      "id": "venue_48",
+      "name": "SAP Center Area Bars",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "NHL"
+      ],
+      "address": "Near SAP Center, San Jose, CA"
+    },
+    {
+      "id": "venue_49",
+      "name": "San Francisco Athletic Club",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC WEST",
+        "CENTRAL DIVISION",
+        "NATIONAL LEAGUE WEST",
+        "WESTERN CONFERENCE - NORTHWEST DIVISION"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1750 Divisadero St, San Francisco, CA 94115"
+    },
+    {
+      "id": "venue_50",
+      "name": "San Pedro Social",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "San Pedro Square, San Jose"
+    },
+    {
+      "id": "venue_51",
+      "name": "Splash at Thrive City",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "191 Warriors Way, San Francisco, CA 94158"
+    },
+    {
+      "id": "venue_52",
+      "name": "Stadium Pub",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1420 Lincoln Ave, Walnut Creek, CA 94596"
+    },
+    {
+      "id": "venue_53",
+      "name": "The Athletic Club Oakland",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM",
+        "LOCAL TEAMS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "59 Grand Ave, Oakland, CA 94612"
+    },
+    {
+      "id": "venue_54",
+      "name": "The Boardroom",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "ATLANTIC DIVISION",
+        "CENTRAL DIVISION",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "NATIONAL LEAGUE CENTRAL",
+        "NFC WEST"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1600 Powell St, San Francisco, CA 94133"
+    },
+    {
+      "id": "venue_55",
+      "name": "The Brickyard",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "CENTRAL DIVISION",
+        "NATIONAL LEAGUE WEST",
+        "NFC WEST",
+        "WESTERN CONFERENCE - PACIFIC DIVISION"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "1787 Union St, San Francisco, CA 94123"
+    },
+    {
+      "id": "venue_56",
+      "name": "The Bus Stop",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC NORTH",
+        "AFC WEST",
+        "AMERICAN LEAGUE CENTRAL",
+        "NATIONAL LEAGUE CENTRAL"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ],
+      "address": "1901 Union St, San Francisco, CA 94123"
+    },
+    {
+      "id": "venue_57",
+      "name": "The Kingfish Pub & Cafe",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ],
+      "address": "5227 Telegraph Ave, Oakland, CA 94609"
+    },
+    {
+      "id": "venue_58",
+      "name": "The Phoenix Irish Pub",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AMERICAN LEAGUE CENTRAL",
+        "ATLANTIC DIVISION",
+        "EASTERN CONFERENCE - CENTRAL DIVISION",
+        "NFC NORTH"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "811 Valencia St, San Francisco, CA 94110"
+    },
+    {
+      "id": "venue_59",
+      "name": "The Pig and Whistle",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NHL"
+      ],
+      "address": "2801 Geary Blvd, San Francisco, CA 94118"
+    },
+    {
+      "id": "venue_60",
+      "name": "The Wreck Room",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC EAST",
+        "METROPOLITAN DIVISION"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ],
+      "address": "1390 California St, San Francisco, CA 94109"
+    },
+    {
+      "id": "venue_61",
+      "name": "Thieves Tavern",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "AFC NORTH",
+        "AMERICAN LEAGUE EAST"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ],
+      "address": "496 14th St, San Francisco, CA 94103"
+    },
+    {
+      "id": "venue_62",
+      "name": "Underdogs Cantina",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "LOCAL TEAMS"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ],
+      "address": "Near Oracle Park (SoMa)"
+    },
+    {
+      "id": "venue_63",
+      "name": "Valley Tavern",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "4054 24th St, San Francisco, CA 94114"
+    },
+    {
+      "id": "venue_64",
+      "name": "Yancy's Saloon",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "734 Irving St, San Francisco, CA 94122"
+    },
+    {
+      "id": "venue_65",
+      "name": "Yard House",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ],
+      "address": "Santana Row, San Jose"
+    },
+    {
+      "id": "venue_66",
+      "name": "Yeti Sports Bar",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL HOCKEY-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "3290 Adeline St, Berkeley, CA 94703"
+    },
+    {
+      "id": "venue_67",
+      "name": "Zeke's Sports Bar and Grill",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "NFC NORTH"
+      ],
+      "sports": [
+        "NFL"
+      ],
+      "address": "600 3rd St, San Francisco, CA 94107"
+    },
+    {
+      "id": "venue_68",
+      "name": "Zone 8 Sports Bar & Grill",
+      "city": "San Francisco Bay Area",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "ADDITIONAL TOP SPORTS BARS (GENERAL/MULTIPLE TEAMS)",
+        "GENERAL BASEBALL-FRIENDLY SPORTS BARS",
+        "GENERAL NBA-FRIENDLY SPORTS BARS",
+        "LOCAL TEAM"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ],
+      "address": "San Jose"
+    }
+  ]
+}

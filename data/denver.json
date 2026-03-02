@@ -1,3960 +1,1129 @@
 {
-  "city": "denver",
-  "total_bars": 138,
-  "sports": [
-    "NBA",
-    "NHL",
-    "NFL",
-    "MLB"
-  ],
-  "bars": [
+  "city": "Denver",
+  "total_venues": 116,
+  "last_updated": "2026-03-02",
+  "venues": [
     {
-      "name": "**1UP Arcade Bar - Colfax**",
-      "teams": [
-        "GENERAL SPORTS BARS (Show All NBA Games)"
-      ],
-      "address": "717 E Colfax Ave, Denver, CO 80203",
-      "phone": "(303) 736-2230",
-      "website": "N/A",
-      "notes": "90+ arcade games + great sports viewing. Largest arcade bar in nation.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
+      "id": "venue_398",
+      "name": "Tom's Watch Bar Coors Field",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "1601 19th St Unit 100, Denver, CO 80202",
+      "notes": "150+ screens, 20,000 sq ft space, app-enabled audio at every table, outdoor patio with giant screen, 40-oz beer steins, game-friendly menu, 3 simulator bays for golf/games",
+      "source": "Eater Denver, Westword, Tom's Watch Bar website"
     },
     {
-      "name": "**5280 Burger Bar**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_399",
+      "name": "ViewHouse Ballpark",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant / Rooftop",
+      "address": "Near Coors Field, Denver (exact address varies by location)",
+      "notes": "180-inch LED TV in courtyard, massive rooftop, multiple Denver locations (Ballpark, Centennial, Littleton, Colorado Springs), open 11am-1am+ most days",
+      "source": "TripAdvisor, ViewHouse website"
     },
     {
-      "name": "**Blake Street Tavern**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_400",
+      "name": "Chicken N Pickle Denver",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Sports & Games Venue",
+      "address": "Denver location (check website for exact address)",
+      "notes": "20+ screens, pickleball courts, indoor/outdoor games, family-friendly, game day specials, chef-driven restaurant",
+      "source": "Chicken N Pickle website, Visit Denver"
     },
     {
-      "name": "**Blake Street Tavern** ❌ **CLOSED**",
-      "teams": [
-        "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
-      ],
-      "address": "2301 Blake St, Denver, CO 80205",
-      "phone": "",
-      "website": "",
-      "notes": "**CLOSED**. Was home to **Denver Carolina Club** (UNC fans). UNC alumni may have scattered to other bars.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
+      "id": "venue_401",
+      "name": "5 on Lawrence",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "2020 Lawrence Street, Denver, CO",
+      "notes": "Opened late 2023, next to Max Market, arcade room, TVs for all Denver teams + Arsenal soccer, affordable prices (wings, smashburgers, hot dogs)",
+      "source": "Westword"
     },
     {
-      "name": "**Brooklyn's**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_402",
+      "name": "The 99ers",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar (Women's Sports Focus)",
+      "address": "909 East Colfax Avenue, Denver, CO",
+      "notes": "Denver's first women's sports bar, 8 TVs upstairs + 1 basement, pool table, partnership with Pita & Grill next door for food discounts",
+      "source": "Westword"
     },
     {
-      "name": "**Cherry Cricket** (multiple locations)",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Chopper's Sports Grill**",
-      "teams": [
-        "GENERAL SPORTS BARS (Show All NBA Games)",
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "Denver, CO (exact location TBD)",
-      "phone": "TBD",
-      "website": "N/A",
-      "notes": "Mentioned in multiple searches as general sports bar",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**DNVR Bar**",
-      "teams": [
-        "GENERAL SPORTS BARS (Show All NBA Games)"
-      ],
-      "address": "Denver, CO (exact location TBD)",
-      "phone": "TBD",
-      "website": "https://www.dnvr.com",
-      "notes": "Official DNVR media company bar. Best Nuggets atmosphere but shows all games.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Denver 'Canes (University of Miami alumni group)**",
-      "teams": [
-        "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
-      ],
-      "address": "N/A (no permanent bar listed)",
-      "phone": "",
-      "website": "https://www.facebook.com/DenverCANES/",
-      "notes": "Miami Hurricanes alumni group. Potential Heat fans.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Drink Wisconsinbly**",
-      "teams": [
-        "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
-      ],
-      "address": "Denver, CO (exact location TBD)",
-      "phone": "",
-      "website": "",
-      "notes": "Wisconsin bar serving Packers, Bucks, Brewers fans.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**East Colfax**",
-      "teams": [
-        "GEOGRAPHIC CLUSTERS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**For Away Fans:**",
-      "teams": [
-        "RECOMMENDATIONS FOR NBA FANS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**For Playoff Games:**",
-      "teams": [
-        "RECOMMENDATIONS FOR NBA FANS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Henry's Tavern**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Icehouse Tavern**",
-      "teams": [
-        "COLLEGE ALUMNI BARS (NBA Crossover Potential)",
-        "GENERAL SPORTS BARS (Show All NBA Games)"
-      ],
-      "address": "1801 Wynkoop St #150, Denver, CO 80202",
-      "phone": "(303) 292-3775",
-      "website": "N/A",
-      "notes": "Purdue/Indiana bar. Shows all major games + Indiana teams.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**If Your Team Has NO Dedicated Bar:**",
-      "teams": [
-        "RECOMMENDATIONS FOR NBA FANS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**If Your Team Has a Dedicated Bar:**",
-      "teams": [
-        "RECOMMENDATIONS FOR NBA FANS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Jackson's LoDo**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**LoDo (Lower Downtown) - Near Ball Arena**",
-      "teams": [
-        "GEOGRAPHIC CLUSTERS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**MLB (Colorado Rockies)**",
-      "teams": [
-        "COMPARISON TO OTHER DENVER SPORTS SCENES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**NBA vs. Other Sports:**",
-      "teams": [
-        "COMPARISON TO OTHER DENVER SPORTS SCENES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**NFL (Denver Broncos)**",
-      "teams": [
-        "COMPARISON TO OTHER DENVER SPORTS SCENES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**NHL (Colorado Avalanche)**",
-      "teams": [
-        "COMPARISON TO OTHER DENVER SPORTS SCENES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Number Thirty Eight**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Pour House Market Street**",
-      "teams": [
-        "GENERAL SPORTS BARS (Show All NBA Games)"
-      ],
-      "address": "Market Street, Denver, CO (exact location TBD)",
-      "phone": "TBD",
-      "website": "N/A",
-      "notes": "Celtics-friendly, general sports bar",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Secret Level**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Society Sports and Spirits**",
-      "teams": [
-        "GENERAL SPORTS BARS (Show All NBA Games)",
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "1434 Blake Street, Denver, CO 80202",
-      "phone": "TBD",
-      "website": "https://societydenver.com/",
-      "notes": "Texas-themed \"Tailgate\" bar near Ball Arena. Serves Rockets, Spurs fans officially. Shows all NBA games.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Sports Column**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Stoney's Bar & Grill (multiple locations)**",
-      "teams": [
-        "GENERAL SPORTS BARS (Show All NBA Games)"
-      ],
-      "address": "1035 E 17th Ave (Uptown), plus other locations",
-      "phone": "TBD",
-      "website": "https://www.stoneysbarandgrill.com/",
-      "notes": "Colorado-themed sports bar. Multiple locations across Denver.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Stoney's Uptown**",
-      "teams": [
-        "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
-      ],
-      "address": "1035 E 17th Ave, Denver, CO",
-      "phone": "",
-      "website": "",
-      "notes": "Current home of **Denver Carolina Club** (UNC Tar Heels). UNC fans gather here for college basketball.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Tavern on 26th**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**The Sportsbook Bar & Grill**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Tom's Watch Bar (Denver - Coors Field)**",
-      "teams": [
-        "GENERAL SPORTS BARS (Show All NBA Games)"
-      ],
-      "address": "Near Coors Field, downtown Denver (exact address TBD)",
-      "phone": "TBD",
-      "website": "https://tomswatchbar.com/denver-coors-field/",
-      "notes": "National sports bar chain. Massive HD screens (100+), shows all major NBA games. Welcomes all fans.",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Uptown**",
-      "teams": [
-        "GEOGRAPHIC CLUSTERS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**View House** (multiple locations)",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "**Yard House**",
-      "teams": [
-        "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Arizona Cardinals",
-      "teams": [
-        "NFC WEST",
-        "🏈 NFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Atlanta Falcons",
-      "teams": [
-        "NFC SOUTH",
-        "🏈 NFC SOUTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Atlantic Division",
-      "teams": [
-        "EASTERN CONFERENCE",
-        "TEAM-SPECIFIC FINDINGS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Baltimore Ravens",
-      "teams": [
-        "AFC NORTH",
-        "🏈 AFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Blake Street Tavern",
-      "teams": [
-        "MULTI-TEAM / GENERAL SPORTS BARS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Buffalo Bills",
-      "teams": [
-        "AFC EAST",
-        "🏈 AFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Capitol Hill/Uptown",
-      "teams": [
-        "📍 GEOGRAPHIC BREAKDOWN"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Carolina Panthers",
-      "teams": [
-        "NFC SOUTH",
-        "🏈 NFC SOUTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Central Division",
-      "teams": [
-        "EASTERN CONFERENCE",
-        "TEAM-SPECIFIC FINDINGS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Chicago Bears",
-      "teams": [
-        "NFC NORTH",
-        "🏈 NFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
+      "id": "venue_403",
       "name": "Chopper's Sports Grill",
-      "teams": [
-        "MULTI-TEAM / GENERAL SPORTS BARS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "80 South Madison Street, Denver, CO (Cherry Creek)",
+      "notes": "Named after Bob \"Chopper\" Travaglini (Nuggets trainer), TVs in every nook (including bathrooms), upgraded menu under Tavern Hospitality Group, home to multiple team fan clubs",
+      "source": "Westword, Uncover Colorado"
     },
     {
-      "name": "Cincinnati Bengals",
-      "teams": [
-        "AFC NORTH",
-        "🏈 AFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_404",
+      "name": "The Dark Horse",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "2922 Baseline Road, Boulder, CO",
+      "notes": "Unique memorabilia, high ceilings, fireplace, 51+ years old (closing soon for redevelopment), Colorado teams focus",
+      "source": "Westword"
     },
     {
-      "name": "Cleveland Browns",
-      "teams": [
-        "AFC NORTH",
-        "🏈 AFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_405",
+      "name": "JD's Bait Shop Sports Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "9555 East Arapahoe Road, Greenwood Village, CO",
+      "notes": "Open since 1995, fishing theme, Bait Shop Bobbers (bacon-wrapped jalapeños), breaded catfish, great service",
+      "source": "Westword"
     },
     {
-      "name": "Comparison to NFL Bar Scene:",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "MLB"
-      ],
-      "city": "denver"
+      "id": "venue_406",
+      "name": "Society Sports and Spirits",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "1434 Blake Street, Denver, CO (LoDo)",
+      "notes": "Pool tables on 2nd floor, large Colorado whiskey selection, group event space, home to Steelers/Texans/Chargers fans",
+      "source": "Westword, Eater Denver, Society website"
     },
     {
-      "name": "Comparison to NFL/MLB Bar Scenes",
-      "teams": [
-        "ANALYSIS & SUMMARY"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_407",
+      "name": "Stoney's Bar & Grill - Lincoln Street",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "1111 Lincoln Street, Denver, CO",
+      "notes": "Ski-lift chair from Keystone, large outdoor patio, Colorado beers, host to 10+ pro/college team fan clubs, sprawling space",
+      "source": "Westword, Eater Denver"
     },
     {
-      "name": "Dallas Cowboys",
-      "teams": [
-        "NFC EAST",
-        "🏈 NFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_408",
+      "name": "Stoney's Uptown Joint",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "1035 East 17th Avenue, Denver, CO",
+      "notes": "30+ TVs, 11:30am-6pm happy hour on weekdays, extensive menu and cocktail list",
+      "source": "Westword, Eater Denver"
     },
     {
-      "name": "Denver Broncos",
-      "teams": [
-        "AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_409",
+      "name": "Tight End",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar (LGBTQ+ Friendly)",
+      "address": "1501 East Colfax Avenue, Denver, CO",
+      "notes": "Denver's first gay sports bar, 9 TVs, sound-equipped patio, karaoke and drag bingo on non-game nights, great happy hour",
+      "source": "Westword"
     },
     {
-      "name": "Denver Broncos 🏠",
-      "teams": [
-        "🏈 AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_410",
+      "name": "Westrail Tap and Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "195 South Union Boulevard, Lakewood, CO",
+      "notes": "Railroad theme, generous portions, local beers on tap, happy hour available even on NFL Sundays, wings and burgers",
+      "source": "Westword"
     },
     {
-      "name": "Detroit Lions",
-      "teams": [
-        "NFC NORTH",
-        "🏈 NFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_411",
+      "name": "Cerebral Brewing",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Denver, CO (check website for exact location)",
+      "notes": "Shows sports games, appears on Yelp \"bars to watch football\" list",
+      "source": "Yelp search results"
     },
     {
-      "name": "Downtown/LoDo (Highest Concentration)",
-      "teams": [
-        "📍 GEOGRAPHIC BREAKDOWN"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_412",
+      "name": "JoyRide Brewing",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Denver, CO",
+      "notes": "Official Bears bar as of 2024, also Vikings fans gather here",
+      "source": "Reddit r/Denver NFL bars thread"
     },
     {
-      "name": "Geographic Clusters",
-      "teams": [
-        "ANALYSIS & SUMMARY",
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_413",
+      "name": "Bierstadt Lagerhaus",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery / Taproom",
+      "address": "2875 Blake Street, Denver, CO (RiNo)",
+      "notes": "Hosted Broncos AFC Championship watch party, purist's paradise for lagers, RiNo district location",
+      "source": "KDVR news, Metropolitan Shuttle guide"
     },
     {
-      "name": "Geographic Clusters:",
-      "teams": [
-        "SUMMARY & ANALYSIS",
-        "SUMMARY ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_414",
+      "name": "Windfall Brewing Company",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Denver area (check website)",
+      "notes": "4 TVs outside, 13 TVs inside, heated/covered patio, dining and bar areas, ready for sports fans, Packers bar",
+      "source": "Windfall Brewing website"
     },
     {
-      "name": "Green Bay Packers",
-      "teams": [
-        "NFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_415",
+      "name": "Lowry Beer Garden",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery / Beer Garden",
+      "address": "Denver, CO",
+      "notes": "Shows sports on TVs, appears on \"bars with TV\" Yelp list",
+      "source": "Yelp"
     },
     {
-      "name": "Green Bay Packers (Multiple Locations!)",
-      "teams": [
-        "🏈 NFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_416",
+      "name": "Ratio Beerworks",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Denver, CO",
+      "notes": "Has TVs for sports viewing",
+      "source": "Yelp"
     },
     {
-      "name": "Hopper's Sports Grill",
-      "teams": [
-        "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "Sunday Ticket, 18 TVs, agnostic (all teams welcome), sound for Broncos games | Reddit r/Denver",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_417",
+      "name": "Zuni Street Brewing",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Denver, CO",
+      "notes": "TVs available for sports",
+      "source": "Yelp"
     },
     {
-      "name": "Houston Texans",
-      "teams": [
-        "AFC SOUTH",
-        "🏈 AFC SOUTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_418",
+      "name": "Odell Brewing Co - Five Points Brewhouse",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Five Points, Denver, CO",
+      "notes": "Shows sports, has TV setup",
+      "source": "Yelp"
     },
     {
-      "name": "Indianapolis Colts",
-      "teams": [
-        "AFC SOUTH",
-        "🏈 AFC SOUTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_419",
+      "name": "Number 38",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery / Bar",
+      "address": "RiNo, Denver, CO",
+      "notes": "More TVs than any bar in RiNo, staff accommodating about putting on requested games",
+      "source": "Reddit r/denverfood"
     },
     {
+      "id": "venue_420",
+      "name": "10 Barrel Brewing",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Denver, CO",
+      "notes": "Multiple TVs, lots of beers",
+      "source": "Reddit r/Denver"
+    },
+    {
+      "id": "venue_421",
+      "name": "Blue Moon Brewery",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "RiNo area, Denver, CO",
+      "notes": "Multiple TVs for sports",
+      "source": "Reddit r/Denver"
+    },
+    {
+      "id": "venue_422",
+      "name": "Cheluna Brewing Company",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "2501 Dallas St #148, Aurora, CO 80010 (Stanley Marketplace)",
+      "notes": "Giant projection screen + TVs, Latin beers (Coco Xoco Porter, Chupa Guava Blonde Ale), family-friendly Stanley Marketplace location",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_423",
+      "name": "RiNo Beer Garden",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Beer Garden / Restaurant",
+      "address": "3800 Walnut Street, Denver, CO 80205 (RiNo)",
+      "notes": "Nearly 20 TVs inside and out, 4,000 sq ft heated patio, 60 brews on tap, sprawling menu (pickles to burgers to tuna salad to brunch burritos)",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_424",
+      "name": "Highland Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "3400 Navajo Street, Denver, CO 80211 (LoHi)",
+      "notes": "TVs aplenty, affordably priced drinks, borderline fancy scratch-made bar fare (pork rinds, pastrami, falafel, veggie burgers), mixed crowd",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_425",
+      "name": "Occidental",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "1950 W 32nd Avenue, Denver, CO 80211 (LoHi)",
+      "notes": "Sister bar to Williams & Graham, killer drinks and snacks (deviled eggs, chopped cheese, hot dogs), several screens, home to NY Giants fans",
+      "source": "Eater Denver, Thirst Colorado"
+    },
+    {
+      "id": "venue_426",
+      "name": "Tap & Burger - Highland",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Sports Bar",
+      "address": "2219 West 32nd Avenue, Denver, CO 80211 (LoHi)",
+      "notes": "~50 beers, burgers like Shroom Luva's (truffle aioli) and Black and Bleu (bacon-whiskey jam), NFL to UFC to air guitar championships",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_427",
+      "name": "Rhein Haus Denver",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bavarian Pub / Sports Bar",
+      "address": "1415 Market Street, Denver, CO 80202 (LoDo)",
+      "notes": "Projection screen + TVs, Seattle Seahawks fans HQ (Mile High Sea Hawkers), indoor bocce courts, giant pretzels, bacon-wrapped kielbasa, jagerschnitzel",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_428",
+      "name": "Wally's Wisconsin Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar (Packers Focus)",
+      "address": "1417 Market Street, Denver, CO 80202 (LoDo)",
+      "notes": "Adjacent to Rhein Haus, Midwest watering hole vibe, lawnmower beer, brats and cheese curds, Packers games (except when Broncos play)",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_429",
       "name": "Jackson's LoDo",
-      "teams": [
-        "MULTI-TEAM / GENERAL SPORTS BARS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "1520 20th Street, Denver, CO (LoDo)",
+      "notes": "Steelers/Bucs/Bills bar, ultimate sports bar experience, Colorado Bills Backers meetup spot",
+      "source": "Eater, Uncover Colorado, Jackson's LoDo website"
     },
     {
-      "name": "Jacksonville Jaguars",
-      "teams": [
-        "AFC SOUTH",
-        "🏈 AFC SOUTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_430",
+      "name": "The Tavern on Blake Street (formerly Blake Street Tavern)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "2301 Blake Street, Denver, CO (LoDo)",
+      "notes": "Reopened April 2025 with new owners, iconic LoDo spot, home to Lions/Falcons/Chiefs/Patriots fans",
+      "source": "Denver Post, Uncover Colorado"
     },
     {
-      "name": "Joyride Brewing",
-      "teams": [
-        "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "Sunday Ticket, lots of TVs, shows all games | Reddit r/Denver",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_431",
+      "name": "Falling Rock Tap House",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Craft Beer Bar",
+      "address": "1919 Blake Street, Denver, CO (LoDo)",
+      "notes": "Near Coors Field, extensive beer selection, Texans bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Kansas City Chiefs",
-      "teams": [
-        "AFC WEST",
-        "🏈 AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Key Findings:",
-      "teams": [
-        "SUMMARY ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Key Insights",
-      "teams": [
-        "ANALYSIS & SUMMARY"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Key Resources for Finding Bars",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Las Vegas Raiders",
-      "teams": [
-        "AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Las Vegas Raiders (Oakland Raiders)",
-      "teams": [
-        "AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Las Vegas Raiders (formerly Oakland)",
-      "teams": [
-        "🏈 AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "LoDo (Lower Downtown) - High Concentration",
-      "teams": [
-        "🏟️ Notable Neighborhoods/Zones"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Los Angeles Chargers",
-      "teams": [
-        "AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Los Angeles Chargers (San Diego Chargers)",
-      "teams": [
-        "AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Los Angeles Chargers (formerly San Diego)",
-      "teams": [
-        "🏈 AFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Los Angeles Rams",
-      "teams": [
-        "NFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Los Angeles Rams (St. Louis Rams)",
-      "teams": [
-        "NFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Los Angeles Rams (formerly St. Louis)",
-      "teams": [
-        "🏈 NFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Major Sports Bars Hosting Multiple Teams",
-      "teams": [
-        "MULTI-TEAM VENUES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Metropolitan Division",
-      "teams": [
-        "TEAM-SPECIFIC FINDINGS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Miami Dolphins",
-      "teams": [
-        "AFC EAST",
-        "🏈 AFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Minnesota Vikings",
-      "teams": [
-        "NFC NORTH",
-        "🏈 NFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Multi-Team Sports Bars (Sunday Ticket):",
-      "teams": [
-        "🍺 BAR CATEGORIES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "New England Patriots",
-      "teams": [
-        "AFC EAST",
-        "🏈 AFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "New Orleans Saints",
-      "teams": [
-        "NFC SOUTH",
-        "🏈 NFC SOUTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "New York Giants",
-      "teams": [
-        "NFC EAST",
-        "🏈 NFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "New York Jets",
-      "teams": [
-        "AFC EAST",
-        "🏈 AFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Northwest Division",
-      "teams": [
-        "WESTERN CONFERENCE"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Notable Fan Clubs & Organizations",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Notable Trends:",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "MLB"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Official Team HQ Bars (designated by fan clubs):",
-      "teams": [
-        "🍺 BAR CATEGORIES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Origins Sports Bar",
-      "teams": [
-        "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "Speakeasy vibe, sports-focused | 9news.com",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Pacific Division",
-      "teams": [
-        "TEAM-SPECIFIC FINDINGS",
-        "WESTERN CONFERENCE"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Peak Times:",
-      "teams": [
-        "⚠️ IMPORTANT NOTES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Philadelphia Eagles",
-      "teams": [
-        "NFC EAST",
-        "🏈 NFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Pittsburgh Steelers",
-      "teams": [
-        "AFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Pittsburgh Steelers (Multiple Locations!)",
-      "teams": [
-        "🏈 AFC NORTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Recent Closures/Changes:",
-      "teams": [
-        "⚠️ IMPORTANT NOTES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Recommendations for Transplant Fans:",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "MLB"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Research Quality Notes",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "San Francisco 49ers",
-      "teams": [
-        "NFC WEST",
-        "🏈 NFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Seattle Seahawks",
-      "teams": [
-        "NFC WEST",
-        "🏈 NFC WEST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "South Denver",
-      "teams": [
-        "🏟️ Notable Neighborhoods/Zones",
-        "📍 GEOGRAPHIC BREAKDOWN"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Southeast Division",
-      "teams": [
-        "EASTERN CONFERENCE"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "Southwest Division",
-      "teams": [
-        "WESTERN CONFERENCE"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NBA"
-      ],
-      "city": "denver"
-    },
-    {
+      "id": "venue_432",
       "name": "Sports Column",
-      "teams": [
-        "MULTI-TEAM / GENERAL SPORTS BARS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "1930 Blake Street, Denver, CO (LoDo)",
+      "notes": "Cardinals, Texans, Colts bar, near Coors Field",
+      "source": "TripAdvisor, Uncover Colorado"
     },
     {
-      "name": "Suburbs",
-      "teams": [
-        "🏟️ Notable Neighborhoods/Zones",
-        "📍 GEOGRAPHIC BREAKDOWN"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_433",
+      "name": "Rocky Top Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Sports Bar",
+      "address": "4907 Lowell Boulevard, Denver, CO 80221 (Regis)",
+      "notes": "$2 tacos Tuesdays, $13 all-you-can-eat wings Wednesdays, daily drink deals, Cheers-esque atmosphere, TV-filled",
+      "source": "Eater Denver"
     },
     {
-      "name": "Tampa Bay Buccaneers",
-      "teams": [
-        "NFC SOUTH",
-        "🏈 NFC SOUTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_434",
+      "name": "King of Wings Taphouse",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Taphouse",
+      "address": "7741 W 44th Ave, Wheat Ridge, CO 80033 (also Golden location)",
+      "notes": "4 TVs (plenty for small square footage), best pub grub (slow-cooked wings, hand-breaded tenders, Cajun-Parm onion rings), craft suds from local breweries only",
+      "source": "Eater Denver"
     },
     {
+      "id": "venue_435",
+      "name": "The British Bulldog",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Pub / Restaurant",
+      "address": "2052 Stout Street, Denver, CO 80205",
+      "notes": "Soccer fans HQ, opens 5am for English Premier League, bangers and mash, shepherd's pie, imports on tap",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_436",
+      "name": "Culinary Dropout - 9+CO",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Bar",
+      "address": "4141 East 9th Avenue, Denver, CO 80220",
+      "notes": "Strategically placed TVs throughout, upscale-casual, inventive cocktails, charcuterie, black truffle pizza, roasted salmon",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_437",
+      "name": "Sobo 151 Bar & Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Czech Tavern / Restaurant",
+      "address": "151 South Broadway, Denver, CO 80209",
+      "notes": "Soccer and hockey fans favorite, rustic Czech atmosphere, schnitzel and goulash, pool tables",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_438",
+      "name": "Candlelight Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Dive Bar / Restaurant",
+      "address": "383 S Pearl Street, Denver, CO 80209",
+      "notes": "All-time great dive bar, cheap drinks, cult-following burgers, pool/darts, Detroit Lions fans HQ",
+      "source": "Eater Denver, Uncover Colorado"
+    },
+    {
+      "id": "venue_439",
+      "name": "Esters",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Pizza Parlor / Pub",
+      "address": "1950 South Holly Street, Denver, CO 80222 (Virginia Village, also Park Hill & Wheat Ridge)",
+      "notes": "Copious beers on tap, neighborhood hub, Avs/Tottenham/Bills-Broncos games, 90 Shilling beer, French dip calzones",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_440",
+      "name": "Wyman's No. 5",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Dive Bar / Restaurant",
+      "address": "2033 East 13th Avenue, Denver, CO 80206 (Cheesman Park)",
+      "notes": "Twice-daily happy hours, Chicago-centric menu (deep-dish pizza, hot dogs), Cubs/Bulls/Bears fans, pool tables, chill atmosphere",
+      "source": "Eater Denver"
+    },
+    {
+      "id": "venue_441",
+      "name": "Origins Sports Bar & Grill (formerly Sportsbook Bar & Grill)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "266 South Downing Street, Denver, CO (Wash Park)",
+      "notes": "Joe Burrow print greets you, Bengals bar, hidden alleyway entrance, best food/drink deals, spot-on waitstaff, local brews on tap",
+      "source": "Westword, Eater Denver, Thirst Colorado"
+    },
+    {
+      "id": "venue_442",
+      "name": "Blackbird Public House",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Pub",
+      "address": "305 S Downing Street, Denver, CO (West Wash Park)",
+      "notes": "Shows all major soccer matches and football games, big screen projector, family movie nights, comfort food, Colorado State watch parties",
+      "source": "OpenTable, Blackbird website, Colorado State Alumni"
+    },
+    {
+      "id": "venue_443",
+      "name": "Hayter's & Co",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Bar",
+      "address": "1920 Blake Street, Denver, CO (LoDo)",
+      "notes": "Official Chicago Bears bar",
+      "source": "Uncover Colorado, Thirst Colorado"
+    },
+    {
+      "id": "venue_444",
+      "name": "Buffalo Wild Wings - Stapleton",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Chain Sports Bar",
+      "address": "7607 E 36th Avenue, Suite 830, Denver, CO",
+      "notes": "Wings, beer, sports, 12 locations in Denver metro area",
+      "source": "Buffalo Wild Wings website, Foursquare"
+    },
+    {
+      "id": "venue_445",
+      "name": "Buffalo Wild Wings - Aurora (Havana Street)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Chain Sports Bar",
+      "address": "Havana Street, Aurora, CO",
+      "notes": "Multiple TVs, game day atmosphere",
+      "source": "On Havana Street website"
+    },
+    {
+      "id": "venue_446",
+      "name": "Applebee's - Cherry Creek",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Chain Restaurant",
+      "address": "Cherry Creek area, Denver, CO 80206",
+      "notes": "12 locations in Denver area, TVs for sports, game day hours extended",
+      "source": "Yelp, Foursquare"
+    },
+    {
+      "id": "venue_447",
+      "name": "Applebee's - Multiple Locations",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Chain Restaurant",
+      "address": "Various (Youngfield St, I-225, 16th St Mall areas)",
+      "notes": "Show sporting events, peak game day hours",
+      "source": "Applebee's website, Yelp"
+    },
+    {
+      "id": "venue_448",
+      "name": "Twin Peaks - Colorado Mills (Lakewood)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "Southeast corner of Denver West Colorado Mills Parkway and West Colfax Avenue, Lakewood, CO",
+      "notes": "Lodge atmosphere, made-from-scratch food, 29° draft beer, all major sports",
+      "source": "Twin Peaks website"
+    },
+    {
+      "id": "venue_449",
+      "name": "Twin Peaks - Arapahoe (Centennial)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "8840 E Arapahoe Road, Centennial, CO",
+      "notes": "Near intersection E Arapahoe Rd & Hwy 25, all UFC fights, knockout views from every seat",
+      "source": "Twin Peaks website, Yelp"
+    },
+    {
+      "id": "venue_450",
+      "name": "Twin Peaks - Flatirons Crossing",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Restaurant",
+      "address": "Broomfield, CO",
+      "notes": "Sports lodge atmosphere, TVs throughout",
+      "source": "Retro 102.5 article"
+    },
+    {
+      "id": "venue_451",
+      "name": "Hooters - Denver Area",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Chain Sports Bar",
+      "address": "Multiple locations (check website)",
+      "notes": "Traditional sports bar atmosphere",
+      "source": "Yelp mentions, general searches"
+    },
+    {
+      "id": "venue_452",
+      "name": "Rally Hotel Terrace (3rd Floor)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Hotel Bar / Event Space",
+      "address": "1901 Wazee Street, Denver, CO",
+      "notes": "VIP watch parties ($80), prime viewing spot, special menu, shorter lines, near Coors Field",
+      "source": "5280 Magazine, Denverite"
+    },
+    {
+      "id": "venue_453",
+      "name": "DNVR Bar",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "Denver, CO (check website)",
+      "notes": "33 TVs, comfortable seating, great sightlines, game sound on request, Denver-focused sports",
+      "source": "DNVR Bar website"
+    },
+    {
+      "id": "venue_454",
+      "name": "Hangar Club",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar / Indoor Golf / Event Venue",
+      "address": "Denver, CO",
+      "notes": "10 TrackMan golf simulators, sports bar, event venue, food and drink specials, game watch parties",
+      "source": "Hangar Club website"
+    },
+    {
+      "id": "venue_455",
+      "name": "The Fainting Goat Pub",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "846 Broadway, Denver, CO",
+      "notes": "Self-professed Atlanta Falcons bar",
+      "source": "Uncover Colorado, Thirst Colorado"
+    },
+    {
+      "id": "venue_456",
+      "name": "Chopper's Sports Grill (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "notes": "Rocky Mountain Ravens fan club gathers here",
+      "source": "Thirst Colorado",
+      "venue_type": "Sports Bar"
+    },
+    {
+      "id": "venue_457",
+      "name": "Lodo's Bar & Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "1946 Market Street, Denver, CO",
+      "notes": "Bills bar",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_458",
+      "name": "WestFax Brewing Co.",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Lakewood & Colorado Springs locations",
+      "notes": "\"The Pillieve\" beer (pilsner + Billieve), Buffalo Bills supporters",
+      "source": "Thirst Colorado"
+    },
+    {
+      "id": "venue_459",
+      "name": "Will Call",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "Denver, CO",
+      "notes": "Mile High Cats fan club home",
+      "source": "Thirst Colorado"
+    },
+    {
+      "id": "venue_460",
+      "name": "Shelby's Bar & Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "519 18th Street, Denver, CO",
+      "notes": "Panthers bar",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_461",
+      "name": "Wyman's No. 5 (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar"
+    },
+    {
+      "id": "venue_462",
+      "name": "Players Pub",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "Denver area",
+      "notes": "Bears bar",
+      "source": "Reddit r/Denver"
+    },
+    {
+      "id": "venue_463",
+      "name": "Wrigley's",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "Golden, CO",
+      "notes": "Bears bar",
+      "source": "Reddit r/Denver"
+    },
+    {
+      "id": "venue_464",
+      "name": "The Thirsty Bear",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "Lakewood, CO",
+      "notes": "Bears bar",
+      "source": "Reddit r/Denver"
+    },
+    {
+      "id": "venue_465",
+      "name": "Origins Sports Bar & Grill (see above - detailed above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar"
+    },
+    {
+      "id": "venue_466",
+      "name": "Esters (Park Hill location)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Pizza Parlor / Pub",
+      "address": "Park Hill, Denver, CO",
+      "notes": "Bengals fans gather here",
+      "source": "Reddit r/Denver"
+    },
+    {
+      "id": "venue_468",
+      "name": "Ice House Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "1801 Wynkoop Street, Denver, CO",
+      "notes": "Bengals viewing",
+      "source": "Reddit r/Denver"
+    },
+    {
+      "id": "venue_469",
+      "name": "Retreat Grill & Sports Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "2186 S Colorado Boulevard, Denver, CO",
+      "notes": "Browns bar",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_470",
+      "name": "Stoney's Bar & Grill (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "notes": "Mile High Browns Backers meetup spot",
+      "source": "Thirst Colorado",
+      "venue_type": "Bar"
+    },
+    {
+      "id": "venue_471",
+      "name": "Spot Bar & Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "98 S Pennsylvania Street, Denver, CO",
+      "notes": "Cowboys bar",
+      "source": "Uncover Colorado, Thirst Colorado"
+    },
+    {
+      "id": "venue_472",
+      "name": "A Bit Twisted Brewpub & BBQ",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewpub / Restaurant",
+      "address": "Aurora, CO",
+      "notes": "Big-time Cowboys spot",
+      "source": "Reddit r/Denver"
+    },
+    {
+      "id": "venue_473",
+      "name": "Roo Bar",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "3480 Park Ave W, Denver, CO",
+      "notes": "Packers bar",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_474",
+      "name": "Swanky's",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "1938 Blake Street, Denver, CO",
+      "notes": "Packers and Steelers bar",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_475",
+      "name": "Rocky Flats Lounge",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "11229 Highway 93, Boulder, CO",
+      "notes": "Packers bar",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_476",
+      "name": "Badger's Pub",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Pub",
+      "address": "Denver area",
+      "notes": "Packers/Wisconsin bar",
+      "source": "Thirst Colorado"
+    },
+    {
+      "id": "venue_477",
+      "name": "Windfall Brewing Co. (see above in Breweries section)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery"
+    },
+    {
+      "id": "venue_478",
+      "name": "Falling Rock Tap House (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar"
+    },
+    {
+      "id": "venue_479",
+      "name": "Sports Column (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar"
+    },
+    {
+      "id": "venue_480",
+      "name": "Society Sports and Spirits (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar"
+    },
+    {
+      "id": "venue_481",
+      "name": "Draft Sports Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "9150 W Cross Drive, Littleton, CO",
+      "notes": "Colts bar",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_483",
+      "name": "Don's Club Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "723 E 6th Avenue, Denver, CO",
+      "notes": "Chiefs Kingdom HQ in Denver",
+      "source": "Uncover Colorado, Thirst Colorado, Facebook"
+    },
+    {
+      "id": "venue_484",
+      "name": "The Elm",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "5001 E Colfax Avenue, Denver, CO",
+      "notes": "Patriots bar (also Bruins, Celtics, Red Sox, Revolution)",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_485",
+      "name": "Historians Ale House",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Ale House",
+      "address": "Broadway, Denver, CO",
+      "notes": "Some Patriots fans gather here",
+      "source": "Thirst Colorado"
+    },
+    {
+      "id": "venue_486",
+      "name": "Bayou Bob's",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Bar",
+      "address": "1635 Glenarm Place, Denver, CO",
+      "notes": "Saints bar, NOLA theme",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_487",
+      "name": "Krewe BBQ",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Bar",
+      "address": "1109 Lincoln Street, Denver, CO",
+      "notes": "Saints bar",
+      "source": "Uncover Colorado"
+    },
+    {
+      "id": "venue_488",
+      "name": "Nola Voodoo Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "Cole neighborhood, Denver, CO",
+      "notes": "Owner is New Orleans native, Who Dat Nation represented",
+      "source": "Thirst Colorado"
+    },
+    {
+      "id": "venue_489",
       "name": "Tavern Uptown",
-      "teams": [
-        "MULTI-TEAM / GENERAL SPORTS BARS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "538 E 17th Avenue, Denver, CO",
+      "notes": "Giants bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Teams with Most Dedicated Bars",
-      "teams": [
-        "ANALYSIS & SUMMARY"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_490",
+      "name": "Occidental (see above in RiNo/LoDo section)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "notes": "Home of Big Blue Denver Crew",
+      "source": "Thirst Colorado",
+      "venue_type": "Sports Bar"
     },
     {
-      "name": "Teams with Most Dedicated Bars (3+ locations)",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_492",
+      "name": "Cowboy Lounge",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "1941 Market Street, Denver, CO",
+      "notes": "Raiders bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Teams with Most Dedicated Bars:",
-      "teams": [
-        "SUMMARY & ANALYSIS",
-        "SUMMARY ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_493",
+      "name": "Tavern Lowry",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "7401 E 1st Avenue, Denver, CO",
+      "notes": "Raiders bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Teams with NO Confirmed Dedicated Bars:",
-      "teams": [
-        "SUMMARY ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_494",
+      "name": "Dillinger's Food & Spirits",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Bar",
+      "address": "1202 Centaur Village Drive, Lafayette, CO",
+      "notes": "Eagles bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Teams with NO Dedicated Bars Confirmed",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_495",
+      "name": "Larimer Beer Hall",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Beer Hall",
+      "address": "2012 Larimer Street, Denver, CO",
+      "notes": "Eagles bar",
+      "source": "Uncover Colorado, Thirst Colorado"
     },
     {
-      "name": "Teams with NO Dedicated Bars:",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "MLB"
-      ],
-      "city": "denver"
+      "id": "venue_496",
+      "name": "Mirror Image Brewing",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Brewery",
+      "address": "Frederick, CO",
+      "notes": "Eagles bar",
+      "source": "Thirst Colorado"
     },
     {
-      "name": "Teams with No Dedicated Bars (30 teams)",
-      "teams": [
-        "ANALYSIS & SUMMARY"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_497",
+      "name": "The Rusty Bucket",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "3355 S Wadsworth Boulevard, Lakewood, CO",
+      "notes": "Black and yellow HQ in Denver",
+      "source": "Uncover Colorado, Reddit, Thirst Colorado"
     },
     {
-      "name": "Teams with Single/Minimal Bars:",
-      "teams": [
-        "SUMMARY ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_498",
+      "name": "Lodo's Bar & Grill - Highlands Ranch",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "8545 S Quebec Street, Highlands Ranch, CO",
+      "notes": "Steelers bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Teams with Strong Single Dedicated Bars",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_499",
+      "name": "W.T. Shorty's",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "990 S Oneida Street, Denver, CO",
+      "notes": "Steelers bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Tennessee Titans",
-      "teams": [
-        "AFC SOUTH",
-        "🏈 AFC SOUTH"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_500",
+      "name": "Hoffbrau",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Bar",
+      "address": "Westminster, CO",
+      "notes": "Steelers bar",
+      "source": "Reddit r/Denver"
     },
     {
-      "name": "Themed/Cuisine Bars:",
-      "teams": [
-        "🍺 BAR CATEGORIES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_501",
+      "name": "Pitchers",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "Aurora, CO",
+      "notes": "Steelers bar",
+      "source": "Reddit r/Denver"
     },
     {
-      "name": "Tom's Watch Bar",
-      "teams": [
-        "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "TVs everywhere, can watch any team | do303.com",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_502",
+      "name": "JJ Madwell's",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar",
+      "address": "Conifer, CO",
+      "notes": "Steelers bar",
+      "source": "Reddit r/Denver"
     },
     {
-      "name": "Total Unique Bars Found",
-      "teams": [
-        "ANALYSIS & SUMMARY",
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_503",
+      "name": "Benders Bar and Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "Westminster, CO",
+      "notes": "Steelers bar",
+      "source": "Reddit r/Denver"
     },
     {
-      "name": "Total Unique Bars Found: **60+**",
-      "teams": [
-        "SUMMARY ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_506",
+      "name": "Tony Tenderonis",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Bar",
+      "address": "1937 Market Street, Denver, CO",
+      "notes": "5280-The Mile High 49ers official location",
+      "source": "Thirst Colorado"
     },
     {
-      "name": "Total Unique Bars Found: ~35-40 venues",
-      "teams": [
-        "SUMMARY & ANALYSIS"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "MLB"
-      ],
-      "city": "denver"
+      "id": "venue_507",
+      "name": "Ice House Tavern (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar"
     },
     {
-      "name": "Uptown",
-      "teams": [
-        "🏟️ Notable Neighborhoods/Zones"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_508",
+      "name": "Big Hoss Bar-B-Q Steakhouse",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant",
+      "address": "3961 Tennyson Street, Denver, CO",
+      "notes": "Seahawks bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Verification Recommended:",
-      "teams": [
-        "⚠️ IMPORTANT NOTES"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_509",
+      "name": "Chinook Bar & Grill",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "1950 S Holly, Denver, CO",
+      "notes": "Seahawks bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "Washington Commanders",
-      "teams": [
-        "NFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_510",
+      "name": "Rhein Haus Denver (see above in RiNo/LoDo section)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "notes": "Mile High Sea Hawkers fan group headquarters",
+      "source": "Thirst Colorado",
+      "venue_type": "Sports Bar"
     },
     {
-      "name": "Washington Commanders (Redskins)",
-      "teams": [
-        "NFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_511",
+      "name": "Stoney's Bar (see above - Lincoln Street location)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar"
     },
     {
-      "name": "Washington Commanders (formerly Redskins)",
-      "teams": [
-        "🏈 NFC EAST"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NFL"
-      ],
-      "city": "denver"
+      "id": "venue_512",
+      "name": "Jackson's LoDo (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar"
     },
     {
-      "name": "🏒 **Benders Bar & Grill** (Westminster location)",
-      "teams": [
-        "PRIMARY NHL BARS IN DENVER"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_514",
+      "name": "Tavern Uptown (see above)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Bar"
     },
     {
-      "name": "🏒 **Highland Tap and Burger**",
-      "teams": [
-        "PRIMARY NHL BARS IN DENVER"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_516",
+      "name": "Cap City Tavern",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "1247 Bannock Street, Denver, CO",
+      "notes": "Vikings bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "🏒 **Occidental** (Official NY Sports Bar)",
-      "teams": [
-        "PRIMARY NHL BARS IN DENVER"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_517",
+      "name": "JoyRide Brewing (see above in Breweries)",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "notes": "Vikings fans gather here (also Bears bar)",
+      "venue_type": "Bar"
     },
     {
-      "name": "🏒 **Sobo 151 Czech Bar & Grill** (The #1 Hockey Bar)",
-      "teams": [
-        "PRIMARY NHL BARS IN DENVER"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_518",
+      "name": "Stoney's Cantina",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Restaurant / Bar",
+      "address": "90 South Broadway, Denver, CO",
+      "notes": "Dolphins bar",
+      "source": "Uncover Colorado"
     },
     {
-      "name": "🏒 **Stoney's Bar & Grill** (Multiple locations)",
-      "teams": [
-        "PRIMARY NHL BARS IN DENVER"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_520",
+      "name": "College Inn",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "Denver area",
+      "notes": "Shows all games, no team affiliation",
+      "source": "Reddit r/Denver"
     },
     {
-      "name": "🏒 **The DNVR Bar**",
-      "teams": [
-        "PRIMARY NHL BARS IN DENVER"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
-    },
-    {
-      "name": "🏒 **Tom's Watch Bar** (Coors Field location)",
-      "teams": [
-        "PRIMARY NHL BARS IN DENVER"
-      ],
-      "address": "",
-      "phone": "",
-      "website": "",
-      "notes": "",
-      "sports": [
-        "NHL"
-      ],
-      "city": "denver"
+      "id": "venue_521",
+      "name": "Joe Willy's",
+      "city": "Denver",
+      "source_file": "denver-additional-venues.md",
+      "venue_type": "Sports Bar",
+      "address": "Denver"
     }
-  ],
-  "by_sport": {
-    "NBA": [
-      {
-        "name": "**1UP Arcade Bar - Colfax**",
-        "teams": [
-          "GENERAL SPORTS BARS (Show All NBA Games)"
-        ],
-        "address": "717 E Colfax Ave, Denver, CO 80203",
-        "phone": "(303) 736-2230",
-        "website": "N/A",
-        "notes": "90+ arcade games + great sports viewing. Largest arcade bar in nation.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Blake Street Tavern** ❌ **CLOSED**",
-        "teams": [
-          "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
-        ],
-        "address": "2301 Blake St, Denver, CO 80205",
-        "phone": "",
-        "website": "",
-        "notes": "**CLOSED**. Was home to **Denver Carolina Club** (UNC fans). UNC alumni may have scattered to other bars.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Chopper's Sports Grill**",
-        "teams": [
-          "GENERAL SPORTS BARS (Show All NBA Games)",
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "Denver, CO (exact location TBD)",
-        "phone": "TBD",
-        "website": "N/A",
-        "notes": "Mentioned in multiple searches as general sports bar",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**DNVR Bar**",
-        "teams": [
-          "GENERAL SPORTS BARS (Show All NBA Games)"
-        ],
-        "address": "Denver, CO (exact location TBD)",
-        "phone": "TBD",
-        "website": "https://www.dnvr.com",
-        "notes": "Official DNVR media company bar. Best Nuggets atmosphere but shows all games.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Denver 'Canes (University of Miami alumni group)**",
-        "teams": [
-          "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
-        ],
-        "address": "N/A (no permanent bar listed)",
-        "phone": "",
-        "website": "https://www.facebook.com/DenverCANES/",
-        "notes": "Miami Hurricanes alumni group. Potential Heat fans.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Drink Wisconsinbly**",
-        "teams": [
-          "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
-        ],
-        "address": "Denver, CO (exact location TBD)",
-        "phone": "",
-        "website": "",
-        "notes": "Wisconsin bar serving Packers, Bucks, Brewers fans.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**East Colfax**",
-        "teams": [
-          "GEOGRAPHIC CLUSTERS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**For Away Fans:**",
-        "teams": [
-          "RECOMMENDATIONS FOR NBA FANS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**For Playoff Games:**",
-        "teams": [
-          "RECOMMENDATIONS FOR NBA FANS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Icehouse Tavern**",
-        "teams": [
-          "COLLEGE ALUMNI BARS (NBA Crossover Potential)",
-          "GENERAL SPORTS BARS (Show All NBA Games)"
-        ],
-        "address": "1801 Wynkoop St #150, Denver, CO 80202",
-        "phone": "(303) 292-3775",
-        "website": "N/A",
-        "notes": "Purdue/Indiana bar. Shows all major games + Indiana teams.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**If Your Team Has NO Dedicated Bar:**",
-        "teams": [
-          "RECOMMENDATIONS FOR NBA FANS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**If Your Team Has a Dedicated Bar:**",
-        "teams": [
-          "RECOMMENDATIONS FOR NBA FANS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**LoDo (Lower Downtown) - Near Ball Arena**",
-        "teams": [
-          "GEOGRAPHIC CLUSTERS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**MLB (Colorado Rockies)**",
-        "teams": [
-          "COMPARISON TO OTHER DENVER SPORTS SCENES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**NBA vs. Other Sports:**",
-        "teams": [
-          "COMPARISON TO OTHER DENVER SPORTS SCENES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**NFL (Denver Broncos)**",
-        "teams": [
-          "COMPARISON TO OTHER DENVER SPORTS SCENES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**NHL (Colorado Avalanche)**",
-        "teams": [
-          "COMPARISON TO OTHER DENVER SPORTS SCENES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Pour House Market Street**",
-        "teams": [
-          "GENERAL SPORTS BARS (Show All NBA Games)"
-        ],
-        "address": "Market Street, Denver, CO (exact location TBD)",
-        "phone": "TBD",
-        "website": "N/A",
-        "notes": "Celtics-friendly, general sports bar",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Society Sports and Spirits**",
-        "teams": [
-          "GENERAL SPORTS BARS (Show All NBA Games)",
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "1434 Blake Street, Denver, CO 80202",
-        "phone": "TBD",
-        "website": "https://societydenver.com/",
-        "notes": "Texas-themed \"Tailgate\" bar near Ball Arena. Serves Rockets, Spurs fans officially. Shows all NBA games.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Stoney's Bar & Grill (multiple locations)**",
-        "teams": [
-          "GENERAL SPORTS BARS (Show All NBA Games)"
-        ],
-        "address": "1035 E 17th Ave (Uptown), plus other locations",
-        "phone": "TBD",
-        "website": "https://www.stoneysbarandgrill.com/",
-        "notes": "Colorado-themed sports bar. Multiple locations across Denver.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Stoney's Uptown**",
-        "teams": [
-          "COLLEGE ALUMNI BARS (NBA Crossover Potential)"
-        ],
-        "address": "1035 E 17th Ave, Denver, CO",
-        "phone": "",
-        "website": "",
-        "notes": "Current home of **Denver Carolina Club** (UNC Tar Heels). UNC fans gather here for college basketball.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Tom's Watch Bar (Denver - Coors Field)**",
-        "teams": [
-          "GENERAL SPORTS BARS (Show All NBA Games)"
-        ],
-        "address": "Near Coors Field, downtown Denver (exact address TBD)",
-        "phone": "TBD",
-        "website": "https://tomswatchbar.com/denver-coors-field/",
-        "notes": "National sports bar chain. Massive HD screens (100+), shows all major NBA games. Welcomes all fans.",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Uptown**",
-        "teams": [
-          "GEOGRAPHIC CLUSTERS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Atlantic Division",
-        "teams": [
-          "EASTERN CONFERENCE",
-          "TEAM-SPECIFIC FINDINGS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Central Division",
-        "teams": [
-          "EASTERN CONFERENCE",
-          "TEAM-SPECIFIC FINDINGS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Northwest Division",
-        "teams": [
-          "WESTERN CONFERENCE"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Pacific Division",
-        "teams": [
-          "TEAM-SPECIFIC FINDINGS",
-          "WESTERN CONFERENCE"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Southeast Division",
-        "teams": [
-          "EASTERN CONFERENCE"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Southwest Division",
-        "teams": [
-          "WESTERN CONFERENCE"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NBA"
-        ],
-        "city": "denver"
-      }
-    ],
-    "NHL": [
-      {
-        "name": "**5280 Burger Bar**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Blake Street Tavern**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Brooklyn's**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Cherry Cricket** (multiple locations)",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Henry's Tavern**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Jackson's LoDo**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Number Thirty Eight**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Secret Level**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Sports Column**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Tavern on 26th**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**The Sportsbook Bar & Grill**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**View House** (multiple locations)",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "**Yard House**",
-        "teams": [
-          "OTHER NOTABLE SPORTS BARS (General/Avalanche Focus)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Comparison to NFL/MLB Bar Scenes",
-        "teams": [
-          "ANALYSIS & SUMMARY"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Geographic Clusters",
-        "teams": [
-          "ANALYSIS & SUMMARY",
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Key Insights",
-        "teams": [
-          "ANALYSIS & SUMMARY"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Metropolitan Division",
-        "teams": [
-          "TEAM-SPECIFIC FINDINGS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with Most Dedicated Bars",
-        "teams": [
-          "ANALYSIS & SUMMARY"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with No Dedicated Bars (30 teams)",
-        "teams": [
-          "ANALYSIS & SUMMARY"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Total Unique Bars Found",
-        "teams": [
-          "ANALYSIS & SUMMARY",
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "🏒 **Benders Bar & Grill** (Westminster location)",
-        "teams": [
-          "PRIMARY NHL BARS IN DENVER"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "🏒 **Highland Tap and Burger**",
-        "teams": [
-          "PRIMARY NHL BARS IN DENVER"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "🏒 **Occidental** (Official NY Sports Bar)",
-        "teams": [
-          "PRIMARY NHL BARS IN DENVER"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "🏒 **Sobo 151 Czech Bar & Grill** (The #1 Hockey Bar)",
-        "teams": [
-          "PRIMARY NHL BARS IN DENVER"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "🏒 **Stoney's Bar & Grill** (Multiple locations)",
-        "teams": [
-          "PRIMARY NHL BARS IN DENVER"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "🏒 **The DNVR Bar**",
-        "teams": [
-          "PRIMARY NHL BARS IN DENVER"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "🏒 **Tom's Watch Bar** (Coors Field location)",
-        "teams": [
-          "PRIMARY NHL BARS IN DENVER"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NHL"
-        ],
-        "city": "denver"
-      }
-    ],
-    "NFL": [
-      {
-        "name": "Arizona Cardinals",
-        "teams": [
-          "NFC WEST",
-          "🏈 NFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Atlanta Falcons",
-        "teams": [
-          "NFC SOUTH",
-          "🏈 NFC SOUTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Baltimore Ravens",
-        "teams": [
-          "AFC NORTH",
-          "🏈 AFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Blake Street Tavern",
-        "teams": [
-          "MULTI-TEAM / GENERAL SPORTS BARS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Buffalo Bills",
-        "teams": [
-          "AFC EAST",
-          "🏈 AFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Capitol Hill/Uptown",
-        "teams": [
-          "📍 GEOGRAPHIC BREAKDOWN"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Carolina Panthers",
-        "teams": [
-          "NFC SOUTH",
-          "🏈 NFC SOUTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Chicago Bears",
-        "teams": [
-          "NFC NORTH",
-          "🏈 NFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Chopper's Sports Grill",
-        "teams": [
-          "MULTI-TEAM / GENERAL SPORTS BARS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Cincinnati Bengals",
-        "teams": [
-          "AFC NORTH",
-          "🏈 AFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Cleveland Browns",
-        "teams": [
-          "AFC NORTH",
-          "🏈 AFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Dallas Cowboys",
-        "teams": [
-          "NFC EAST",
-          "🏈 NFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Denver Broncos",
-        "teams": [
-          "AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Denver Broncos 🏠",
-        "teams": [
-          "🏈 AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Detroit Lions",
-        "teams": [
-          "NFC NORTH",
-          "🏈 NFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Downtown/LoDo (Highest Concentration)",
-        "teams": [
-          "📍 GEOGRAPHIC BREAKDOWN"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Geographic Clusters:",
-        "teams": [
-          "SUMMARY & ANALYSIS",
-          "SUMMARY ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Green Bay Packers",
-        "teams": [
-          "NFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Green Bay Packers (Multiple Locations!)",
-        "teams": [
-          "🏈 NFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Hopper's Sports Grill",
-        "teams": [
-          "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "Sunday Ticket, 18 TVs, agnostic (all teams welcome), sound for Broncos games | Reddit r/Denver",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Houston Texans",
-        "teams": [
-          "AFC SOUTH",
-          "🏈 AFC SOUTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Indianapolis Colts",
-        "teams": [
-          "AFC SOUTH",
-          "🏈 AFC SOUTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Jackson's LoDo",
-        "teams": [
-          "MULTI-TEAM / GENERAL SPORTS BARS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Jacksonville Jaguars",
-        "teams": [
-          "AFC SOUTH",
-          "🏈 AFC SOUTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Joyride Brewing",
-        "teams": [
-          "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "Sunday Ticket, lots of TVs, shows all games | Reddit r/Denver",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Kansas City Chiefs",
-        "teams": [
-          "AFC WEST",
-          "🏈 AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Key Findings:",
-        "teams": [
-          "SUMMARY ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Key Resources for Finding Bars",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Las Vegas Raiders",
-        "teams": [
-          "AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Las Vegas Raiders (Oakland Raiders)",
-        "teams": [
-          "AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Las Vegas Raiders (formerly Oakland)",
-        "teams": [
-          "🏈 AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "LoDo (Lower Downtown) - High Concentration",
-        "teams": [
-          "🏟️ Notable Neighborhoods/Zones"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Los Angeles Chargers",
-        "teams": [
-          "AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Los Angeles Chargers (San Diego Chargers)",
-        "teams": [
-          "AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Los Angeles Chargers (formerly San Diego)",
-        "teams": [
-          "🏈 AFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Los Angeles Rams",
-        "teams": [
-          "NFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Los Angeles Rams (St. Louis Rams)",
-        "teams": [
-          "NFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Los Angeles Rams (formerly St. Louis)",
-        "teams": [
-          "🏈 NFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Major Sports Bars Hosting Multiple Teams",
-        "teams": [
-          "MULTI-TEAM VENUES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Miami Dolphins",
-        "teams": [
-          "AFC EAST",
-          "🏈 AFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Minnesota Vikings",
-        "teams": [
-          "NFC NORTH",
-          "🏈 NFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Multi-Team Sports Bars (Sunday Ticket):",
-        "teams": [
-          "🍺 BAR CATEGORIES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "New England Patriots",
-        "teams": [
-          "AFC EAST",
-          "🏈 AFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "New Orleans Saints",
-        "teams": [
-          "NFC SOUTH",
-          "🏈 NFC SOUTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "New York Giants",
-        "teams": [
-          "NFC EAST",
-          "🏈 NFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "New York Jets",
-        "teams": [
-          "AFC EAST",
-          "🏈 AFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Notable Fan Clubs & Organizations",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Official Team HQ Bars (designated by fan clubs):",
-        "teams": [
-          "🍺 BAR CATEGORIES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Origins Sports Bar",
-        "teams": [
-          "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "Speakeasy vibe, sports-focused | 9news.com",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Peak Times:",
-        "teams": [
-          "⚠️ IMPORTANT NOTES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Philadelphia Eagles",
-        "teams": [
-          "NFC EAST",
-          "🏈 NFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Pittsburgh Steelers",
-        "teams": [
-          "AFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Pittsburgh Steelers (Multiple Locations!)",
-        "teams": [
-          "🏈 AFC NORTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Recent Closures/Changes:",
-        "teams": [
-          "⚠️ IMPORTANT NOTES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Research Quality Notes",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "San Francisco 49ers",
-        "teams": [
-          "NFC WEST",
-          "🏈 NFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Seattle Seahawks",
-        "teams": [
-          "NFC WEST",
-          "🏈 NFC WEST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "South Denver",
-        "teams": [
-          "🏟️ Notable Neighborhoods/Zones",
-          "📍 GEOGRAPHIC BREAKDOWN"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Sports Column",
-        "teams": [
-          "MULTI-TEAM / GENERAL SPORTS BARS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Suburbs",
-        "teams": [
-          "🏟️ Notable Neighborhoods/Zones",
-          "📍 GEOGRAPHIC BREAKDOWN"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Tampa Bay Buccaneers",
-        "teams": [
-          "NFC SOUTH",
-          "🏈 NFC SOUTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Tavern Uptown",
-        "teams": [
-          "MULTI-TEAM / GENERAL SPORTS BARS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with Most Dedicated Bars (3+ locations)",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with Most Dedicated Bars:",
-        "teams": [
-          "SUMMARY & ANALYSIS",
-          "SUMMARY ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with NO Confirmed Dedicated Bars:",
-        "teams": [
-          "SUMMARY ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with NO Dedicated Bars Confirmed",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with Single/Minimal Bars:",
-        "teams": [
-          "SUMMARY ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with Strong Single Dedicated Bars",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Tennessee Titans",
-        "teams": [
-          "AFC SOUTH",
-          "🏈 AFC SOUTH"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Themed/Cuisine Bars:",
-        "teams": [
-          "🍺 BAR CATEGORIES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Tom's Watch Bar",
-        "teams": [
-          "📊 Multi-Team Bars (Sunday Ticket / Neutral)"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "TVs everywhere, can watch any team | do303.com",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Total Unique Bars Found: **60+**",
-        "teams": [
-          "SUMMARY ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Uptown",
-        "teams": [
-          "🏟️ Notable Neighborhoods/Zones"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Verification Recommended:",
-        "teams": [
-          "⚠️ IMPORTANT NOTES"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Washington Commanders",
-        "teams": [
-          "NFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Washington Commanders (Redskins)",
-        "teams": [
-          "NFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Washington Commanders (formerly Redskins)",
-        "teams": [
-          "🏈 NFC EAST"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "NFL"
-        ],
-        "city": "denver"
-      }
-    ],
-    "MLB": [
-      {
-        "name": "Comparison to NFL Bar Scene:",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "MLB"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Notable Trends:",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "MLB"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Recommendations for Transplant Fans:",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "MLB"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Teams with NO Dedicated Bars:",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "MLB"
-        ],
-        "city": "denver"
-      },
-      {
-        "name": "Total Unique Bars Found: ~35-40 venues",
-        "teams": [
-          "SUMMARY & ANALYSIS"
-        ],
-        "address": "",
-        "phone": "",
-        "website": "",
-        "notes": "",
-        "sports": [
-          "MLB"
-        ],
-        "city": "denver"
-      }
-    ]
-  }
+  ]
 }

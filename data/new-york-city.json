@@ -1,0 +1,25 @@
+{
+  "city": "New York City",
+  "total_venues": 1,
+  "last_updated": "2026-03-02",
+  "venues": [
+    {
+      "id": "venue_653",
+      "name": "Note",
+      "city": "New York City",
+      "sport": "MLB",
+      "source_file": "nyc-mlb-bars.md",
+      "sports": [
+        "MLB",
+        "NBA",
+        "NHL"
+      ],
+      "source_files": [
+        "nyc-mlb-bars.md",
+        "nyc-nba-bars.md",
+        "nyc-nhl-bars.md"
+      ],
+      "venue_type": "Sports Bar"
+    }
+  ]
+}

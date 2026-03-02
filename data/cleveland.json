@@ -1,857 +1,919 @@
 {
-  "NFL": {
-    "🏆 TOP TIER - Browns Backers Headquarters": [
-      {
-        "name": "1. **Twist Social Club** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "2. **Jukebox** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "3. **Grindstone Tap House** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "4. **Mars Bar and Cafe** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🏟️ STADIUM DISTRICT - Downtown Power Bars": [
-      {
-        "name": "5. **P.J. McIntyre's Irish Pub** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "6. **The Clevelander Bar and Grill** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "7. **Dive Bar** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "8. **Barley House** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍻 FLATS & BREWERIES - Riverside Game Day": [
-      {
-        "name": "9. **HI 5** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "10. **Cocky's Bagels and Bar** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "11. **Collision Bend Brewing Company** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "12. **Great Lakes Brewing Company** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "13. **Market Garden Brewpub** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "14. **Noble Beast Brewing** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🌆 WEST SIDE - Neighborhood Strongholds": [
-      {
-        "name": "15. **Masthead Brewing Company** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "16. **West Park Station** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🏙️ LAKEWOOD - West Burbs": [
-      {
-        "name": "17. **The Yard on 3rd** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🎯 CLASSIC SPORTS BARS - Proven Winners": [
-      {
-        "name": "18. **Lakewood Truck Park** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "19. **Winking Lizard Tavern** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "20. **Scalpers Bar and Grill** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "21. **Grayton Road Tavern** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "📍 GAMEWATCH.INFO TOP PICKS": [
-      {
-        "name": "22. **Johnny Malloy's Irish Sports Pub**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "23. **Woodland's Backyard** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍔 ADDITIONAL VERIFIED VENUES": [
-      {
-        "name": "24. **Gallos Tap Room Bethel Rd** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "25. **Throwbacks Sports Pub**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "26. **Tailgate Sports Bar & Grille**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "27. **Rivals Sports Grille**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "28. **The W Sports Bar**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🌍 OUT-OF-TOWN BROWNS BACKERS": [
-      {
-        "name": "29. **Mac's Sports Bar & Grill**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "📊 NEIGHBORHOOD BREAKDOWN": [],
-    "🚌 TRANSPORTATION TO GAMES": [],
-    "💡 INSIDER TIPS": [],
-    "📱 SOURCES": []
-  },
-  "MLB": {
-    "🏆 TOP TIER - Stadium Adjacent Power Bars": [
-      {
-        "name": "1. **The Clevelander Bar and Grill** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "2. **Thirsty Parrot** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "3. **AJ Rocco's** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍺 BREWERIES - Craft Beer & Baseball": [
-      {
-        "name": "4. **Whistle Taproom & Venue** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "5. **Great Lakes Brewing Company** ⭐⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "6. **Masthead Brewing Co.** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "7. **Market Garden Brewpub** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "8. **Noble Beast Brewing** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🏙️ DOWNTOWN GATEWAY DISTRICT": [
-      {
-        "name": "9. **Collision Bend Brewing Company** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "10. **Hofbräuhaus Cleveland** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "11. **Flannery's Pub** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🌆 LAKEWOOD - West Suburbs": [
-      {
-        "name": "12. **City Tap** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "13. **Around The Corner Saloon & Café** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🏟️ OHIO CITY - Trendy Neighborhood Bars": [
-      {
-        "name": "14. **West End Tavern** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🎯 CLASSIC SPORTS BARS": [
-      {
-        "name": "15. **ABC The Tavern** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "16. **Winking Lizard Tavern** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "17. **Scalpers Bar & Grill** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍔 DIVE BARS & LOCAL FAVORITES": [
-      {
-        "name": "18. **Grindstone Tap House** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "📍 GAMEWATCH.INFO TOP PICKS": [
-      {
-        "name": "19. **Johnny's Little Bar** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "20. **Pizza (216)** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "21. **Bar Louie** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🌍 WILLOUGHBY - Eastern Suburbs": [
-      {
-        "name": "22. **Johnny J's Pub & Grille** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🏛️ SPECIALTY VENUES": [
-      {
-        "name": "23. **The Wild Goose** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🎊 FLATS EAST BANK": [
-      {
-        "name": "24. **Baseball Heritage Museum**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍻 ADDITIONAL SPORTS BARS": [
-      {
-        "name": "25. **HI 5** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "26. **Southern Tier Brewing Company**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "27. **Dive Bar**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "📊 NEIGHBORHOOD BREAKDOWN": [
-      {
-        "name": "28. **Characters Sports Bar and Grill**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🚌 TRANSPORTATION TO GAMES": [],
-    "💡 INSIDER TIPS": [],
-    "⚾ GUARDIANS-SPECIFIC NOTES": [],
-    "📱 SOURCES": []
-  },
-  "NBA": {
-    "🏆 TOP TIER - GameWatch.info Verified": [
-      {
-        "name": "1. **JUKEBOX** ⭐⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "2. **Winking Lizard Tavern** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🏟️ FIELDHOUSE DISTRICT - Arena Adjacent": [
-      {
-        "name": "3. **Upper Deck Bar & Grill** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "4. **The Clevelander Bar** ⭐⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "5. **City Tap** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍕 FOOD-FOCUSED SPORTS BARS": [
-      {
-        "name": "6. **Flannery's Pub** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🎳 ENTERTAINMENT SPORTS BARS": [
-      {
-        "name": "7. **Gillespie's Map Room** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "8. **The Corner Alley** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🏙️ WEST SIDE NEIGHBORHOOD BARS": [
-      {
-        "name": "9. **Wild Eagle Saloon** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "10. **Dive Bar** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "11. **Grindstone Tap House** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "12. **Merry Arts Pub & Grille** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🌆 EAST SIDE VENUES": [
-      {
-        "name": "13. **HI and DRY Bowling & Beer** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "14. **Lino's** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "15. **Ludwig's Bar** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍀 IRISH PUBS WITH SPORTS": [
-      {
-        "name": "16. **The Kensington Pub** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍺 BREWERIES WITH SPORTS": [
-      {
-        "name": "17. **Hooley House** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "📍 ADDITIONAL VERIFIED VENUES": [
-      {
-        "name": "18. **Southern Tier Brewing Company** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "19. **Nicks Sports Corner** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🌍 OUT-OF-MARKET CAVS BARS": [
-      {
-        "name": "20. **Society Lounge**",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "📊 NEIGHBORHOOD BREAKDOWN": [],
-    "🚶 WALKING DISTANCE TO ROCKET MORTGAGE FIELDHOUSE": [],
-    "💡 INSIDER TIPS": [],
-    "🏀 CAVALIERS HISTORY NOTES": [],
-    "📱 SOURCES": []
-  },
-  "NHL": {
-    "⚠️ IMPORTANT CONTEXT": [],
-    "🏒 COLUMBUS BLUE JACKETS - Ohio's NHL Team": [
-      {
-        "name": "Team Info",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🍺 CLEVELAND SPORTS BARS SHOWING NHL GAMES": [
-      {
-        "name": "Official Blue Jackets Bar Network",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "1. **Barley House** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "2. **Dive Bar** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "3. **The Clevelander** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "4. **Winking Lizard Tavern** ⭐⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "5. **Buffalo Wild Wings** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "6. **Game On** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "7. **Jolly Scholar** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🏒 CLEVELAND MONSTERS": [
-      {
-        "name": "8. **Pioneer** ⭐",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Team Info",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🚗 ROAD TRIP: COLUMBUS BLUE JACKETS GAMES": [
-      {
-        "name": "Where to Watch Monsters Games",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Driving from Cleveland to Columbus",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "📊 NHL VIEWING OPTIONS IN CLEVELAND": [
-      {
-        "name": "Pre/Post-Game Columbus Bars",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "💡 INSIDER TIPS": [],
-    "🏆 HISTORICAL HOCKEY IN CLEVELAND": [
-      {
-        "name": "Cleveland Barons (NHL 1976-1978)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Other Professional Hockey",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "🌍 OUT-OF-MARKET NHL WATCH PARTIES": [
-      {
-        "name": "Why No NHL Team?",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "📱 SOURCES": [],
-    "🎯 RECOMMENDATION SUMMARY": []
-  }
+  "city": "Cleveland",
+  "total_venues": 73,
+  "last_updated": "2026-03-02",
+  "venues": [
+    {
+      "id": "venue_1",
+      "name": "ABC The Tavern",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_2",
+      "name": "AJ Rocco's",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_3",
+      "name": "Around The Corner Saloon & Café",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_4",
+      "name": "Bar Louie",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_5",
+      "name": "Barley House",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland",
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_6",
+      "name": "Baseball Heritage Museum",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_7",
+      "name": "Buffalo Wild Wings",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_8",
+      "name": "Characters Sports Bar and Grill",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_9",
+      "name": "City Tap",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_10",
+      "name": "Cleveland Barons (NHL 1976-1978)",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_11",
+      "name": "Cocky's Bagels and Bar",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_12",
+      "name": "Collision Bend Brewing Company",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_13",
+      "name": "Dive Bar",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland",
+        "Cleveland Browns",
+        "Cleveland Cavaliers",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_14",
+      "name": "Driving from Cleveland to Columbus",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_15",
+      "name": "Flannery's Pub",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_16",
+      "name": "Gallos Tap Room Bethel Rd",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_17",
+      "name": "Game On",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_18",
+      "name": "Gillespie's Map Room",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_19",
+      "name": "Grayton Road Tavern",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_20",
+      "name": "Great Lakes Brewing Company",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_21",
+      "name": "Grindstone Tap House",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns",
+        "Cleveland Cavaliers",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_22",
+      "name": "HI 5",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_23",
+      "name": "HI and DRY Bowling & Beer",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_24",
+      "name": "Hofbräuhaus Cleveland",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_25",
+      "name": "Hooley House",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_26",
+      "name": "JUKEBOX",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_27",
+      "name": "Johnny J's Pub & Grille",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_28",
+      "name": "Johnny Malloy's Irish Sports Pub",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_29",
+      "name": "Johnny's Little Bar",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_30",
+      "name": "Jolly Scholar",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_31",
+      "name": "Jukebox",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_32",
+      "name": "Lakewood Truck Park",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_33",
+      "name": "Lino's",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_34",
+      "name": "Ludwig's Bar",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_35",
+      "name": "Mac's Sports Bar & Grill",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_36",
+      "name": "Market Garden Brewpub",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_37",
+      "name": "Mars Bar and Cafe",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_38",
+      "name": "Masthead Brewing Co.",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_39",
+      "name": "Masthead Brewing Company",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_40",
+      "name": "Merry Arts Pub & Grille",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_41",
+      "name": "Nicks Sports Corner",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_42",
+      "name": "Noble Beast Brewing",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_43",
+      "name": "P.J. McIntyre's Irish Pub",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_44",
+      "name": "Pioneer",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_45",
+      "name": "Pizza (216)",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_46",
+      "name": "Pre/Post-Game Columbus Bars",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_47",
+      "name": "Rivals Sports Grille",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_48",
+      "name": "Scalpers Bar & Grill",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_49",
+      "name": "Scalpers Bar and Grill",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_50",
+      "name": "Society Lounge",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_51",
+      "name": "Southern Tier Brewing Company",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_52",
+      "name": "Tailgate Sports Bar & Grille",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_53",
+      "name": "Team Info",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_54",
+      "name": "The Clevelander",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_55",
+      "name": "The Clevelander Bar",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_56",
+      "name": "The Clevelander Bar and Grill",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_57",
+      "name": "The Corner Alley",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_58",
+      "name": "The Kensington Pub",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_59",
+      "name": "The W Sports Bar",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_60",
+      "name": "The Wild Goose",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_61",
+      "name": "The Yard on 3rd",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_62",
+      "name": "Thirsty Parrot",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_63",
+      "name": "Throwbacks Sports Pub",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_64",
+      "name": "Twist Social Club",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_65",
+      "name": "Upper Deck Bar & Grill",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_66",
+      "name": "West End Tavern",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_67",
+      "name": "West Park Station",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_68",
+      "name": "Where to Watch Monsters Games",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_69",
+      "name": "Whistle Taproom & Venue",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_70",
+      "name": "Why No NHL Team?",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_71",
+      "name": "Wild Eagle Saloon",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Cavaliers"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_72",
+      "name": "Winking Lizard Tavern",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland",
+        "Cleveland Browns",
+        "Cleveland Cavaliers",
+        "Cleveland Guardians"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_73",
+      "name": "Woodland's Backyard",
+      "city": "Cleveland",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Cleveland Browns"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    }
+  ]
 }

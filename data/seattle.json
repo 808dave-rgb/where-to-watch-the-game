@@ -1,1021 +1,1075 @@
 {
-  "NFL": {
-    "Official Team Bar Alliance": [],
-    "Top Seahawks Bars - Seattle Metro": [
-      {
-        "name": "Seahawks Bar Alliance",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "1. Hatback Bar & Grille",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "2. Tom's Watch Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "3. Queen Anne Beer Hall (The Hall)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "4. Victory Hall",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "5. Legion Sports Bar (Bellevue)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "6. Some Random Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "7. Buckley's (Belltown)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "8. The Dock (Fremont)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "9. The Westy (West Seattle)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Neighborhood Favorites": [
-      {
-        "name": "10. Fuel Sports Bar (Ballard)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Capitol Hill / Central Seattle",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Fremont",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Pioneer Square / SODO",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Greenwood",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Columbia City",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Renton / Kirkland Area": [
-      {
-        "name": "Gay-Friendly Sports Bars",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Tacoma Area": [
-      {
-        "name": "Dino's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Battle Ground / SW Washington": [
-      {
-        "name": "O'Malley's Irish Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Women's Sports Bars": [
-      {
-        "name": "Playmakers Sports Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rough and Tumble",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Special Game Day Experiences": [
-      {
-        "name": "Pitch the Baby",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Andare (Downtown)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Chain Restaurants": [
-      {
-        "name": "Marco Polo Bar & Lounge",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Buffalo Wild Wings",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Watch Party Resources": [
-      {
-        "name": "Twin Peaks",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Research Sources": []
-  },
-  "MLB": {
-    "Top Mariners Bars - Seattle Metro": [
-      {
-        "name": "1. Hatback Bar & Grille",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "2. Steelheads Alley",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "3. Victory Hall",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "4. Hooverville Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "5. Tom's Watch Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "6. Some Random Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "7. Buckley's (Belltown)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "8. The Dock (Fremont)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "9. The Westy (West Seattle)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Tacoma Area Bars": [
-      {
-        "name": "10. Rookies Sports Bar and Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "West End Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Tacoma Pie",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Doyle's Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Additional Seattle Bars": [
-      {
-        "name": "The Loose Wheel",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Golden Roosters",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Queen Anne Beer Hall (The Hall)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Bleachers Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Madison Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Roanoke",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Women's Sports Bars": [
-      {
-        "name": "Rhein Haus Seattle",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rough and Tumble",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "T-Mobile Park Official Watch Parties": [
-      {
-        "name": "Pitch the Baby",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Mariners Playoff Watch Party Venues": [],
-    "Chain Restaurants": [
-      {
-        "name": "Buffalo Wild Wings",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Mariners TV Broadcast Info": [
-      {
-        "name": "Twin Peaks",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Watch Party Resources": [],
-    "Research Sources": []
-  },
-  "NBA": {
-    "Important Note: Seattle Currently Has No NBA Team": [],
-    "Best Bars to Watch NBA Games in Seattle": [
-      {
-        "name": "1. Tom's Watch Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "2. Pelicana Chicken (Capitol Hill)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "3. The Local (South Lake Union)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "4. Teddy's off Roosevelt",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "5. Hatback Bar & Grille",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "6. Victory Hall",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "7. Some Random Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "8. Buckley's (Belltown)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "9. The Dock (Fremont)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Irish Pubs": [
-      {
-        "name": "10. Bleachers Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Kell's Irish Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Capitol Hill Options": [
-      {
-        "name": "Owl'n Thistle",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Roanoke",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rhein Haus Seattle",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "KJ's Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Other Neighborhoods": [
-      {
-        "name": "Madison Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rookies Sports Bar and Grill (Columbia City)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Westy (West Seattle)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Golden Roosters (Pioneer Square)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Women's Sports Bars": [
-      {
-        "name": "Queen Anne Beer Hall",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rough and Tumble",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Chain Restaurants": [
-      {
-        "name": "Pitch the Baby",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Buffalo Wild Wings",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Twin Peaks",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Seattle's NBA History & Fan Culture": [
-      {
-        "name": "Yard House",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The SuperSonics Legacy",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Current NBA Viewing Culture",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Seattle SuperSonics Fan Communities": [
-      {
-        "name": "TV Broadcast Info",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Sonics Rising",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Expansion Timeline Watch": [
-      {
-        "name": "Reddit Communities",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Research Sources": []
-  },
-  "NHL": {
-    "Official Kraken Bar Alliance": [],
-    "Top Kraken Bars - Seattle Metro": [
-      {
-        "name": "Anchor Alliance",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "1. Tom's Watch Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "2. Queen Anne Beerhall (The Hall)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "3. Hatback Bar & Grille",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "4. 32 Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "5. The Octopus Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "6. Thrasher's Corner Sports Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "7. LTD Bar and Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "8. Petoskey's Sports Bar",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "9. The Westy Roosevelt",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Additional Seattle Kraken Bars": [
-      {
-        "name": "10. Admiral Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Ozzie's",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Angry Beaver",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Bleachers Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Earl's on the Ave",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Flight Path",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Kent / South King County": [
-      {
-        "name": "The Barking Dog Alehouse",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Everett Area": [
-      {
-        "name": "Pied Piper Pub",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Tacoma / Pierce County": [
-      {
-        "name": "Sporty's Beef & Brew",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Spokane Area": [
-      {
-        "name": "McNamara's Pub & Eatery",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "The Hub Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Olympia Area": [
-      {
-        "name": "Lord Stanleys",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Port Townsend": [
-      {
-        "name": "The Westside Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Oregon Kraken Bars": [
-      {
-        "name": "Hilltop Tavern",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Suki's Bar & Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Rennie's Landing",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Idaho Kraken Bars": [
-      {
-        "name": "ALEXS-BAR",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Alaska Kraken Bars": [
-      {
-        "name": "Corner Club",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "907 Alehouse and Grill",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Watch Party Highlights": [
-      {
-        "name": "Fenders",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Official Kraken Resources": [
-      {
-        "name": "Kraken Home Opener Watch Parties (2021)",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Climate Pledge Arena Area Bars": [],
-    "Women's Sports Bars": [
-      {
-        "name": "Rough and Tumble",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Chain Restaurants": [
-      {
-        "name": "Pitch the Baby",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      },
-      {
-        "name": "Buffalo Wild Wings",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ],
-    "Research Sources": [
-      {
-        "name": "Twin Peaks",
-        "address": "",
-        "description": "",
-        "phone": "",
-        "website": "",
-        "hours": ""
-      }
-    ]
-  }
+  "city": "Seattle",
+  "total_venues": 82,
+  "last_updated": "2026-03-02",
+  "venues": [
+    {
+      "id": "venue_1",
+      "name": "32 Bar & Grill",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_2",
+      "name": "907 Alehouse and Grill",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_3",
+      "name": "ALEXS-BAR",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_4",
+      "name": "Admiral Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_5",
+      "name": "Anchor Alliance",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_6",
+      "name": "Bleachers Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Kraken",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_7",
+      "name": "Buckley's (Belltown)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_8",
+      "name": "Buffalo Wild Wings",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Kraken",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_9",
+      "name": "Capitol Hill / Central Seattle",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_10",
+      "name": "Columbia City",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_11",
+      "name": "Corner Club",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_12",
+      "name": "Current NBA Viewing Culture",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_13",
+      "name": "Dino's Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_14",
+      "name": "Doyle's Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_15",
+      "name": "Earl's on the Ave",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_16",
+      "name": "Fenders",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_17",
+      "name": "Flight Path",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_18",
+      "name": "Fremont",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_19",
+      "name": "Fuel Sports Bar (Ballard)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_20",
+      "name": "Gay-Friendly Sports Bars",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_21",
+      "name": "Golden Roosters",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_22",
+      "name": "Golden Roosters (Pioneer Square)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_23",
+      "name": "Greenwood",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_24",
+      "name": "Hatback Bar & Grille",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Kraken",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_25",
+      "name": "Hilltop Tavern",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_26",
+      "name": "Hooverville Bar",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_27",
+      "name": "KJ's Bar",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_28",
+      "name": "Kell's Irish Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_29",
+      "name": "Kraken Home Opener Watch Parties (2021)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_30",
+      "name": "L.T.D. Bar and Grill",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_31",
+      "name": "LTD Bar and Grill",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_32",
+      "name": "Legion Sports Bar (Bellevue)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_33",
+      "name": "Lord Stanleys",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_34",
+      "name": "Madison Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_35",
+      "name": "Marco Polo Bar & Lounge",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_36",
+      "name": "McNamara's Pub & Eatery",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_37",
+      "name": "O'Malley's Irish Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_38",
+      "name": "Owl'n Thistle",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_39",
+      "name": "Ozzie's",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_40",
+      "name": "Pelicana Chicken (Capitol Hill)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_41",
+      "name": "Petoskey's Sports Bar",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_42",
+      "name": "Pied Piper Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_43",
+      "name": "Pioneer Square / SODO",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_44",
+      "name": "Pitch the Baby",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Kraken",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_45",
+      "name": "Playmakers Sports Bar & Grill",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_46",
+      "name": "Queen Anne Beer Hall",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_47",
+      "name": "Queen Anne Beer Hall (The Hall)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_48",
+      "name": "Queen Anne Beerhall (The Hall)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_49",
+      "name": "Reddit Communities",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_50",
+      "name": "Rennie's Landing",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_51",
+      "name": "Rhein Haus Seattle",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_52",
+      "name": "Rookies Sports Bar and Grill",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_53",
+      "name": "Rookies Sports Bar and Grill (Columbia City)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_54",
+      "name": "Rough and Tumble",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Kraken",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_55",
+      "name": "Seahawks Bar Alliance",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_56",
+      "name": "Some Random Bar",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_57",
+      "name": "Sonics Rising",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_58",
+      "name": "Sporty's Beef & Brew",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_59",
+      "name": "Steelheads Alley",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_60",
+      "name": "Suki's Bar & Grill",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_61",
+      "name": "TV Broadcast Info",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_62",
+      "name": "Tacoma Pie",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_63",
+      "name": "Teddy's off Roosevelt",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_64",
+      "name": "The Angry Beaver",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_65",
+      "name": "The Barking Dog Alehouse",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_66",
+      "name": "The Dock (Fremont)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_67",
+      "name": "The George and Dragon Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_68",
+      "name": "The Hub Tavern",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_69",
+      "name": "The Local (South Lake Union)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_70",
+      "name": "The Loose Wheel",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_71",
+      "name": "The Octopus Bar",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_72",
+      "name": "The Roanoke",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_73",
+      "name": "The SuperSonics Legacy",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    },
+    {
+      "id": "venue_74",
+      "name": "The Westside Tavern",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_75",
+      "name": "The Westy (West Seattle)",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_76",
+      "name": "The Westy Roosevelt",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_77",
+      "name": "Thrasher's Corner Sports Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Kraken"
+      ],
+      "sports": [
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_78",
+      "name": "Tom's Watch Bar",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Kraken",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_79",
+      "name": "Twin Peaks",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Kraken",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL",
+        "NHL"
+      ]
+    },
+    {
+      "id": "venue_80",
+      "name": "Victory Hall",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle",
+        "Seattle Mariners",
+        "Seattle Seahawks"
+      ],
+      "sports": [
+        "MLB",
+        "NBA",
+        "NFL"
+      ]
+    },
+    {
+      "id": "venue_81",
+      "name": "West End Pub",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle Mariners"
+      ],
+      "sports": [
+        "MLB"
+      ]
+    },
+    {
+      "id": "venue_82",
+      "name": "Yard House",
+      "city": "Seattle",
+      "venue_type": "Sports Bar",
+      "teams": [
+        "Seattle"
+      ],
+      "sports": [
+        "NBA"
+      ]
+    }
+  ]
 }
